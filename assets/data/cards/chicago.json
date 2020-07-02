@@ -1,0 +1,1122 @@
+[
+  {
+    "KEYWORD": "Lake Michigan",
+    "BUZZWORD_1": "Water ",
+    "BUZZWORD_2": "River ",
+    "BUZZWORD_3": "Beach ",
+    "BUZZWORD_4": "Great Lake ",
+    "BUZZWORD_5": "Lake Front "
+  },
+  {
+    "KEYWORD": "Lake Shore Drive ",
+    "BUZZWORD_1": "Expressway ",
+    "BUZZWORD_2": "Traffic ",
+    "BUZZWORD_3": "Water ",
+    "BUZZWORD_4": "Freeway ",
+    "BUZZWORD_5": "Highway"
+  },
+  {
+    "KEYWORD": "Larenz Tate ",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "Love Jones",
+    "BUZZWORD_3": "Actor",
+    "BUZZWORD_4": "O Dog",
+    "BUZZWORD_5": "Menace II Society"
+  },
+  {
+    "KEYWORD": "Larry Hoover ",
+    "BUZZWORD_1": "Gang",
+    "BUZZWORD_2": "Leader",
+    "BUZZWORD_3": "Prison",
+    "BUZZWORD_4": "Life ",
+    "BUZZWORD_5": "Gangster Disciples"
+  },
+  {
+    "KEYWORD": "Layla Hathaway",
+    "BUZZWORD_1": "Donny ",
+    "BUZZWORD_2": "Robert Glasper",
+    "BUZZWORD_3": "Circle of Promise ",
+    "BUZZWORD_4": "Heaven Knows ",
+    "BUZZWORD_5": "Stax "
+  },
+  {
+    "KEYWORD": "Lem's ",
+    "BUZZWORD_1": "Ribs ",
+    "BUZZWORD_2": "Restaurant ",
+    "BUZZWORD_3": "No-Seating",
+    "BUZZWORD_4": "Late-Night ",
+    "BUZZWORD_5": "James Lemon"
+  },
+  {
+    "KEYWORD": "Leon Rogers ",
+    "BUZZWORD_1": "WGCI",
+    "BUZZWORD_2": "Comedian",
+    "BUZZWORD_3": "Radio",
+    "BUZZWORD_4": "Host ",
+    "BUZZWORD_5": "The Morning Riot "
+  },
+  {
+    "KEYWORD": "Lincoln Park Zoo ",
+    "BUZZWORD_1": "Animals ",
+    "BUZZWORD_2": "Free",
+    "BUZZWORD_3": "Oldest ",
+    "BUZZWORD_4": "Northside",
+    "BUZZWORD_5": "Brookfield"
+  },
+  {
+    "KEYWORD": "Lincoln Square Mall",
+    "BUZZWORD_1": "Shopping",
+    "BUZZWORD_2": "Historic",
+    "BUZZWORD_3": "Matteson",
+    "BUZZWORD_4": "Stores ",
+    "BUZZWORD_5": "Suburban"
+  },
+  {
+    "KEYWORD": "LINK",
+    "BUZZWORD_1": "EBT",
+    "BUZZWORD_2": "Electronic",
+    "BUZZWORD_3": "Food",
+    "BUZZWORD_4": "Assistance",
+    "BUZZWORD_5": "Stamps"
+  },
+  {
+    "KEYWORD": "Lisa Raye ",
+    "BUZZWORD_1": "The Player's Club",
+    "BUZZWORD_2": "Da Brat",
+    "BUZZWORD_3": "Actress",
+    "BUZZWORD_4": "All of Us",
+    "BUZZWORD_5": "Eastern University"
+  },
+  {
+    "KEYWORD": "Lollapalooza",
+    "BUZZWORD_1": "Live ",
+    "BUZZWORD_2": "Annual",
+    "BUZZWORD_3": "Festival ",
+    "BUZZWORD_4": "Music ",
+    "BUZZWORD_5": "Concert "
+  },
+  {
+    "KEYWORD": "Loop",
+    "BUZZWORD_1": "Downtown",
+    "BUZZWORD_2": "Cook Country",
+    "BUZZWORD_3": "South ",
+    "BUZZWORD_4": "Chicago River ",
+    "BUZZWORD_5": "Roosevelt "
+  },
+  {
+    "KEYWORD": "Lou Rawls ",
+    "BUZZWORD_1": "Singer ",
+    "BUZZWORD_2": "Telethon",
+    "BUZZWORD_3": "Parade of Stars ",
+    "BUZZWORD_4": "United Negro College Fund  ",
+    "BUZZWORD_5": "UNCF "
+  },
+  {
+    "KEYWORD": "Love Jones",
+    "BUZZWORD_1": "Larenz Tate",
+    "BUZZWORD_2": "Nia Long",
+    "BUZZWORD_3": "Movie",
+    "BUZZWORD_4": "Darius",
+    "BUZZWORD_5": "Nina"
+  },
+  {
+    "KEYWORD": "Lupe Fiasco ",
+    "BUZZWORD_1": "Skateboard ",
+    "BUZZWORD_2": "Kick, Push ",
+    "BUZZWORD_3": "First & Fifteenth ",
+    "BUZZWORD_4": "Food & Liquor ",
+    "BUZZWORD_5": "The Cool"
+  },
+  {
+    "KEYWORD": "Luster ",
+    "BUZZWORD_1": "Products ",
+    "BUZZWORD_2": "Hair ",
+    "BUZZWORD_3": "Moisturizer ",
+    "BUZZWORD_4": "Sheen ",
+    "BUZZWORD_5": "Lotion"
+  },
+  {
+    "KEYWORD": "Madison ",
+    "BUZZWORD_1": "Wisconsin",
+    "BUZZWORD_2": "Capital ",
+    "BUZZWORD_3": "Street ",
+    "BUZZWORD_4": "Tavern ",
+    "BUZZWORD_5": "East-West "
+  },
+  {
+    "KEYWORD": "Mae Jamison",
+    "BUZZWORD_1": "Physician",
+    "BUZZWORD_2": "Astronaut ",
+    "BUZZWORD_3": "First Black Woman",
+    "BUZZWORD_4": "Professor",
+    "BUZZWORD_5": "NASA"
+  },
+  {
+    "KEYWORD": "Mahalia Jackson",
+    "BUZZWORD_1": "Gospel",
+    "BUZZWORD_2": "Singer ",
+    "BUZZWORD_3": "Voice ",
+    "BUZZWORD_4": "Queen",
+    "BUZZWORD_5": "Little Company of Mary Hospital"
+  },
+  {
+    "KEYWORD": "Marla Gibbs ",
+    "BUZZWORD_1": "The Jeffersons",
+    "BUZZWORD_2": 227,
+    "BUZZWORD_3": "Actress",
+    "BUZZWORD_4": "Florence",
+    "BUZZWORD_5": "Brenda"
+  },
+  {
+    "KEYWORD": "Matteson",
+    "BUZZWORD_1": "Rich Township",
+    "BUZZWORD_2": "Village ",
+    "BUZZWORD_3": "Suburb",
+    "BUZZWORD_4": "Cook Country",
+    "BUZZWORD_5": "South "
+  },
+  {
+    "KEYWORD": "Maxwell's ",
+    "BUZZWORD_1": "Hot Dogs",
+    "BUZZWORD_2": "Polish",
+    "BUZZWORD_3": "Fries ",
+    "BUZZWORD_4": "Fast Food ",
+    "BUZZWORD_5": "Street"
+  },
+  {
+    "KEYWORD": "McArthur's ",
+    "BUZZWORD_1": "Soul Food ",
+    "BUZZWORD_2": "Southern",
+    "BUZZWORD_3": "Cafeteria-Style",
+    "BUZZWORD_4": "Celebrities ",
+    "BUZZWORD_5": "Restaurant "
+  },
+  {
+    "KEYWORD": "McCormick Place",
+    "BUZZWORD_1": "Convention Center ",
+    "BUZZWORD_2": "Arise Crown",
+    "BUZZWORD_3": "Meetings ",
+    "BUZZWORD_4": "Trade Show ",
+    "BUZZWORD_5": "Chicago Auto Show "
+  },
+  {
+    "KEYWORD": "Melvin Van Pebbles ",
+    "BUZZWORD_1": "Block ",
+    "BUZZWORD_2": "Actor ",
+    "BUZZWORD_3": "Playwright",
+    "BUZZWORD_4": "Novelist ",
+    "BUZZWORD_5": "Sweet Sweetback's Baadasssss"
+  },
+  {
+    "KEYWORD": "Metra ",
+    "BUZZWORD_1": "Train",
+    "BUZZWORD_2": "Station",
+    "BUZZWORD_3": "Phone Carrier ",
+    "BUZZWORD_4": "Electric ",
+    "BUZZWORD_5": "Subway"
+  },
+  {
+    "KEYWORD": "Michael Wilbon",
+    "BUZZWORD_1": "Commentator",
+    "BUZZWORD_2": "ESPN",
+    "BUZZWORD_3": "Washington Post",
+    "BUZZWORD_4": "Sports",
+    "BUZZWORD_5": "Pardon the interruption"
+  },
+  {
+    "KEYWORD": "Micheal Clarke Duncan",
+    "BUZZWORD_1": "Actor ",
+    "BUZZWORD_2": "John Coffey",
+    "BUZZWORD_3": "Armageddon",
+    "BUZZWORD_4": "Brother Bear ",
+    "BUZZWORD_5": "The Green Mile "
+  },
+  {
+    "KEYWORD": "Micheal Jordan ",
+    "BUZZWORD_1": "Bulls",
+    "BUZZWORD_2": "Nike\t",
+    "BUZZWORD_3": "Gatorade",
+    "BUZZWORD_4": "Championship",
+    "BUZZWORD_5": "North Carolina"
+  },
+  {
+    "KEYWORD": "Michelle Obama",
+    "BUZZWORD_1": "First Lady ",
+    "BUZZWORD_2": "Barack",
+    "BUZZWORD_3": "Sasha ",
+    "BUZZWORD_4": "Malia",
+    "BUZZWORD_5": "FLOTUS"
+  },
+  {
+    "KEYWORD": "Midway",
+    "BUZZWORD_1": "Orange line",
+    "BUZZWORD_2": "Train",
+    "BUZZWORD_3": "Plane ",
+    "BUZZWORD_4": "OHare ",
+    "BUZZWORD_5": "Airport "
+  },
+  {
+    "KEYWORD": "Mild Sauce ",
+    "BUZZWORD_1": "Chicken",
+    "BUZZWORD_2": "BBQ",
+    "BUZZWORD_3": "Tangy",
+    "BUZZWORD_4": "Harold's ",
+    "BUZZWORD_5": "Uncle Remus"
+  },
+  {
+    "KEYWORD": "Millenium Park ",
+    "BUZZWORD_1": "Maggie Daley Park ",
+    "BUZZWORD_2": "Public",
+    "BUZZWORD_3": "Loop",
+    "BUZZWORD_4": "Pavillion",
+    "BUZZWORD_5": "The Bean"
+  },
+  {
+    "KEYWORD": "Moo & Oink",
+    "BUZZWORD_1": "Stoney Island",
+    "BUZZWORD_2": "Butcher ",
+    "BUZZWORD_3": "Chicken Wings ",
+    "BUZZWORD_4": "Baby Back Ribs ",
+    "BUZZWORD_5": "BBQ"
+  },
+  {
+    "KEYWORD": "Morgan Park ",
+    "BUZZWORD_1": "Southside ",
+    "BUZZWORD_2": "Kennedy park",
+    "BUZZWORD_3": "Academy",
+    "BUZZWORD_4": "Neighborhood ",
+    "BUZZWORD_5": "George C. Walker Library"
+  },
+  {
+    "KEYWORD": "Mr. G's ",
+    "BUZZWORD_1": "87th",
+    "BUZZWORD_2": "Banquet ",
+    "BUZZWORD_3": "Hall",
+    "BUZZWORD_4": "Venue ",
+    "BUZZWORD_5": "Supper Club"
+  },
+  {
+    "KEYWORD": "Mr. T ",
+    "BUZZWORD_1": "Actor ",
+    "BUZZWORD_2": "Retired ",
+    "BUZZWORD_3": "Mohawk",
+    "BUZZWORD_4": "Wrestler ",
+    "BUZZWORD_5": "The A-team"
+  },
+  {
+    "KEYWORD": "Museum of Science and Industry",
+    "BUZZWORD_1": "Jackson Park",
+    "BUZZWORD_2": "Hyde Park ",
+    "BUZZWORD_3": "Lake Michigan ",
+    "BUZZWORD_4": "Attraction",
+    "BUZZWORD_5": "Exhibit"
+  },
+  {
+    "KEYWORD": "Napoleon Harris",
+    "BUZZWORD_1": "Linebacker",
+    "BUZZWORD_2": "Senate",
+    "BUZZWORD_3": "15th district",
+    "BUZZWORD_4": "Oakland Raiders",
+    "BUZZWORD_5": "Kansas City Chiefs"
+  },
+  {
+    "KEYWORD": "Nat King Cole",
+    "BUZZWORD_1": "Unfogettable ",
+    "BUZZWORD_2": "Natalie ",
+    "BUZZWORD_3": "Jazz ",
+    "BUZZWORD_4": "Singer ",
+    "BUZZWORD_5": "Deceased"
+  },
+  {
+    "KEYWORD": "Navy Pier",
+    "BUZZWORD_1": "Ferries Wheel ",
+    "BUZZWORD_2": "Downtown",
+    "BUZZWORD_3": "Streeterville",
+    "BUZZWORD_4": "Restaurant ",
+    "BUZZWORD_5": "Attraction"
+  },
+  {
+    "KEYWORD": "Nazr Mohammed",
+    "BUZZWORD_1": "Center",
+    "BUZZWORD_2": "Football",
+    "BUZZWORD_3": "Kenwood Highschool",
+    "BUZZWORD_4": "#13",
+    "BUZZWORD_5": "Utah Jazz"
+  },
+  {
+    "KEYWORD": "Northwestern",
+    "BUZZWORD_1": "University ",
+    "BUZZWORD_2": "Purple ",
+    "BUZZWORD_3": "White ",
+    "BUZZWORD_4": "Evanston",
+    "BUZZWORD_5": "Wildcats "
+  },
+  {
+    "KEYWORD": "O'Hare",
+    "BUZZWORD_1": "Airport",
+    "BUZZWORD_2": "Blueline ",
+    "BUZZWORD_3": "Airplane",
+    "BUZZWORD_4": "Midway",
+    "BUZZWORD_5": "Flight"
+  },
+  {
+    "KEYWORD": "Oakwood ",
+    "BUZZWORD_1": "Apartment",
+    "BUZZWORD_2": "Furnished ",
+    "BUZZWORD_3": "Shores ",
+    "BUZZWORD_4": "Loop",
+    "BUZZWORD_5": "Housing "
+  },
+  {
+    "KEYWORD": "Oprah Winfrey ",
+    "BUZZWORD_1": "Harpo Studios ",
+    "BUZZWORD_2": "OWN",
+    "BUZZWORD_3": "Steadman Graham",
+    "BUZZWORD_4": "Color Purple",
+    "BUZZWORD_5": "Talk Show "
+  },
+  {
+    "KEYWORD": "Pace ",
+    "BUZZWORD_1": "Bus ",
+    "BUZZWORD_2": "Transportation",
+    "BUZZWORD_3": "Suburb",
+    "BUZZWORD_4": "RTA",
+    "BUZZWORD_5": "Public"
+  },
+  {
+    "KEYWORD": "Pastor John Hannah ",
+    "BUZZWORD_1": "Mega Church ",
+    "BUZZWORD_2": "Pastor ",
+    "BUZZWORD_3": "Preacher ",
+    "BUZZWORD_4": "New Life ",
+    "BUZZWORD_5": "Reverend "
+  },
+  {
+    "KEYWORD": "Pedway",
+    "BUZZWORD_1": "Tunnels ",
+    "BUZZWORD_2": "Ground-level",
+    "BUZZWORD_3": "Retail Stores ",
+    "BUZZWORD_4": "Bridges ",
+    "BUZZWORD_5": "Downtown "
+  },
+  {
+    "KEYWORD": "Pervis Spann",
+    "BUZZWORD_1": "Midway",
+    "BUZZWORD_2": "Blues",
+    "BUZZWORD_3": "WVON",
+    "BUZZWORD_4": "AM",
+    "BUZZWORD_5": "Radio"
+  },
+  {
+    "KEYWORD": "Peter Francis Geraci ",
+    "BUZZWORD_1": "Infomercial",
+    "BUZZWORD_2": "Commercial",
+    "BUZZWORD_3": "Lawyer",
+    "BUZZWORD_4": "Bankruptcy",
+    "BUZZWORD_5": "Attorney "
+  },
+  {
+    "KEYWORD": "Pill Hill ",
+    "BUZZWORD_1": "Calumet Heights",
+    "BUZZWORD_2": "Southside ",
+    "BUZZWORD_3": "Neighhood ",
+    "BUZZWORD_4": "Community",
+    "BUZZWORD_5": "Bronzeville Children's Museum"
+  },
+  {
+    "KEYWORD": "Pilsen",
+    "BUZZWORD_1": "Restaurants ",
+    "BUZZWORD_2": "Nightlife ",
+    "BUZZWORD_3": "Heart of Italy ",
+    "BUZZWORD_4": "Activities ",
+    "BUZZWORD_5": "West "
+  },
+  {
+    "KEYWORD": "Poppin'",
+    "BUZZWORD_1": "Chris Brown",
+    "BUZZWORD_2": "Popular ",
+    "BUZZWORD_3": "Hot",
+    "BUZZWORD_4": "Whats up?",
+    "BUZZWORD_5": "Slang "
+  },
+  {
+    "KEYWORD": "Power92",
+    "BUZZWORD_1": "Streets",
+    "BUZZWORD_2": "Chocklit Jock",
+    "BUZZWORD_3": "Hammond",
+    "BUZZWORD_4": "Airwaves ",
+    "BUZZWORD_5": "Rap"
+  },
+  {
+    "KEYWORD": "Pullman",
+    "BUZZWORD_1": "Neighborhood ",
+    "BUZZWORD_2": "Southside ",
+    "BUZZWORD_3": "Cottage Grove Heights ",
+    "BUZZWORD_4": "Hotel Florence ",
+    "BUZZWORD_5": "Community "
+  },
+  {
+    "KEYWORD": "R. Kelly ",
+    "BUZZWORD_1": "Rockland",
+    "BUZZWORD_2": "Aaliyah ",
+    "BUZZWORD_3": "12 Play",
+    "BUZZWORD_4": "Singer ",
+    "BUZZWORD_5": "R&B King"
+  },
+  {
+    "KEYWORD": "Rainbow Beach ",
+    "BUZZWORD_1": "Sand",
+    "BUZZWORD_2": "water",
+    "BUZZWORD_3": "South Shore",
+    "BUZZWORD_4": "77th",
+    "BUZZWORD_5": "Park"
+  },
+  {
+    "KEYWORD": "Rainbow-PUSH",
+    "BUZZWORD_1": "Religious ",
+    "BUZZWORD_2": "Jesse Jackson",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Social Development ",
+    "BUZZWORD_5": "Non-profit "
+  },
+  {
+    "KEYWORD": "Raw",
+    "BUZZWORD_1": "Slang ",
+    "BUZZWORD_2": "Unprotected ",
+    "BUZZWORD_3": "Cool",
+    "BUZZWORD_4": "Unique ",
+    "BUZZWORD_5": "Interesting "
+  },
+  {
+    "KEYWORD": "Record Row",
+    "BUZZWORD_1": "Cottage Grove",
+    "BUZZWORD_2": "Record Companies ",
+    "BUZZWORD_3": "South ",
+    "BUZZWORD_4": "Michigan Ave ",
+    "BUZZWORD_5": "Chess Records "
+  },
+  {
+    "KEYWORD": "Red Line ",
+    "BUZZWORD_1": "Jackson",
+    "BUZZWORD_2": "95th",
+    "BUZZWORD_3": "Howard",
+    "BUZZWORD_4": "Dan Ryan",
+    "BUZZWORD_5": "24 Hours"
+  },
+  {
+    "KEYWORD": "Redd Foxx ",
+    "BUZZWORD_1": "Sanford & Son",
+    "BUZZWORD_2": "Harlem Nights",
+    "BUZZWORD_3": "John Elroy Sanford",
+    "BUZZWORD_4": "Explicit",
+    "BUZZWORD_5": "Fred"
+  },
+  {
+    "KEYWORD": "Regal Theater",
+    "BUZZWORD_1": "47th",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Musicians",
+    "BUZZWORD_4": "Stoney Island ",
+    "BUZZWORD_5": "79th"
+  },
+  {
+    "KEYWORD": "Richard Wright",
+    "BUZZWORD_1": "Author",
+    "BUZZWORD_2": "Black Boy",
+    "BUZZWORD_3": "Novels",
+    "BUZZWORD_4": "Books",
+    "BUZZWORD_5": "Racial Themes"
+  },
+  {
+    "KEYWORD": "River Oaks ",
+    "BUZZWORD_1": "Mall",
+    "BUZZWORD_2": "Lansing ",
+    "BUZZWORD_3": "Shopping Center ",
+    "BUZZWORD_4": "Calumet City ",
+    "BUZZWORD_5": "Southeast "
+  },
+  {
+    "KEYWORD": "Riverdale ",
+    "BUZZWORD_1": "Suburb",
+    "BUZZWORD_2": "Southeast ",
+    "BUZZWORD_3": "Eden Green",
+    "BUZZWORD_4": "Altgeld",
+    "BUZZWORD_5": "Community Area "
+  },
+  {
+    "KEYWORD": "Robbins ",
+    "BUZZWORD_1": "Village ",
+    "BUZZWORD_2": "Cook County ",
+    "BUZZWORD_3": "Dwyane Wade",
+    "BUZZWORD_4": "Worth",
+    "BUZZWORD_5": "Town"
+  },
+  {
+    "KEYWORD": "Robert Taylor ",
+    "BUZZWORD_1": "Homes ",
+    "BUZZWORD_2": "Projects",
+    "BUZZWORD_3": "Housing ",
+    "BUZZWORD_4": "Bronzeville",
+    "BUZZWORD_5": "Southside"
+  },
+  {
+    "KEYWORD": "Roll Bounce ",
+    "BUZZWORD_1": "Bow Wow",
+    "BUZZWORD_2": "Xavier",
+    "BUZZWORD_3": "Skating",
+    "BUZZWORD_4": "Rink",
+    "BUZZWORD_5": "Sweetness"
+  },
+  {
+    "KEYWORD": "Roosevelt",
+    "BUZZWORD_1": "Traffic",
+    "BUZZWORD_2": "CTA",
+    "BUZZWORD_3": "Train",
+    "BUZZWORD_4": "Street",
+    "BUZZWORD_5": "Loop"
+  },
+  {
+    "KEYWORD": "Roseland ",
+    "BUZZWORD_1": "Southside Prep",
+    "BUZZWORD_2": "Community ",
+    "BUZZWORD_3": "Chicago State University",
+    "BUZZWORD_4": "Suburb",
+    "BUZZWORD_5": "Gwendolyn Brooks College Prep"
+  },
+  {
+    "KEYWORD": "Sam Cooke",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "A Change Is Gonna Come ",
+    "BUZZWORD_3": "King of Soul",
+    "BUZZWORD_4": "Civil Rights ",
+    "BUZZWORD_5": "Hacienda Motel"
+  },
+  {
+    "KEYWORD": "Sammy Davis, Jr.",
+    "BUZZWORD_1": "Entertainer ",
+    "BUZZWORD_2": "Impersonator",
+    "BUZZWORD_3": "Deceased ",
+    "BUZZWORD_4": "Dancer ",
+    "BUZZWORD_5": "Mr. Bojangles"
+  },
+  {
+    "KEYWORD": "Savoy",
+    "BUZZWORD_1": "Ballroom",
+    "BUZZWORD_2": "Activities ",
+    "BUZZWORD_3": "Louis Armstrong",
+    "BUZZWORD_4": "Figure Skating ",
+    "BUZZWORD_5": "Big Five "
+  },
+  {
+    "KEYWORD": "Sears Tower",
+    "BUZZWORD_1": "Willis",
+    "BUZZWORD_2": "Tallest",
+    "BUZZWORD_3": "Skyscraper",
+    "BUZZWORD_4": "Black",
+    "BUZZWORD_5": "Skydeck"
+  },
+  {
+    "KEYWORD": "Second City",
+    "BUZZWORD_1": "Comedians",
+    "BUZZWORD_2": "Improv",
+    "BUZZWORD_3": "Saturday Night Live",
+    "BUZZWORD_4": "Tina Fey",
+    "BUZZWORD_5": "Skits"
+  },
+  {
+    "KEYWORD": "Shani Davis",
+    "BUZZWORD_1": "Olympics",
+    "BUZZWORD_2": "Frozone",
+    "BUZZWORD_3": "Gold Medal",
+    "BUZZWORD_4": "First Black Athlete",
+    "BUZZWORD_5": "Speed Skater"
+  },
+  {
+    "KEYWORD": "Sharks ",
+    "BUZZWORD_1": "Seafood",
+    "BUZZWORD_2": "Chicken ",
+    "BUZZWORD_3": "Lemon Pepper",
+    "BUZZWORD_4": "Shrimp ",
+    "BUZZWORD_5": "Catfiish"
+  },
+  {
+    "KEYWORD": "Shawnna ",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Buddy Guy",
+    "BUZZWORD_3": "Def Jam",
+    "BUZZWORD_4": "Gettin' Sum",
+    "BUZZWORD_5": "Queen of Chicago"
+  },
+  {
+    "KEYWORD": "Sherri Shepherd ",
+    "BUZZWORD_1": "Actress",
+    "BUZZWORD_2": "Comedian ",
+    "BUZZWORD_3": "The View",
+    "BUZZWORD_4": "TV Show",
+    "BUZZWORD_5": "Wigs "
+  },
+  {
+    "KEYWORD": "Shonda Rhimes ",
+    "BUZZWORD_1": "TV Producer ",
+    "BUZZWORD_2": "Writer ",
+    "BUZZWORD_3": "Grey's Anatomy ",
+    "BUZZWORD_4": "Scandal",
+    "BUZZWORD_5": "How to Get Away With Murder "
+  },
+  {
+    "KEYWORD": "Sky",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "WNBA",
+    "BUZZWORD_3": "Women's ",
+    "BUZZWORD_4": "UIC Pavilion",
+    "BUZZWORD_5": "Rosemont "
+  },
+  {
+    "KEYWORD": "Soft Sheen",
+    "BUZZWORD_1": "Grease",
+    "BUZZWORD_2": "Hair",
+    "BUZZWORD_3": "Spray",
+    "BUZZWORD_4": "Hair Products ",
+    "BUZZWORD_5": "Moisturizer "
+  },
+  {
+    "KEYWORD": "Soldier Field ",
+    "BUZZWORD_1": "Bears",
+    "BUZZWORD_2": "South Loop",
+    "BUZZWORD_3": "Concerts",
+    "BUZZWORD_4": "Football",
+    "BUZZWORD_5": "Museum Campus"
+  },
+  {
+    "KEYWORD": "Soul 106.3",
+    "BUZZWORD_1": "Tom Joyner",
+    "BUZZWORD_2": "Station",
+    "BUZZWORD_3": "Music ",
+    "BUZZWORD_4": "Michael Baisden",
+    "BUZZWORD_5": "Broadcast"
+  },
+  {
+    "KEYWORD": "Soul Food",
+    "BUZZWORD_1": "Movie",
+    "BUZZWORD_2": "Southern",
+    "BUZZWORD_3": "Nia Long",
+    "BUZZWORD_4": "MacArthur's",
+    "BUZZWORD_5": "Mel Jackson"
+  },
+  {
+    "KEYWORD": "Soul Train",
+    "BUZZWORD_1": "Don Cornelius",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Dancing",
+    "BUZZWORD_4": "Saturday",
+    "BUZZWORD_5": "TV Show"
+  },
+  {
+    "KEYWORD": "South Holland ",
+    "BUZZWORD_1": "Churches ",
+    "BUZZWORD_2": "Thornwood High School",
+    "BUZZWORD_3": "Harvey",
+    "BUZZWORD_4": "Village ",
+    "BUZZWORD_5": "Suburb"
+  },
+  {
+    "KEYWORD": "South Shore",
+    "BUZZWORD_1": "Lake Shore",
+    "BUZZWORD_2": "Eastside",
+    "BUZZWORD_3": "Lakefront",
+    "BUZZWORD_4": "Jackson Park",
+    "BUZZWORD_5": "Neighborhood"
+  },
+  {
+    "KEYWORD": "Southside ",
+    "BUZZWORD_1": "Low End ",
+    "BUZZWORD_2": "South Shore ",
+    "BUZZWORD_3": "Englewood",
+    "BUZZWORD_4": "Hyde Park ",
+    "BUZZWORD_5": "Bronzeville"
+  },
+  {
+    "KEYWORD": "Spirit of Chicago",
+    "BUZZWORD_1": "Yacht",
+    "BUZZWORD_2": "Boat ",
+    "BUZZWORD_3": "Cruise",
+    "BUZZWORD_4": "Late Night ",
+    "BUZZWORD_5": "Lake Michigan "
+  },
+  {
+    "KEYWORD": "Squares",
+    "BUZZWORD_1": "Cigarretes",
+    "BUZZWORD_2": "Tobacco",
+    "BUZZWORD_3": "Newports",
+    "BUZZWORD_4": "100's",
+    "BUZZWORD_5": "Lames "
+  },
+  {
+    "KEYWORD": "State Street Preacher",
+    "BUZZWORD_1": "Samuel Chambers",
+    "BUZZWORD_2": "Word of God ",
+    "BUZZWORD_3": "Bible ",
+    "BUZZWORD_4": "Interpretation",
+    "BUZZWORD_5": "Bible "
+  },
+  {
+    "KEYWORD": "Steppers",
+    "BUZZWORD_1": "Dancers",
+    "BUZZWORD_2": "Sam Chatman",
+    "BUZZWORD_3": "Lady Tabu",
+    "BUZZWORD_4": "Jannice Robertson",
+    "BUZZWORD_5": "Cheryl \"Sugafoot\" Powe"
+  },
+  {
+    "KEYWORD": "Stony Island ",
+    "BUZZWORD_1": "Southside ",
+    "BUZZWORD_2": "Street ",
+    "BUZZWORD_3": "Leona's",
+    "BUZZWORD_4": "AKA Headquarters ",
+    "BUZZWORD_5": "Jackson Park"
+  },
+  {
+    "KEYWORD": "Street Wise ",
+    "BUZZWORD_1": "Assistance ",
+    "BUZZWORD_2": "Homeless",
+    "BUZZWORD_3": "Broadway ",
+    "BUZZWORD_4": "Stability ",
+    "BUZZWORD_5": "Magazine "
+  },
+  {
+    "KEYWORD": "Stuart Scott",
+    "BUZZWORD_1": "ESPN",
+    "BUZZWORD_2": "Sportscaster",
+    "BUZZWORD_3": "ESPY",
+    "BUZZWORD_4": "Cancer",
+    "BUZZWORD_5": "Sportscenter"
+  },
+  {
+    "KEYWORD": "Super Donut ",
+    "BUZZWORD_1": "Treat",
+    "BUZZWORD_2": "Chocolate ",
+    "BUZZWORD_3": "Old School",
+    "BUZZWORD_4": "Original",
+    "BUZZWORD_5": "Individually wrapped"
+  },
+  {
+    "KEYWORD": "Terrence Howard ",
+    "BUZZWORD_1": "Empire",
+    "BUZZWORD_2": "Actor",
+    "BUZZWORD_3": "Taraji ",
+    "BUZZWORD_4": "Lucious",
+    "BUZZWORD_5": "The Best Man"
+  },
+  {
+    "KEYWORD": "The Awakenings",
+    "BUZZWORD_1": "TV Show",
+    "BUZZWORD_2": "Drama",
+    "BUZZWORD_3": "Marquita",
+    "BUZZWORD_4": "Emmy Award ",
+    "BUZZWORD_5": "Christian"
+  },
+  {
+    "KEYWORD": "The Bad Boyz",
+    "BUZZWORD_1": "The Birthday Line",
+    "BUZZWORD_2": "WGCI ",
+    "BUZZWORD_3": "Radio",
+    "BUZZWORD_4": "Mike Luv",
+    "BUZZWORD_5": "The Diz"
+  },
+  {
+    "KEYWORD": "The Candyman",
+    "BUZZWORD_1": "Movie",
+    "BUZZWORD_2": "Scary",
+    "BUZZWORD_3": "Horror",
+    "BUZZWORD_4": "Hook",
+    "BUZZWORD_5": "Cabrini Green"
+  },
+  {
+    "KEYWORD": "The Gardens ",
+    "BUZZWORD_1": "Housing",
+    "BUZZWORD_2": "Altgeld",
+    "BUZZWORD_3": "Projects ",
+    "BUZZWORD_4": "Southside",
+    "BUZZWORD_5": "Rockwell"
+  },
+  {
+    "KEYWORD": "The Go",
+    "BUZZWORD_1": "Nickname",
+    "BUZZWORD_2": "Chiraq",
+    "BUZZWORD_3": "Slang",
+    "BUZZWORD_4": "New ",
+    "BUZZWORD_5": "Teens "
+  },
+  {
+    "KEYWORD": "The L",
+    "BUZZWORD_1": "Elevated",
+    "BUZZWORD_2": "Train",
+    "BUZZWORD_3": "CTA",
+    "BUZZWORD_4": "Transit",
+    "BUZZWORD_5": "Line"
+  },
+  {
+    "KEYWORD": "The Low End ",
+    "BUZZWORD_1": "Southside",
+    "BUZZWORD_2": "Bronzeville",
+    "BUZZWORD_3": "Bottom of the Map",
+    "BUZZWORD_4": "Low Numbers ",
+    "BUZZWORD_5": "Hood"
+  },
+  {
+    "KEYWORD": "The Point ",
+    "BUZZWORD_1": "Promontory",
+    "BUZZWORD_2": "Hyde Park",
+    "BUZZWORD_3": "Skyline",
+    "BUZZWORD_4": "Beach",
+    "BUZZWORD_5": "Lake Shore"
+  },
+  {
+    "KEYWORD": "The Rink ",
+    "BUZZWORD_1": "Roller skates ",
+    "BUZZWORD_2": "Rollerblades",
+    "BUZZWORD_3": "87th Street",
+    "BUZZWORD_4": "Old School",
+    "BUZZWORD_5": "Lessons"
+  },
+  {
+    "KEYWORD": "The Route ",
+    "BUZZWORD_1": "Skating Rink",
+    "BUZZWORD_2": "Southside ",
+    "BUZZWORD_3": "Teens",
+    "BUZZWORD_4": 66,
+    "BUZZWORD_5": "Roller"
+  },
+  {
+    "KEYWORD": "The Taste ",
+    "BUZZWORD_1": "Festival",
+    "BUZZWORD_2": "Food",
+    "BUZZWORD_3": "Samples",
+    "BUZZWORD_4": "Grant Park",
+    "BUZZWORD_5": "July"
+  },
+  {
+    "KEYWORD": "Tim Hardaway",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Miami Heat",
+    "BUZZWORD_3": "Assistant Coach",
+    "BUZZWORD_4": "Point Guard",
+    "BUZZWORD_5": "UTEP Two-step"
+  },
+  {
+    "KEYWORD": "Tom Joyner",
+    "BUZZWORD_1": "Radio Host",
+    "BUZZWORD_2": "Morning Show",
+    "BUZZWORD_3": "WGCI",
+    "BUZZWORD_4": "WVON",
+    "BUZZWORD_5": "The Fly Jock"
+  },
+  {
+    "KEYWORD": "Tony Sculfield ",
+    "BUZZWORD_1": "WGCI",
+    "BUZZWORD_2": "Radio ",
+    "BUZZWORD_3": "DJ",
+    "BUZZWORD_4": "Comedic Performer",
+    "BUZZWORD_5": 106.3
+  },
+  {
+    "KEYWORD": "Tweaking",
+    "BUZZWORD_1": "Slang",
+    "BUZZWORD_2": "Crazy",
+    "BUZZWORD_3": "Strange",
+    "BUZZWORD_4": "Stupid",
+    "BUZZWORD_5": "Annoying"
+  },
+  {
+    "KEYWORD": "Twista ",
+    "BUZZWORD_1": "Fast",
+    "BUZZWORD_2": "Tongue",
+    "BUZZWORD_3": "Guiness Book",
+    "BUZZWORD_4": "Speedknot Mobstaz",
+    "BUZZWORD_5": "Slom Jamz "
+  },
+  {
+    "KEYWORD": "Uncle Remus ",
+    "BUZZWORD_1": "Chicken ",
+    "BUZZWORD_2": "Westside ",
+    "BUZZWORD_3": "Mild Sauce",
+    "BUZZWORD_4": "Saucy",
+    "BUZZWORD_5": "Fried"
+  },
+  {
+    "KEYWORD": "Union Station",
+    "BUZZWORD_1": "Railroad Station",
+    "BUZZWORD_2": "Tracks",
+    "BUZZWORD_3": "Train",
+    "BUZZWORD_4": "Canal",
+    "BUZZWORD_5": "Amtrak"
+  },
+  {
+    "KEYWORD": "United Center ",
+    "BUZZWORD_1": "Bulls",
+    "BUZZWORD_2": "Blackhawks",
+    "BUZZWORD_3": "Concerts",
+    "BUZZWORD_4": "Madhouse",
+    "BUZZWORD_5": "Madison"
+  },
+  {
+    "KEYWORD": "UNO",
+    "BUZZWORD_1": "Cards",
+    "BUZZWORD_2": "Game",
+    "BUZZWORD_3": "Draw-4",
+    "BUZZWORD_4": "Pizzeria",
+    "BUZZWORD_5": "Ohio"
+  },
+  {
+    "KEYWORD": "Uptown",
+    "BUZZWORD_1": "Northside ",
+    "BUZZWORD_2": "Cook County",
+    "BUZZWORD_3": "Foster Ave",
+    "BUZZWORD_4": "Community area",
+    "BUZZWORD_5": "Aragon Ballroom"
+  },
+  {
+    "KEYWORD": "V103 ",
+    "BUZZWORD_1": 102.7,
+    "BUZZWORD_2": "Doug Banks ",
+    "BUZZWORD_3": "Ramonski Luv",
+    "BUZZWORD_4": "Hits ",
+    "BUZZWORD_5": "Dusties "
+  },
+  {
+    "KEYWORD": "Ventra ",
+    "BUZZWORD_1": "CTA",
+    "BUZZWORD_2": "Transit",
+    "BUZZWORD_3": "Train",
+    "BUZZWORD_4": "Bus ",
+    "BUZZWORD_5": "L"
+  },
+  {
+    "KEYWORD": "Vic Mensa",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Roc Nation",
+    "BUZZWORD_3": "Kids These Days",
+    "BUZZWORD_4": "Ghana",
+    "BUZZWORD_5": "Hyde Park"
+  },
+  {
+    "KEYWORD": "Victory Auto Insurance ",
+    "BUZZWORD_1": "Commercial",
+    "BUZZWORD_2": "Covered ",
+    "BUZZWORD_3": "Radio",
+    "BUZZWORD_4": "Wreckers",
+    "BUZZWORD_5": "Liability"
+  },
+  {
+    "KEYWORD": "Wacker",
+    "BUZZWORD_1": "Lower",
+    "BUZZWORD_2": "Upper",
+    "BUZZWORD_3": "Major",
+    "BUZZWORD_4": "Chicago river",
+    "BUZZWORD_5": "Double-decked"
+  },
+  {
+    "KEYWORD": "Wala Cam ",
+    "BUZZWORD_1": "Hip rollin",
+    "BUZZWORD_2": "Footwork",
+    "BUZZWORD_3": "Twerking",
+    "BUZZWORD_4": "Basement",
+    "BUZZWORD_5": "Lanipop"
+  },
+  {
+    "KEYWORD": "Walter Payton",
+    "BUZZWORD_1": "Football",
+    "BUZZWORD_2": "Chicago Bears",
+    "BUZZWORD_3": "Runningback",
+    "BUZZWORD_4": "Deceased",
+    "BUZZWORD_5": "Sweetness"
+  },
+  {
+    "KEYWORD": "Washington Park ",
+    "BUZZWORD_1": "DuSable Museum",
+    "BUZZWORD_2": "Universal Soul Circus ",
+    "BUZZWORD_3": "Southside",
+    "BUZZWORD_4": "Cook County",
+    "BUZZWORD_5": "George Washington"
+  },
+  {
+    "KEYWORD": "Water Tower ",
+    "BUZZWORD_1": "Mall",
+    "BUZZWORD_2": "Michigan Ave.",
+    "BUZZWORD_3": "Historic",
+    "BUZZWORD_4": "Shopping",
+    "BUZZWORD_5": "Dining"
+  },
+  {
+    "KEYWORD": "Westside",
+    "BUZZWORD_1": "K-town",
+    "BUZZWORD_2": "Cook County",
+    "BUZZWORD_3": "Maywood",
+    "BUZZWORD_4": "Forest Park",
+    "BUZZWORD_5": "Malcolm X College"
+  },
+  {
+    "KEYWORD": "WGCI ",
+    "BUZZWORD_1": 107.5,
+    "BUZZWORD_2": "Hip-Hop",
+    "BUZZWORD_3": "R&B",
+    "BUZZWORD_4": "Radio Station",
+    "BUZZWORD_5": "Crazy Howard McGhee"
+  },
+  {
+    "KEYWORD": "White Sox ",
+    "BUZZWORD_1": "Baseball",
+    "BUZZWORD_2": "Black and White",
+    "BUZZWORD_3": "Comisky",
+    "BUZZWORD_4": "Williams",
+    "BUZZWORD_5": "Kenny Williams"
+  },
+  {
+    "KEYWORD": "Whitney Young ",
+    "BUZZWORD_1": "Dolphins ",
+    "BUZZWORD_2": "High School",
+    "BUZZWORD_3": "Magnet ",
+    "BUZZWORD_4": "Public",
+    "BUZZWORD_5": "West"
+  },
+  {
+    "KEYWORD": "Wicker Park",
+    "BUZZWORD_1": "West Town",
+    "BUZZWORD_2": "Blueline",
+    "BUZZWORD_3": "Historic",
+    "BUZZWORD_4": "Milwaukee Ave",
+    "BUZZWORD_5": "Neighborhood"
+  },
+  {
+    "KEYWORD": "Wild 100s ",
+    "BUZZWORD_1": "Roseland ",
+    "BUZZWORD_2": "Rosemoor ",
+    "BUZZWORD_3": "Southside",
+    "BUZZWORD_4": "Hood",
+    "BUZZWORD_5": "Gangs"
+  },
+  {
+    "KEYWORD": "Willie Wilson",
+    "BUZZWORD_1": "Sing-sation",
+    "BUZZWORD_2": "Mayor ",
+    "BUZZWORD_3": "Candidate",
+    "BUZZWORD_4": "Politician",
+    "BUZZWORD_5": "Mcdonald"
+  },
+  {
+    "KEYWORD": "Wrigley Field ",
+    "BUZZWORD_1": "Northside",
+    "BUZZWORD_2": "Wrigleyville",
+    "BUZZWORD_3": "Cubs",
+    "BUZZWORD_4": "Harry Carey",
+    "BUZZWORD_5": "Rooftops"
+  },
+  {
+    "KEYWORD": "WVON ",
+    "BUZZWORD_1": "Radio Station",
+    "BUZZWORD_2": "The Voice of a Nation",
+    "BUZZWORD_3": "Southside ",
+    "BUZZWORD_4": "Avalon Park",
+    "BUZZWORD_5": "Al Sharpton"
+  }
+]

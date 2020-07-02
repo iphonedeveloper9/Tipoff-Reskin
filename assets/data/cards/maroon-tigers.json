@@ -1,0 +1,2386 @@
+[
+  {
+    "KEYWORD": " The Plug",
+    "BUZZWORD_1": "Loud",
+    "BUZZWORD_2": "Free",
+    "BUZZWORD_3": "Discount",
+    "BUZZWORD_4": "Ran off",
+    "BUZZWORD_5": "Plies"
+  },
+  {
+    "KEYWORD": "15-minute Rule",
+    "BUZZWORD_1": "Late",
+    "BUZZWORD_2": "Absent",
+    "BUZZWORD_3": "Skip",
+    "BUZZWORD_4": "Three",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "Academic",
+    "BUZZWORD_1": "Achieve",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Dean's List",
+    "BUZZWORD_4": "Studies",
+    "BUZZWORD_5": "Probation"
+  },
+  {
+    "KEYWORD": "Academic Probation",
+    "BUZZWORD_1": "Trouble",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Suspended",
+    "BUZZWORD_4": "GPA",
+    "BUZZWORD_5": "Drop"
+  },
+  {
+    "KEYWORD": "Accredited",
+    "BUZZWORD_1": "Certification",
+    "BUZZWORD_2": "Status",
+    "BUZZWORD_3": "Standing",
+    "BUZZWORD_4": "Good",
+    "BUZZWORD_5": "Validate"
+  },
+  {
+    "KEYWORD": "Admissions",
+    "BUZZWORD_1": "Process",
+    "BUZZWORD_2": "Voicemail",
+    "BUZZWORD_3": "Hudson",
+    "BUZZWORD_4": "Scholarship ",
+    "BUZZWORD_5": "Waitlist"
+  },
+  {
+    "KEYWORD": "Advisor",
+    "BUZZWORD_1": "Mentor",
+    "BUZZWORD_2": "Leader",
+    "BUZZWORD_3": "Academic",
+    "BUZZWORD_4": "Direct",
+    "BUZZWORD_5": "Career"
+  },
+  {
+    "KEYWORD": "Air Conditioning",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Suite",
+    "BUZZWORD_3": "Fan",
+    "BUZZWORD_4": "Cold Shower",
+    "BUZZWORD_5": "Unit"
+  },
+  {
+    "KEYWORD": "All Nighter",
+    "BUZZWORD_1": "Study ",
+    "BUZZWORD_2": "Sleep",
+    "BUZZWORD_3": "Coffee",
+    "BUZZWORD_4": "Struggle",
+    "BUZZWORD_5": "Test"
+  },
+  {
+    "KEYWORD": "Alpha Kappa Alpha",
+    "BUZZWORD_1": "Skee Wee",
+    "BUZZWORD_2": "Frog",
+    "BUZZWORD_3": "Ivy",
+    "BUZZWORD_4": "Pink",
+    "BUZZWORD_5": "Green"
+  },
+  {
+    "KEYWORD": "Alpha Phi Alpha",
+    "BUZZWORD_1": "Uh Oh",
+    "BUZZWORD_2": "A-Rho",
+    "BUZZWORD_3": "Ape",
+    "BUZZWORD_4": "Ice",
+    "BUZZWORD_5": "Black & Gold "
+  },
+  {
+    "KEYWORD": "Alumni",
+    "BUZZWORD_1": "Graduate",
+    "BUZZWORD_2": "Association",
+    "BUZZWORD_3": "Old Head",
+    "BUZZWORD_4": "Membership",
+    "BUZZWORD_5": "Dues"
+  },
+  {
+    "KEYWORD": "Application",
+    "BUZZWORD_1": "Paper",
+    "BUZZWORD_2": "Online ",
+    "BUZZWORD_3": "Deadline",
+    "BUZZWORD_4": "Entry",
+    "BUZZWORD_5": "Admitted"
+  },
+  {
+    "KEYWORD": "Apply",
+    "BUZZWORD_1": "Essay",
+    "BUZZWORD_2": "Transcript",
+    "BUZZWORD_3": "Admission",
+    "BUZZWORD_4": "Online",
+    "BUZZWORD_5": "Submit"
+  },
+  {
+    "KEYWORD": "Arts ",
+    "BUZZWORD_1": "Bachelors ",
+    "BUZZWORD_2": "Painting",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Dance",
+    "BUZZWORD_5": "Craft"
+  },
+  {
+    "KEYWORD": "Athletics ",
+    "BUZZWORD_1": "Tigers",
+    "BUZZWORD_2": "Basketball",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Track",
+    "BUZZWORD_5": "Edwin Moses"
+  },
+  {
+    "KEYWORD": "Atlanta",
+    "BUZZWORD_1": "AUC",
+    "BUZZWORD_2": "Georgia",
+    "BUZZWORD_3": "The A",
+    "BUZZWORD_4": "Capitol",
+    "BUZZWORD_5": "Peachtree"
+  },
+  {
+    "KEYWORD": "Attend",
+    "BUZZWORD_1": "Go",
+    "BUZZWORD_2": "Visit",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Event",
+    "BUZZWORD_5": "Went"
+  },
+  {
+    "KEYWORD": "AUC ",
+    "BUZZWORD_1": "Center",
+    "BUZZWORD_2": "University",
+    "BUZZWORD_3": "Atlanta",
+    "BUZZWORD_4": "Library",
+    "BUZZWORD_5": "The Strip"
+  },
+  {
+    "KEYWORD": "Augusta Institute",
+    "BUZZWORD_1": "Basement",
+    "BUZZWORD_2": "Springfield",
+    "BUZZWORD_3": "Education",
+    "BUZZWORD_4": "First",
+    "BUZZWORD_5": "Original"
+  },
+  {
+    "KEYWORD": "Bachelors ",
+    "BUZZWORD_1": "Degree",
+    "BUZZWORD_2": "Arts",
+    "BUZZWORD_3": "Science",
+    "BUZZWORD_4": "Masters",
+    "BUZZWORD_5": "Earn"
+  },
+  {
+    "KEYWORD": "Bakari Sellers",
+    "BUZZWORD_1": 2008,
+    "BUZZWORD_2": "South Carolina",
+    "BUZZWORD_3": "Assembly",
+    "BUZZWORD_4": "Alumni",
+    "BUZZWORD_5": "Youngest"
+  },
+  {
+    "KEYWORD": "Bankhead",
+    "BUZZWORD_1": "Bounce",
+    "BUZZWORD_2": "T.I. ",
+    "BUZZWORD_3": "Trap",
+    "BUZZWORD_4": "Shawty Lo",
+    "BUZZWORD_5": "Zone"
+  },
+  {
+    "KEYWORD": "BAR Exam",
+    "BUZZWORD_1": "Lawyer ",
+    "BUZZWORD_2": "Professional",
+    "BUZZWORD_3": "Practical",
+    "BUZZWORD_4": "Test ",
+    "BUZZWORD_5": "Attorney"
+  },
+  {
+    "KEYWORD": "Baseball ",
+    "BUZZWORD_1": "Strike",
+    "BUZZWORD_2": "Out",
+    "BUZZWORD_3": "Walk",
+    "BUZZWORD_4": "Bat",
+    "BUZZWORD_5": "Ball"
+  },
+  {
+    "KEYWORD": "Basketball",
+    "BUZZWORD_1": "Forbes",
+    "BUZZWORD_2": "Ball",
+    "BUZZWORD_3": "Hoop",
+    "BUZZWORD_4": "Dunk",
+    "BUZZWORD_5": "Lebron James"
+  },
+  {
+    "KEYWORD": "Battle of the Bands",
+    "BUZZWORD_1": "Honda",
+    "BUZZWORD_2": "Marching",
+    "BUZZWORD_3": "Georgia Dome",
+    "BUZZWORD_4": "Atlanta",
+    "BUZZWORD_5": "Competition"
+  },
+  {
+    "KEYWORD": "Beta Gamma Sigma",
+    "BUZZWORD_1": "Honors",
+    "BUZZWORD_2": "Business",
+    "BUZZWORD_3": "GPA",
+    "BUZZWORD_4": "Top",
+    "BUZZWORD_5": "Smart"
+  },
+  {
+    "KEYWORD": "Beta Kappa Chi ",
+    "BUZZWORD_1": "Medicine",
+    "BUZZWORD_2": "Bio",
+    "BUZZWORD_3": "Doctor ",
+    "BUZZWORD_4": "Engineer",
+    "BUZZWORD_5": "Honors"
+  },
+  {
+    "KEYWORD": "Bibliography",
+    "BUZZWORD_1": "Books",
+    "BUZZWORD_2": "List",
+    "BUZZWORD_3": "Fomatted",
+    "BUZZWORD_4": "Books",
+    "BUZZWORD_5": "Appendix"
+  },
+  {
+    "KEYWORD": "Biology",
+    "BUZZWORD_1": "Science ",
+    "BUZZWORD_2": "STEM",
+    "BUZZWORD_3": "Animals",
+    "BUZZWORD_4": "Natural ",
+    "BUZZWORD_5": "Organism"
+  },
+  {
+    "KEYWORD": "Bison",
+    "BUZZWORD_1": "Buffalo",
+    "BUZZWORD_2": "Graze",
+    "BUZZWORD_3": "Howard",
+    "BUZZWORD_4": "Washington D.C.",
+    "BUZZWORD_5": "HU"
+  },
+  {
+    "KEYWORD": "Black Pride ",
+    "BUZZWORD_1": "Fist",
+    "BUZZWORD_2": "Proud",
+    "BUZZWORD_3": "Excellence",
+    "BUZZWORD_4": "Melanin",
+    "BUZZWORD_5": "Culture"
+  },
+  {
+    "KEYWORD": "Blackboard",
+    "BUZZWORD_1": "Login",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Classes",
+    "BUZZWORD_4": "Dashboard",
+    "BUZZWORD_5": "Register"
+  },
+  {
+    "KEYWORD": "Books",
+    "BUZZWORD_1": "Store",
+    "BUZZWORD_2": "Text",
+    "BUZZWORD_3": "Read",
+    "BUZZWORD_4": "Library",
+    "BUZZWORD_5": "Expensive"
+  },
+  {
+    "KEYWORD": "Bookstore ",
+    "BUZZWORD_1": "Jazzmines (sp)",
+    "BUZZWORD_2": "Buy",
+    "BUZZWORD_3": "Merchandise",
+    "BUZZWORD_4": "Text",
+    "BUZZWORD_5": "Supplies"
+  },
+  {
+    "KEYWORD": "Bootlegger",
+    "BUZZWORD_1": "House",
+    "BUZZWORD_2": "Bottles",
+    "BUZZWORD_3": "CD",
+    "BUZZWORD_4": "DVD",
+    "BUZZWORD_5": "Gas Station"
+  },
+  {
+    "KEYWORD": "Brian Tyree Henry",
+    "BUZZWORD_1": "Paper Boi",
+    "BUZZWORD_2": "Show",
+    "BUZZWORD_3": "Donald Glover",
+    "BUZZWORD_4": "Actor",
+    "BUZZWORD_5": "FX"
+  },
+  {
+    "KEYWORD": "Buckhead",
+    "BUZZWORD_1": "Lenox",
+    "BUZZWORD_2": "Expensive",
+    "BUZZWORD_3": "Mall",
+    "BUZZWORD_4": "Houston's",
+    "BUZZWORD_5": "Date"
+  },
+  {
+    "KEYWORD": "Business Administration",
+    "BUZZWORD_1": "MBA",
+    "BUZZWORD_2": "Entrepreneur",
+    "BUZZWORD_3": "Corporate",
+    "BUZZWORD_4": "Finance ",
+    "BUZZWORD_5": "Investments"
+  },
+  {
+    "KEYWORD": "Cafeteria",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Meal Plan",
+    "BUZZWORD_3": "Hairnet",
+    "BUZZWORD_4": "work release",
+    "BUZZWORD_5": "Fried Chicken"
+  },
+  {
+    "KEYWORD": "Calculator",
+    "BUZZWORD_1": "TI-86",
+    "BUZZWORD_2": "Professor Norris",
+    "BUZZWORD_3": "Computer",
+    "BUZZWORD_4": "Math",
+    "BUZZWORD_5": "Digital"
+  },
+  {
+    "KEYWORD": "Campus ",
+    "BUZZWORD_1": "Green",
+    "BUZZWORD_2": "Dorm",
+    "BUZZWORD_3": "Stadium",
+    "BUZZWORD_4": "College",
+    "BUZZWORD_5": "union"
+  },
+  {
+    "KEYWORD": "Candle in the Dark",
+    "BUZZWORD_1": "Gala",
+    "BUZZWORD_2": "Famous",
+    "BUZZWORD_3": "Tuxedo",
+    "BUZZWORD_4": "May",
+    "BUZZWORD_5": "Honor"
+  },
+  {
+    "KEYWORD": "Career ",
+    "BUZZWORD_1": "Profession",
+    "BUZZWORD_2": "Job",
+    "BUZZWORD_3": "Work",
+    "BUZZWORD_4": "Path",
+    "BUZZWORD_5": "Graduate"
+  },
+  {
+    "KEYWORD": "Catalog",
+    "BUZZWORD_1": "Course",
+    "BUZZWORD_2": "Listing",
+    "BUZZWORD_3": "Select",
+    "BUZZWORD_4": "Pick",
+    "BUZZWORD_5": "Order"
+  },
+  {
+    "KEYWORD": "Certificate",
+    "BUZZWORD_1": "Completion",
+    "BUZZWORD_2": "Course",
+    "BUZZWORD_3": "Knowledge",
+    "BUZZWORD_4": "Credential",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Chapter",
+    "BUZZWORD_1": "Branch",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Greek ",
+    "BUZZWORD_5": "President"
+  },
+  {
+    "KEYWORD": "Chick-Fil-a",
+    "BUZZWORD_1": "Wednesday",
+    "BUZZWORD_2": "Chicken",
+    "BUZZWORD_3": "Fast Food",
+    "BUZZWORD_4": "Restaurant",
+    "BUZZWORD_5": "Sauce"
+  },
+  {
+    "KEYWORD": "Civil Rights",
+    "BUZZWORD_1": "Martin Luther King",
+    "BUZZWORD_2": "Movement",
+    "BUZZWORD_3": "Fair",
+    "BUZZWORD_4": "Equal",
+    "BUZZWORD_5": "June"
+  },
+  {
+    "KEYWORD": "Clark",
+    "BUZZWORD_1": "Atlanta",
+    "BUZZWORD_2": "University",
+    "BUZZWORD_3": "AUC",
+    "BUZZWORD_4": "Panthers ",
+    "BUZZWORD_5": "Private "
+  },
+  {
+    "KEYWORD": "Clark Atlanta",
+    "BUZZWORD_1": "Brawley",
+    "BUZZWORD_2": "AUC",
+    "BUZZWORD_3": "University",
+    "BUZZWORD_4": "Red",
+    "BUZZWORD_5": "Black"
+  },
+  {
+    "KEYWORD": "Club Woody",
+    "BUZZWORD_1": "Library",
+    "BUZZWORD_2": "Study",
+    "BUZZWORD_3": "Midterm",
+    "BUZZWORD_4": "Social",
+    "BUZZWORD_5": "Exams"
+  },
+  {
+    "KEYWORD": "Clubs",
+    "BUZZWORD_1": "Atrium",
+    "BUZZWORD_2": "Copeland's",
+    "BUZZWORD_3": "Shuttle",
+    "BUZZWORD_4": 24,
+    "BUZZWORD_5": "Wristbands"
+  },
+  {
+    "KEYWORD": "Coca Cola ",
+    "BUZZWORD_1": "Coke",
+    "BUZZWORD_2": "Soda",
+    "BUZZWORD_3": "Red",
+    "BUZZWORD_4": "Cans",
+    "BUZZWORD_5": "Bottles"
+  },
+  {
+    "KEYWORD": "Coed",
+    "BUZZWORD_1": "Sexes",
+    "BUZZWORD_2": "Male",
+    "BUZZWORD_3": "Female",
+    "BUZZWORD_4": "Both",
+    "BUZZWORD_5": "Student"
+  },
+  {
+    "KEYWORD": "College ",
+    "BUZZWORD_1": "Morehouse",
+    "BUZZWORD_2": "University",
+    "BUZZWORD_3": "School",
+    "BUZZWORD_4": "Institution",
+    "BUZZWORD_5": "Spelman"
+  },
+  {
+    "KEYWORD": "Collegiate",
+    "BUZZWORD_1": "Buy",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Books",
+    "BUZZWORD_4": "Hoodies",
+    "BUZZWORD_5": "Greek Paraphernalia"
+  },
+  {
+    "KEYWORD": "Columbia Blue and White",
+    "BUZZWORD_1": "Spelman",
+    "BUZZWORD_2": "Colors",
+    "BUZZWORD_3": "Manley",
+    "BUZZWORD_4": "Cosby",
+    "BUZZWORD_5": "Tatum"
+  },
+  {
+    "KEYWORD": "Commencement",
+    "BUZZWORD_1": "Graduate",
+    "BUZZWORD_2": "Early",
+    "BUZZWORD_3": "Wednesday",
+    "BUZZWORD_4": "Robe",
+    "BUZZWORD_5": "Rain"
+  },
+  {
+    "KEYWORD": "Communications",
+    "BUZZWORD_1": "Degree",
+    "BUZZWORD_2": "Clark Atlanta ",
+    "BUZZWORD_3": "Arts ",
+    "BUZZWORD_4": "Clark",
+    "BUZZWORD_5": "Mass"
+  },
+  {
+    "KEYWORD": "Core Course",
+    "BUZZWORD_1": "Requirement",
+    "BUZZWORD_2": "Biology",
+    "BUZZWORD_3": "Psychology",
+    "BUZZWORD_4": "English",
+    "BUZZWORD_5": "Precalculus"
+  },
+  {
+    "KEYWORD": "Coronation",
+    "BUZZWORD_1": "Homecoming",
+    "BUZZWORD_2": "Dress",
+    "BUZZWORD_3": "Tickets",
+    "BUZZWORD_4": "Ball",
+    "BUZZWORD_5": "Spelhouse"
+  },
+  {
+    "KEYWORD": "Course",
+    "BUZZWORD_1": "Register",
+    "BUZZWORD_2": "Curriculum",
+    "BUZZWORD_3": "Syllabus",
+    "BUZZWORD_4": "Test ",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Cram",
+    "BUZZWORD_1": "Squeeze",
+    "BUZZWORD_2": "Learn ",
+    "BUZZWORD_3": "Speed",
+    "BUZZWORD_4": "Study",
+    "BUZZWORD_5": "Adderral"
+  },
+  {
+    "KEYWORD": "Credits",
+    "BUZZWORD_1": "Points",
+    "BUZZWORD_2": "Numbers",
+    "BUZZWORD_3": 123,
+    "BUZZWORD_4": "Graduate",
+    "BUZZWORD_5": "Major"
+  },
+  {
+    "KEYWORD": "Crown Forum",
+    "BUZZWORD_1": "Speakers",
+    "BUZZWORD_2": "Anne Watts",
+    "BUZZWORD_3": "Sunday",
+    "BUZZWORD_4": "Guest",
+    "BUZZWORD_5": "ID"
+  },
+  {
+    "KEYWORD": "Cum Laude",
+    "BUZZWORD_1": "Honors",
+    "BUZZWORD_2": "6 point 0",
+    "BUZZWORD_3": "Hard Work",
+    "BUZZWORD_4": "Morehouse",
+    "BUZZWORD_5": "Spelman "
+  },
+  {
+    "KEYWORD": "Curfew ",
+    "BUZZWORD_1": "Late ",
+    "BUZZWORD_2": "Time ",
+    "BUZZWORD_3": "Visitation",
+    "BUZZWORD_4": "Dorm",
+    "BUZZWORD_5": "Break"
+  },
+  {
+    "KEYWORD": "Curriculum",
+    "BUZZWORD_1": "Course ",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Learn",
+    "BUZZWORD_4": "Vitale",
+    "BUZZWORD_5": "Core"
+  },
+  {
+    "KEYWORD": "Curve",
+    "BUZZWORD_1": "Cheat",
+    "BUZZWORD_2": "Scale",
+    "BUZZWORD_3": "Easy",
+    "BUZZWORD_4": "High",
+    "BUZZWORD_5": "Grade"
+  },
+  {
+    "KEYWORD": "David Satcher ",
+    "BUZZWORD_1": "Health",
+    "BUZZWORD_2": "Physician",
+    "BUZZWORD_3": "Surgeon general",
+    "BUZZWORD_4": "Omega",
+    "BUZZWORD_5": "Admiral"
+  },
+  {
+    "KEYWORD": "Deadline",
+    "BUZZWORD_1": "Past",
+    "BUZZWORD_2": "Registration",
+    "BUZZWORD_3": "Application",
+    "BUZZWORD_4": "Submit",
+    "BUZZWORD_5": "Due"
+  },
+  {
+    "KEYWORD": "Dean",
+    "BUZZWORD_1": "Officer",
+    "BUZZWORD_2": "Students",
+    "BUZZWORD_3": "Office",
+    "BUZZWORD_4": "Pledges",
+    "BUZZWORD_5": "Discipline"
+  },
+  {
+    "KEYWORD": "Dean's List",
+    "BUZZWORD_1": "Honors",
+    "BUZZWORD_2": "Major",
+    "BUZZWORD_3": "Department",
+    "BUZZWORD_4": "Achievement",
+    "BUZZWORD_5": "GPA"
+  },
+  {
+    "KEYWORD": "Degree",
+    "BUZZWORD_1": "Sallie-Mae",
+    "BUZZWORD_2": "Bachelors",
+    "BUZZWORD_3": "Masters",
+    "BUZZWORD_4": "Doctorate",
+    "BUZZWORD_5": "Associates"
+  },
+  {
+    "KEYWORD": "Delta Sigma Theta",
+    "BUZZWORD_1": "Minerva",
+    "BUZZWORD_2": "Elephant",
+    "BUZZWORD_3": "Duck",
+    "BUZZWORD_4": "Pyramid",
+    "BUZZWORD_5": "Soror"
+  },
+  {
+    "KEYWORD": "Department",
+    "BUZZWORD_1": "Biology",
+    "BUZZWORD_2": "Chemistry",
+    "BUZZWORD_3": "Engineering",
+    "BUZZWORD_4": "Business",
+    "BUZZWORD_5": "Psychology"
+  },
+  {
+    "KEYWORD": "Diaspora",
+    "BUZZWORD_1": "African",
+    "BUZZWORD_2": "Culture",
+    "BUZZWORD_3": "Motherland",
+    "BUZZWORD_4": "Black",
+    "BUZZWORD_5": "Slave"
+  },
+  {
+    "KEYWORD": "Dirty South ",
+    "BUZZWORD_1": "Goodie Mob",
+    "BUZZWORD_2": "Field Mob",
+    "BUZZWORD_3": "Outkast",
+    "BUZZWORD_4": "Lil Jon",
+    "BUZZWORD_5": "Youngbloods"
+  },
+  {
+    "KEYWORD": "Dissertation",
+    "BUZZWORD_1": "Speech",
+    "BUZZWORD_2": "Defend",
+    "BUZZWORD_3": "Credit",
+    "BUZZWORD_4": "Graduation",
+    "BUZZWORD_5": "Words"
+  },
+  {
+    "KEYWORD": "Doctorate ",
+    "BUZZWORD_1": "Terminal",
+    "BUZZWORD_2": "Degree",
+    "BUZZWORD_3": "Credential",
+    "BUZZWORD_4": "Research",
+    "BUZZWORD_5": "Coursework"
+  },
+  {
+    "KEYWORD": "Donn Clendenon",
+    "BUZZWORD_1": "Baseball",
+    "BUZZWORD_2": "Negro",
+    "BUZZWORD_3": "League",
+    "BUZZWORD_4": "Jackie ",
+    "BUZZWORD_5": "Pirates"
+  },
+  {
+    "KEYWORD": "Donor",
+    "BUZZWORD_1": "Benefactor",
+    "BUZZWORD_2": "Giving",
+    "BUZZWORD_3": "Endowment",
+    "BUZZWORD_4": "Collect",
+    "BUZZWORD_5": "Level"
+  },
+  {
+    "KEYWORD": "Dorm",
+    "BUZZWORD_1": "Door",
+    "BUZZWORD_2": "Roommate",
+    "BUZZWORD_3": "Air",
+    "BUZZWORD_4": "Visitation",
+    "BUZZWORD_5": "Shower"
+  },
+  {
+    "KEYWORD": "Douglass Hall",
+    "BUZZWORD_1": "Study",
+    "BUZZWORD_2": "Finals",
+    "BUZZWORD_3": "Campus",
+    "BUZZWORD_4": "Center",
+    "BUZZWORD_5": "Quad"
+  },
+  {
+    "KEYWORD": "Drumline",
+    "BUZZWORD_1": "Nick Cannon",
+    "BUZZWORD_2": "Marching",
+    "BUZZWORD_3": "Band",
+    "BUZZWORD_4": "Battle",
+    "BUZZWORD_5": "Zoe Saldana"
+  },
+  {
+    "KEYWORD": "Dual-Degree",
+    "BUZZWORD_1": "Engineering",
+    "BUZZWORD_2": "Law",
+    "BUZZWORD_3": "Medicine",
+    "BUZZWORD_4": "Major",
+    "BUZZWORD_5": "School"
+  },
+  {
+    "KEYWORD": "Economics",
+    "BUZZWORD_1": "Adam Smith",
+    "BUZZWORD_2": "Keynes",
+    "BUZZWORD_3": "Micro",
+    "BUZZWORD_4": "Macro",
+    "BUZZWORD_5": "Demand"
+  },
+  {
+    "KEYWORD": "Edwin Moses",
+    "BUZZWORD_1": "Track ",
+    "BUZZWORD_2": "Running",
+    "BUZZWORD_3": "Olympian",
+    "BUZZWORD_4": "testing",
+    "BUZZWORD_5": "hurdles"
+  },
+  {
+    "KEYWORD": "Elective",
+    "BUZZWORD_1": "Interest",
+    "BUZZWORD_2": "Credit",
+    "BUZZWORD_3": "Cross-registration ",
+    "BUZZWORD_4": "Extra",
+    "BUZZWORD_5": "Requirement"
+  },
+  {
+    "KEYWORD": "Endowment ",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Giving",
+    "BUZZWORD_3": "Donor",
+    "BUZZWORD_4": "Fundraising",
+    "BUZZWORD_5": "Alumni"
+  },
+  {
+    "KEYWORD": "Engineering",
+    "BUZZWORD_1": "Dual-Degree",
+    "BUZZWORD_2": "Electrical ",
+    "BUZZWORD_3": "Mechanical",
+    "BUZZWORD_4": "Civic",
+    "BUZZWORD_5": "Dual-Degree"
+  },
+  {
+    "KEYWORD": "English",
+    "BUZZWORD_1": "USA",
+    "BUZZWORD_2": "Language ",
+    "BUZZWORD_3": "Requirement",
+    "BUZZWORD_4": "Major",
+    "BUZZWORD_5": "Literature"
+  },
+  {
+    "KEYWORD": "Enroll",
+    "BUZZWORD_1": "Register",
+    "BUZZWORD_2": "Deadline ",
+    "BUZZWORD_3": "School",
+    "BUZZWORD_4": "Late",
+    "BUZZWORD_5": "Code"
+  },
+  {
+    "KEYWORD": "Essay",
+    "BUZZWORD_1": "Paper",
+    "BUZZWORD_2": "Research",
+    "BUZZWORD_3": "Words",
+    "BUZZWORD_4": "Paragraph ",
+    "BUZZWORD_5": "Indent"
+  },
+  {
+    "KEYWORD": "Expel",
+    "BUZZWORD_1": "Quit",
+    "BUZZWORD_2": "Fail",
+    "BUZZWORD_3": "Wrong",
+    "BUZZWORD_4": "Behavior",
+    "BUZZWORD_5": "Kick"
+  },
+  {
+    "KEYWORD": "Faculty ",
+    "BUZZWORD_1": "Teacher",
+    "BUZZWORD_2": "Tenure",
+    "BUZZWORD_3": "Grade",
+    "BUZZWORD_4": "Administration ",
+    "BUZZWORD_5": "Office Hours"
+  },
+  {
+    "KEYWORD": "FAFSA",
+    "BUZZWORD_1": "Debt",
+    "BUZZWORD_2": "Financial Aid",
+    "BUZZWORD_3": "Loan",
+    "BUZZWORD_4": "Contribution",
+    "BUZZWORD_5": "Money"
+  },
+  {
+    "KEYWORD": "Underground",
+    "BUZZWORD_1": "Kings",
+    "BUZZWORD_2": "Beneath",
+    "BUZZWORD_3": "Greek",
+    "BUZZWORD_4": "Pledge",
+    "BUZZWORD_5": "Downtown"
+  },
+  {
+    "KEYWORD": "Fail",
+    "BUZZWORD_1": "F",
+    "BUZZWORD_2": "Flunk",
+    "BUZZWORD_3": "Repeat",
+    "BUZZWORD_4": "Drop",
+    "BUZZWORD_5": "Miss"
+  },
+  {
+    "KEYWORD": "Falcons",
+    "BUZZWORD_1": "Dirty Birds",
+    "BUZZWORD_2": "Football",
+    "BUZZWORD_3": "Mercedes-Benz",
+    "BUZZWORD_4": "Superbowl",
+    "BUZZWORD_5": "Stadium"
+  },
+  {
+    "KEYWORD": "Fees ",
+    "BUZZWORD_1": "Cost",
+    "BUZZWORD_2": "Tuition",
+    "BUZZWORD_3": "Registration",
+    "BUZZWORD_4": "Acceptance",
+    "BUZZWORD_5": "Housing"
+  },
+  {
+    "KEYWORD": "Finals ",
+    "BUZZWORD_1": "Exam",
+    "BUZZWORD_2": "Study",
+    "BUZZWORD_3": "Grade",
+    "BUZZWORD_4": "Take home",
+    "BUZZWORD_5": "Stress "
+  },
+  {
+    "KEYWORD": "Financial Aid",
+    "BUZZWORD_1": "Refund",
+    "BUZZWORD_2": "Lines",
+    "BUZZWORD_3": "Representative",
+    "BUZZWORD_4": "Award",
+    "BUZZWORD_5": "Balance"
+  },
+  {
+    "KEYWORD": "First Year ",
+    "BUZZWORD_1": "Freshman Orientation",
+    "BUZZWORD_2": "“Welcome to the House”",
+    "BUZZWORD_3": "Best",
+    "BUZZWORD_4": "Olive Branch",
+    "BUZZWORD_5": "New"
+  },
+  {
+    "KEYWORD": "Flash Drive ",
+    "BUZZWORD_1": "Store",
+    "BUZZWORD_2": "Information",
+    "BUZZWORD_3": "Data",
+    "BUZZWORD_4": "Plug",
+    "BUZZWORD_5": "Insert"
+  },
+  {
+    "KEYWORD": "Football",
+    "BUZZWORD_1": "Pigskin",
+    "BUZZWORD_2": "Touchdown",
+    "BUZZWORD_3": "Quarterback",
+    "BUZZWORD_4": "Linebacker",
+    "BUZZWORD_5": "Stadium"
+  },
+  {
+    "KEYWORD": "Freshman  ",
+    "BUZZWORD_1": "New",
+    "BUZZWORD_2": "Young",
+    "BUZZWORD_3": "Orientation",
+    "BUZZWORD_4": "Visitation",
+    "BUZZWORD_5": "First"
+  },
+  {
+    "KEYWORD": "Full Time",
+    "BUZZWORD_1": "Part",
+    "BUZZWORD_2": "Credit",
+    "BUZZWORD_3": "Hour",
+    "BUZZWORD_4": "Work",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "GDI",
+    "BUZZWORD_1": "God",
+    "BUZZWORD_2": "Damn",
+    "BUZZWORD_3": "Individual",
+    "BUZZWORD_4": "Independent",
+    "BUZZWORD_5": "Non-Greek"
+  },
+  {
+    "KEYWORD": "Georgia",
+    "BUZZWORD_1": "Peach",
+    "BUZZWORD_2": "Dome",
+    "BUZZWORD_3": "Atlanta",
+    "BUZZWORD_4": "South",
+    "BUZZWORD_5": "State"
+  },
+  {
+    "KEYWORD": "Georgia Dome",
+    "BUZZWORD_1": "Battle",
+    "BUZZWORD_2": "Falcons",
+    "BUZZWORD_3": "Bands ",
+    "BUZZWORD_4": "Classic",
+    "BUZZWORD_5": "FAMU"
+  },
+  {
+    "KEYWORD": "Glee Club",
+    "BUZZWORD_1": "Cheer",
+    "BUZZWORD_2": "Pep",
+    "BUZZWORD_3": "Spirit",
+    "BUZZWORD_4": "Excited",
+    "BUZZWORD_5": "Celebrate"
+  },
+  {
+    "KEYWORD": "Golf ",
+    "BUZZWORD_1": "Club",
+    "BUZZWORD_2": "Par",
+    "BUZZWORD_3": "Bougie",
+    "BUZZWORD_4": "Eagle",
+    "BUZZWORD_5": "Course"
+  },
+  {
+    "KEYWORD": "Grade",
+    "BUZZWORD_1": "Point",
+    "BUZZWORD_2": "Score",
+    "BUZZWORD_3": "Average",
+    "BUZZWORD_4": "Earn",
+    "BUZZWORD_5": "A"
+  },
+  {
+    "KEYWORD": "Grade Point Average",
+    "BUZZWORD_1": "High",
+    "BUZZWORD_2": "Number",
+    "BUZZWORD_3": "Minimum",
+    "BUZZWORD_4": "Weighted",
+    "BUZZWORD_5": "Major"
+  },
+  {
+    "KEYWORD": "Graduate ",
+    "BUZZWORD_1": "Student",
+    "BUZZWORD_2": "Degree",
+    "BUZZWORD_3": "Happens",
+    "BUZZWORD_4": "Requirements",
+    "BUZZWORD_5": "School"
+  },
+  {
+    "KEYWORD": "Grant",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Gift",
+    "BUZZWORD_3": "Free",
+    "BUZZWORD_4": "Scholarship",
+    "BUZZWORD_5": "Pell"
+  },
+  {
+    "KEYWORD": "Greek",
+    "BUZZWORD_1": "Pledge",
+    "BUZZWORD_2": "Rush",
+    "BUZZWORD_3": "Fraternity",
+    "BUZZWORD_4": "Sorority",
+    "BUZZWORD_5": "Service"
+  },
+  {
+    "KEYWORD": "Guru",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Elam",
+    "BUZZWORD_3": "Gang",
+    "BUZZWORD_4": "Starr",
+    "BUZZWORD_5": "Hip Hop"
+  },
+  {
+    "KEYWORD": "Gymnasium",
+    "BUZZWORD_1": "Court",
+    "BUZZWORD_2": "Play",
+    "BUZZWORD_3": "Stands",
+    "BUZZWORD_4": "Meet",
+    "BUZZWORD_5": "Ball"
+  },
+  {
+    "KEYWORD": "Hampton",
+    "BUZZWORD_1": "Pirates ",
+    "BUZZWORD_2": "HU",
+    "BUZZWORD_3": "School",
+    "BUZZWORD_4": "Virginia",
+    "BUZZWORD_5": "HBCU"
+  },
+  {
+    "KEYWORD": "Hawks",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "NBA",
+    "BUZZWORD_3": "Professional",
+    "BUZZWORD_4": "Trae Young ",
+    "BUZZWORD_5": "Philip Stadium "
+  },
+  {
+    "KEYWORD": "HBCU",
+    "BUZZWORD_1": "Black",
+    "BUZZWORD_2": "Institution",
+    "BUZZWORD_3": "PWI",
+    "BUZZWORD_4": "School",
+    "BUZZWORD_5": "Type"
+  },
+  {
+    "KEYWORD": "Herman Cain",
+    "BUZZWORD_1": "Godfather's Pizza",
+    "BUZZWORD_2": "Republican",
+    "BUZZWORD_3": "Presidential",
+    "BUZZWORD_4": "Candidate",
+    "BUZZWORD_5": "Political"
+  },
+  {
+    "KEYWORD": "Hidden Figures",
+    "BUZZWORD_1": "Taraji",
+    "BUZZWORD_2": "NASA",
+    "BUZZWORD_3": "Janelle Monae",
+    "BUZZWORD_4": "Space",
+    "BUZZWORD_5": "Math"
+  },
+  {
+    "KEYWORD": "Higher Education",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "University",
+    "BUZZWORD_3": "Bachelors",
+    "BUZZWORD_4": "Degree",
+    "BUZZWORD_5": "Post Graduate"
+  },
+  {
+    "KEYWORD": "Higher Learning",
+    "BUZZWORD_1": "University",
+    "BUZZWORD_2": "Omar Epps",
+    "BUZZWORD_3": "Ice Cube",
+    "BUZZWORD_4": "Tyra Banks",
+    "BUZZWORD_5": "John Singleton"
+  },
+  {
+    "KEYWORD": "Historical ",
+    "BUZZWORD_1": "Past",
+    "BUZZWORD_2": "Timeline",
+    "BUZZWORD_3": "Info",
+    "BUZZWORD_4": "Present",
+    "BUZZWORD_5": "Documentation"
+  },
+  {
+    "KEYWORD": "Homecoming ",
+    "BUZZWORD_1": "December",
+    "BUZZWORD_2": "Pretty Nasty",
+    "BUZZWORD_3": "Black & White",
+    "BUZZWORD_4": "Flights",
+    "BUZZWORD_5": "Hotel"
+  },
+  {
+    "KEYWORD": "Homework",
+    "BUZZWORD_1": "Practice",
+    "BUZZWORD_2": "Busy",
+    "BUZZWORD_3": "Extra",
+    "BUZZWORD_4": "Study",
+    "BUZZWORD_5": "Notebook"
+  },
+  {
+    "KEYWORD": "Honor Cord",
+    "BUZZWORD_1": "Tassel",
+    "BUZZWORD_2": "Honors ",
+    "BUZZWORD_3": "Society ",
+    "BUZZWORD_4": "Achievement",
+    "BUZZWORD_5": "Awards "
+  },
+  {
+    "KEYWORD": "Honors ",
+    "BUZZWORD_1": "Superior",
+    "BUZZWORD_2": 6,
+    "BUZZWORD_3": "GPA",
+    "BUZZWORD_4": "Grades",
+    "BUZZWORD_5": "Ranking"
+  },
+  {
+    "KEYWORD": "Howard Thurman",
+    "BUZZWORD_1": "Hall",
+    "BUZZWORD_2": "Crown",
+    "BUZZWORD_3": "Chapel",
+    "BUZZWORD_4": "Boston",
+    "BUZZWORD_5": "Rankin"
+  },
+  {
+    "KEYWORD": "Humanities ",
+    "BUZZWORD_1": "Social",
+    "BUZZWORD_2": "Sciences",
+    "BUZZWORD_3": "Prerequisite",
+    "BUZZWORD_4": "Class",
+    "BUZZWORD_5": "Course"
+  },
+  {
+    "KEYWORD": "Hump Wednesday",
+    "BUZZWORD_1": "Stroll",
+    "BUZZWORD_2": "Hop",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Morehouse",
+    "BUZZWORD_5": "Greek"
+  },
+  {
+    "KEYWORD": "Hunch Punch",
+    "BUZZWORD_1": "Faded",
+    "BUZZWORD_2": "Juice",
+    "BUZZWORD_3": "Liquor",
+    "BUZZWORD_4": "House Party",
+    "BUZZWORD_5": "Mix"
+  },
+  {
+    "KEYWORD": "In-State",
+    "BUZZWORD_1": "Commuter",
+    "BUZZWORD_2": "Grant",
+    "BUZZWORD_3": "Cheap",
+    "BUZZWORD_4": "Homebody",
+    "BUZZWORD_5": "Tuition"
+  },
+  {
+    "KEYWORD": "Incomplete",
+    "BUZZWORD_1": "Finish",
+    "BUZZWORD_2": "Half",
+    "BUZZWORD_3": "Early",
+    "BUZZWORD_4": "Undone",
+    "BUZZWORD_5": "Non-Pass"
+  },
+  {
+    "KEYWORD": "Intercollegiate",
+    "BUZZWORD_1": "Athletics",
+    "BUZZWORD_2": "Network",
+    "BUZZWORD_3": "System",
+    "BUZZWORD_4": "Group",
+    "BUZZWORD_5": "Universities"
+  },
+  {
+    "KEYWORD": "Intramurals",
+    "BUZZWORD_1": "Games",
+    "BUZZWORD_2": "Fun ",
+    "BUZZWORD_3": "Competition",
+    "BUZZWORD_4": "Pennys",
+    "BUZZWORD_5": "Play"
+  },
+  {
+    "KEYWORD": "Iota Phi Theta",
+    "BUZZWORD_1": "Centaur",
+    "BUZZWORD_2": "Brown",
+    "BUZZWORD_3": 1965,
+    "BUZZWORD_4": "Newton",
+    "BUZZWORD_5": "NPHC"
+  },
+  {
+    "KEYWORD": "Fulton County",
+    "BUZZWORD_1": "Atlanta ",
+    "BUZZWORD_2": "Cobb",
+    "BUZZWORD_3": "DeKalb",
+    "BUZZWORD_4": "Gwinett",
+    "BUZZWORD_5": "Designation"
+  },
+  {
+    "KEYWORD": "Jeh Johnson",
+    "BUZZWORD_1": "Obama",
+    "BUZZWORD_2": "Counterterrorism",
+    "BUZZWORD_3": "Homeland",
+    "BUZZWORD_4": "Secretary",
+    "BUZZWORD_5": "Russia"
+  },
+  {
+    "KEYWORD": "John David Washington",
+    "BUZZWORD_1": "Actor",
+    "BUZZWORD_2": "Denzel",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Rusher",
+    "BUZZWORD_5": "Ballers"
+  },
+  {
+    "KEYWORD": "John Silvanus Wilson",
+    "BUZZWORD_1": "White House",
+    "BUZZWORD_2": "Diversity",
+    "BUZZWORD_3": "President ",
+    "BUZZWORD_4": "Harvard",
+    "BUZZWORD_5": "MIT"
+  },
+  {
+    "KEYWORD": "Julian Bond",
+    "BUZZWORD_1": "Civil Rights",
+    "BUZZWORD_2": "NAACP",
+    "BUZZWORD_3": "SNCC",
+    "BUZZWORD_4": "John Lewis",
+    "BUZZWORD_5": "Activist"
+  },
+  {
+    "KEYWORD": "Junior",
+    "BUZZWORD_1": "Three",
+    "BUZZWORD_2": "Close",
+    "BUZZWORD_3": "Senior",
+    "BUZZWORD_4": "Finish",
+    "BUZZWORD_5": "Upperclassman"
+  },
+  {
+    "KEYWORD": "Kappa Alpha Psi",
+    "BUZZWORD_1": "Yo",
+    "BUZZWORD_2": "Nupe",
+    "BUZZWORD_3": "Shimmy",
+    "BUZZWORD_4": "Cane",
+    "BUZZWORD_5": "Vipers"
+  },
+  {
+    "KEYWORD": "Kickback",
+    "BUZZWORD_1": "Gathering",
+    "BUZZWORD_2": "Party",
+    "BUZZWORD_3": "Laidback",
+    "BUZZWORD_4": "Chill",
+    "BUZZWORD_5": "Friends"
+  },
+  {
+    "KEYWORD": "Lab",
+    "BUZZWORD_1": "Science",
+    "BUZZWORD_2": "Learn",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Experiment",
+    "BUZZWORD_5": "Test"
+  },
+  {
+    "KEYWORD": "Land Grant ",
+    "BUZZWORD_1": 1892,
+    "BUZZWORD_2": "Morrill Act",
+    "BUZZWORD_3": "Endow",
+    "BUZZWORD_4": "Agriculture",
+    "BUZZWORD_5": "Congress"
+  },
+  {
+    "KEYWORD": "Laptop",
+    "BUZZWORD_1": "Computer",
+    "BUZZWORD_2": "Machine",
+    "BUZZWORD_3": "Apple",
+    "BUZZWORD_4": "PC",
+    "BUZZWORD_5": "Wi-Fi"
+  },
+  {
+    "KEYWORD": "Latex",
+    "BUZZWORD_1": "Party",
+    "BUZZWORD_2": "Louisiana",
+    "BUZZWORD_3": "Texas",
+    "BUZZWORD_4": "Condom",
+    "BUZZWORD_5": "Foam"
+  },
+  {
+    "KEYWORD": "Lecture",
+    "BUZZWORD_1": "Speech",
+    "BUZZWORD_2": "Professor",
+    "BUZZWORD_3": "Talk",
+    "BUZZWORD_4": "Podium",
+    "BUZZWORD_5": "Hall"
+  },
+  {
+    "KEYWORD": "Legacy ",
+    "BUZZWORD_1": "Family",
+    "BUZZWORD_2": "After",
+    "BUZZWORD_3": "Future",
+    "BUZZWORD_4": "Memorials",
+    "BUZZWORD_5": "Heritage"
+  },
+  {
+    "KEYWORD": "Lerone Bennett Jr ",
+    "BUZZWORD_1": "Columbus",
+    "BUZZWORD_2": "Ebony",
+    "BUZZWORD_3": "Historian",
+    "BUZZWORD_4": "Johnson",
+    "BUZZWORD_5": "Mayflower"
+  },
+  {
+    "KEYWORD": "Leroy Johnson",
+    "BUZZWORD_1": "Senator",
+    "BUZZWORD_2": "General Assembly",
+    "BUZZWORD_3": "Georgia",
+    "BUZZWORD_4": 1964,
+    "BUZZWORD_5": "Election"
+  },
+  {
+    "KEYWORD": "Liberal Arts ",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "Studies",
+    "BUZZWORD_3": "Social",
+    "BUZZWORD_4": "Conservative",
+    "BUZZWORD_5": "Type"
+  },
+  {
+    "KEYWORD": "Loans ",
+    "BUZZWORD_1": "Sallie",
+    "BUZZWORD_2": "Mae",
+    "BUZZWORD_3": "Private",
+    "BUZZWORD_4": "Federal",
+    "BUZZWORD_5": "Student"
+  },
+  {
+    "KEYWORD": "Magna Cum Laude",
+    "BUZZWORD_1": "GPA",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Earn",
+    "BUZZWORD_4": "Sum",
+    "BUZZWORD_5": "Highest"
+  },
+  {
+    "KEYWORD": "Major ",
+    "BUZZWORD_1": "Minor",
+    "BUZZWORD_2": "Drum",
+    "BUZZWORD_3": "Arm",
+    "BUZZWORD_4": "Key",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Marching Band ",
+    "BUZZWORD_1": "Music",
+    "BUZZWORD_2": "Instruments",
+    "BUZZWORD_3": "Game",
+    "BUZZWORD_4": "Sound",
+    "BUZZWORD_5": "Drums"
+  },
+  {
+    "KEYWORD": "Market Friday",
+    "BUZZWORD_1": "A-Rho",
+    "BUZZWORD_2": "Vendor",
+    "BUZZWORD_3": "Stroll",
+    "BUZZWORD_4": "Hop",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "Maroon and White",
+    "BUZZWORD_1": "Morehouse",
+    "BUZZWORD_2": "Spelman",
+    "BUZZWORD_3": "Corrine",
+    "BUZZWORD_4": "Court",
+    "BUZZWORD_5": "Queen"
+  },
+  {
+    "KEYWORD": "MARTA",
+    "BUZZWORD_1": "Train",
+    "BUZZWORD_2": "City",
+    "BUZZWORD_3": "Danger",
+    "BUZZWORD_4": "Airport",
+    "BUZZWORD_5": "Freshmen"
+  },
+  {
+    "KEYWORD": "Martin Luther King Jr.",
+    "BUZZWORD_1": "I Have a Dream",
+    "BUZZWORD_2": "Civil Rights",
+    "BUZZWORD_3": "Monument",
+    "BUZZWORD_4": "Malcolm X",
+    "BUZZWORD_5": "Coretta"
+  },
+  {
+    "KEYWORD": "Masters ",
+    "BUZZWORD_1": "Graduate",
+    "BUZZWORD_2": "Undergrad",
+    "BUZZWORD_3": "After",
+    "BUZZWORD_4": "Advanced",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Math",
+    "BUZZWORD_1": "Algebra",
+    "BUZZWORD_2": "Trig",
+    "BUZZWORD_3": "Addition",
+    "BUZZWORD_4": "Subtraction",
+    "BUZZWORD_5": "Division"
+  },
+  {
+    "KEYWORD": "Matriculate",
+    "BUZZWORD_1": "Register ",
+    "BUZZWORD_2": "Begin",
+    "BUZZWORD_3": "Enrolled",
+    "BUZZWORD_4": "Enter ",
+    "BUZZWORD_5": "Join"
+  },
+  {
+    "KEYWORD": "Maynard Jackson",
+    "BUZZWORD_1": "Mayor",
+    "BUZZWORD_2": 1958,
+    "BUZZWORD_3": "Atlanta",
+    "BUZZWORD_4": "Alpha",
+    "BUZZWORD_5": "A-Rho"
+  },
+  {
+    "KEYWORD": "MBA",
+    "BUZZWORD_1": "Business",
+    "BUZZWORD_2": "Graduate",
+    "BUZZWORD_3": "Advanced",
+    "BUZZWORD_4": "Entrepreneur",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "MCAT",
+    "BUZZWORD_1": "Med School",
+    "BUZZWORD_2": "Biology Major",
+    "BUZZWORD_3": "Doctor ",
+    "BUZZWORD_4": "Intelligent",
+    "BUZZWORD_5": "Difficult"
+  },
+  {
+    "KEYWORD": "Midterms",
+    "BUZZWORD_1": "Exam",
+    "BUZZWORD_2": "Woody",
+    "BUZZWORD_3": "Test",
+    "BUZZWORD_4": "Middle",
+    "BUZZWORD_5": "Semester"
+  },
+  {
+    "KEYWORD": "Minor ",
+    "BUZZWORD_1": "Major",
+    "BUZZWORD_2": "Specialty",
+    "BUZZWORD_3": "Information",
+    "BUZZWORD_4": "Additional",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Miss Maroon and White",
+    "BUZZWORD_1": "Pageant",
+    "BUZZWORD_2": "Queen",
+    "BUZZWORD_3": "Court",
+    "BUZZWORD_4": "Beauty",
+    "BUZZWORD_5": "Parade"
+  },
+  {
+    "KEYWORD": "Mission Statement",
+    "BUZZWORD_1": "Purpose",
+    "BUZZWORD_2": "Goal",
+    "BUZZWORD_3": "Objective",
+    "BUZZWORD_4": "Do ",
+    "BUZZWORD_5": "State"
+  },
+  {
+    "KEYWORD": "Morehouse",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Institution",
+    "BUZZWORD_4": "Went",
+    "BUZZWORD_5": "Maroon"
+  },
+  {
+    "KEYWORD": "Morris Brown",
+    "BUZZWORD_1": "AUC",
+    "BUZZWORD_2": "College",
+    "BUZZWORD_3": "Marching Band",
+    "BUZZWORD_4": "Purple",
+    "BUZZWORD_5": "Wolverines"
+  },
+  {
+    "KEYWORD": "Morris Brown ",
+    "BUZZWORD_1": "Closed",
+    "BUZZWORD_2": "Not Accredited ",
+    "BUZZWORD_3": "Band",
+    "BUZZWORD_4": "Skip Mason",
+    "BUZZWORD_5": "Purple"
+  },
+  {
+    "KEYWORD": "Mortar Board",
+    "BUZZWORD_1": "Black",
+    "BUZZWORD_2": "Hat",
+    "BUZZWORD_3": "Tassle",
+    "BUZZWORD_4": "Robe",
+    "BUZZWORD_5": "Attire"
+  },
+  {
+    "KEYWORD": "Mrs. Winner's",
+    "BUZZWORD_1": "Biscuit",
+    "BUZZWORD_2": "Dinner",
+    "BUZZWORD_3": "Wing Special",
+    "BUZZWORD_4": "Sweet Tea",
+    "BUZZWORD_5": "Fried Chicken "
+  },
+  {
+    "KEYWORD": "NAACP",
+    "BUZZWORD_1": "National",
+    "BUZZWORD_2": "African",
+    "BUZZWORD_3": "Association",
+    "BUZZWORD_4": "Colored",
+    "BUZZWORD_5": "People"
+  },
+  {
+    "KEYWORD": "Network ",
+    "BUZZWORD_1": "Professional",
+    "BUZZWORD_2": "Talk",
+    "BUZZWORD_3": "Business",
+    "BUZZWORD_4": "Meet",
+    "BUZZWORD_5": "Connect"
+  },
+  {
+    "KEYWORD": "Newspaper",
+    "BUZZWORD_1": "Maroon Tiger",
+    "BUZZWORD_2": "22 Questions",
+    "BUZZWORD_3": "Election",
+    "BUZZWORD_4": "Weekly",
+    "BUZZWORD_5": "Editor"
+  },
+  {
+    "KEYWORD": "Notebook",
+    "BUZZWORD_1": "Paper",
+    "BUZZWORD_2": "Writing",
+    "BUZZWORD_3": "Lines",
+    "BUZZWORD_4": "Binder",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "NPHC",
+    "BUZZWORD_1": "Greeks",
+    "BUZZWORD_2": "Delta",
+    "BUZZWORD_3": "Alpha",
+    "BUZZWORD_4": "Sigma",
+    "BUZZWORD_5": "Kappa"
+  },
+  {
+    "KEYWORD": "Office Hours",
+    "BUZZWORD_1": "Graduate Assistant",
+    "BUZZWORD_2": "Meeting",
+    "BUZZWORD_3": "Teacher",
+    "BUZZWORD_4": "Learning ",
+    "BUZZWORD_5": "Help"
+  },
+  {
+    "KEYWORD": "Omega Psi Phi",
+    "BUZZWORD_1": "Oil",
+    "BUZZWORD_2": "Hop",
+    "BUZZWORD_3": "Roo",
+    "BUZZWORD_4": "Dog ",
+    "BUZZWORD_5": "Purple and Gold"
+  },
+  {
+    "KEYWORD": "Oprah",
+    "BUZZWORD_1": "Scholar",
+    "BUZZWORD_2": "Men",
+    "BUZZWORD_3": "Stedman",
+    "BUZZWORD_4": "Beloved",
+    "BUZZWORD_5": "Color Purple"
+  },
+  {
+    "KEYWORD": "Organization",
+    "BUZZWORD_1": "Greek",
+    "BUZZWORD_2": "Club",
+    "BUZZWORD_3": "Group",
+    "BUZZWORD_4": "Members",
+    "BUZZWORD_5": "People"
+  },
+  {
+    "KEYWORD": "Orientation ",
+    "BUZZWORD_1": "New",
+    "BUZZWORD_2": "Freshman",
+    "BUZZWORD_3": "Tour",
+    "BUZZWORD_4": "School",
+    "BUZZWORD_5": "Introduction"
+  },
+  {
+    "KEYWORD": "Otis Moss, III",
+    "BUZZWORD_1": "Trinity",
+    "BUZZWORD_2": "Church",
+    "BUZZWORD_3": "Pastor",
+    "BUZZWORD_4": "Reverend ",
+    "BUZZWORD_5": "Fiath"
+  },
+  {
+    "KEYWORD": "Out-of-State",
+    "BUZZWORD_1": "Expensive",
+    "BUZZWORD_2": "Tuition",
+    "BUZZWORD_3": "Homesick",
+    "BUZZWORD_4": "Care Package",
+    "BUZZWORD_5": "X-Fare"
+  },
+  {
+    "KEYWORD": "Panama Jackson",
+    "BUZZWORD_1": "VSB",
+    "BUZZWORD_2": "Blogger",
+    "BUZZWORD_3": "Writer",
+    "BUZZWORD_4": "Culture",
+    "BUZZWORD_5": "Damon"
+  },
+  {
+    "KEYWORD": "Part Time",
+    "BUZZWORD_1": "Full ",
+    "BUZZWORD_2": "Credits",
+    "BUZZWORD_3": "Fewer",
+    "BUZZWORD_4": "Classes",
+    "BUZZWORD_5": "Hours"
+  },
+  {
+    "KEYWORD": "Parties",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Fun",
+    "BUZZWORD_3": "Celebrate",
+    "BUZZWORD_4": "Drink",
+    "BUZZWORD_5": "Eat"
+  },
+  {
+    "KEYWORD": "Pass",
+    "BUZZWORD_1": "Fail",
+    "BUZZWORD_2": "Test",
+    "BUZZWORD_3": "Study",
+    "BUZZWORD_4": "Exam",
+    "BUZZWORD_5": "Grade"
+  },
+  {
+    "KEYWORD": "Paul Judge",
+    "BUZZWORD_1": "Technology",
+    "BUZZWORD_2": "Engineer",
+    "BUZZWORD_3": "Pindrop",
+    "BUZZWORD_4": "Entrepeneur",
+    "BUZZWORD_5": "Inventor"
+  },
+  {
+    "KEYWORD": "Peachtree",
+    "BUZZWORD_1": "Road",
+    "BUZZWORD_2": "Street",
+    "BUZZWORD_3": "Boulevard",
+    "BUZZWORD_4": "Avenue ",
+    "BUZZWORD_5": "Lane"
+  },
+  {
+    "KEYWORD": "Pell Grant",
+    "BUZZWORD_1": 5002,
+    "BUZZWORD_2": "Need",
+    "BUZZWORD_3": "Eligible",
+    "BUZZWORD_4": "Pay",
+    "BUZZWORD_5": "Fees"
+  },
+  {
+    "KEYWORD": "Pens",
+    "BUZZWORD_1": "Ink",
+    "BUZZWORD_2": "Write",
+    "BUZZWORD_3": "Pencil",
+    "BUZZWORD_4": "Writing",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Phi Beta Kappa",
+    "BUZZWORD_1": "Honors",
+    "BUZZWORD_2": "Academic",
+    "BUZZWORD_3": "GPA",
+    "BUZZWORD_4": "Top",
+    "BUZZWORD_5": "Smart"
+  },
+  {
+    "KEYWORD": "Phi Beta SIgma",
+    "BUZZWORD_1": "Blue",
+    "BUZZWORD_2": "Smurf",
+    "BUZZWORD_3": "Zeta",
+    "BUZZWORD_4": "You Know",
+    "BUZZWORD_5": "Cane"
+  },
+  {
+    "KEYWORD": "Philosophy",
+    "BUZZWORD_1": "Theory",
+    "BUZZWORD_2": "Belief",
+    "BUZZWORD_3": "Ideas",
+    "BUZZWORD_4": "Think",
+    "BUZZWORD_5": "Ponder"
+  },
+  {
+    "KEYWORD": "Plagiarism ",
+    "BUZZWORD_1": "Copy",
+    "BUZZWORD_2": "Cheat ",
+    "BUZZWORD_3": "Steal",
+    "BUZZWORD_4": "Write",
+    "BUZZWORD_5": "Words"
+  },
+  {
+    "KEYWORD": "Political Science",
+    "BUZZWORD_1": "Law School",
+    "BUZZWORD_2": "Tobe ",
+    "BUZZWORD_3": "Johnson",
+    "BUZZWORD_4": "Government",
+    "BUZZWORD_5": "LSAT"
+  },
+  {
+    "KEYWORD": "Practice ",
+    "BUZZWORD_1": "Course",
+    "BUZZWORD_2": "Test",
+    "BUZZWORD_3": "Before",
+    "BUZZWORD_4": "Prepare",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Pregame",
+    "BUZZWORD_1": "Pace",
+    "BUZZWORD_2": "Alcohol",
+    "BUZZWORD_3": "Mingle",
+    "BUZZWORD_4": "Mix",
+    "BUZZWORD_5": "Conversation"
+  },
+  {
+    "KEYWORD": "Prerequisite ",
+    "BUZZWORD_1": "Pre-Cal",
+    "BUZZWORD_2": "Before",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Associates",
+    "BUZZWORD_5": "Major"
+  },
+  {
+    "KEYWORD": "President ",
+    "BUZZWORD_1": "Executive",
+    "BUZZWORD_2": "Leader",
+    "BUZZWORD_3": "Obama",
+    "BUZZWORD_4": "Head",
+    "BUZZWORD_5": "Position"
+  },
+  {
+    "KEYWORD": "Probate",
+    "BUZZWORD_1": "Intro",
+    "BUZZWORD_2": "Info",
+    "BUZZWORD_3": "Greeting",
+    "BUZZWORD_4": "Step",
+    "BUZZWORD_5": "Greek"
+  },
+  {
+    "KEYWORD": "Professor",
+    "BUZZWORD_1": "Teacher",
+    "BUZZWORD_2": "Class",
+    "BUZZWORD_3": "Learn",
+    "BUZZWORD_4": "Lead",
+    "BUZZWORD_5": "Faciliate"
+  },
+  {
+    "KEYWORD": "Project ",
+    "BUZZWORD_1": "Group",
+    "BUZZWORD_2": "Work",
+    "BUZZWORD_3": "Accomplish",
+    "BUZZWORD_4": "Lesson",
+    "BUZZWORD_5": "Present"
+  },
+  {
+    "KEYWORD": "Promoters",
+    "BUZZWORD_1": "Dream team",
+    "BUZZWORD_2": "Hitt Squad",
+    "BUZZWORD_3": "NVUS",
+    "BUZZWORD_4": "T-14",
+    "BUZZWORD_5": "Ego Ent"
+  },
+  {
+    "KEYWORD": "Public Safety",
+    "BUZZWORD_1": "Booth",
+    "BUZZWORD_2": "Whistle",
+    "BUZZWORD_3": "Rubber Bands ",
+    "BUZZWORD_4": "Cautious",
+    "BUZZWORD_5": "Alert"
+  },
+  {
+    "KEYWORD": "Quad",
+    "BUZZWORD_1": "Middle",
+    "BUZZWORD_2": "Grass",
+    "BUZZWORD_3": "Four",
+    "BUZZWORD_4": "Dorm",
+    "BUZZWORD_5": "Plot"
+  },
+  {
+    "KEYWORD": "Quiz",
+    "BUZZWORD_1": "Pop",
+    "BUZZWORD_2": "Test",
+    "BUZZWORD_3": "Grade",
+    "BUZZWORD_4": "Surprise",
+    "BUZZWORD_5": "Questions"
+  },
+  {
+    "KEYWORD": "Ramen Noodles",
+    "BUZZWORD_1": "Hot Water",
+    "BUZZWORD_2": "Chicken Flavor",
+    "BUZZWORD_3": "Broke",
+    "BUZZWORD_4": "Cheap",
+    "BUZZWORD_5": "Water"
+  },
+  {
+    "KEYWORD": "Recommendations",
+    "BUZZWORD_1": "Referral",
+    "BUZZWORD_2": "Suggestion",
+    "BUZZWORD_3": "Ask",
+    "BUZZWORD_4": "Nomination",
+    "BUZZWORD_5": "Positive"
+  },
+  {
+    "KEYWORD": "Recruitment",
+    "BUZZWORD_1": "Seek",
+    "BUZZWORD_2": "Bring",
+    "BUZZWORD_3": "Students",
+    "BUZZWORD_4": "New",
+    "BUZZWORD_5": "Talent"
+  },
+  {
+    "KEYWORD": "Registration",
+    "BUZZWORD_1": "Sign",
+    "BUZZWORD_2": "Class",
+    "BUZZWORD_3": "Select",
+    "BUZZWORD_4": "Up",
+    "BUZZWORD_5": "Late"
+  },
+  {
+    "KEYWORD": "Renaissance ",
+    "BUZZWORD_1": "Harlem",
+    "BUZZWORD_2": "Arts",
+    "BUZZWORD_3": "Movement",
+    "BUZZWORD_4": "Era",
+    "BUZZWORD_5": "Painting"
+  },
+  {
+    "KEYWORD": "Requirement",
+    "BUZZWORD_1": "Standards",
+    "BUZZWORD_2": "Meet",
+    "BUZZWORD_3": "Rules",
+    "BUZZWORD_4": "Bar",
+    "BUZZWORD_5": "Set"
+  },
+  {
+    "KEYWORD": "Research ",
+    "BUZZWORD_1": "Look",
+    "BUZZWORD_2": "Information",
+    "BUZZWORD_3": "Development",
+    "BUZZWORD_4": "Read",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Resident Assistant",
+    "BUZZWORD_1": "Upperclassmen",
+    "BUZZWORD_2": "Dorm",
+    "BUZZWORD_3": "Live",
+    "BUZZWORD_4": "Free",
+    "BUZZWORD_5": "Room"
+  },
+  {
+    "KEYWORD": "Rhodes Scholar ",
+    "BUZZWORD_1": "Oxford",
+    "BUZZWORD_2": "Accomplishment",
+    "BUZZWORD_3": "Year",
+    "BUZZWORD_4": "Selected",
+    "BUZZWORD_5": "Europe"
+  },
+  {
+    "KEYWORD": "Room and Board",
+    "BUZZWORD_1": "Fee",
+    "BUZZWORD_2": "On-Campus",
+    "BUZZWORD_3": "Stay",
+    "BUZZWORD_4": "Dorm",
+    "BUZZWORD_5": "Live"
+  },
+  {
+    "KEYWORD": "Roommate ",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Friend",
+    "BUZZWORD_3": "Bed",
+    "BUZZWORD_4": "Space",
+    "BUZZWORD_5": "Share"
+  },
+  {
+    "KEYWORD": "Rugby",
+    "BUZZWORD_1": "Sport",
+    "BUZZWORD_2": "Field",
+    "BUZZWORD_3": "Contact",
+    "BUZZWORD_4": "Ball",
+    "BUZZWORD_5": "Push"
+  },
+  {
+    "KEYWORD": "Rush",
+    "BUZZWORD_1": "Alpha",
+    "BUZZWORD_2": "Kappa ",
+    "BUZZWORD_3": "Omega",
+    "BUZZWORD_4": "Sigma",
+    "BUZZWORD_5": "Interest"
+  },
+  {
+    "KEYWORD": "S. Martin Luther King Blvd.",
+    "BUZZWORD_1": "FAMU",
+    "BUZZWORD_2": "Florida",
+    "BUZZWORD_3": "Street",
+    "BUZZWORD_4": "Restaurants",
+    "BUZZWORD_5": "Ride"
+  },
+  {
+    "KEYWORD": "Samuel L. Jackson",
+    "BUZZWORD_1": "Shaft",
+    "BUZZWORD_2": "Snakes",
+    "BUZZWORD_3": "Pulp Fiction",
+    "BUZZWORD_4": "Frozone",
+    "BUZZWORD_5": "Kangol"
+  },
+  {
+    "KEYWORD": "Sanford Bishop",
+    "BUZZWORD_1": "Democrat",
+    "BUZZWORD_2": "Congress",
+    "BUZZWORD_3": "Representative ",
+    "BUZZWORD_4": "Government",
+    "BUZZWORD_5": "Georgia "
+  },
+  {
+    "KEYWORD": "Scholarship",
+    "BUZZWORD_1": "Grades",
+    "BUZZWORD_2": "ACT ",
+    "BUZZWORD_3": "MON",
+    "BUZZWORD_4": "Money",
+    "BUZZWORD_5": "Free"
+  },
+  {
+    "KEYWORD": "School Daze",
+    "BUZZWORD_1": "Gamma",
+    "BUZZWORD_2": "Half Pint",
+    "BUZZWORD_3": "Dap",
+    "BUZZWORD_4": "Spike Lee",
+    "BUZZWORD_5": "Jiggaboo"
+  },
+  {
+    "KEYWORD": "Sciences",
+    "BUZZWORD_1": "STEM",
+    "BUZZWORD_2": "Biology",
+    "BUZZWORD_3": "Chemistry",
+    "BUZZWORD_4": "Physics",
+    "BUZZWORD_5": "Botany"
+  },
+  {
+    "KEYWORD": "Senior",
+    "BUZZWORD_1": "Junior",
+    "BUZZWORD_2": "Freshman",
+    "BUZZWORD_3": "Top",
+    "BUZZWORD_4": "Last",
+    "BUZZWORD_5": "Year"
+  },
+  {
+    "KEYWORD": "Senior Week",
+    "BUZZWORD_1": "Black Party ",
+    "BUZZWORD_2": "Farewell",
+    "BUZZWORD_3": "Party",
+    "BUZZWORD_4": "Last Hurrah",
+    "BUZZWORD_5": "Last time"
+  },
+  {
+    "KEYWORD": "SGA",
+    "BUZZWORD_1": "Secret Society",
+    "BUZZWORD_2": "Election",
+    "BUZZWORD_3": "President",
+    "BUZZWORD_4": "Campaign",
+    "BUZZWORD_5": "Event"
+  },
+  {
+    "KEYWORD": "Shakir Stewart",
+    "BUZZWORD_1": "Def Jam",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Executive",
+    "BUZZWORD_4": "Industry",
+    "BUZZWORD_5": "Entertainment"
+  },
+  {
+    "KEYWORD": "Shuttle",
+    "BUZZWORD_1": "Freshman",
+    "BUZZWORD_2": "Ride",
+    "BUZZWORD_3": "Lift",
+    "BUZZWORD_4": "Go",
+    "BUZZWORD_5": "Van"
+  },
+  {
+    "KEYWORD": "SIAC",
+    "BUZZWORD_1": "Southern",
+    "BUZZWORD_2": "Intercollegiate",
+    "BUZZWORD_3": "Athletic",
+    "BUZZWORD_4": "Conference",
+    "BUZZWORD_5": "Sports"
+  },
+  {
+    "KEYWORD": "Sigma Gamma Rho",
+    "BUZZWORD_1": "Poodle",
+    "BUZZWORD_2": "Yellow",
+    "BUZZWORD_3": "Blue",
+    "BUZZWORD_4": "Greek",
+    "BUZZWORD_5": "Divine 11"
+  },
+  {
+    "KEYWORD": "Social Studies",
+    "BUZZWORD_1": "History",
+    "BUZZWORD_2": "Math",
+    "BUZZWORD_3": "English",
+    "BUZZWORD_4": "Elective",
+    "BUZZWORD_5": "Subject"
+  },
+  {
+    "KEYWORD": "Sophomore",
+    "BUZZWORD_1": "Second",
+    "BUZZWORD_2": "Year",
+    "BUZZWORD_3": "Freshman",
+    "BUZZWORD_4": "Junior",
+    "BUZZWORD_5": "Senior"
+  },
+  {
+    "KEYWORD": "Sorority",
+    "BUZZWORD_1": "Pledge ",
+    "BUZZWORD_2": "Study",
+    "BUZZWORD_3": "Sister",
+    "BUZZWORD_4": "Show",
+    "BUZZWORD_5": "Step"
+  },
+  {
+    "KEYWORD": "Spelman",
+    "BUZZWORD_1": "Columbia",
+    "BUZZWORD_2": "Blue",
+    "BUZZWORD_3": "Women's College",
+    "BUZZWORD_4": "Sister",
+    "BUZZWORD_5": "Across"
+  },
+  {
+    "KEYWORD": "Spike Lee",
+    "BUZZWORD_1": "Movie",
+    "BUZZWORD_2": "Shorty",
+    "BUZZWORD_3": "Malcolm X",
+    "BUZZWORD_4": "School Daze ",
+    "BUZZWORD_5": "Gotta Have It "
+  },
+  {
+    "KEYWORD": "Spring Break ",
+    "BUZZWORD_1": "Miami",
+    "BUZZWORD_2": "Refund Check",
+    "BUZZWORD_3": "Party",
+    "BUZZWORD_4": "Beach",
+    "BUZZWORD_5": "Travel"
+  },
+  {
+    "KEYWORD": "Stadium",
+    "BUZZWORD_1": "Football",
+    "BUZZWORD_2": "Stands",
+    "BUZZWORD_3": "Play",
+    "BUZZWORD_4": "Sports",
+    "BUZZWORD_5": "Field"
+  },
+  {
+    "KEYWORD": "Staff",
+    "BUZZWORD_1": "Members",
+    "BUZZWORD_2": "Faculty",
+    "BUZZWORD_3": "Faciliatate",
+    "BUZZWORD_4": "Run",
+    "BUZZWORD_5": "School"
+  },
+  {
+    "KEYWORD": "Stegall's",
+    "BUZZWORD_1": "The Strip",
+    "BUZZWORD_2": "Wing on Wheat",
+    "BUZZWORD_3": "Tongue",
+    "BUZZWORD_4": "Hand",
+    "BUZZWORD_5": "Window"
+  },
+  {
+    "KEYWORD": "STEM ",
+    "BUZZWORD_1": "Science",
+    "BUZZWORD_2": "Technology",
+    "BUZZWORD_3": "Engineering",
+    "BUZZWORD_4": "Math",
+    "BUZZWORD_5": "Arts"
+  },
+  {
+    "KEYWORD": "Step Show",
+    "BUZZWORD_1": "Homecoming ",
+    "BUZZWORD_2": "Fraternities ",
+    "BUZZWORD_3": "Theme",
+    "BUZZWORD_4": "Sorority",
+    "BUZZWORD_5": "Prize"
+  },
+  {
+    "KEYWORD": "DeKalb County",
+    "BUZZWORD_1": "Georgia",
+    "BUZZWORD_2": "Suburbs",
+    "BUZZWORD_3": "Decatur",
+    "BUZZWORD_4": "Stone Mountain",
+    "BUZZWORD_5": "Roswell"
+  },
+  {
+    "KEYWORD": "Strip Club",
+    "BUZZWORD_1": "Magic City",
+    "BUZZWORD_2": "Onyx",
+    "BUZZWORD_3": "Blue Flame",
+    "BUZZWORD_4": "Strokers",
+    "BUZZWORD_5": "Singles"
+  },
+  {
+    "KEYWORD": "Student",
+    "BUZZWORD_1": "School",
+    "BUZZWORD_2": "Enrolled",
+    "BUZZWORD_3": "Attend",
+    "BUZZWORD_4": "Institution",
+    "BUZZWORD_5": "Scholar"
+  },
+  {
+    "KEYWORD": "Student Life ",
+    "BUZZWORD_1": "Campus",
+    "BUZZWORD_2": "Activities",
+    "BUZZWORD_3": "Organize",
+    "BUZZWORD_4": "While",
+    "BUZZWORD_5": "Happens"
+  },
+  {
+    "KEYWORD": "Student Union",
+    "BUZZWORD_1": "Center",
+    "BUZZWORD_2": "Meet",
+    "BUZZWORD_3": "Events",
+    "BUZZWORD_4": "Place",
+    "BUZZWORD_5": "Campus"
+  },
+  {
+    "KEYWORD": "Study ",
+    "BUZZWORD_1": "Test",
+    "BUZZWORD_2": "Research",
+    "BUZZWORD_3": "Review",
+    "BUZZWORD_4": "Work",
+    "BUZZWORD_5": "Ready"
+  },
+  {
+    "KEYWORD": "Study Abroad",
+    "BUZZWORD_1": "International",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Travel",
+    "BUZZWORD_4": "Country",
+    "BUZZWORD_5": "Continent"
+  },
+  {
+    "KEYWORD": "Suites",
+    "BUZZWORD_1": "Morehouse",
+    "BUZZWORD_2": "East",
+    "BUZZWORD_3": "West",
+    "BUZZWORD_4": "CAU ",
+    "BUZZWORD_5": "Apartment"
+  },
+  {
+    "KEYWORD": "Summa Cum Laude",
+    "BUZZWORD_1": "Tight",
+    "BUZZWORD_2": "Smart",
+    "BUZZWORD_3": "Honors",
+    "BUZZWORD_4": "Stoll",
+    "BUZZWORD_5": "Graduation"
+  },
+  {
+    "KEYWORD": "Syllabus",
+    "BUZZWORD_1": "Outline",
+    "BUZZWORD_2": "Curriculum",
+    "BUZZWORD_3": "Review",
+    "BUZZWORD_4": "Tests",
+    "BUZZWORD_5": "Schedule"
+  },
+  {
+    "KEYWORD": "Tailgate",
+    "BUZZWORD_1": "Drink",
+    "BUZZWORD_2": "Football",
+    "BUZZWORD_3": "Food",
+    "BUZZWORD_4": "Liquor",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "Tennis ",
+    "BUZZWORD_1": "Balls",
+    "BUZZWORD_2": "Venus",
+    "BUZZWORD_3": "Serena",
+    "BUZZWORD_4": "Match",
+    "BUZZWORD_5": "Court"
+  },
+  {
+    "KEYWORD": "Tenure",
+    "BUZZWORD_1": "Professor",
+    "BUZZWORD_2": "Teacher",
+    "BUZZWORD_3": "Permanent",
+    "BUZZWORD_4": "Fired",
+    "BUZZWORD_5": "Trustee"
+  },
+  {
+    "KEYWORD": "Term Paper",
+    "BUZZWORD_1": "Final",
+    "BUZZWORD_2": "End",
+    "BUZZWORD_3": "Submit",
+    "BUZZWORD_4": "research",
+    "BUZZWORD_5": "write"
+  },
+  {
+    "KEYWORD": "Tertiary",
+    "BUZZWORD_1": "Third",
+    "BUZZWORD_2": "Rank",
+    "BUZZWORD_3": "Order",
+    "BUZZWORD_4": "Second",
+    "BUZZWORD_5": "First"
+  },
+  {
+    "KEYWORD": "Textbook",
+    "BUZZWORD_1": "Read",
+    "BUZZWORD_2": "Course",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Writing",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "The Braves",
+    "BUZZWORD_1": "Baseball",
+    "BUZZWORD_2": "Tuner Field ",
+    "BUZZWORD_3": "MLB",
+    "BUZZWORD_4": "Franchise ",
+    "BUZZWORD_5": "Sun Trust Park"
+  },
+  {
+    "KEYWORD": "The Divine Nine",
+    "BUZZWORD_1": "Alpha",
+    "BUZZWORD_2": "Delta",
+    "BUZZWORD_3": "Kappa ",
+    "BUZZWORD_4": "Omega",
+    "BUZZWORD_5": "AKA"
+  },
+  {
+    "KEYWORD": "The House",
+    "BUZZWORD_1": "Welcome",
+    "BUZZWORD_2": "Hill",
+    "BUZZWORD_3": "Beacon",
+    "BUZZWORD_4": "Candle",
+    "BUZZWORD_5": "Morehouse"
+  },
+  {
+    "KEYWORD": "The Maroon Tiger",
+    "BUZZWORD_1": "22 Questions",
+    "BUZZWORD_2": "Periodical",
+    "BUZZWORD_3": "Campus",
+    "BUZZWORD_4": "Voice",
+    "BUZZWORD_5": 1949
+  },
+  {
+    "KEYWORD": "The Strip",
+    "BUZZWORD_1": "Post ",
+    "BUZZWORD_2": "Promenade",
+    "BUZZWORD_3": "Mixtape",
+    "BUZZWORD_4": "Holla",
+    "BUZZWORD_5": "Walk"
+  },
+  {
+    "KEYWORD": "Theory",
+    "BUZZWORD_1": "Education",
+    "BUZZWORD_2": "Belief",
+    "BUZZWORD_3": "Hypothesis",
+    "BUZZWORD_4": "Economics",
+    "BUZZWORD_5": "Outside"
+  },
+  {
+    "KEYWORD": "Thesis",
+    "BUZZWORD_1": "Education",
+    "BUZZWORD_2": "Learning",
+    "BUZZWORD_3": "Presentation",
+    "BUZZWORD_4": "Requirement",
+    "BUZZWORD_5": "Topic"
+  },
+  {
+    "KEYWORD": "Tigers",
+    "BUZZWORD_1": "Cat",
+    "BUZZWORD_2": "Jungle",
+    "BUZZWORD_3": "Maroon",
+    "BUZZWORD_4": "Grrrrr",
+    "BUZZWORD_5": "Mascot"
+  },
+  {
+    "KEYWORD": "Toga Party",
+    "BUZZWORD_1": "LIT",
+    "BUZZWORD_2": "Greek",
+    "BUZZWORD_3": "Punch",
+    "BUZZWORD_4": "House",
+    "BUZZWORD_5": "A-Rho"
+  },
+  {
+    "KEYWORD": "Track & Field",
+    "BUZZWORD_1": "Edwin Moses",
+    "BUZZWORD_2": 402,
+    "BUZZWORD_3": 102,
+    "BUZZWORD_4": "Sprint ",
+    "BUZZWORD_5": "Distance"
+  },
+  {
+    "KEYWORD": "Transcript",
+    "BUZZWORD_1": "Record",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Official",
+    "BUZZWORD_4": "Apply",
+    "BUZZWORD_5": "Request"
+  },
+  {
+    "KEYWORD": "Transfer",
+    "BUZZWORD_1": "Another",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Leave",
+    "BUZZWORD_4": "Associates",
+    "BUZZWORD_5": "Go"
+  },
+  {
+    "KEYWORD": "Tuition",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Cost",
+    "BUZZWORD_3": "Fee",
+    "BUZZWORD_4": "Class",
+    "BUZZWORD_5": "Pay"
+  },
+  {
+    "KEYWORD": "Tutor",
+    "BUZZWORD_1": "Help ",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Assistance",
+    "BUZZWORD_4": "Meeting",
+    "BUZZWORD_5": "Outside"
+  },
+  {
+    "KEYWORD": "Undergraduate",
+    "BUZZWORD_1": "Masters",
+    "BUZZWORD_2": "Four",
+    "BUZZWORD_3": "Freshman",
+    "BUZZWORD_4": "Sophomore",
+    "BUZZWORD_5": "Senior"
+  },
+  {
+    "KEYWORD": "University ",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "Learning",
+    "BUZZWORD_3": "School",
+    "BUZZWORD_4": "Institution",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Visitation",
+    "BUZZWORD_1": "Curfew",
+    "BUZZWORD_2": "Resident Director",
+    "BUZZWORD_3": "Sign In",
+    "BUZZWORD_4": "Hours",
+    "BUZZWORD_5": "Guest"
+  },
+  {
+    "KEYWORD": "Wait List",
+    "BUZZWORD_1": "Delay",
+    "BUZZWORD_2": "Denied",
+    "BUZZWORD_3": "Hold",
+    "BUZZWORD_4": "Line",
+    "BUZZWORD_5": "Turn"
+  },
+  {
+    "KEYWORD": "Walter Massey",
+    "BUZZWORD_1": "Bank of America",
+    "BUZZWORD_2": "Art institute",
+    "BUZZWORD_3": "Que",
+    "BUZZWORD_4": "President",
+    "BUZZWORD_5": "Trustee"
+  },
+  {
+    "KEYWORD": "Washington, DC",
+    "BUZZWORD_1": "Capital",
+    "BUZZWORD_2": "President",
+    "BUZZWORD_3": "Howard",
+    "BUZZWORD_4": "Georgetown",
+    "BUZZWORD_5": "DMV"
+  },
+  {
+    "KEYWORD": "West End",
+    "BUZZWORD_1": "Robbery",
+    "BUZZWORD_2": "Popeyes",
+    "BUZZWORD_3": "Mall",
+    "BUZZWORD_4": "Queen City",
+    "BUZZWORD_5": "Krispy Kreme"
+  },
+  {
+    "KEYWORD": "Westview Drive",
+    "BUZZWORD_1": "Morehouse",
+    "BUZZWORD_2": "Atlanta",
+    "BUZZWORD_3": "West End",
+    "BUZZWORD_4": "Entrance",
+    "BUZZWORD_5": "Collegiate Exchange"
+  },
+  {
+    "KEYWORD": "Withdrawl",
+    "BUZZWORD_1": "Quit",
+    "BUZZWORD_2": "Finish",
+    "BUZZWORD_3": "W",
+    "BUZZWORD_4": "Fail",
+    "BUZZWORD_5": "Deadline"
+  },
+  {
+    "KEYWORD": "Work Study",
+    "BUZZWORD_1": "Cash",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Hours",
+    "BUZZWORD_4": "Credit",
+    "BUZZWORD_5": "Interest"
+  },
+  {
+    "KEYWORD": "Zeta Phi Beta",
+    "BUZZWORD_1": "Blue",
+    "BUZZWORD_2": "Greek",
+    "BUZZWORD_3": "Dove",
+    "BUZZWORD_4": "Sigma",
+    "BUZZWORD_5": "Divine"
+  },
+  {
+    "KEYWORD": "Main Word",
+    "BUZZWORD_1": "Forbidden Word 4",
+    "BUZZWORD_2": "Forbidden Word 5",
+    "BUZZWORD_3": "Forbidden Word 6",
+    "BUZZWORD_4": "Forbidden Word 7",
+    "BUZZWORD_5": "Forbidden Word 8"
+  }
+]

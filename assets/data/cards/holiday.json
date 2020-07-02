@@ -1,0 +1,2418 @@
+[
+  {
+    "KEYWORD": "Albums",
+    "BUZZWORD_1": "Photos",
+    "BUZZWORD_2": "Music ",
+    "BUZZWORD_3": "Songs ",
+    "BUZZWORD_4": "Pictures ",
+    "BUZZWORD_5": "Singers "
+  },
+  {
+    "KEYWORD": "Almost Christmas",
+    "BUZZWORD_1": "Gabrielle Union",
+    "BUZZWORD_2": "Danny Glover ",
+    "BUZZWORD_3": "Omar Epps ",
+    "BUZZWORD_4": "Mo'Nique ",
+    "BUZZWORD_5": "JB Smoove "
+  },
+  {
+    "KEYWORD": "Angel",
+    "BUZZWORD_1": "Celestial",
+    "BUZZWORD_2": "Cherub",
+    "BUZZWORD_3": "Messenger ",
+    "BUZZWORD_4": "God ",
+    "BUZZWORD_5": "Heavenly"
+  },
+  {
+    "KEYWORD": "Apple Pie",
+    "BUZZWORD_1": "Dessert",
+    "BUZZWORD_2": "Crust",
+    "BUZZWORD_3": "Filling",
+    "BUZZWORD_4": "Baked",
+    "BUZZWORD_5": "Fruit"
+  },
+  {
+    "KEYWORD": "Artificial Tree",
+    "BUZZWORD_1": "Decorate ",
+    "BUZZWORD_2": "Box ",
+    "BUZZWORD_3": "Needles",
+    "BUZZWORD_4": "Stand ",
+    "BUZZWORD_5": "Fake "
+  },
+  {
+    "KEYWORD": "Aunt",
+    "BUZZWORD_1": "Female",
+    "BUZZWORD_2": "Woman",
+    "BUZZWORD_3": "Niece ",
+    "BUZZWORD_4": "Sister",
+    "BUZZWORD_5": "Daughter"
+  },
+  {
+    "KEYWORD": "Autumn",
+    "BUZZWORD_1": "Fall",
+    "BUZZWORD_2": "Season",
+    "BUZZWORD_3": "Leaves ",
+    "BUZZWORD_4": "Foliage ",
+    "BUZZWORD_5": "School"
+  },
+  {
+    "KEYWORD": "Bake ",
+    "BUZZWORD_1": "Cook",
+    "BUZZWORD_2": "Oven ",
+    "BUZZWORD_3": "Heat",
+    "BUZZWORD_4": "Warm",
+    "BUZZWORD_5": "Burn"
+  },
+  {
+    "KEYWORD": "Beans",
+    "BUZZWORD_1": "Pinto",
+    "BUZZWORD_2": "Black Eyed",
+    "BUZZWORD_3": "Rice",
+    "BUZZWORD_4": "Legume",
+    "BUZZWORD_5": "Green"
+  },
+  {
+    "KEYWORD": "Bells",
+    "BUZZWORD_1": "Ring",
+    "BUZZWORD_2": "Chime",
+    "BUZZWORD_3": "Silver",
+    "BUZZWORD_4": "Sound",
+    "BUZZWORD_5": "Sound "
+  },
+  {
+    "KEYWORD": "Best Man Holiday",
+    "BUZZWORD_1": "Tate Diggs ",
+    "BUZZWORD_2": "Film",
+    "BUZZWORD_3": "Movie",
+    "BUZZWORD_4": "Morris Chestnut ",
+    "BUZZWORD_5": "Terrance Howard"
+  },
+  {
+    "KEYWORD": "Bethlehem",
+    "BUZZWORD_1": "Jesus ",
+    "BUZZWORD_2": "Mary ",
+    "BUZZWORD_3": "3 Wise Men",
+    "BUZZWORD_4": "Joseph",
+    "BUZZWORD_5": "Manger "
+  },
+  {
+    "KEYWORD": "Black Eyed Peas",
+    "BUZZWORD_1": "Beans",
+    "BUZZWORD_2": "New Years",
+    "BUZZWORD_3": "Pot ",
+    "BUZZWORD_4": "Will.i.am ",
+    "BUZZWORD_5": "Band "
+  },
+  {
+    "KEYWORD": "Black Friday ",
+    "BUZZWORD_1": "Shop ",
+    "BUZZWORD_2": "Thanksigving ",
+    "BUZZWORD_3": "After ",
+    "BUZZWORD_4": "Sales ",
+    "BUZZWORD_5": "Camp Out "
+  },
+  {
+    "KEYWORD": "Black Nativity ",
+    "BUZZWORD_1": "Jesus ",
+    "BUZZWORD_2": "Mary",
+    "BUZZWORD_3": "Joseph",
+    "BUZZWORD_4": "Movie ",
+    "BUZZWORD_5": "Manger"
+  },
+  {
+    "KEYWORD": "Black Wednesday ",
+    "BUZZWORD_1": "Before",
+    "BUZZWORD_2": "Party ",
+    "BUZZWORD_3": "Middle ",
+    "BUZZWORD_4": "Thanksgiving",
+    "BUZZWORD_5": "Cook"
+  },
+  {
+    "KEYWORD": "Blood Pressure ",
+    "BUZZWORD_1": "High ",
+    "BUZZWORD_2": "Low ",
+    "BUZZWORD_3": "Health ",
+    "BUZZWORD_4": "Stress",
+    "BUZZWORD_5": "Compression"
+  },
+  {
+    "KEYWORD": "Boots",
+    "BUZZWORD_1": "Shoes ",
+    "BUZZWORD_2": "Snow",
+    "BUZZWORD_3": "Socks ",
+    "BUZZWORD_4": "Timberland ",
+    "BUZZWORD_5": "Foot"
+  },
+  {
+    "KEYWORD": "Bow",
+    "BUZZWORD_1": "Gifts ",
+    "BUZZWORD_2": "Pretty ",
+    "BUZZWORD_3": "Decorate ",
+    "BUZZWORD_4": "Ribbon",
+    "BUZZWORD_5": "Tie "
+  },
+  {
+    "KEYWORD": "Box",
+    "BUZZWORD_1": "Wrap",
+    "BUZZWORD_2": "Tape ",
+    "BUZZWORD_3": "Bow",
+    "BUZZWORD_4": "Decorate ",
+    "BUZZWORD_5": "Surprise "
+  },
+  {
+    "KEYWORD": "Boyz II Men ",
+    "BUZZWORD_1": "Silent Night ",
+    "BUZZWORD_2": "BBD",
+    "BUZZWORD_3": "Wanya ",
+    "BUZZWORD_4": "Philly ",
+    "BUZZWORD_5": "Michael Bivins "
+  },
+  {
+    "KEYWORD": "Brother ",
+    "BUZZWORD_1": "Sister ",
+    "BUZZWORD_2": "Male ",
+    "BUZZWORD_3": "Mother ",
+    "BUZZWORD_4": "Relative ",
+    "BUZZWORD_5": "Sibling"
+  },
+  {
+    "KEYWORD": "Buns",
+    "BUZZWORD_1": "Hot ",
+    "BUZZWORD_2": "Crossed ",
+    "BUZZWORD_3": "Rolls ",
+    "BUZZWORD_4": "Bread ",
+    "BUZZWORD_5": "Butter "
+  },
+  {
+    "KEYWORD": "Butter",
+    "BUZZWORD_1": "Fat ",
+    "BUZZWORD_2": "Lard",
+    "BUZZWORD_3": "Butter",
+    "BUZZWORD_4": "Yellow",
+    "BUZZWORD_5": "Stick"
+  },
+  {
+    "KEYWORD": "Cake",
+    "BUZZWORD_1": "Cup",
+    "BUZZWORD_2": "Frosting ",
+    "BUZZWORD_3": "Sweet ",
+    "BUZZWORD_4": "Dessert ",
+    "BUZZWORD_5": "Layer "
+  },
+  {
+    "KEYWORD": "Candles",
+    "BUZZWORD_1": "Fire ",
+    "BUZZWORD_2": "Wick",
+    "BUZZWORD_3": "Wax ",
+    "BUZZWORD_4": "Light ",
+    "BUZZWORD_5": "Electric "
+  },
+  {
+    "KEYWORD": "Candy",
+    "BUZZWORD_1": "Sweet ",
+    "BUZZWORD_2": "Confectionary ",
+    "BUZZWORD_3": "Dessert ",
+    "BUZZWORD_4": "Treat ",
+    "BUZZWORD_5": "Sugar "
+  },
+  {
+    "KEYWORD": "Candy Canes",
+    "BUZZWORD_1": "Sugar ",
+    "BUZZWORD_2": "Red ",
+    "BUZZWORD_3": "White ",
+    "BUZZWORD_4": "Stripe",
+    "BUZZWORD_5": "Sweet "
+  },
+  {
+    "KEYWORD": "Capricorn ",
+    "BUZZWORD_1": "Zodiac",
+    "BUZZWORD_2": "Birthday ",
+    "BUZZWORD_3": "January ",
+    "BUZZWORD_4": "December ",
+    "BUZZWORD_5": "Astrological"
+  },
+  {
+    "KEYWORD": "Cards",
+    "BUZZWORD_1": "Greeting ",
+    "BUZZWORD_2": "Mail",
+    "BUZZWORD_3": "Stamps ",
+    "BUZZWORD_4": "Envelopes ",
+    "BUZZWORD_5": "Hallmark "
+  },
+  {
+    "KEYWORD": "Carols",
+    "BUZZWORD_1": "Sing",
+    "BUZZWORD_2": "Christmas ",
+    "BUZZWORD_3": "Noel",
+    "BUZZWORD_4": "Ballad",
+    "BUZZWORD_5": "Chorus"
+  },
+  {
+    "KEYWORD": "Carve",
+    "BUZZWORD_1": "Pumpkin",
+    "BUZZWORD_2": "Jack-o-Lantern",
+    "BUZZWORD_3": "Dig ",
+    "BUZZWORD_4": "Engrave ",
+    "BUZZWORD_5": "Sculpt"
+  },
+  {
+    "KEYWORD": "Casserole",
+    "BUZZWORD_1": "Tuna ",
+    "BUZZWORD_2": "Chicken",
+    "BUZZWORD_3": "Hearty ",
+    "BUZZWORD_4": "Pan ",
+    "BUZZWORD_5": "Caucasian"
+  },
+  {
+    "KEYWORD": "Cast Iron Skillet",
+    "BUZZWORD_1": "Black ",
+    "BUZZWORD_2": "Heavy ",
+    "BUZZWORD_3": "Cornbread ",
+    "BUZZWORD_4": "Oven ",
+    "BUZZWORD_5": "Oil"
+  },
+  {
+    "KEYWORD": "Cedar",
+    "BUZZWORD_1": "Wood ",
+    "BUZZWORD_2": "Tree",
+    "BUZZWORD_3": "Evergreen",
+    "BUZZWORD_4": "Scent ",
+    "BUZZWORD_5": "Pine"
+  },
+  {
+    "KEYWORD": "Celebrate",
+    "BUZZWORD_1": "Surprise ",
+    "BUZZWORD_2": "Party ",
+    "BUZZWORD_3": "Rejoice ",
+    "BUZZWORD_4": "Ceremony",
+    "BUZZWORD_5": "Exalt "
+  },
+  {
+    "KEYWORD": "Centerpiece ",
+    "BUZZWORD_1": "Table ",
+    "BUZZWORD_2": "Decoration ",
+    "BUZZWORD_3": "Feature ",
+    "BUZZWORD_4": "Focal Point",
+    "BUZZWORD_5": "Heart "
+  },
+  {
+    "KEYWORD": "Ceremony",
+    "BUZZWORD_1": "Observance ",
+    "BUZZWORD_2": "Service ",
+    "BUZZWORD_3": "Rite ",
+    "BUZZWORD_4": "Tradition",
+    "BUZZWORD_5": "Show"
+  },
+  {
+    "KEYWORD": "Charity",
+    "BUZZWORD_1": "Money ",
+    "BUZZWORD_2": "Give ",
+    "BUZZWORD_3": "Donate ",
+    "BUZZWORD_4": "Salvation Army ",
+    "BUZZWORD_5": "Philanthropy"
+  },
+  {
+    "KEYWORD": "Chestnuts",
+    "BUZZWORD_1": "Roasting ",
+    "BUZZWORD_2": "Open Fire ",
+    "BUZZWORD_3": "Nat King Cole ",
+    "BUZZWORD_4": "Jack Frost ",
+    "BUZZWORD_5": "Christmas Song "
+  },
+  {
+    "KEYWORD": "Chimney",
+    "BUZZWORD_1": "Santa ",
+    "BUZZWORD_2": "Wood ",
+    "BUZZWORD_3": "Fire ",
+    "BUZZWORD_4": "House ",
+    "BUZZWORD_5": "Furnace"
+  },
+  {
+    "KEYWORD": "Chitterlings",
+    "BUZZWORD_1": "Pork ",
+    "BUZZWORD_2": "Intestines",
+    "BUZZWORD_3": "Wash",
+    "BUZZWORD_4": "Clean ",
+    "BUZZWORD_5": "Smell"
+  },
+  {
+    "KEYWORD": "Christmas Day",
+    "BUZZWORD_1": "Tree ",
+    "BUZZWORD_2": "Presents ",
+    "BUZZWORD_3": "Gifts ",
+    "BUZZWORD_4": "Santa ",
+    "BUZZWORD_5": "Jesus "
+  },
+  {
+    "KEYWORD": "Christmas Eve",
+    "BUZZWORD_1": "Cookies",
+    "BUZZWORD_2": "Milk ",
+    "BUZZWORD_3": "Before ",
+    "BUZZWORD_4": "Night ",
+    "BUZZWORD_5": "Jesus "
+  },
+  {
+    "KEYWORD": "Christmas Lights ",
+    "BUZZWORD_1": "Electric ",
+    "BUZZWORD_2": "String",
+    "BUZZWORD_3": "Bulb",
+    "BUZZWORD_4": "Bright",
+    "BUZZWORD_5": "Plug "
+  },
+  {
+    "KEYWORD": "Clapback",
+    "BUZZWORD_1": "Hands ",
+    "BUZZWORD_2": "Shade ",
+    "BUZZWORD_3": "Check",
+    "BUZZWORD_4": "Ja Rule",
+    "BUZZWORD_5": "Comeback"
+  },
+  {
+    "KEYWORD": "Coal",
+    "BUZZWORD_1": "Black",
+    "BUZZWORD_2": "Soot",
+    "BUZZWORD_3": "Charcoal",
+    "BUZZWORD_4": "Naughty",
+    "BUZZWORD_5": "Heat"
+  },
+  {
+    "KEYWORD": "Coat ",
+    "BUZZWORD_1": "Warm ",
+    "BUZZWORD_2": "Leather ",
+    "BUZZWORD_3": "Down ",
+    "BUZZWORD_4": "Fur",
+    "BUZZWORD_5": "Wool"
+  },
+  {
+    "KEYWORD": "Cocktails",
+    "BUZZWORD_1": "Liquor ",
+    "BUZZWORD_2": "Alcohol",
+    "BUZZWORD_3": "Mix ",
+    "BUZZWORD_4": "Ice ",
+    "BUZZWORD_5": "Spirits "
+  },
+  {
+    "KEYWORD": "Cold ",
+    "BUZZWORD_1": "Chill",
+    "BUZZWORD_2": "Winter ",
+    "BUZZWORD_3": "Snow ",
+    "BUZZWORD_4": "Hot ",
+    "BUZZWORD_5": "Cool"
+  },
+  {
+    "KEYWORD": "Colonists",
+    "BUZZWORD_1": "Pilgrim",
+    "BUZZWORD_2": "Pioneer ",
+    "BUZZWORD_3": "European",
+    "BUZZWORD_4": "Slavery",
+    "BUZZWORD_5": "Indians"
+  },
+  {
+    "KEYWORD": "Community",
+    "BUZZWORD_1": "Neighborhood",
+    "BUZZWORD_2": "Society ",
+    "BUZZWORD_3": "Area ",
+    "BUZZWORD_4": "Common",
+    "BUZZWORD_5": "Local"
+  },
+  {
+    "KEYWORD": "Cook",
+    "BUZZWORD_1": "Create ",
+    "BUZZWORD_2": "Burn ",
+    "BUZZWORD_3": "Bake ",
+    "BUZZWORD_4": "Make ",
+    "BUZZWORD_5": "Food "
+  },
+  {
+    "KEYWORD": "Cookies",
+    "BUZZWORD_1": "Bake ",
+    "BUZZWORD_2": "Chocolate Chip",
+    "BUZZWORD_3": "Sugar ",
+    "BUZZWORD_4": "Eggs ",
+    "BUZZWORD_5": "Flour "
+  },
+  {
+    "KEYWORD": "Corn",
+    "BUZZWORD_1": "Yellow",
+    "BUZZWORD_2": "Pop",
+    "BUZZWORD_3": "Ear ",
+    "BUZZWORD_4": "Stalk",
+    "BUZZWORD_5": "Fields"
+  },
+  {
+    "KEYWORD": "Cornbread",
+    "BUZZWORD_1": "Square ",
+    "BUZZWORD_2": "Bake ",
+    "BUZZWORD_3": "Jiffy ",
+    "BUZZWORD_4": "Hot Water ",
+    "BUZZWORD_5": "Skillet "
+  },
+  {
+    "KEYWORD": "Cousins",
+    "BUZZWORD_1": "Family ",
+    "BUZZWORD_2": "Kin",
+    "BUZZWORD_3": "Play ",
+    "BUZZWORD_4": "Counterpart",
+    "BUZZWORD_5": "Aunt "
+  },
+  {
+    "KEYWORD": "Cranberry Sauce ",
+    "BUZZWORD_1": "Fruit ",
+    "BUZZWORD_2": "Sauce ",
+    "BUZZWORD_3": "Gel ",
+    "BUZZWORD_4": "Can ",
+    "BUZZWORD_5": "Turkey"
+  },
+  {
+    "KEYWORD": "Crock Pot ",
+    "BUZZWORD_1": "Slow Cooker",
+    "BUZZWORD_2": "Warm",
+    "BUZZWORD_3": "Program",
+    "BUZZWORD_4": "Stew ",
+    "BUZZWORD_5": "Chilli"
+  },
+  {
+    "KEYWORD": "Cyber Monday",
+    "BUZZWORD_1": "Sale",
+    "BUZZWORD_2": "Online",
+    "BUZZWORD_3": "Amazon",
+    "BUZZWORD_4": "Delivery",
+    "BUZZWORD_5": "Shipping"
+  },
+  {
+    "KEYWORD": "Dance",
+    "BUZZWORD_1": "Boogie",
+    "BUZZWORD_2": "Move ",
+    "BUZZWORD_3": "Jive ",
+    "BUZZWORD_4": "Frolic",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "December",
+    "BUZZWORD_1": "Winter ",
+    "BUZZWORD_2": "November ",
+    "BUZZWORD_3": "January ",
+    "BUZZWORD_4": "Holidays",
+    "BUZZWORD_5": "Sagittarius"
+  },
+  {
+    "KEYWORD": "Decorate ",
+    "BUZZWORD_1": "Adorn",
+    "BUZZWORD_2": "Dress Up",
+    "BUZZWORD_3": "Fix Up",
+    "BUZZWORD_4": "Brighten Up",
+    "BUZZWORD_5": "Illuminate "
+  },
+  {
+    "KEYWORD": "Dessert",
+    "BUZZWORD_1": "Cake ",
+    "BUZZWORD_2": "Cookies ",
+    "BUZZWORD_3": "Brownies ",
+    "BUZZWORD_4": "Sweets ",
+    "BUZZWORD_5": "Pastry"
+  },
+  {
+    "KEYWORD": "Destiny's Child ",
+    "BUZZWORD_1": "Beyonce'",
+    "BUZZWORD_2": "Kelly ",
+    "BUZZWORD_3": "Michelle ",
+    "BUZZWORD_4": "Knowles ",
+    "BUZZWORD_5": "Letoya "
+  },
+  {
+    "KEYWORD": "Dinner ",
+    "BUZZWORD_1": "Food ",
+    "BUZZWORD_2": "Dish ",
+    "BUZZWORD_3": "Sides ",
+    "BUZZWORD_4": "Meat ",
+    "BUZZWORD_5": "Supper"
+  },
+  {
+    "KEYWORD": "Dish ",
+    "BUZZWORD_1": "Food ",
+    "BUZZWORD_2": "Sides ",
+    "BUZZWORD_3": "Cook",
+    "BUZZWORD_4": "Eat ",
+    "BUZZWORD_5": "Plate "
+  },
+  {
+    "KEYWORD": "Dressing",
+    "BUZZWORD_1": "Stuffing ",
+    "BUZZWORD_2": "Cornbread ",
+    "BUZZWORD_3": "Bake",
+    "BUZZWORD_4": "Clothing ",
+    "BUZZWORD_5": "Side Dish "
+  },
+  {
+    "KEYWORD": "Drumstick",
+    "BUZZWORD_1": "Chicken",
+    "BUZZWORD_2": "Dark Meat ",
+    "BUZZWORD_3": "Leg ",
+    "BUZZWORD_4": "Bone ",
+    "BUZZWORD_5": "Wing "
+  },
+  {
+    "KEYWORD": "Drunk ",
+    "BUZZWORD_1": "Uncle",
+    "BUZZWORD_2": "Spiked",
+    "BUZZWORD_3": "Drink",
+    "BUZZWORD_4": "Alcohol",
+    "BUZZWORD_5": "Too Much"
+  },
+  {
+    "KEYWORD": "Egg Nog ",
+    "BUZZWORD_1": "Dairy",
+    "BUZZWORD_2": "Creamy ",
+    "BUZZWORD_3": "Thick ",
+    "BUZZWORD_4": "Spiked",
+    "BUZZWORD_5": "Drink"
+  },
+  {
+    "KEYWORD": "Elf",
+    "BUZZWORD_1": "Santa ",
+    "BUZZWORD_2": "Helper ",
+    "BUZZWORD_3": "Little ",
+    "BUZZWORD_4": "North Pole ",
+    "BUZZWORD_5": "Midget "
+  },
+  {
+    "KEYWORD": "Exchange ",
+    "BUZZWORD_1": "Swap",
+    "BUZZWORD_2": "Transfer",
+    "BUZZWORD_3": "Conversion",
+    "BUZZWORD_4": "Deal",
+    "BUZZWORD_5": "Transaction"
+  },
+  {
+    "KEYWORD": "Fall",
+    "BUZZWORD_1": "Autumn",
+    "BUZZWORD_2": "Season ",
+    "BUZZWORD_3": "Leaves ",
+    "BUZZWORD_4": "Harvest",
+    "BUZZWORD_5": "Trip"
+  },
+  {
+    "KEYWORD": "Family",
+    "BUZZWORD_1": "Relatives ",
+    "BUZZWORD_2": "Kin",
+    "BUZZWORD_3": "Reunion",
+    "BUZZWORD_4": "Tribe ",
+    "BUZZWORD_5": "Group"
+  },
+  {
+    "KEYWORD": "Father",
+    "BUZZWORD_1": "Male",
+    "BUZZWORD_2": "Patriarch",
+    "BUZZWORD_3": "Dad",
+    "BUZZWORD_4": "Parent",
+    "BUZZWORD_5": "Papa"
+  },
+  {
+    "KEYWORD": "Feast",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Spread ",
+    "BUZZWORD_3": "Meal",
+    "BUZZWORD_4": "Dinner ",
+    "BUZZWORD_5": "Festival"
+  },
+  {
+    "KEYWORD": "Fellowship",
+    "BUZZWORD_1": "Friendly ",
+    "BUZZWORD_2": "Together ",
+    "BUZZWORD_3": "Companionship",
+    "BUZZWORD_4": "Camaraderie",
+    "BUZZWORD_5": "Acquaintance"
+  },
+  {
+    "KEYWORD": "Festival",
+    "BUZZWORD_1": "Fair ",
+    "BUZZWORD_2": "Celebration",
+    "BUZZWORD_3": "Entertainment ",
+    "BUZZWORD_4": "Feast ",
+    "BUZZWORD_5": "Festivities"
+  },
+  {
+    "KEYWORD": "Fire ",
+    "BUZZWORD_1": "Blaze ",
+    "BUZZWORD_2": "Smoke",
+    "BUZZWORD_3": "Department",
+    "BUZZWORD_4": "Water ",
+    "BUZZWORD_5": "Hot"
+  },
+  {
+    "KEYWORD": "Fireplace ",
+    "BUZZWORD_1": "Wood ",
+    "BUZZWORD_2": "Hot ",
+    "BUZZWORD_3": "Chimney ",
+    "BUZZWORD_4": "Smoke",
+    "BUZZWORD_5": "Roasting"
+  },
+  {
+    "KEYWORD": "Firewood",
+    "BUZZWORD_1": "Cut ",
+    "BUZZWORD_2": "Chop",
+    "BUZZWORD_3": "Axe ",
+    "BUZZWORD_4": "Place ",
+    "BUZZWORD_5": "Camping "
+  },
+  {
+    "KEYWORD": "Fish",
+    "BUZZWORD_1": "Seafood",
+    "BUZZWORD_2": "Catfish",
+    "BUZZWORD_3": "Perch",
+    "BUZZWORD_4": "Samon",
+    "BUZZWORD_5": "Gold"
+  },
+  {
+    "KEYWORD": "Football",
+    "BUZZWORD_1": "Sport",
+    "BUZZWORD_2": "Pigskin",
+    "BUZZWORD_3": "Sunday",
+    "BUZZWORD_4": "NFL",
+    "BUZZWORD_5": "Superbowl"
+  },
+  {
+    "KEYWORD": "Friday After Next ",
+    "BUZZWORD_1": "Ice Cube",
+    "BUZZWORD_2": "Mike Epps ",
+    "BUZZWORD_3": "Craig ",
+    "BUZZWORD_4": "Day Day ",
+    "BUZZWORD_5": "Movie "
+  },
+  {
+    "KEYWORD": "Fried Chicken ",
+    "BUZZWORD_1": "Fowl",
+    "BUZZWORD_2": "Bird",
+    "BUZZWORD_3": "Poultry",
+    "BUZZWORD_4": "Wings ",
+    "BUZZWORD_5": "Meat "
+  },
+  {
+    "KEYWORD": "Friends",
+    "BUZZWORD_1": "Homies ",
+    "BUZZWORD_2": "Companions",
+    "BUZZWORD_3": "Buddies",
+    "BUZZWORD_4": "Associates ",
+    "BUZZWORD_5": "Colleagues"
+  },
+  {
+    "KEYWORD": "Frosty ",
+    "BUZZWORD_1": "Snowman",
+    "BUZZWORD_2": "Melt ",
+    "BUZZWORD_3": "Carrot",
+    "BUZZWORD_4": "Jolly",
+    "BUZZWORD_5": "Coal"
+  },
+  {
+    "KEYWORD": "Fruitcake",
+    "BUZZWORD_1": "Dessert ",
+    "BUZZWORD_2": "Tin",
+    "BUZZWORD_3": "Can ",
+    "BUZZWORD_4": "Pastry",
+    "BUZZWORD_5": "Cherries"
+  },
+  {
+    "KEYWORD": "Garland",
+    "BUZZWORD_1": "Decorate ",
+    "BUZZWORD_2": "Plant",
+    "BUZZWORD_3": "Tinsel",
+    "BUZZWORD_4": "Tree",
+    "BUZZWORD_5": "Wreath"
+  },
+  {
+    "KEYWORD": "Giblets ",
+    "BUZZWORD_1": "Stuffing",
+    "BUZZWORD_2": "Turkey ",
+    "BUZZWORD_3": "Organs",
+    "BUZZWORD_4": "Kidneys",
+    "BUZZWORD_5": "Liver"
+  },
+  {
+    "KEYWORD": "Gift ",
+    "BUZZWORD_1": "Present ",
+    "BUZZWORD_2": "Box ",
+    "BUZZWORD_3": "Offering",
+    "BUZZWORD_4": "Surprise",
+    "BUZZWORD_5": "Contribution"
+  },
+  {
+    "KEYWORD": "Gingerbread",
+    "BUZZWORD_1": "Cookie",
+    "BUZZWORD_2": "Man",
+    "BUZZWORD_3": "Icing",
+    "BUZZWORD_4": "Gumdrops",
+    "BUZZWORD_5": "Pan"
+  },
+  {
+    "KEYWORD": "Give ",
+    "BUZZWORD_1": "Charity ",
+    "BUZZWORD_2": "Offer",
+    "BUZZWORD_3": "Provide ",
+    "BUZZWORD_4": "Award",
+    "BUZZWORD_5": "Grant "
+  },
+  {
+    "KEYWORD": "Gobble",
+    "BUZZWORD_1": "Turkey ",
+    "BUZZWORD_2": "Poultry ",
+    "BUZZWORD_3": "Fowl ",
+    "BUZZWORD_4": "Feather ",
+    "BUZZWORD_5": "Bird "
+  },
+  {
+    "KEYWORD": "Gold",
+    "BUZZWORD_1": "Silver ",
+    "BUZZWORD_2": "Precious Metal",
+    "BUZZWORD_3": "Shiny",
+    "BUZZWORD_4": "Jewelry",
+    "BUZZWORD_5": "Bronze"
+  },
+  {
+    "KEYWORD": "Goose",
+    "BUZZWORD_1": "Bird ",
+    "BUZZWORD_2": "Duck ",
+    "BUZZWORD_3": "Geese",
+    "BUZZWORD_4": "Feathers ",
+    "BUZZWORD_5": "Swim"
+  },
+  {
+    "KEYWORD": "Grace ",
+    "BUZZWORD_1": "Class",
+    "BUZZWORD_2": "Beauty ",
+    "BUZZWORD_3": "Finesse",
+    "BUZZWORD_4": "Poise ",
+    "BUZZWORD_5": "Refined"
+  },
+  {
+    "KEYWORD": "Grandparents",
+    "BUZZWORD_1": "Mother ",
+    "BUZZWORD_2": "Father ",
+    "BUZZWORD_3": "Granny",
+    "BUZZWORD_4": "Elders",
+    "BUZZWORD_5": "Wise"
+  },
+  {
+    "KEYWORD": "Grate",
+    "BUZZWORD_1": "Cheese ",
+    "BUZZWORD_2": "Zest ",
+    "BUZZWORD_3": "Mac ",
+    "BUZZWORD_4": "Potatoes",
+    "BUZZWORD_5": "Mince "
+  },
+  {
+    "KEYWORD": "Gratitude",
+    "BUZZWORD_1": "Obligation",
+    "BUZZWORD_2": "Grateful",
+    "BUZZWORD_3": "Recognition",
+    "BUZZWORD_4": "Thankful",
+    "BUZZWORD_5": "Praise "
+  },
+  {
+    "KEYWORD": "Gravy",
+    "BUZZWORD_1": "Dressing",
+    "BUZZWORD_2": "Sauce ",
+    "BUZZWORD_3": "Turkey ",
+    "BUZZWORD_4": "Potatoes",
+    "BUZZWORD_5": "Giblets"
+  },
+  {
+    "KEYWORD": "Green Beans",
+    "BUZZWORD_1": "String ",
+    "BUZZWORD_2": "Color ",
+    "BUZZWORD_3": "Steam",
+    "BUZZWORD_4": "Boil",
+    "BUZZWORD_5": "Potatoes"
+  },
+  {
+    "KEYWORD": "Greens",
+    "BUZZWORD_1": "Color ",
+    "BUZZWORD_2": "Collard ",
+    "BUZZWORD_3": "Mustard ",
+    "BUZZWORD_4": "Turkey",
+    "BUZZWORD_5": "Ham"
+  },
+  {
+    "KEYWORD": "Greetings",
+    "BUZZWORD_1": "Acknowledgement",
+    "BUZZWORD_2": "Card ",
+    "BUZZWORD_3": "Respect ",
+    "BUZZWORD_4": "Compliments",
+    "BUZZWORD_5": "Attention"
+  },
+  {
+    "KEYWORD": "Guests",
+    "BUZZWORD_1": "Visitors",
+    "BUZZWORD_2": "Company",
+    "BUZZWORD_3": "Vacationers",
+    "BUZZWORD_4": "Companion",
+    "BUZZWORD_5": "Family "
+  },
+  {
+    "KEYWORD": "Gumbo",
+    "BUZZWORD_1": "Stock",
+    "BUZZWORD_2": "Roux",
+    "BUZZWORD_3": "Soup",
+    "BUZZWORD_4": "Chowder",
+    "BUZZWORD_5": "Cajun"
+  },
+  {
+    "KEYWORD": "Halloween ",
+    "BUZZWORD_1": "Ghosts ",
+    "BUZZWORD_2": "Dress Up",
+    "BUZZWORD_3": "Costumes ",
+    "BUZZWORD_4": "Trick or Treat ",
+    "BUZZWORD_5": "Horror"
+  },
+  {
+    "KEYWORD": "Hamhocks",
+    "BUZZWORD_1": "Pig ",
+    "BUZZWORD_2": "Pork ",
+    "BUZZWORD_3": "Knuckle",
+    "BUZZWORD_4": "Foot",
+    "BUZZWORD_5": "Shank"
+  },
+  {
+    "KEYWORD": "Harvest",
+    "BUZZWORD_1": "Yield",
+    "BUZZWORD_2": "Crop",
+    "BUZZWORD_3": "Gather ",
+    "BUZZWORD_4": "Produce ",
+    "BUZZWORD_5": "Fall"
+  },
+  {
+    "KEYWORD": "Hat",
+    "BUZZWORD_1": "Head ",
+    "BUZZWORD_2": "Helmet ",
+    "BUZZWORD_3": "Bonnet ",
+    "BUZZWORD_4": "Cap",
+    "BUZZWORD_5": "Top"
+  },
+  {
+    "KEYWORD": "Heritage",
+    "BUZZWORD_1": "Ancestry ",
+    "BUZZWORD_2": "Legacy ",
+    "BUZZWORD_3": "Tradition",
+    "BUZZWORD_4": "Custom",
+    "BUZZWORD_5": "Culture "
+  },
+  {
+    "KEYWORD": "Holiday",
+    "BUZZWORD_1": "No Work ",
+    "BUZZWORD_2": "Celebration",
+    "BUZZWORD_3": "Festival",
+    "BUZZWORD_4": "Special",
+    "BUZZWORD_5": "Annual"
+  },
+  {
+    "KEYWORD": "Holiday Heart",
+    "BUZZWORD_1": "Ving Rhames",
+    "BUZZWORD_2": "Movie ",
+    "BUZZWORD_3": "Alfre Woodard",
+    "BUZZWORD_4": "Drag Queen ",
+    "BUZZWORD_5": "Drugs"
+  },
+  {
+    "KEYWORD": "Holy ",
+    "BUZZWORD_1": "Spiritual ",
+    "BUZZWORD_2": "Sacred ",
+    "BUZZWORD_3": "Righteous ",
+    "BUZZWORD_4": "Faithful",
+    "BUZZWORD_5": "Pure "
+  },
+  {
+    "KEYWORD": "Home ",
+    "BUZZWORD_1": "House ",
+    "BUZZWORD_2": "Family ",
+    "BUZZWORD_3": "Dwelling ",
+    "BUZZWORD_4": "Local ",
+    "BUZZWORD_5": "Abode"
+  },
+  {
+    "KEYWORD": "Hope ",
+    "BUZZWORD_1": "Faith",
+    "BUZZWORD_2": "Optimism",
+    "BUZZWORD_3": "Goal ",
+    "BUZZWORD_4": "Aspiration",
+    "BUZZWORD_5": "Desire "
+  },
+  {
+    "KEYWORD": "Hot Chocolate ",
+    "BUZZWORD_1": "Dairy ",
+    "BUZZWORD_2": "Drink",
+    "BUZZWORD_3": "Mug ",
+    "BUZZWORD_4": "Marshmalllow",
+    "BUZZWORD_5": "Whipped Cream "
+  },
+  {
+    "KEYWORD": "Hot Cider ",
+    "BUZZWORD_1": "Drink ",
+    "BUZZWORD_2": "Beverage ",
+    "BUZZWORD_3": "Cup",
+    "BUZZWORD_4": "Apple ",
+    "BUZZWORD_5": "Cinnamon"
+  },
+  {
+    "KEYWORD": "Hug",
+    "BUZZWORD_1": "Squeeze ",
+    "BUZZWORD_2": "Tight ",
+    "BUZZWORD_3": "Embrace ",
+    "BUZZWORD_4": "Affection",
+    "BUZZWORD_5": "Bear "
+  },
+  {
+    "KEYWORD": "Husband",
+    "BUZZWORD_1": "Spouse ",
+    "BUZZWORD_2": "Wife ",
+    "BUZZWORD_3": "Married ",
+    "BUZZWORD_4": "Wedding ",
+    "BUZZWORD_5": "Partner "
+  },
+  {
+    "KEYWORD": "Icicle",
+    "BUZZWORD_1": "Water ",
+    "BUZZWORD_2": "Snow ",
+    "BUZZWORD_3": "Ice ",
+    "BUZZWORD_4": "Pointy ",
+    "BUZZWORD_5": "Melt"
+  },
+  {
+    "KEYWORD": "Icy",
+    "BUZZWORD_1": "Slippery ",
+    "BUZZWORD_2": "Skid",
+    "BUZZWORD_3": "Wet ",
+    "BUZZWORD_4": "Cold ",
+    "BUZZWORD_5": "Slide "
+  },
+  {
+    "KEYWORD": "Imani (Faith)",
+    "BUZZWORD_1": "Kwanzaa",
+    "BUZZWORD_2": "Principle",
+    "BUZZWORD_3": "Believe ",
+    "BUZZWORD_4": "Afrocentric",
+    "BUZZWORD_5": "Trust "
+  },
+  {
+    "KEYWORD": "Israel",
+    "BUZZWORD_1": "Middle East ",
+    "BUZZWORD_2": "Jerusalem",
+    "BUZZWORD_3": "Mediterranean",
+    "BUZZWORD_4": "Jesus",
+    "BUZZWORD_5": "Child "
+  },
+  {
+    "KEYWORD": "Jack Frost",
+    "BUZZWORD_1": "Nose ",
+    "BUZZWORD_2": "Yultide",
+    "BUZZWORD_3": "Old Man ",
+    "BUZZWORD_4": "Winter ",
+    "BUZZWORD_5": "Snow "
+  },
+  {
+    "KEYWORD": "Jackson 5 ",
+    "BUZZWORD_1": "Michael",
+    "BUZZWORD_2": "Jermaine ",
+    "BUZZWORD_3": "Tito",
+    "BUZZWORD_4": "Marlon ",
+    "BUZZWORD_5": "Randy "
+  },
+  {
+    "KEYWORD": "James Brown ",
+    "BUZZWORD_1": "Sex Machine ",
+    "BUZZWORD_2": "Godfather of Soul ",
+    "BUZZWORD_3": "Cape ",
+    "BUZZWORD_4": "Dancer ",
+    "BUZZWORD_5": "Man's World "
+  },
+  {
+    "KEYWORD": "Jesus",
+    "BUZZWORD_1": "Son of God ",
+    "BUZZWORD_2": "Christ",
+    "BUZZWORD_3": "Savior ",
+    "BUZZWORD_4": "Lamb of God ",
+    "BUZZWORD_5": "Lord of Lords "
+  },
+  {
+    "KEYWORD": "Jingle All the Way",
+    "BUZZWORD_1": "Sinbad ",
+    "BUZZWORD_2": "Carole ",
+    "BUZZWORD_3": "Song ",
+    "BUZZWORD_4": "Movie ",
+    "BUZZWORD_5": "Arnold Schwartzenegger"
+  },
+  {
+    "KEYWORD": "Jingle Bells",
+    "BUZZWORD_1": "Rock",
+    "BUZZWORD_2": "Song ",
+    "BUZZWORD_3": "All the Way ",
+    "BUZZWORD_4": "Sleigh ",
+    "BUZZWORD_5": "Salvation Army "
+  },
+  {
+    "KEYWORD": "Johnny Mathis ",
+    "BUZZWORD_1": "Chrismas ",
+    "BUZZWORD_2": "Home Alone ",
+    "BUZZWORD_3": "Grinch",
+    "BUZZWORD_4": "Album ",
+    "BUZZWORD_5": "Classic"
+  },
+  {
+    "KEYWORD": "Jolly",
+    "BUZZWORD_1": "Holly ",
+    "BUZZWORD_2": "Happy ",
+    "BUZZWORD_3": "Glad ",
+    "BUZZWORD_4": "Delight",
+    "BUZZWORD_5": "Elation"
+  },
+  {
+    "KEYWORD": "Joy",
+    "BUZZWORD_1": "Happy ",
+    "BUZZWORD_2": "Bliss",
+    "BUZZWORD_3": "Delight ",
+    "BUZZWORD_4": "Excited ",
+    "BUZZWORD_5": "Glee"
+  },
+  {
+    "KEYWORD": "Kids",
+    "BUZZWORD_1": "Children",
+    "BUZZWORD_2": "Youth ",
+    "BUZZWORD_3": "Goats ",
+    "BUZZWORD_4": "Babies ",
+    "BUZZWORD_5": "Juveniles"
+  },
+  {
+    "KEYWORD": "Kinara",
+    "BUZZWORD_1": "Candle",
+    "BUZZWORD_2": "Wood ",
+    "BUZZWORD_3": "Kwanzaa",
+    "BUZZWORD_4": "Stick ",
+    "BUZZWORD_5": "Holder "
+  },
+  {
+    "KEYWORD": "Kings",
+    "BUZZWORD_1": "Prince ",
+    "BUZZWORD_2": "Queen",
+    "BUZZWORD_3": "Princess",
+    "BUZZWORD_4": "Three",
+    "BUZZWORD_5": "Ruler "
+  },
+  {
+    "KEYWORD": "Kwanzaa",
+    "BUZZWORD_1": "Seven",
+    "BUZZWORD_2": "Principles",
+    "BUZZWORD_3": "Kinara ",
+    "BUZZWORD_4": "Candles ",
+    "BUZZWORD_5": "Black "
+  },
+  {
+    "KEYWORD": "Lard ",
+    "BUZZWORD_1": "Butter ",
+    "BUZZWORD_2": "Crisco ",
+    "BUZZWORD_3": "Fat ",
+    "BUZZWORD_4": "Rolls ",
+    "BUZZWORD_5": "Heavy"
+  },
+  {
+    "KEYWORD": "Last Holiday",
+    "BUZZWORD_1": "First ",
+    "BUZZWORD_2": "Queen Latifah ",
+    "BUZZWORD_3": "Movie",
+    "BUZZWORD_4": "New Orleans",
+    "BUZZWORD_5": ""
+  },
+  {
+    "KEYWORD": "Leaves ",
+    "BUZZWORD_1": "Branch ",
+    "BUZZWORD_2": "Tree",
+    "BUZZWORD_3": "Go",
+    "BUZZWORD_4": "Colors ",
+    "BUZZWORD_5": "Change "
+  },
+  {
+    "KEYWORD": "Leftovers",
+    "BUZZWORD_1": "Remain",
+    "BUZZWORD_2": "Scraps",
+    "BUZZWORD_3": "Cointainers ",
+    "BUZZWORD_4": "Wrap",
+    "BUZZWORD_5": ""
+  },
+  {
+    "KEYWORD": "Lights",
+    "BUZZWORD_1": "Christmas ",
+    "BUZZWORD_2": "Bright ",
+    "BUZZWORD_3": "Shine ",
+    "BUZZWORD_4": "String ",
+    "BUZZWORD_5": "Electric "
+  },
+  {
+    "KEYWORD": "Liquor ",
+    "BUZZWORD_1": "Alcohol",
+    "BUZZWORD_2": "Cocktail ",
+    "BUZZWORD_3": "Bottle ",
+    "BUZZWORD_4": "Drink",
+    "BUZZWORD_5": "Beverage "
+  },
+  {
+    "KEYWORD": "List",
+    "BUZZWORD_1": "Write ",
+    "BUZZWORD_2": "Check",
+    "BUZZWORD_3": "Paper ",
+    "BUZZWORD_4": "Pen ",
+    "BUZZWORD_5": "Pencil"
+  },
+  {
+    "KEYWORD": "Love",
+    "BUZZWORD_1": "Emotion",
+    "BUZZWORD_2": "Devotion",
+    "BUZZWORD_3": "Agape ",
+    "BUZZWORD_4": "Passion",
+    "BUZZWORD_5": "Romance "
+  },
+  {
+    "KEYWORD": "Luther Vandross",
+    "BUZZWORD_1": "Velvet ",
+    "BUZZWORD_2": "Teddy Bear ",
+    "BUZZWORD_3": "Curl ",
+    "BUZZWORD_4": "Voice ",
+    "BUZZWORD_5": "Deceased"
+  },
+  {
+    "KEYWORD": "Mac & Cheese",
+    "BUZZWORD_1": "Baked",
+    "BUZZWORD_2": "Paprika",
+    "BUZZWORD_3": "Noodles ",
+    "BUZZWORD_4": "Velveeta ",
+    "BUZZWORD_5": "Cheddar "
+  },
+  {
+    "KEYWORD": "Manger ",
+    "BUZZWORD_1": "Away ",
+    "BUZZWORD_2": "Jesus ",
+    "BUZZWORD_3": "Birth ",
+    "BUZZWORD_4": "Mary ",
+    "BUZZWORD_5": "Joseph "
+  },
+  {
+    "KEYWORD": "Mariah Carey ",
+    "BUZZWORD_1": "Album ",
+    "BUZZWORD_2": "All I Want ",
+    "BUZZWORD_3": "Nick Cannon",
+    "BUZZWORD_4": "Twins ",
+    "BUZZWORD_5": "Baby "
+  },
+  {
+    "KEYWORD": "Mashed",
+    "BUZZWORD_1": "Potatoes ",
+    "BUZZWORD_2": "Gravy ",
+    "BUZZWORD_3": "Butter ",
+    "BUZZWORD_4": "Garlic ",
+    "BUZZWORD_5": "Creamy "
+  },
+  {
+    "KEYWORD": "Mass",
+    "BUZZWORD_1": "Church",
+    "BUZZWORD_2": "Midnight ",
+    "BUZZWORD_3": "Catholic",
+    "BUZZWORD_4": "Communion",
+    "BUZZWORD_5": ""
+  },
+  {
+    "KEYWORD": "Mayflower",
+    "BUZZWORD_1": "Pilgrims ",
+    "BUZZWORD_2": "Boat ",
+    "BUZZWORD_3": "Thanksgiving ",
+    "BUZZWORD_4": "Sail",
+    "BUZZWORD_5": "Native Americans "
+  },
+  {
+    "KEYWORD": "Meal",
+    "BUZZWORD_1": "Dish ",
+    "BUZZWORD_2": "Dinner ",
+    "BUZZWORD_3": "Eat ",
+    "BUZZWORD_4": "Lunch ",
+    "BUZZWORD_5": "Hungry "
+  },
+  {
+    "KEYWORD": "Meat",
+    "BUZZWORD_1": "Steak",
+    "BUZZWORD_2": "Beef",
+    "BUZZWORD_3": "Pork ",
+    "BUZZWORD_4": "Swine ",
+    "BUZZWORD_5": "Carnivore "
+  },
+  {
+    "KEYWORD": "Merry",
+    "BUZZWORD_1": "Christmas ",
+    "BUZZWORD_2": "Holly",
+    "BUZZWORD_3": "Happy ",
+    "BUZZWORD_4": "Greeting ",
+    "BUZZWORD_5": ""
+  },
+  {
+    "KEYWORD": "Milk and Cookies",
+    "BUZZWORD_1": "Santa ",
+    "BUZZWORD_2": "Drink",
+    "BUZZWORD_3": "Snack",
+    "BUZZWORD_4": "Chocolate Chip",
+    "BUZZWORD_5": "Dessert "
+  },
+  {
+    "KEYWORD": "Miracle ",
+    "BUZZWORD_1": "Wonder",
+    "BUZZWORD_2": "Amazing",
+    "BUZZWORD_3": "Unbelievable",
+    "BUZZWORD_4": "Happen",
+    "BUZZWORD_5": "Something"
+  },
+  {
+    "KEYWORD": "Mistletoe ",
+    "BUZZWORD_1": "Kiss ",
+    "BUZZWORD_2": "Plant ",
+    "BUZZWORD_3": "Heads ",
+    "BUZZWORD_4": "Ceiling ",
+    "BUZZWORD_5": "Doorway "
+  },
+  {
+    "KEYWORD": "Mittens ",
+    "BUZZWORD_1": "Gloves ",
+    "BUZZWORD_2": "Hands  ",
+    "BUZZWORD_3": "Hat ",
+    "BUZZWORD_4": "Scarf",
+    "BUZZWORD_5": "Cold "
+  },
+  {
+    "KEYWORD": "Motown",
+    "BUZZWORD_1": "Berry Gordy",
+    "BUZZWORD_2": "Jackson 5 ",
+    "BUZZWORD_3": "Diana Ross",
+    "BUZZWORD_4": "Marvin Gaye ",
+    "BUZZWORD_5": "The Temptations"
+  },
+  {
+    "KEYWORD": "Napkins",
+    "BUZZWORD_1": "Wipe",
+    "BUZZWORD_2": "Cloth",
+    "BUZZWORD_3": "Mouth ",
+    "BUZZWORD_4": "Lap",
+    "BUZZWORD_5": "Tuck"
+  },
+  {
+    "KEYWORD": "Native Americans ",
+    "BUZZWORD_1": "Indians ",
+    "BUZZWORD_2": "Cherokee",
+    "BUZZWORD_3": "Navajo",
+    "BUZZWORD_4": "Seminole",
+    "BUZZWORD_5": "First"
+  },
+  {
+    "KEYWORD": "Nativity",
+    "BUZZWORD_1": "Manager",
+    "BUZZWORD_2": "Scene",
+    "BUZZWORD_3": "Yard",
+    "BUZZWORD_4": "Jesus",
+    "BUZZWORD_5": "Mary"
+  },
+  {
+    "KEYWORD": "Naughty",
+    "BUZZWORD_1": "Bad",
+    "BUZZWORD_2": "List",
+    "BUZZWORD_3": "Santa",
+    "BUZZWORD_4": "Dirty",
+    "BUZZWORD_5": "Behavior"
+  },
+  {
+    "KEYWORD": "New Years Eve ",
+    "BUZZWORD_1": "Day",
+    "BUZZWORD_2": "Before",
+    "BUZZWORD_3": "Holiday",
+    "BUZZWORD_4": "Midnight",
+    "BUZZWORD_5": "Celebrate"
+  },
+  {
+    "KEYWORD": "Newspaper",
+    "BUZZWORD_1": "Wrapping",
+    "BUZZWORD_2": "Read",
+    "BUZZWORD_3": "Throw",
+    "BUZZWORD_4": "Sections",
+    "BUZZWORD_5": "Dying"
+  },
+  {
+    "KEYWORD": "No Chill",
+    "BUZZWORD_1": "Lit",
+    "BUZZWORD_2": "Petty",
+    "BUZZWORD_3": "Winter",
+    "BUZZWORD_4": "Cold",
+    "BUZZWORD_5": "Opposite"
+  },
+  {
+    "KEYWORD": "Noel",
+    "BUZZWORD_1": "Goodwill",
+    "BUZZWORD_2": "Christmas ",
+    "BUZZWORD_3": "Peace",
+    "BUZZWORD_4": "Song",
+    "BUZZWORD_5": "Say"
+  },
+  {
+    "KEYWORD": "North Pole",
+    "BUZZWORD_1": "Top",
+    "BUZZWORD_2": "Santa",
+    "BUZZWORD_3": "Ice",
+    "BUZZWORD_4": "Glacier",
+    "BUZZWORD_5": "South"
+  },
+  {
+    "KEYWORD": "November",
+    "BUZZWORD_1": "Month",
+    "BUZZWORD_2": "October",
+    "BUZZWORD_3": "December",
+    "BUZZWORD_4": "Winter ",
+    "BUZZWORD_5": "Thanksgiving"
+  },
+  {
+    "KEYWORD": "Nutcracker",
+    "BUZZWORD_1": "Musical",
+    "BUZZWORD_2": "Theatre",
+    "BUZZWORD_3": "Song",
+    "BUZZWORD_4": "Dancer ",
+    "BUZZWORD_5": "Ballerina"
+  },
+  {
+    "KEYWORD": "Occasion",
+    "BUZZWORD_1": "Holiday",
+    "BUZZWORD_2": "Festival",
+    "BUZZWORD_3": "Event",
+    "BUZZWORD_4": "Happening",
+    "BUZZWORD_5": "Celebratin"
+  },
+  {
+    "KEYWORD": "October ",
+    "BUZZWORD_1": "Month",
+    "BUZZWORD_2": "Fall",
+    "BUZZWORD_3": "Halloween",
+    "BUZZWORD_4": "Cold",
+    "BUZZWORD_5": "September"
+  },
+  {
+    "KEYWORD": "Okra ",
+    "BUZZWORD_1": "Vegetable ",
+    "BUZZWORD_2": "Green",
+    "BUZZWORD_3": "Slimy",
+    "BUZZWORD_4": "Seeds ",
+    "BUZZWORD_5": "Fried"
+  },
+  {
+    "KEYWORD": "Old Man Winter ",
+    "BUZZWORD_1": "Cold",
+    "BUZZWORD_2": "Season",
+    "BUZZWORD_3": "Santa",
+    "BUZZWORD_4": "Young",
+    "BUZZWORD_5": "Person"
+  },
+  {
+    "KEYWORD": "Oprah’s Favorite Things",
+    "BUZZWORD_1": "Giveaway",
+    "BUZZWORD_2": "Car",
+    "BUZZWORD_3": "Gifts ",
+    "BUZZWORD_4": "You",
+    "BUZZWORD_5": "Rich"
+  },
+  {
+    "KEYWORD": "Ornaments",
+    "BUZZWORD_1": "Tree ",
+    "BUZZWORD_2": "Shiny",
+    "BUZZWORD_3": "Put",
+    "BUZZWORD_4": "Decorations",
+    "BUZZWORD_5": "Hangs"
+  },
+  {
+    "KEYWORD": "Oven",
+    "BUZZWORD_1": "Turkey ",
+    "BUZZWORD_2": "Food",
+    "BUZZWORD_3": "Hot",
+    "BUZZWORD_4": "Stove",
+    "BUZZWORD_5": "Kitchen"
+  },
+  {
+    "KEYWORD": "Package",
+    "BUZZWORD_1": "Deliver",
+    "BUZZWORD_2": "UPS",
+    "BUZZWORD_3": "FedEx",
+    "BUZZWORD_4": "Gift",
+    "BUZZWORD_5": "Tree"
+  },
+  {
+    "KEYWORD": "Pans",
+    "BUZZWORD_1": "Pots",
+    "BUZZWORD_2": "Stove",
+    "BUZZWORD_3": "Cook",
+    "BUZZWORD_4": "Stir",
+    "BUZZWORD_5": "Oven"
+  },
+  {
+    "KEYWORD": "Paprika ",
+    "BUZZWORD_1": "Red",
+    "BUZZWORD_2": "Seasoning",
+    "BUZZWORD_3": "Cabinet",
+    "BUZZWORD_4": "Sprinkle",
+    "BUZZWORD_5": "Powder"
+  },
+  {
+    "KEYWORD": "Parade",
+    "BUZZWORD_1": "Street",
+    "BUZZWORD_2": "March",
+    "BUZZWORD_3": "Float",
+    "BUZZWORD_4": "Decoration",
+    "BUZZWORD_5": "Macy"
+  },
+  {
+    "KEYWORD": "Parents",
+    "BUZZWORD_1": "Children",
+    "BUZZWORD_2": "Kids",
+    "BUZZWORD_3": "Older",
+    "BUZZWORD_4": "Grand",
+    "BUZZWORD_5": "People"
+  },
+  {
+    "KEYWORD": "Party",
+    "BUZZWORD_1": "Celebration",
+    "BUZZWORD_2": "Dance",
+    "BUZZWORD_3": "Event",
+    "BUZZWORD_4": "Christmas",
+    "BUZZWORD_5": "People"
+  },
+  {
+    "KEYWORD": "Pea Coat",
+    "BUZZWORD_1": "Warm ",
+    "BUZZWORD_2": "Button",
+    "BUZZWORD_3": "Wool",
+    "BUZZWORD_4": "Knee",
+    "BUZZWORD_5": "Coat"
+  },
+  {
+    "KEYWORD": "Peach Cobbler ",
+    "BUZZWORD_1": "Dessert ",
+    "BUZZWORD_2": "Pan ",
+    "BUZZWORD_3": "Ice Cream ",
+    "BUZZWORD_4": "A La Mode ",
+    "BUZZWORD_5": "Pie "
+  },
+  {
+    "KEYWORD": "Photoshoot",
+    "BUZZWORD_1": "Card",
+    "BUZZWORD_2": "Picture",
+    "BUZZWORD_3": "Photo",
+    "BUZZWORD_4": "Family",
+    "BUZZWORD_5": "Camera"
+  },
+  {
+    "KEYWORD": "Pie",
+    "BUZZWORD_1": "Sweet Potato",
+    "BUZZWORD_2": "Pumpkin",
+    "BUZZWORD_3": "Circle",
+    "BUZZWORD_4": "Crust",
+    "BUZZWORD_5": "Bake"
+  },
+  {
+    "KEYWORD": "Pilgrims",
+    "BUZZWORD_1": "Discovered",
+    "BUZZWORD_2": "Take",
+    "BUZZWORD_3": "Native Americans",
+    "BUZZWORD_4": "Thanksgiving",
+    "BUZZWORD_5": "Thieves"
+  },
+  {
+    "KEYWORD": "Pine Cone ",
+    "BUZZWORD_1": "Tree ",
+    "BUZZWORD_2": "Prickly",
+    "BUZZWORD_3": "Hard",
+    "BUZZWORD_4": "Brown",
+    "BUZZWORD_5": "Fall"
+  },
+  {
+    "KEYWORD": "Pine Needles",
+    "BUZZWORD_1": "Smell",
+    "BUZZWORD_2": "Prickly",
+    "BUZZWORD_3": "Sharp",
+    "BUZZWORD_4": "Green",
+    "BUZZWORD_5": "Ground"
+  },
+  {
+    "KEYWORD": "Pine Tree",
+    "BUZZWORD_1": "Stand",
+    "BUZZWORD_2": "Prickly",
+    "BUZZWORD_3": "Pointy",
+    "BUZZWORD_4": "Smell",
+    "BUZZWORD_5": "Green"
+  },
+  {
+    "KEYWORD": "Platter",
+    "BUZZWORD_1": "Tray",
+    "BUZZWORD_2": "Food",
+    "BUZZWORD_3": "Display",
+    "BUZZWORD_4": "Table",
+    "BUZZWORD_5": "Spread"
+  },
+  {
+    "KEYWORD": "Plymouth",
+    "BUZZWORD_1": "Rock",
+    "BUZZWORD_2": "Pilgrims",
+    "BUZZWORD_3": "Landed",
+    "BUZZWORD_4": "Arrive",
+    "BUZZWORD_5": "Native Americans"
+  },
+  {
+    "KEYWORD": "Poinsettia",
+    "BUZZWORD_1": "Red",
+    "BUZZWORD_2": "Flower",
+    "BUZZWORD_3": "Leaves ",
+    "BUZZWORD_4": "Decoration",
+    "BUZZWORD_5": "Plant "
+  },
+  {
+    "KEYWORD": "Potato Salad",
+    "BUZZWORD_1": "Mayo",
+    "BUZZWORD_2": "Mustard",
+    "BUZZWORD_3": "Sick",
+    "BUZZWORD_4": "Everybody",
+    "BUZZWORD_5": "Person"
+  },
+  {
+    "KEYWORD": "Potluck",
+    "BUZZWORD_1": "Bring",
+    "BUZZWORD_2": "Food",
+    "BUZZWORD_3": "Work",
+    "BUZZWORD_4": "Dish",
+    "BUZZWORD_5": "Group"
+  },
+  {
+    "KEYWORD": "Pots",
+    "BUZZWORD_1": "Pans",
+    "BUZZWORD_2": "Cookware ",
+    "BUZZWORD_3": "Stove ",
+    "BUZZWORD_4": "Food ",
+    "BUZZWORD_5": "Boil"
+  },
+  {
+    "KEYWORD": "Present",
+    "BUZZWORD_1": "Current ",
+    "BUZZWORD_2": "Gift ",
+    "BUZZWORD_3": "Now ",
+    "BUZZWORD_4": "Being ",
+    "BUZZWORD_5": "Here "
+  },
+  {
+    "KEYWORD": "Principles",
+    "BUZZWORD_1": "Ethics",
+    "BUZZWORD_2": "Morals ",
+    "BUZZWORD_3": "Rule ",
+    "BUZZWORD_4": "Truth ",
+    "BUZZWORD_5": "Fundamental"
+  },
+  {
+    "KEYWORD": "Pumpkin",
+    "BUZZWORD_1": "Fruit ",
+    "BUZZWORD_2": "Squash ",
+    "BUZZWORD_3": "Pie ",
+    "BUZZWORD_4": "Carve ",
+    "BUZZWORD_5": "Jack-O-Lantern"
+  },
+  {
+    "KEYWORD": "Punch",
+    "BUZZWORD_1": "Drink ",
+    "BUZZWORD_2": "Red ",
+    "BUZZWORD_3": "Purple ",
+    "BUZZWORD_4": "Kool-Aid ",
+    "BUZZWORD_5": "Bowl "
+  },
+  {
+    "KEYWORD": "Receive",
+    "BUZZWORD_1": "Give ",
+    "BUZZWORD_2": "Present ",
+    "BUZZWORD_3": "Take ",
+    "BUZZWORD_4": "Exchange ",
+    "BUZZWORD_5": "Collect "
+  },
+  {
+    "KEYWORD": "Recipe",
+    "BUZZWORD_1": "Cook",
+    "BUZZWORD_2": "Instructions ",
+    "BUZZWORD_3": "Directions ",
+    "BUZZWORD_4": "Procedure ",
+    "BUZZWORD_5": "Follow "
+  },
+  {
+    "KEYWORD": "Red",
+    "BUZZWORD_1": "Pink",
+    "BUZZWORD_2": "Reindeer",
+    "BUZZWORD_3": "Nose ",
+    "BUZZWORD_4": "Blood ",
+    "BUZZWORD_5": "Light "
+  },
+  {
+    "KEYWORD": "Reindeer",
+    "BUZZWORD_1": "Red ",
+    "BUZZWORD_2": "Nose ",
+    "BUZZWORD_3": "Santa ",
+    "BUZZWORD_4": "Sleigh ",
+    "BUZZWORD_5": "Antlers "
+  },
+  {
+    "KEYWORD": "Rejoice",
+    "BUZZWORD_1": "Exalt ",
+    "BUZZWORD_2": "Revel ",
+    "BUZZWORD_3": "Celebrate ",
+    "BUZZWORD_4": "Delight ",
+    "BUZZWORD_5": "Triumph"
+  },
+  {
+    "KEYWORD": "Resolution",
+    "BUZZWORD_1": "New Year ",
+    "BUZZWORD_2": "Decision",
+    "BUZZWORD_3": "Intention",
+    "BUZZWORD_4": "Resolve ",
+    "BUZZWORD_5": "Dedicate "
+  },
+  {
+    "KEYWORD": "Reunion",
+    "BUZZWORD_1": "Homecoming ",
+    "BUZZWORD_2": "Reconciliation",
+    "BUZZWORD_3": "Get Together ",
+    "BUZZWORD_4": "Assembly ",
+    "BUZZWORD_5": "Unite "
+  },
+  {
+    "KEYWORD": "Ribbon",
+    "BUZZWORD_1": "Bow ",
+    "BUZZWORD_2": "Decoration ",
+    "BUZZWORD_3": "Bind ",
+    "BUZZWORD_4": "Wrap",
+    "BUZZWORD_5": "String "
+  },
+  {
+    "KEYWORD": "Ritual",
+    "BUZZWORD_1": "Act ",
+    "BUZZWORD_2": "Custom",
+    "BUZZWORD_3": "Habit ",
+    "BUZZWORD_4": "Practice ",
+    "BUZZWORD_5": "Procedure "
+  },
+  {
+    "KEYWORD": "Roast ",
+    "BUZZWORD_1": "Meat ",
+    "BUZZWORD_2": "Chestnuts ",
+    "BUZZWORD_3": "Comedy ",
+    "BUZZWORD_4": "Rump",
+    "BUZZWORD_5": "Marshmallow"
+  },
+  {
+    "KEYWORD": "Rolls",
+    "BUZZWORD_1": "Bread ",
+    "BUZZWORD_2": "Potato",
+    "BUZZWORD_3": "Butter ",
+    "BUZZWORD_4": "Bake ",
+    "BUZZWORD_5": "Yeast "
+  },
+  {
+    "KEYWORD": "Rudolph",
+    "BUZZWORD_1": "Red Nose ",
+    "BUZZWORD_2": "Reindeer",
+    "BUZZWORD_3": "Antlers ",
+    "BUZZWORD_4": "Santa ",
+    "BUZZWORD_5": "Shiny "
+  },
+  {
+    "KEYWORD": "Run DMC",
+    "BUZZWORD_1": "Addias ",
+    "BUZZWORD_2": "Hollis ",
+    "BUZZWORD_3": "Queens ",
+    "BUZZWORD_4": "Track Suit ",
+    "BUZZWORD_5": "Shelltoe"
+  },
+  {
+    "KEYWORD": "Sabbath",
+    "BUZZWORD_1": "Saturday ",
+    "BUZZWORD_2": "Holy Day ",
+    "BUZZWORD_3": "Sunday ",
+    "BUZZWORD_4": "Rest ",
+    "BUZZWORD_5": "Lord"
+  },
+  {
+    "KEYWORD": "Sacred ",
+    "BUZZWORD_1": "Holy ",
+    "BUZZWORD_2": "Cherished ",
+    "BUZZWORD_3": "Spiritual",
+    "BUZZWORD_4": "Religious ",
+    "BUZZWORD_5": "Solemn"
+  },
+  {
+    "KEYWORD": "Sagittaurius",
+    "BUZZWORD_1": "Zodiac",
+    "BUZZWORD_2": "November ",
+    "BUZZWORD_3": "Horoscope",
+    "BUZZWORD_4": "December ",
+    "BUZZWORD_5": "Astrology "
+  },
+  {
+    "KEYWORD": "Salad",
+    "BUZZWORD_1": "Green ",
+    "BUZZWORD_2": "Leaf",
+    "BUZZWORD_3": "Dressing ",
+    "BUZZWORD_4": "Vegetables ",
+    "BUZZWORD_5": "Soup"
+  },
+  {
+    "KEYWORD": "Sales",
+    "BUZZWORD_1": "Clearance ",
+    "BUZZWORD_2": "Liquidation",
+    "BUZZWORD_3": "Price Cut ",
+    "BUZZWORD_4": "Decrease ",
+    "BUZZWORD_5": "Deal"
+  },
+  {
+    "KEYWORD": "Salvation Army ",
+    "BUZZWORD_1": "Charity ",
+    "BUZZWORD_2": "Donations",
+    "BUZZWORD_3": "Volunteers",
+    "BUZZWORD_4": "Giving",
+    "BUZZWORD_5": "Bells"
+  },
+  {
+    "KEYWORD": "Santa Claus",
+    "BUZZWORD_1": "St. Nick",
+    "BUZZWORD_2": "Kris Kringle ",
+    "BUZZWORD_3": "Elves ",
+    "BUZZWORD_4": "Jolly ",
+    "BUZZWORD_5": "North Pole "
+  },
+  {
+    "KEYWORD": "Sauce ",
+    "BUZZWORD_1": "Gravy",
+    "BUZZWORD_2": "Dressing ",
+    "BUZZWORD_3": "Topping ",
+    "BUZZWORD_4": "Dip",
+    "BUZZWORD_5": "Condiment "
+  },
+  {
+    "KEYWORD": "Scarf",
+    "BUZZWORD_1": "Wrap",
+    "BUZZWORD_2": "Neck",
+    "BUZZWORD_3": "Shawl",
+    "BUZZWORD_4": "Boa",
+    "BUZZWORD_5": "Wrap"
+  },
+  {
+    "KEYWORD": "Scorpio",
+    "BUZZWORD_1": "Zodiac",
+    "BUZZWORD_2": "Sting",
+    "BUZZWORD_3": "Scorpian",
+    "BUZZWORD_4": "Sign",
+    "BUZZWORD_5": "Birth Month"
+  },
+  {
+    "KEYWORD": "Scotch Tape ",
+    "BUZZWORD_1": "Roll",
+    "BUZZWORD_2": "Sticky",
+    "BUZZWORD_3": "Hold",
+    "BUZZWORD_4": "Wrapping Paper",
+    "BUZZWORD_5": "Gifts"
+  },
+  {
+    "KEYWORD": "Scrooge",
+    "BUZZWORD_1": "Grumpy ",
+    "BUZZWORD_2": "Christmas",
+    "BUZZWORD_3": "Mean",
+    "BUZZWORD_4": "Ghosts",
+    "BUZZWORD_5": "Old Man"
+  },
+  {
+    "KEYWORD": "Season",
+    "BUZZWORD_1": "Fall",
+    "BUZZWORD_2": "Winter",
+    "BUZZWORD_3": "Spring",
+    "BUZZWORD_4": "Summer",
+    "BUZZWORD_5": "Change"
+  },
+  {
+    "KEYWORD": "Season's Greetings",
+    "BUZZWORD_1": "Welcome",
+    "BUZZWORD_2": "Hello",
+    "BUZZWORD_3": "Speak",
+    "BUZZWORD_4": "Words",
+    "BUZZWORD_5": "Say"
+  },
+  {
+    "KEYWORD": "Serve ",
+    "BUZZWORD_1": "Volunteer",
+    "BUZZWORD_2": "Give",
+    "BUZZWORD_3": "Care",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Distribute"
+  },
+  {
+    "KEYWORD": "Shipping",
+    "BUZZWORD_1": "Amazon",
+    "BUZZWORD_2": "UPS",
+    "BUZZWORD_3": "FedEx",
+    "BUZZWORD_4": "Pay",
+    "BUZZWORD_5": "Send"
+  },
+  {
+    "KEYWORD": "Shopping",
+    "BUZZWORD_1": "Buy",
+    "BUZZWORD_2": "Gifts",
+    "BUZZWORD_3": "Women",
+    "BUZZWORD_4": "Clothes",
+    "BUZZWORD_5": "Spend"
+  },
+  {
+    "KEYWORD": "Shopping Mall ",
+    "BUZZWORD_1": "Stores ",
+    "BUZZWORD_2": "Buy",
+    "BUZZWORD_3": "Closing",
+    "BUZZWORD_4": "Go",
+    "BUZZWORD_5": "Gifts"
+  },
+  {
+    "KEYWORD": "Sister ",
+    "BUZZWORD_1": "Relative ",
+    "BUZZWORD_2": "Twin",
+    "BUZZWORD_3": "Female ",
+    "BUZZWORD_4": "Brother ",
+    "BUZZWORD_5": "Mother "
+  },
+  {
+    "KEYWORD": "Skate ",
+    "BUZZWORD_1": "Feet",
+    "BUZZWORD_2": "Ice",
+    "BUZZWORD_3": "Rink",
+    "BUZZWORD_4": "Circle",
+    "BUZZWORD_5": "Roller"
+  },
+  {
+    "KEYWORD": "Ski",
+    "BUZZWORD_1": "Mountain",
+    "BUZZWORD_2": "Slope",
+    "BUZZWORD_3": "Hills",
+    "BUZZWORD_4": "Feet",
+    "BUZZWORD_5": "Sport"
+  },
+  {
+    "KEYWORD": "Sled",
+    "BUZZWORD_1": "Slide",
+    "BUZZWORD_2": "Snow",
+    "BUZZWORD_3": "Hill",
+    "BUZZWORD_4": "Plastic",
+    "BUZZWORD_5": "Kids"
+  },
+  {
+    "KEYWORD": "Sleigh",
+    "BUZZWORD_1": "Santa",
+    "BUZZWORD_2": "Ride",
+    "BUZZWORD_3": "Reindeer",
+    "BUZZWORD_4": "Gifts",
+    "BUZZWORD_5": "Red"
+  },
+  {
+    "KEYWORD": "Sleigh Bells",
+    "BUZZWORD_1": "Ring",
+    "BUZZWORD_2": "Noise",
+    "BUZZWORD_3": "Cheer",
+    "BUZZWORD_4": "Gold",
+    "BUZZWORD_5": "Sound"
+  },
+  {
+    "KEYWORD": "Small Business Saturday ",
+    "BUZZWORD_1": "Support",
+    "BUZZWORD_2": "Black Friday",
+    "BUZZWORD_3": "Cyber Monday",
+    "BUZZWORD_4": "Give",
+    "BUZZWORD_5": "Buy"
+  },
+  {
+    "KEYWORD": "Snow ",
+    "BUZZWORD_1": "Cold",
+    "BUZZWORD_2": "Freezing",
+    "BUZZWORD_3": "Fight",
+    "BUZZWORD_4": "Ball",
+    "BUZZWORD_5": "Angel"
+  },
+  {
+    "KEYWORD": "Snowball",
+    "BUZZWORD_1": "Fight",
+    "BUZZWORD_2": "Kids",
+    "BUZZWORD_3": "Man",
+    "BUZZWORD_4": "Flake",
+    "BUZZWORD_5": "Roll"
+  },
+  {
+    "KEYWORD": "Snowflake",
+    "BUZZWORD_1": "Fall",
+    "BUZZWORD_2": "Ground",
+    "BUZZWORD_3": "Ice",
+    "BUZZWORD_4": "Roll",
+    "BUZZWORD_5": "Man"
+  },
+  {
+    "KEYWORD": "Snowman",
+    "BUZZWORD_1": "Ball",
+    "BUZZWORD_2": "Carrot",
+    "BUZZWORD_3": "Nose",
+    "BUZZWORD_4": "Sticks",
+    "BUZZWORD_5": "Kids"
+  },
+  {
+    "KEYWORD": "Socks",
+    "BUZZWORD_1": "Red",
+    "BUZZWORD_2": "Feet",
+    "BUZZWORD_3": "Shoes",
+    "BUZZWORD_4": "Toes",
+    "BUZZWORD_5": "Slide"
+  },
+  {
+    "KEYWORD": "Soul Food",
+    "BUZZWORD_1": "Southern",
+    "BUZZWORD_2": "Cook",
+    "BUZZWORD_3": "Fried",
+    "BUZZWORD_4": "Movie ",
+    "BUZZWORD_5": "Black"
+  },
+  {
+    "KEYWORD": "Spiked ",
+    "BUZZWORD_1": "Drunk",
+    "BUZZWORD_2": "Punch",
+    "BUZZWORD_3": "Poison",
+    "BUZZWORD_4": "Drink",
+    "BUZZWORD_5": "Party"
+  },
+  {
+    "KEYWORD": "Spirit",
+    "BUZZWORD_1": "Drink",
+    "BUZZWORD_2": "Feeling",
+    "BUZZWORD_3": "Alcohol",
+    "BUZZWORD_4": "Cheerful",
+    "BUZZWORD_5": "Leaders"
+  },
+  {
+    "KEYWORD": "Squash",
+    "BUZZWORD_1": "Spaghetti",
+    "BUZZWORD_2": "Yellow",
+    "BUZZWORD_3": "Table",
+    "BUZZWORD_4": "Side",
+    "BUZZWORD_5": "Vegatables"
+  },
+  {
+    "KEYWORD": "St. Nick",
+    "BUZZWORD_1": "Santa",
+    "BUZZWORD_2": "North Pole",
+    "BUZZWORD_3": "Nickname",
+    "BUZZWORD_4": "Nicholas",
+    "BUZZWORD_5": "Claus"
+  },
+  {
+    "KEYWORD": "Star",
+    "BUZZWORD_1": "Tree",
+    "BUZZWORD_2": "Sky",
+    "BUZZWORD_3": "Burst",
+    "BUZZWORD_4": "Moon",
+    "BUZZWORD_5": "Space"
+  },
+  {
+    "KEYWORD": "Stickers",
+    "BUZZWORD_1": "Glue",
+    "BUZZWORD_2": "Kids",
+    "BUZZWORD_3": "Notebook",
+    "BUZZWORD_4": "Colorful",
+    "BUZZWORD_5": "Computer"
+  },
+  {
+    "KEYWORD": "Stocking",
+    "BUZZWORD_1": "Hang",
+    "BUZZWORD_2": "Name",
+    "BUZZWORD_3": "Red",
+    "BUZZWORD_4": "White",
+    "BUZZWORD_5": "Fireplace"
+  },
+  {
+    "KEYWORD": "Stocking Stuffer",
+    "BUZZWORD_1": "Sock",
+    "BUZZWORD_2": "Gifts",
+    "BUZZWORD_3": "Hang",
+    "BUZZWORD_4": "Fireplace",
+    "BUZZWORD_5": "Name"
+  },
+  {
+    "KEYWORD": "String Beans",
+    "BUZZWORD_1": "Ham",
+    "BUZZWORD_2": "Green",
+    "BUZZWORD_3": "Pot",
+    "BUZZWORD_4": "Cook",
+    "BUZZWORD_5": "Snap"
+  },
+  {
+    "KEYWORD": "Sweater",
+    "BUZZWORD_1": "Ugly",
+    "BUZZWORD_2": "Cold",
+    "BUZZWORD_3": "Wear",
+    "BUZZWORD_4": "Knit",
+    "BUZZWORD_5": "Wool"
+  },
+  {
+    "KEYWORD": "Sweet Potato",
+    "BUZZWORD_1": "Pie",
+    "BUZZWORD_2": "Orange",
+    "BUZZWORD_3": "Crust",
+    "BUZZWORD_4": "Souffle",
+    "BUZZWORD_5": "Pumpkin"
+  },
+  {
+    "KEYWORD": "Tablecloth",
+    "BUZZWORD_1": "Cover",
+    "BUZZWORD_2": "Under",
+    "BUZZWORD_3": "Pots",
+    "BUZZWORD_4": "Plate",
+    "BUZZWORD_5": "Decoration"
+  },
+  {
+    "KEYWORD": "Taste",
+    "BUZZWORD_1": "Bite",
+    "BUZZWORD_2": "Mouth",
+    "BUZZWORD_3": "Sense",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Tongue"
+  },
+  {
+    "KEYWORD": "Thankful",
+    "BUZZWORD_1": "Grateful",
+    "BUZZWORD_2": "Give",
+    "BUZZWORD_3": "Feeling",
+    "BUZZWORD_4": "Appreciative",
+    "BUZZWORD_5": "Happy"
+  },
+  {
+    "KEYWORD": "Thanksgiving ",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Dinner",
+    "BUZZWORD_3": "Cook",
+    "BUZZWORD_4": "Holiday",
+    "BUZZWORD_5": "Turkey"
+  },
+  {
+    "KEYWORD": "The Hawk",
+    "BUZZWORD_1": "Winter",
+    "BUZZWORD_2": "Chicago",
+    "BUZZWORD_3": "Brick",
+    "BUZZWORD_4": "Cold",
+    "BUZZWORD_5": "Wind"
+  },
+  {
+    "KEYWORD": "The Itis",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Sleep",
+    "BUZZWORD_3": "Full",
+    "BUZZWORD_4": "Lay Down",
+    "BUZZWORD_5": "Feeling"
+  },
+  {
+    "KEYWORD": "The Jackson 5 ",
+    "BUZZWORD_1": "Group",
+    "BUZZWORD_2": "R&B ",
+    "BUZZWORD_3": "Michael ",
+    "BUZZWORD_4": "Tito",
+    "BUZZWORD_5": "Jermaine "
+  },
+  {
+    "KEYWORD": "The Perfect Holiday",
+    "BUZZWORD_1": "Great",
+    "BUZZWORD_2": "Ideal",
+    "BUZZWORD_3": "Movie ",
+    "BUZZWORD_4": "Mistakes",
+    "BUZZWORD_5": "Celebrate"
+  },
+  {
+    "KEYWORD": "The Preacher’s Wife",
+    "BUZZWORD_1": "Whitney",
+    "BUZZWORD_2": "Holiday",
+    "BUZZWORD_3": "First Lady",
+    "BUZZWORD_4": "Church",
+    "BUZZWORD_5": "Movie "
+  },
+  {
+    "KEYWORD": "The Sugar ",
+    "BUZZWORD_1": "Diabetes",
+    "BUZZWORD_2": "Brown",
+    "BUZZWORD_3": "White",
+    "BUZZWORD_4": "Sweet",
+    "BUZZWORD_5": "Avoid"
+  },
+  {
+    "KEYWORD": "The Temptations",
+    "BUZZWORD_1": "Group",
+    "BUZZWORD_2": "Five",
+    "BUZZWORD_3": "Sing",
+    "BUZZWORD_4": "Dance",
+    "BUZZWORD_5": "Two Step"
+  },
+  {
+    "KEYWORD": "This Christmas",
+    "BUZZWORD_1": "Will Be",
+    "BUZZWORD_2": "Very",
+    "BUZZWORD_3": "Special",
+    "BUZZWORD_4": "Chris Brown",
+    "BUZZWORD_5": "Me"
+  },
+  {
+    "KEYWORD": "Tidings",
+    "BUZZWORD_1": "Joy",
+    "BUZZWORD_2": "Celebrate",
+    "BUZZWORD_3": "Song",
+    "BUZZWORD_4": "Bring",
+    "BUZZWORD_5": "Good"
+  },
+  {
+    "KEYWORD": "Timberlands",
+    "BUZZWORD_1": "Boots",
+    "BUZZWORD_2": "Camel",
+    "BUZZWORD_3": "NY",
+    "BUZZWORD_4": "Shoe",
+    "BUZZWORD_5": "Wear"
+  },
+  {
+    "KEYWORD": "Tinsel",
+    "BUZZWORD_1": "Decoration",
+    "BUZZWORD_2": "Strips",
+    "BUZZWORD_3": "Thin",
+    "BUZZWORD_4": "Shiny",
+    "BUZZWORD_5": "Glitter"
+  },
+  {
+    "KEYWORD": "To Go Plate ",
+    "BUZZWORD_1": "Take",
+    "BUZZWORD_2": "Foil",
+    "BUZZWORD_3": "Cover",
+    "BUZZWORD_4": "Box",
+    "BUZZWORD_5": "Leftovers"
+  },
+  {
+    "KEYWORD": "Toys",
+    "BUZZWORD_1": "Gifts ",
+    "BUZZWORD_2": "R' US",
+    "BUZZWORD_3": "Play",
+    "BUZZWORD_4": "Kids",
+    "BUZZWORD_5": "Children"
+  },
+  {
+    "KEYWORD": "Trading Places",
+    "BUZZWORD_1": "Movie ",
+    "BUZZWORD_2": "Eddie Murphy ",
+    "BUZZWORD_3": "Switch",
+    "BUZZWORD_4": "Lives",
+    "BUZZWORD_5": "Swap"
+  },
+  {
+    "KEYWORD": "Tradition",
+    "BUZZWORD_1": "History",
+    "BUZZWORD_2": "Before",
+    "BUZZWORD_3": "Ancestors",
+    "BUZZWORD_4": "Ceremony",
+    "BUZZWORD_5": "Practice"
+  },
+  {
+    "KEYWORD": "Tree",
+    "BUZZWORD_1": "Oak",
+    "BUZZWORD_2": "Paper",
+    "BUZZWORD_3": "Green",
+    "BUZZWORD_4": "Leaves",
+    "BUZZWORD_5": "Trunk"
+  },
+  {
+    "KEYWORD": "Trick or Treat ",
+    "BUZZWORD_1": "Halloween",
+    "BUZZWORD_2": "Candy",
+    "BUZZWORD_3": "Kids",
+    "BUZZWORD_4": "Walk",
+    "BUZZWORD_5": "Neighborhood"
+  },
+  {
+    "KEYWORD": "Trimming",
+    "BUZZWORD_1": "Tree",
+    "BUZZWORD_2": "Fall",
+    "BUZZWORD_3": "Ground",
+    "BUZZWORD_4": "Leaves",
+    "BUZZWORD_5": "On"
+  },
+  {
+    "KEYWORD": "Trips",
+    "BUZZWORD_1": "Vacation",
+    "BUZZWORD_2": "Plane",
+    "BUZZWORD_3": "Car",
+    "BUZZWORD_4": "Fall",
+    "BUZZWORD_5": "Go"
+  },
+  {
+    "KEYWORD": "Turkey",
+    "BUZZWORD_1": "Ham",
+    "BUZZWORD_2": "Bird",
+    "BUZZWORD_3": "Fry",
+    "BUZZWORD_4": "Oven",
+    "BUZZWORD_5": "Meat"
+  },
+  {
+    "KEYWORD": "Umoja",
+    "BUZZWORD_1": "Unity",
+    "BUZZWORD_2": "Kwanzaa",
+    "BUZZWORD_3": "Day",
+    "BUZZWORD_4": "Celebrate",
+    "BUZZWORD_5": "Red"
+  },
+  {
+    "KEYWORD": "Uncle",
+    "BUZZWORD_1": "Aunt ",
+    "BUZZWORD_2": "Married ",
+    "BUZZWORD_3": "Male ",
+    "BUZZWORD_4": "Cousins ",
+    "BUZZWORD_5": "Family "
+  },
+  {
+    "KEYWORD": "Unwrap",
+    "BUZZWORD_1": "Present",
+    "BUZZWORD_2": "Gift",
+    "BUZZWORD_3": "Tree",
+    "BUZZWORD_4": "Children",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Vacation",
+    "BUZZWORD_1": "PTO",
+    "BUZZWORD_2": "Trip",
+    "BUZZWORD_3": "Go",
+    "BUZZWORD_4": "Leisure",
+    "BUZZWORD_5": "Family "
+  },
+  {
+    "KEYWORD": "Vegetables",
+    "BUZZWORD_1": "Meat",
+    "BUZZWORD_2": "Grow",
+    "BUZZWORD_3": "Green",
+    "BUZZWORD_4": "Garden",
+    "BUZZWORD_5": "Side"
+  },
+  {
+    "KEYWORD": "Visit",
+    "BUZZWORD_1": "Go",
+    "BUZZWORD_2": "Vacation",
+    "BUZZWORD_3": "Trip",
+    "BUZZWORD_4": "Holiday",
+    "BUZZWORD_5": "See"
+  },
+  {
+    "KEYWORD": "Whitney Houston",
+    "BUZZWORD_1": "Music",
+    "BUZZWORD_2": "Bobby",
+    "BUZZWORD_3": "Christina",
+    "BUZZWORD_4": "Singer",
+    "BUZZWORD_5": "Icon"
+  },
+  {
+    "KEYWORD": "Wife",
+    "BUZZWORD_1": "Husband",
+    "BUZZWORD_2": "Married",
+    "BUZZWORD_3": "Mother",
+    "BUZZWORD_4": "Children",
+    "BUZZWORD_5": "Household"
+  },
+  {
+    "KEYWORD": "Winter",
+    "BUZZWORD_1": "Cold",
+    "BUZZWORD_2": "Season",
+    "BUZZWORD_3": "Snow",
+    "BUZZWORD_4": "Spring",
+    "BUZZWORD_5": "Summer"
+  },
+  {
+    "KEYWORD": "Wise Men",
+    "BUZZWORD_1": "Three",
+    "BUZZWORD_2": "Jesus",
+    "BUZZWORD_3": "Gifts",
+    "BUZZWORD_4": "Travel",
+    "BUZZWORD_5": "Smart"
+  },
+  {
+    "KEYWORD": "Wish",
+    "BUZZWORD_1": "Grant",
+    "BUZZWORD_2": "Genie",
+    "BUZZWORD_3": "Three",
+    "BUZZWORD_4": "Aladdin",
+    "BUZZWORD_5": "Give"
+  },
+  {
+    "KEYWORD": "Wonder",
+    "BUZZWORD_1": "Curious",
+    "BUZZWORD_2": "Wayne",
+    "BUZZWORD_3": "Full",
+    "BUZZWORD_4": "Amazing",
+    "BUZZWORD_5": "Excellence"
+  },
+  {
+    "KEYWORD": "Worship",
+    "BUZZWORD_1": "God",
+    "BUZZWORD_2": "Lord",
+    "BUZZWORD_3": "Praise",
+    "BUZZWORD_4": "Pray",
+    "BUZZWORD_5": "Church"
+  },
+  {
+    "KEYWORD": "Wrap",
+    "BUZZWORD_1": "Paper",
+    "BUZZWORD_2": "Cover ",
+    "BUZZWORD_3": "Blanket ",
+    "BUZZWORD_4": "Cape",
+    "BUZZWORD_5": "Reynold’s"
+  },
+  {
+    "KEYWORD": "Wrapping Paper",
+    "BUZZWORD_1": "Gifts ",
+    "BUZZWORD_2": "Cover ",
+    "BUZZWORD_3": "Newspaper",
+    "BUZZWORD_4": "Buy",
+    "BUZZWORD_5": "Bow"
+  },
+  {
+    "KEYWORD": "Wreath",
+    "BUZZWORD_1": "Door",
+    "BUZZWORD_2": "Decoration",
+    "BUZZWORD_3": "Hang",
+    "BUZZWORD_4": "Leaves",
+    "BUZZWORD_5": "Berries"
+  },
+  {
+    "KEYWORD": "Xmas",
+    "BUZZWORD_1": "Malcolm",
+    "BUZZWORD_2": "Appreviation",
+    "BUZZWORD_3": "Christmas",
+    "BUZZWORD_4": "Letter",
+    "BUZZWORD_5": "Name"
+  },
+  {
+    "KEYWORD": "Yams",
+    "BUZZWORD_1": "Sweet ",
+    "BUZZWORD_2": "Potatoes ",
+    "BUZZWORD_3": "Orange ",
+    "BUZZWORD_4": "Candied ",
+    "BUZZWORD_5": "Peel"
+  },
+  {
+    "KEYWORD": "Shirley Ceasar ",
+    "BUZZWORD_1": "Greens",
+    "BUZZWORD_2": "Beans",
+    "BUZZWORD_3": "Potatoes",
+    "BUZZWORD_4": "Tomatoes",
+    "BUZZWORD_5": "Hogs"
+  },
+  {
+    "KEYWORD": "Elf on a Shelf ",
+    "BUZZWORD_1": "Small",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Instagram",
+    "BUZZWORD_4": "Santa",
+    "BUZZWORD_5": "Helper"
+  }
+]

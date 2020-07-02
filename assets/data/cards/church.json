@@ -1,0 +1,2386 @@
+[
+  {
+    "KEYWORD": "A & B Selection",
+    "BUZZWORD_1": "Song",
+    "BUZZWORD_2": "Choir",
+    "BUZZWORD_3": "Hymn",
+    "BUZZWORD_4": "Number",
+    "BUZZWORD_5": "Director "
+  },
+  {
+    "KEYWORD": "Abraham",
+    "BUZZWORD_1": "Land ",
+    "BUZZWORD_2": "Sons ",
+    "BUZZWORD_3": "Isaac",
+    "BUZZWORD_4": "Sarah",
+    "BUZZWORD_5": "Father "
+  },
+  {
+    "KEYWORD": "Adam",
+    "BUZZWORD_1": "Eve",
+    "BUZZWORD_2": "Rib",
+    "BUZZWORD_3": "Dust",
+    "BUZZWORD_4": "Apple",
+    "BUZZWORD_5": "Man"
+  },
+  {
+    "KEYWORD": "Al Green",
+    "BUZZWORD_1": "Grits",
+    "BUZZWORD_2": "Secular",
+    "BUZZWORD_3": "Love & Happiness",
+    "BUZZWORD_4": "Reverend",
+    "BUZZWORD_5": "Tired of Being Alone "
+  },
+  {
+    "KEYWORD": "Al Shapton",
+    "BUZZWORD_1": "Reverand",
+    "BUZZWORD_2": "Activist",
+    "BUZZWORD_3": "Perm",
+    "BUZZWORD_4": "Weight",
+    "BUZZWORD_5": "Civil Rights "
+  },
+  {
+    "KEYWORD": "Albertina Walker",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "Gospel",
+    "BUZZWORD_3": "Queen",
+    "BUZZWORD_4": "Album",
+    "BUZZWORD_5": "Song"
+  },
+  {
+    "KEYWORD": "Alter Call",
+    "BUZZWORD_1": "Front",
+    "BUZZWORD_2": "Invitation",
+    "BUZZWORD_3": "Commitment",
+    "BUZZWORD_4": "Usher",
+    "BUZZWORD_5": "Pastor"
+  },
+  {
+    "KEYWORD": "Alto",
+    "BUZZWORD_1": "Tenor",
+    "BUZZWORD_2": "Bass",
+    "BUZZWORD_3": "Soprano",
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "Chorus"
+  },
+  {
+    "KEYWORD": "Amazing Grace",
+    "BUZZWORD_1": "Song",
+    "BUZZWORD_2": "Negro Spiritual",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "How Sweet The Sound"
+  },
+  {
+    "KEYWORD": "AME",
+    "BUZZWORD_1": "African",
+    "BUZZWORD_2": "Methodist ",
+    "BUZZWORD_3": "Episcopal",
+    "BUZZWORD_4": "Denomination",
+    "BUZZWORD_5": "Slaves"
+  },
+  {
+    "KEYWORD": "Amen",
+    "BUZZWORD_1": "So Be It",
+    "BUZZWORD_2": "Agreement",
+    "BUZZWORD_3": "Ending",
+    "BUZZWORD_4": "Closing",
+    "BUZZWORD_5": "Prayer "
+  },
+  {
+    "KEYWORD": "Andraé Crouch",
+    "BUZZWORD_1": "Gospel",
+    "BUZZWORD_2": "Songwriter",
+    "BUZZWORD_3": "Michael Jackson",
+    "BUZZWORD_4": "Blood",
+    "BUZZWORD_5": "Soon"
+  },
+  {
+    "KEYWORD": "Angel",
+    "BUZZWORD_1": "Cherub",
+    "BUZZWORD_2": "Guardian",
+    "BUZZWORD_3": "Devil",
+    "BUZZWORD_4": "Messenger",
+    "BUZZWORD_5": "Wings "
+  },
+  {
+    "KEYWORD": "Anniversary",
+    "BUZZWORD_1": "Yearly",
+    "BUZZWORD_2": "Celebration",
+    "BUZZWORD_3": "Holiday",
+    "BUZZWORD_4": "Festival",
+    "BUZZWORD_5": "Commemoration"
+  },
+  {
+    "KEYWORD": "Announcements",
+    "BUZZWORD_1": "Broadcast",
+    "BUZZWORD_2": "Declaration",
+    "BUZZWORD_3": "First",
+    "BUZZWORD_4": "News",
+    "BUZZWORD_5": "Notify"
+  },
+  {
+    "KEYWORD": "Anointing",
+    "BUZZWORD_1": "Blessing",
+    "BUZZWORD_2": "Oil",
+    "BUZZWORD_3": "Power",
+    "BUZZWORD_4": "Head",
+    "BUZZWORD_5": "Body"
+  },
+  {
+    "KEYWORD": "Apostolic",
+    "BUZZWORD_1": "Holy",
+    "BUZZWORD_2": "Pastoral",
+    "BUZZWORD_3": "Sacred",
+    "BUZZWORD_4": "Ministerial",
+    "BUZZWORD_5": "Prophet"
+  },
+  {
+    "KEYWORD": "Armorbearer",
+    "BUZZWORD_1": "Servant",
+    "BUZZWORD_2": "Responsible ",
+    "BUZZWORD_3": "Helper",
+    "BUZZWORD_4": "Support",
+    "BUZZWORD_5": "Pastor "
+  },
+  {
+    "KEYWORD": "Baptism",
+    "BUZZWORD_1": "Water",
+    "BUZZWORD_2": "Initiation",
+    "BUZZWORD_3": "Ritual",
+    "BUZZWORD_4": "Santify",
+    "BUZZWORD_5": "Submerge"
+  },
+  {
+    "KEYWORD": "Baptist",
+    "BUZZWORD_1": "Church",
+    "BUZZWORD_2": "Doctrine",
+    "BUZZWORD_3": "John",
+    "BUZZWORD_4": "Black",
+    "BUZZWORD_5": "South"
+  },
+  {
+    "KEYWORD": "Bass",
+    "BUZZWORD_1": "Player",
+    "BUZZWORD_2": "Band ",
+    "BUZZWORD_3": "Soprano",
+    "BUZZWORD_4": "Ministry",
+    "BUZZWORD_5": "Music "
+  },
+  {
+    "KEYWORD": "Bebe Winans",
+    "BUZZWORD_1": "Cece",
+    "BUZZWORD_2": "Family ",
+    "BUZZWORD_3": "Singer",
+    "BUZZWORD_4": "Sister",
+    "BUZZWORD_5": "Kids"
+  },
+  {
+    "KEYWORD": "Benediction",
+    "BUZZWORD_1": "Gratitude",
+    "BUZZWORD_2": "Thanksgiving",
+    "BUZZWORD_3": "Invocation",
+    "BUZZWORD_4": "Pastor",
+    "BUZZWORD_5": "Stand"
+  },
+  {
+    "KEYWORD": "Bereavement",
+    "BUZZWORD_1": "Deprivation",
+    "BUZZWORD_2": "Distress",
+    "BUZZWORD_3": "Misfortune",
+    "BUZZWORD_4": "Death",
+    "BUZZWORD_5": "Leave"
+  },
+  {
+    "KEYWORD": "Bible",
+    "BUZZWORD_1": "The Word ",
+    "BUZZWORD_2": "Gospel",
+    "BUZZWORD_3": "Holy",
+    "BUZZWORD_4": "Sixty-Six",
+    "BUZZWORD_5": "Verse"
+  },
+  {
+    "KEYWORD": "Bible Study",
+    "BUZZWORD_1": "Wednesday",
+    "BUZZWORD_2": "Learn ",
+    "BUZZWORD_3": "Read",
+    "BUZZWORD_4": "Review ",
+    "BUZZWORD_5": "Scripture"
+  },
+  {
+    "KEYWORD": "Bishop",
+    "BUZZWORD_1": "Priest ",
+    "BUZZWORD_2": "Clergyman",
+    "BUZZWORD_3": "Director",
+    "BUZZWORD_4": "Overseer",
+    "BUZZWORD_5": "Pope"
+  },
+  {
+    "KEYWORD": "Blessed",
+    "BUZZWORD_1": "Glorified",
+    "BUZZWORD_2": "Special",
+    "BUZZWORD_3": "Divine",
+    "BUZZWORD_4": "Saved",
+    "BUZZWORD_5": "Favored"
+  },
+  {
+    "KEYWORD": "Boaz",
+    "BUZZWORD_1": "Husband",
+    "BUZZWORD_2": "Ruth",
+    "BUZZWORD_3": "Grain",
+    "BUZZWORD_4": "Married",
+    "BUZZWORD_5": "Obed"
+  },
+  {
+    "KEYWORD": "Bobby Jones",
+    "BUZZWORD_1": "Gospel ",
+    "BUZZWORD_2": "BET ",
+    "BUZZWORD_3": "Nashville",
+    "BUZZWORD_4": "Praise",
+    "BUZZWORD_5": "Show"
+  },
+  {
+    "KEYWORD": "Book Store",
+    "BUZZWORD_1": "Reading",
+    "BUZZWORD_2": "Fans",
+    "BUZZWORD_3": "Sisters",
+    "BUZZWORD_4": "Job",
+    "BUZZWORD_5": "Christian"
+  },
+  {
+    "KEYWORD": "Brother",
+    "BUZZWORD_1": "Kin",
+    "BUZZWORD_2": "Sibling",
+    "BUZZWORD_3": "Sister",
+    "BUZZWORD_4": "Relative",
+    "BUZZWORD_5": "Title"
+  },
+  {
+    "KEYWORD": "Building Fund",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Fundraising",
+    "BUZZWORD_3": "Construction",
+    "BUZZWORD_4": "Offering",
+    "BUZZWORD_5": "New"
+  },
+  {
+    "KEYWORD": "Bulletin",
+    "BUZZWORD_1": "Program",
+    "BUZZWORD_2": "Booklet",
+    "BUZZWORD_3": "Announcement",
+    "BUZZWORD_4": "Communication",
+    "BUZZWORD_5": "Words"
+  },
+  {
+    "KEYWORD": "Burning Bush",
+    "BUZZWORD_1": "Exodus",
+    "BUZZWORD_2": "Fire",
+    "BUZZWORD_3": "Moses",
+    "BUZZWORD_4": "Shrub",
+    "BUZZWORD_5": "God"
+  },
+  {
+    "KEYWORD": "Byron Cage",
+    "BUZZWORD_1": "Sing",
+    "BUZZWORD_2": "Healed",
+    "BUZZWORD_3": "Price",
+    "BUZZWORD_4": "Praise",
+    "BUZZWORD_5": "Music "
+  },
+  {
+    "KEYWORD": "Cain",
+    "BUZZWORD_1": "Abel",
+    "BUZZWORD_2": "Killed",
+    "BUZZWORD_3": "Brother",
+    "BUZZWORD_4": "Adam",
+    "BUZZWORD_5": "Eve"
+  },
+  {
+    "KEYWORD": "Calvary",
+    "BUZZWORD_1": "Cross",
+    "BUZZWORD_2": "Trial",
+    "BUZZWORD_3": "Agony",
+    "BUZZWORD_4": "Affliction",
+    "BUZZWORD_5": "Christ"
+  },
+  {
+    "KEYWORD": "Cece Winans ",
+    "BUZZWORD_1": "Bebe",
+    "BUZZWORD_2": "Sister",
+    "BUZZWORD_3": "Family",
+    "BUZZWORD_4": "Brother",
+    "BUZZWORD_5": "Children"
+  },
+  {
+    "KEYWORD": "Chariot",
+    "BUZZWORD_1": "Wagon",
+    "BUZZWORD_2": "Automobile",
+    "BUZZWORD_3": "Transport",
+    "BUZZWORD_4": "Buggy",
+    "BUZZWORD_5": "Carriage"
+  },
+  {
+    "KEYWORD": "Children's Choir",
+    "BUZZWORD_1": "Chorus ",
+    "BUZZWORD_2": "Group",
+    "BUZZWORD_3": "Sing",
+    "BUZZWORD_4": "Ensemble",
+    "BUZZWORD_5": "Kids"
+  },
+  {
+    "KEYWORD": "Choir",
+    "BUZZWORD_1": "Sing",
+    "BUZZWORD_2": "Verse",
+    "BUZZWORD_3": "Hymn",
+    "BUZZWORD_4": "Director",
+    "BUZZWORD_5": "Song"
+  },
+  {
+    "KEYWORD": "Christian",
+    "BUZZWORD_1": "Moral",
+    "BUZZWORD_2": "Righteous",
+    "BUZZWORD_3": "Honest",
+    "BUZZWORD_4": "Principled",
+    "BUZZWORD_5": "Christ"
+  },
+  {
+    "KEYWORD": "Church ",
+    "BUZZWORD_1": "House of God ",
+    "BUZZWORD_2": "Tabernacle ",
+    "BUZZWORD_3": "Sanctuary ",
+    "BUZZWORD_4": "Temple",
+    "BUZZWORD_5": "Sunday"
+  },
+  {
+    "KEYWORD": "Church Fan",
+    "BUZZWORD_1": "Hot",
+    "BUZZWORD_2": "Blow",
+    "BUZZWORD_3": "Paper",
+    "BUZZWORD_4": "Cool Off",
+    "BUZZWORD_5": "Fan"
+  },
+  {
+    "KEYWORD": "Church hat",
+    "BUZZWORD_1": "Big",
+    "BUZZWORD_2": "Fancy",
+    "BUZZWORD_3": "Women",
+    "BUZZWORD_4": "Head",
+    "BUZZWORD_5": "Outfit"
+  },
+  {
+    "KEYWORD": "Church Van",
+    "BUZZWORD_1": "Vehicle",
+    "BUZZWORD_2": "Automobile ",
+    "BUZZWORD_3": "Picks",
+    "BUZZWORD_4": "Car",
+    "BUZZWORD_5": "Ride"
+  },
+  {
+    "KEYWORD": "Cissy Houston",
+    "BUZZWORD_1": "Whitney",
+    "BUZZWORD_2": "Mother",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Singer",
+    "BUZZWORD_5": "Daughter"
+  },
+  {
+    "KEYWORD": "Clap",
+    "BUZZWORD_1": "Applause",
+    "BUZZWORD_2": "Hand",
+    "BUZZWORD_3": "Slap",
+    "BUZZWORD_4": "Thunder",
+    "BUZZWORD_5": "Song"
+  },
+  {
+    "KEYWORD": "CME",
+    "BUZZWORD_1": "Christian",
+    "BUZZWORD_2": "Methodist ",
+    "BUZZWORD_3": "Episcopal",
+    "BUZZWORD_4": "Denomination",
+    "BUZZWORD_5": "District"
+  },
+  {
+    "KEYWORD": "COGIC",
+    "BUZZWORD_1": "Church",
+    "BUZZWORD_2": "God",
+    "BUZZWORD_3": "Christ",
+    "BUZZWORD_4": "Denomination",
+    "BUZZWORD_5": "Acronym"
+  },
+  {
+    "KEYWORD": "Collection Plate ",
+    "BUZZWORD_1": "Tithe",
+    "BUZZWORD_2": "Offering",
+    "BUZZWORD_3": "Fund",
+    "BUZZWORD_4": "Basket",
+    "BUZZWORD_5": "Usher"
+  },
+  {
+    "KEYWORD": "Commandments ",
+    "BUZZWORD_1": "Ten",
+    "BUZZWORD_2": "Moses",
+    "BUZZWORD_3": "Law",
+    "BUZZWORD_4": "Shalt Not",
+    "BUZZWORD_5": "Rules"
+  },
+  {
+    "KEYWORD": "Communion",
+    "BUZZWORD_1": "Wine",
+    "BUZZWORD_2": "First Sunday ",
+    "BUZZWORD_3": "Bread ",
+    "BUZZWORD_4": "Examine",
+    "BUZZWORD_5": "Jesus"
+  },
+  {
+    "KEYWORD": "Confess",
+    "BUZZWORD_1": "Admit",
+    "BUZZWORD_2": "Secret",
+    "BUZZWORD_3": "Words",
+    "BUZZWORD_4": "Truth",
+    "BUZZWORD_5": "Reveal"
+  },
+  {
+    "KEYWORD": "Congregation",
+    "BUZZWORD_1": "People",
+    "BUZZWORD_2": "Members",
+    "BUZZWORD_3": "Pew",
+    "BUZZWORD_4": "Church",
+    "BUZZWORD_5": "Worship"
+  },
+  {
+    "KEYWORD": "Covenant",
+    "BUZZWORD_1": "Promise",
+    "BUZZWORD_2": "God",
+    "BUZZWORD_3": "Bond",
+    "BUZZWORD_4": "Commitment",
+    "BUZZWORD_5": "Word"
+  },
+  {
+    "KEYWORD": "Creflo Dollar ",
+    "BUZZWORD_1": "Personal Jet ",
+    "BUZZWORD_2": "Pastor ",
+    "BUZZWORD_3": "Atlanta",
+    "BUZZWORD_4": "Televangelist",
+    "BUZZWORD_5": "Changers"
+  },
+  {
+    "KEYWORD": "Cross",
+    "BUZZWORD_1": "Died",
+    "BUZZWORD_2": "Nails ",
+    "BUZZWORD_3": "Calvary",
+    "BUZZWORD_4": "Jesus",
+    "BUZZWORD_5": "Carried"
+  },
+  {
+    "KEYWORD": "Crown",
+    "BUZZWORD_1": "Thorns",
+    "BUZZWORD_2": "Hat",
+    "BUZZWORD_3": "King",
+    "BUZZWORD_4": "Head ",
+    "BUZZWORD_5": "Jesus"
+  },
+  {
+    "KEYWORD": "Crucify",
+    "BUZZWORD_1": "Execute",
+    "BUZZWORD_2": "Torture",
+    "BUZZWORD_3": "Persecute",
+    "BUZZWORD_4": "Torment",
+    "BUZZWORD_5": "Nails"
+  },
+  {
+    "KEYWORD": "Daily Bread",
+    "BUZZWORD_1": "Everyday",
+    "BUZZWORD_2": "Nourishment",
+    "BUZZWORD_3": "Carbs",
+    "BUZZWORD_4": "Sustenance",
+    "BUZZWORD_5": "Read"
+  },
+  {
+    "KEYWORD": "Daniel",
+    "BUZZWORD_1": "Lion",
+    "BUZZWORD_2": "Delivered",
+    "BUZZWORD_3": "Darius",
+    "BUZZWORD_4": "King",
+    "BUZZWORD_5": "Angel"
+  },
+  {
+    "KEYWORD": "Deacon",
+    "BUZZWORD_1": "Clergy",
+    "BUZZWORD_2": "Officer ",
+    "BUZZWORD_3": "Cleric",
+    "BUZZWORD_4": "Elder",
+    "BUZZWORD_5": "Deaconess"
+  },
+  {
+    "KEYWORD": "Deitrick Haddon",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "Choir",
+    "BUZZWORD_3": "TV",
+    "BUZZWORD_4": "Wife",
+    "BUZZWORD_5": "Detroit"
+  },
+  {
+    "KEYWORD": "Delivered",
+    "BUZZWORD_1": "Saved ",
+    "BUZZWORD_2": "Redemption",
+    "BUZZWORD_3": "I Am",
+    "BUZZWORD_4": "Faith",
+    "BUZZWORD_5": "Restored"
+  },
+  {
+    "KEYWORD": "Denominations",
+    "BUZZWORD_1": "Religion",
+    "BUZZWORD_2": "Faith",
+    "BUZZWORD_3": "Group",
+    "BUZZWORD_4": "Creed",
+    "BUZZWORD_5": "Type"
+  },
+  {
+    "KEYWORD": "Devil",
+    "BUZZWORD_1": "Satan",
+    "BUZZWORD_2": "Lucifer ",
+    "BUZZWORD_3": "Demon",
+    "BUZZWORD_4": "Angel",
+    "BUZZWORD_5": "Opposite"
+  },
+  {
+    "KEYWORD": "Devotion",
+    "BUZZWORD_1": "Commitment",
+    "BUZZWORD_2": "Dedication",
+    "BUZZWORD_3": "Faithfulness",
+    "BUZZWORD_4": "Worship",
+    "BUZZWORD_5": "Daily"
+  },
+  {
+    "KEYWORD": "Director",
+    "BUZZWORD_1": "Choir",
+    "BUZZWORD_2": "Lead",
+    "BUZZWORD_3": "Organizer ",
+    "BUZZWORD_4": "Producer ",
+    "BUZZWORD_5": "Instruction"
+  },
+  {
+    "KEYWORD": "Disciples",
+    "BUZZWORD_1": "Followers",
+    "BUZZWORD_2": "Believer",
+    "BUZZWORD_3": "Apostle",
+    "BUZZWORD_4": "Student",
+    "BUZZWORD_5": "Ministry"
+  },
+  {
+    "KEYWORD": "Doctrine",
+    "BUZZWORD_1": "Principle",
+    "BUZZWORD_2": "Tradition",
+    "BUZZWORD_3": "Belief",
+    "BUZZWORD_4": "Propaganda",
+    "BUZZWORD_5": "Rules"
+  },
+  {
+    "KEYWORD": "Donald Lawrence ",
+    "BUZZWORD_1": "Music",
+    "BUZZWORD_2": "Songwriter",
+    "BUZZWORD_3": "Tri-City",
+    "BUZZWORD_4": "Song",
+    "BUZZWORD_5": "Lyrics"
+  },
+  {
+    "KEYWORD": "Donnie McClurkin",
+    "BUZZWORD_1": "Stand",
+    "BUZZWORD_2": "We Fall Down",
+    "BUZZWORD_3": "I Need You",
+    "BUZZWORD_4": "Singer",
+    "BUZZWORD_5": "Songs"
+  },
+  {
+    "KEYWORD": "Dr. Watts",
+    "BUZZWORD_1": "Singers",
+    "BUZZWORD_2": "Divine ",
+    "BUZZWORD_3": "Hymn",
+    "BUZZWORD_4": "Lord",
+    "BUZZWORD_5": "Cry"
+  },
+  {
+    "KEYWORD": "Drummer",
+    "BUZZWORD_1": "Band",
+    "BUZZWORD_2": "Music ",
+    "BUZZWORD_3": "Minstry",
+    "BUZZWORD_4": "Sticks",
+    "BUZZWORD_5": "Stage"
+  },
+  {
+    "KEYWORD": "Easter",
+    "BUZZWORD_1": "Resurrection",
+    "BUZZWORD_2": "Rise ",
+    "BUZZWORD_3": "Holiday",
+    "BUZZWORD_4": "Jesus",
+    "BUZZWORD_5": "Spring"
+  },
+  {
+    "KEYWORD": "Easter Speech",
+    "BUZZWORD_1": "Children",
+    "BUZZWORD_2": "Program",
+    "BUZZWORD_3": "Recite",
+    "BUZZWORD_4": "Risen",
+    "BUZZWORD_5": "Dress"
+  },
+  {
+    "KEYWORD": "Eddie Long",
+    "BUZZWORD_1": "Pastor",
+    "BUZZWORD_2": "New Birth",
+    "BUZZWORD_3": "Atlanta",
+    "BUZZWORD_4": "Scandal ",
+    "BUZZWORD_5": "Megachurch"
+  },
+  {
+    "KEYWORD": "Enemy",
+    "BUZZWORD_1": "Foe ",
+    "BUZZWORD_2": "Betray",
+    "BUZZWORD_3": "Rival",
+    "BUZZWORD_4": "Opponent",
+    "BUZZWORD_5": "Villian"
+  },
+  {
+    "KEYWORD": "Equally Yolked",
+    "BUZZWORD_1": "Same",
+    "BUZZWORD_2": "Similar",
+    "BUZZWORD_3": "Even",
+    "BUZZWORD_4": "Alike",
+    "BUZZWORD_5": "Married"
+  },
+  {
+    "KEYWORD": "Erica Campbell",
+    "BUZZWORD_1": "Host",
+    "BUZZWORD_2": "Mary",
+    "BUZZWORD_3": "Singer",
+    "BUZZWORD_4": "Duo",
+    "BUZZWORD_5": "Tina"
+  },
+  {
+    "KEYWORD": "Evangelist",
+    "BUZZWORD_1": "Minister ",
+    "BUZZWORD_2": "Pastor",
+    "BUZZWORD_3": "Preacher ",
+    "BUZZWORD_4": "Missionary",
+    "BUZZWORD_5": "Speaks"
+  },
+  {
+    "KEYWORD": "Eve",
+    "BUZZWORD_1": "Apple",
+    "BUZZWORD_2": "Adam",
+    "BUZZWORD_3": "Eden",
+    "BUZZWORD_4": "Snake",
+    "BUZZWORD_5": "Woman"
+  },
+  {
+    "KEYWORD": "Evening Service ",
+    "BUZZWORD_1": "Night",
+    "BUZZWORD_2": "Program ",
+    "BUZZWORD_3": "Sermon",
+    "BUZZWORD_4": "Late",
+    "BUZZWORD_5": "Morning"
+  },
+  {
+    "KEYWORD": "Exodus",
+    "BUZZWORD_1": "Book",
+    "BUZZWORD_2": "Bible",
+    "BUZZWORD_3": "Exit",
+    "BUZZWORD_4": "Second ",
+    "BUZZWORD_5": "Israelites"
+  },
+  {
+    "KEYWORD": "Faith",
+    "BUZZWORD_1": "Belief",
+    "BUZZWORD_2": "Hope ",
+    "BUZZWORD_3": "Confidence ",
+    "BUZZWORD_4": "Certainty",
+    "BUZZWORD_5": "Think"
+  },
+  {
+    "KEYWORD": "Father",
+    "BUZZWORD_1": "God",
+    "BUZZWORD_2": "Dad ",
+    "BUZZWORD_3": "Daddy",
+    "BUZZWORD_4": "Parent",
+    "BUZZWORD_5": "Son"
+  },
+  {
+    "KEYWORD": "Fellowship",
+    "BUZZWORD_1": "Friendship",
+    "BUZZWORD_2": "Companionship",
+    "BUZZWORD_3": "Intimacy",
+    "BUZZWORD_4": "Socialize",
+    "BUZZWORD_5": "Meeting"
+  },
+  {
+    "KEYWORD": "First Lady",
+    "BUZZWORD_1": "Wife",
+    "BUZZWORD_2": "Pastor",
+    "BUZZWORD_3": "Reverand",
+    "BUZZWORD_4": "Woman",
+    "BUZZWORD_5": "Mother"
+  },
+  {
+    "KEYWORD": "First Sunday",
+    "BUZZWORD_1": "White",
+    "BUZZWORD_2": "Communion",
+    "BUZZWORD_3": "Blood",
+    "BUZZWORD_4": "Body",
+    "BUZZWORD_5": "Tradition"
+  },
+  {
+    "KEYWORD": "Five Blind Boys of Mississippi",
+    "BUZZWORD_1": "Group",
+    "BUZZWORD_2": "Everlasting ",
+    "BUZZWORD_3": "Sing",
+    "BUZZWORD_4": "Quartet",
+    "BUZZWORD_5": "Father "
+  },
+  {
+    "KEYWORD": "Flat",
+    "BUZZWORD_1": "Solo",
+    "BUZZWORD_2": "Singer ",
+    "BUZZWORD_3": "Lead ",
+    "BUZZWORD_4": "Sharp",
+    "BUZZWORD_5": "Song"
+  },
+  {
+    "KEYWORD": "Fred Hammond",
+    "BUZZWORD_1": "Weapon",
+    "BUZZWORD_2": "Sing",
+    "BUZZWORD_3": "Festival of Praise",
+    "BUZZWORD_4": "Commissioned",
+    "BUZZWORD_5": "Guitar"
+  },
+  {
+    "KEYWORD": "Fruitful",
+    "BUZZWORD_1": "Many",
+    "BUZZWORD_2": "Productive",
+    "BUZZWORD_3": "Successful",
+    "BUZZWORD_4": "Abundant",
+    "BUZZWORD_5": "Spirit"
+  },
+  {
+    "KEYWORD": "Funeral",
+    "BUZZWORD_1": "Casket",
+    "BUZZWORD_2": "Program",
+    "BUZZWORD_3": "Memorial",
+    "BUZZWORD_4": "Die",
+    "BUZZWORD_5": "Wake"
+  },
+  {
+    "KEYWORD": "Galilee",
+    "BUZZWORD_1": "Israel",
+    "BUZZWORD_2": "Judea",
+    "BUZZWORD_3": "Sea",
+    "BUZZWORD_4": "Ministry",
+    "BUZZWORD_5": "Jesus"
+  },
+  {
+    "KEYWORD": "Genesis",
+    "BUZZWORD_1": "First ",
+    "BUZZWORD_2": "Beginning",
+    "BUZZWORD_3": "Creation",
+    "BUZZWORD_4": "Opening",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Giving Honor to God...",
+    "BUZZWORD_1": "Opening ",
+    "BUZZWORD_2": "Statement ",
+    "BUZZWORD_3": "Greeting ",
+    "BUZZWORD_4": "Congregation",
+    "BUZZWORD_5": "Saying"
+  },
+  {
+    "KEYWORD": "Glory",
+    "BUZZWORD_1": "Fame ",
+    "BUZZWORD_2": "Dignity ",
+    "BUZZWORD_3": "Majesty ",
+    "BUZZWORD_4": "Splendor ",
+    "BUZZWORD_5": "Triumph"
+  },
+  {
+    "KEYWORD": "Goalith",
+    "BUZZWORD_1": "David ",
+    "BUZZWORD_2": "Giant",
+    "BUZZWORD_3": "Philistine",
+    "BUZZWORD_4": "Five",
+    "BUZZWORD_5": "Stone"
+  },
+  {
+    "KEYWORD": "God's Property ",
+    "BUZZWORD_1": "Kirk Franklin",
+    "BUZZWORD_2": "Stomp",
+    "BUZZWORD_3": "More Than I Can Bear ",
+    "BUZZWORD_4": "Possesion",
+    "BUZZWORD_5": "Choir"
+  },
+  {
+    "KEYWORD": "Gospel",
+    "BUZZWORD_1": "Christian",
+    "BUZZWORD_2": "Word of God",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Preach",
+    "BUZZWORD_5": "Ministry"
+  },
+  {
+    "KEYWORD": "Grace",
+    "BUZZWORD_1": "Allure",
+    "BUZZWORD_2": "Dignity",
+    "BUZZWORD_3": "Finesse",
+    "BUZZWORD_4": "Mercy",
+    "BUZZWORD_5": "Forgive"
+  },
+  {
+    "KEYWORD": "Greeter",
+    "BUZZWORD_1": "Welcome",
+    "BUZZWORD_2": "Acknowledge",
+    "BUZZWORD_3": "Usher ",
+    "BUZZWORD_4": "Receive",
+    "BUZZWORD_5": "Hello"
+  },
+  {
+    "KEYWORD": "Hallelujah",
+    "BUZZWORD_1": "Saying",
+    "BUZZWORD_2": "Word",
+    "BUZZWORD_3": "Praise",
+    "BUZZWORD_4": "Worship",
+    "BUZZWORD_5": "Rejoice"
+  },
+  {
+    "KEYWORD": "Heaven",
+    "BUZZWORD_1": "Paradise",
+    "BUZZWORD_2": "Hell",
+    "BUZZWORD_3": "St. Peter ",
+    "BUZZWORD_4": "Angels",
+    "BUZZWORD_5": "Death"
+  },
+  {
+    "KEYWORD": "Hebrews ",
+    "BUZZWORD_1": "Jewish",
+    "BUZZWORD_2": "Israelite",
+    "BUZZWORD_3": "Semitic",
+    "BUZZWORD_4": "Hasidic",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Hell",
+    "BUZZWORD_1": "Devil",
+    "BUZZWORD_2": "Hot",
+    "BUZZWORD_3": "Satan",
+    "BUZZWORD_4": "Heaven",
+    "BUZZWORD_5": "Fire"
+  },
+  {
+    "KEYWORD": "Hezekiah Walker",
+    "BUZZWORD_1": "Love Fellowship",
+    "BUZZWORD_2": "Every Praise",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "Preacher"
+  },
+  {
+    "KEYWORD": "Highly Favored ",
+    "BUZZWORD_1": "Special",
+    "BUZZWORD_2": "Blessed",
+    "BUZZWORD_3": "Chosen",
+    "BUZZWORD_4": "Loved",
+    "BUZZWORD_5": "God"
+  },
+  {
+    "KEYWORD": "Holy",
+    "BUZZWORD_1": "Religious",
+    "BUZZWORD_2": "Sacred",
+    "BUZZWORD_3": "Godly",
+    "BUZZWORD_4": "Pure ",
+    "BUZZWORD_5": "Bible"
+  },
+  {
+    "KEYWORD": "Holy Ghost",
+    "BUZZWORD_1": "Spirit",
+    "BUZZWORD_2": "Speaking in tongues",
+    "BUZZWORD_3": "God ",
+    "BUZZWORD_4": "Trinity",
+    "BUZZWORD_5": "Father "
+  },
+  {
+    "KEYWORD": "Holy Trinity",
+    "BUZZWORD_1": "God",
+    "BUZZWORD_2": "Jesus",
+    "BUZZWORD_3": "Holy spirit",
+    "BUZZWORD_4": "Three",
+    "BUZZWORD_5": "Son"
+  },
+  {
+    "KEYWORD": "Humble",
+    "BUZZWORD_1": "Meek",
+    "BUZZWORD_2": "Mild ",
+    "BUZZWORD_3": "Simple",
+    "BUZZWORD_4": "Shy",
+    "BUZZWORD_5": "Reserved "
+  },
+  {
+    "KEYWORD": "Hymn",
+    "BUZZWORD_1": "Song",
+    "BUZZWORD_2": "Carol",
+    "BUZZWORD_3": "Psalm",
+    "BUZZWORD_4": "Music ",
+    "BUZZWORD_5": "Choir"
+  },
+  {
+    "KEYWORD": "Inspiration",
+    "BUZZWORD_1": "Encouragement",
+    "BUZZWORD_2": "Motivation",
+    "BUZZWORD_3": "Revelation",
+    "BUZZWORD_4": "Influence ",
+    "BUZZWORD_5": "Empower"
+  },
+  {
+    "KEYWORD": "Isaac",
+    "BUZZWORD_1": "Abraham",
+    "BUZZWORD_2": "Sarah",
+    "BUZZWORD_3": "Jacob",
+    "BUZZWORD_4": "Canaan",
+    "BUZZWORD_5": "Israelites"
+  },
+  {
+    "KEYWORD": "Isaiah",
+    "BUZZWORD_1": "Prophet",
+    "BUZZWORD_2": "Judah",
+    "BUZZWORD_3": "Book",
+    "BUZZWORD_4": "Scripture",
+    "BUZZWORD_5": "Hezekiah"
+  },
+  {
+    "KEYWORD": "Israelites",
+    "BUZZWORD_1": "Isaac",
+    "BUZZWORD_2": "Hebrew",
+    "BUZZWORD_3": "Jacob",
+    "BUZZWORD_4": "Exodus",
+    "BUZZWORD_5": "Genesis"
+  },
+  {
+    "KEYWORD": "J. Moss ",
+    "BUZZWORD_1": "Detroit",
+    "BUZZWORD_2": "Music ",
+    "BUZZWORD_3": "PAJAM",
+    "BUZZWORD_4": "Praise on the Inside",
+    "BUZZWORD_5": "We Must Praise"
+  },
+  {
+    "KEYWORD": "James ",
+    "BUZZWORD_1": "Servant",
+    "BUZZWORD_2": "King",
+    "BUZZWORD_3": "Book",
+    "BUZZWORD_4": "Bible",
+    "BUZZWORD_5": "Lebron"
+  },
+  {
+    "KEYWORD": "James Cleveland",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "Choir",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Grammy",
+    "BUZZWORD_5": "Lord Do It"
+  },
+  {
+    "KEYWORD": "Jehovah",
+    "BUZZWORD_1": "Creator",
+    "BUZZWORD_2": "Jireh",
+    "BUZZWORD_3": "Witness",
+    "BUZZWORD_4": "God",
+    "BUZZWORD_5": "Name"
+  },
+  {
+    "KEYWORD": "Jeremiah Wright",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "Pastor",
+    "BUZZWORD_3": "Trinity United",
+    "BUZZWORD_4": "Barack Obama",
+    "BUZZWORD_5": "Reverend"
+  },
+  {
+    "KEYWORD": "Jericho",
+    "BUZZWORD_1": "March",
+    "BUZZWORD_2": "Joshua",
+    "BUZZWORD_3": "Battle",
+    "BUZZWORD_4": "Israelite",
+    "BUZZWORD_5": "Seven Times"
+  },
+  {
+    "KEYWORD": "Jesse Jackson",
+    "BUZZWORD_1": "Martin Luther King Jr",
+    "BUZZWORD_2": "Reverend",
+    "BUZZWORD_3": "Rainbow Push",
+    "BUZZWORD_4": "Sandy",
+    "BUZZWORD_5": "Civil Rights"
+  },
+  {
+    "KEYWORD": "Jesus",
+    "BUZZWORD_1": "Son of God",
+    "BUZZWORD_2": "Pray",
+    "BUZZWORD_3": "Joseph & Mary",
+    "BUZZWORD_4": "Miracles",
+    "BUZZWORD_5": "Worship"
+  },
+  {
+    "KEYWORD": "Jesus Wept ",
+    "BUZZWORD_1": "Tears",
+    "BUZZWORD_2": "Verse",
+    "BUZZWORD_3": "Shortest",
+    "BUZZWORD_4": "Cried",
+    "BUZZWORD_5": "Man"
+  },
+  {
+    "KEYWORD": "Jezebel",
+    "BUZZWORD_1": "Thot",
+    "BUZZWORD_2": "Hooker",
+    "BUZZWORD_3": "Loose",
+    "BUZZWORD_4": "Nasty Woman",
+    "BUZZWORD_5": "Prostitute"
+  },
+  {
+    "KEYWORD": "Joel Osteen",
+    "BUZZWORD_1": "TV",
+    "BUZZWORD_2": "White",
+    "BUZZWORD_3": "Ministries",
+    "BUZZWORD_4": "Lakewood",
+    "BUZZWORD_5": "Sermons"
+  },
+  {
+    "KEYWORD": "John",
+    "BUZZWORD_1": "Book",
+    "BUZZWORD_2": "Baptist",
+    "BUZZWORD_3": "Gospel of",
+    "BUZZWORD_4": "Apostle",
+    "BUZZWORD_5": "Disciple "
+  },
+  {
+    "KEYWORD": "John Hannah",
+    "BUZZWORD_1": "New Life",
+    "BUZZWORD_2": "Convenant",
+    "BUZZWORD_3": "Pastor",
+    "BUZZWORD_4": "Chicago",
+    "BUZZWORD_5": "Southside"
+  },
+  {
+    "KEYWORD": "John P. Kee",
+    "BUZZWORD_1": "Pastor",
+    "BUZZWORD_2": "Singer ",
+    "BUZZWORD_3": "Lily in the Valley",
+    "BUZZWORD_4": "New Life",
+    "BUZZWORD_5": "Carolina"
+  },
+  {
+    "KEYWORD": "Jonah",
+    "BUZZWORD_1": "Whale",
+    "BUZZWORD_2": "Belly ",
+    "BUZZWORD_3": "Sea",
+    "BUZZWORD_4": "Inside",
+    "BUZZWORD_5": "Animal"
+  },
+  {
+    "KEYWORD": "Joseph",
+    "BUZZWORD_1": "Techicolor",
+    "BUZZWORD_2": "Dreamboat ",
+    "BUZZWORD_3": "Mary",
+    "BUZZWORD_4": "Father",
+    "BUZZWORD_5": "Dad"
+  },
+  {
+    "KEYWORD": "Joy",
+    "BUZZWORD_1": "Happiness",
+    "BUZZWORD_2": "Cheer ",
+    "BUZZWORD_3": "Gladness",
+    "BUZZWORD_4": "Morning",
+    "BUZZWORD_5": "Name"
+  },
+  {
+    "KEYWORD": "Juanita Bynum",
+    "BUZZWORD_1": "Televangelis",
+    "BUZZWORD_2": "Singer ",
+    "BUZZWORD_3": "Bishop",
+    "BUZZWORD_4": "Author",
+    "BUZZWORD_5": "Ministry"
+  },
+  {
+    "KEYWORD": "Judas ",
+    "BUZZWORD_1": "Traitor",
+    "BUZZWORD_2": "Betray",
+    "BUZZWORD_3": "Disciple",
+    "BUZZWORD_4": "Sinner",
+    "BUZZWORD_5": "Jesus"
+  },
+  {
+    "KEYWORD": "Judges ",
+    "BUZZWORD_1": "Court ",
+    "BUZZWORD_2": "Justice ",
+    "BUZZWORD_3": "Peace ",
+    "BUZZWORD_4": "Justice ",
+    "BUZZWORD_5": "Law"
+  },
+  {
+    "KEYWORD": "Karen Clark Sheard",
+    "BUZZWORD_1": "Red",
+    "BUZZWORD_2": "Sisters",
+    "BUZZWORD_3": "Grammy",
+    "BUZZWORD_4": "Singer",
+    "BUZZWORD_5": "My Words Have Power"
+  },
+  {
+    "KEYWORD": "Keyboard ",
+    "BUZZWORD_1": "Piano",
+    "BUZZWORD_2": "Keys",
+    "BUZZWORD_3": "Ivory",
+    "BUZZWORD_4": "Band",
+    "BUZZWORD_5": "Instrument"
+  },
+  {
+    "KEYWORD": "Kim Burrell",
+    "BUZZWORD_1": "Comments",
+    "BUZZWORD_2": "Singer ",
+    "BUZZWORD_3": "Preacher ",
+    "BUZZWORD_4": "Gospel",
+    "BUZZWORD_5": "Houston"
+  },
+  {
+    "KEYWORD": "King James Version",
+    "BUZZWORD_1": "Bible ",
+    "BUZZWORD_2": "Book ",
+    "BUZZWORD_3": "Type ",
+    "BUZZWORD_4": "Lebron",
+    "BUZZWORD_5": "Edition"
+  },
+  {
+    "KEYWORD": "Kingdom",
+    "BUZZWORD_1": "Territory",
+    "BUZZWORD_2": "Dynasty",
+    "BUZZWORD_3": "Domain",
+    "BUZZWORD_4": "Dominion",
+    "BUZZWORD_5": "Land"
+  },
+  {
+    "KEYWORD": "King",
+    "BUZZWORD_1": "Crown",
+    "BUZZWORD_2": "Bible ",
+    "BUZZWORD_3": "Book",
+    "BUZZWORD_4": "Emperors",
+    "BUZZWORD_5": "Ruler"
+  },
+  {
+    "KEYWORD": "Kirk Franklin",
+    "BUZZWORD_1": "Stomp",
+    "BUZZWORD_2": "Sundays Best",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Smile",
+    "BUZZWORD_5": "Choir"
+  },
+  {
+    "KEYWORD": "Kneel",
+    "BUZZWORD_1": "Bow",
+    "BUZZWORD_2": "Curtsey",
+    "BUZZWORD_3": "Stoop",
+    "BUZZWORD_4": "Legs",
+    "BUZZWORD_5": "Bend"
+  },
+  {
+    "KEYWORD": "Lamb",
+    "BUZZWORD_1": "Animal",
+    "BUZZWORD_2": "Baby",
+    "BUZZWORD_3": "Sheep",
+    "BUZZWORD_4": "Wool",
+    "BUZZWORD_5": "of God"
+  },
+  {
+    "KEYWORD": "Laying Hands",
+    "BUZZWORD_1": "Bless",
+    "BUZZWORD_2": "Touch ",
+    "BUZZWORD_3": "Anointing ",
+    "BUZZWORD_4": "Blessing",
+    "BUZZWORD_5": "Prayer "
+  },
+  {
+    "KEYWORD": "Lazarus",
+    "BUZZWORD_1": "Resurrection",
+    "BUZZWORD_2": "Life",
+    "BUZZWORD_3": "Miracle",
+    "BUZZWORD_4": "Death",
+    "BUZZWORD_5": "Martha"
+  },
+  {
+    "KEYWORD": "Lord",
+    "BUZZWORD_1": "God ",
+    "BUZZWORD_2": "Father ",
+    "BUZZWORD_3": "Master ",
+    "BUZZWORD_4": "King",
+    "BUZZWORD_5": "Savior"
+  },
+  {
+    "KEYWORD": "Lord's Prayer",
+    "BUZZWORD_1": "Shepherd ",
+    "BUZZWORD_2": "Valley ",
+    "BUZZWORD_3": "Death ",
+    "BUZZWORD_4": "Daily",
+    "BUZZWORD_5": "Heaven"
+  },
+  {
+    "KEYWORD": "Lot's wife",
+    "BUZZWORD_1": "Salty",
+    "BUZZWORD_2": "Pilar",
+    "BUZZWORD_3": "Look back",
+    "BUZZWORD_4": "Sodom",
+    "BUZZWORD_5": "Punished"
+  },
+  {
+    "KEYWORD": "Lucifer",
+    "BUZZWORD_1": "Devil",
+    "BUZZWORD_2": "Satan",
+    "BUZZWORD_3": "Fallen Angel",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Evil"
+  },
+  {
+    "KEYWORD": "Luke",
+    "BUZZWORD_1": "Evangelist",
+    "BUZZWORD_2": "Canonical ",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Chapter",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Lust",
+    "BUZZWORD_1": "Passion",
+    "BUZZWORD_2": "Appetite",
+    "BUZZWORD_3": "Crave ",
+    "BUZZWORD_4": "Desire ",
+    "BUZZWORD_5": "Love"
+  },
+  {
+    "KEYWORD": "Lutheran",
+    "BUZZWORD_1": "Denomination",
+    "BUZZWORD_2": "Martin",
+    "BUZZWORD_3": "Evangelical ",
+    "BUZZWORD_4": "Baptism",
+    "BUZZWORD_5": "Charities"
+  },
+  {
+    "KEYWORD": "Mahalia Jackson",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "Civil Rights",
+    "BUZZWORD_3": "Chicago",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Gospel"
+  },
+  {
+    "KEYWORD": "Marching In",
+    "BUZZWORD_1": "Proceed",
+    "BUZZWORD_2": "Stomp",
+    "BUZZWORD_3": "Step",
+    "BUZZWORD_4": "File ",
+    "BUZZWORD_5": "Walk"
+  },
+  {
+    "KEYWORD": "Mark",
+    "BUZZWORD_1": "Gospel",
+    "BUZZWORD_2": "Jesus",
+    "BUZZWORD_3": "Carpenter",
+    "BUZZWORD_4": "Four",
+    "BUZZWORD_5": "John"
+  },
+  {
+    "KEYWORD": "Marriage",
+    "BUZZWORD_1": "Union",
+    "BUZZWORD_2": "Husband",
+    "BUZZWORD_3": "Wife ",
+    "BUZZWORD_4": "Spouse",
+    "BUZZWORD_5": "Single "
+  },
+  {
+    "KEYWORD": "Marvin Sapp",
+    "BUZZWORD_1": "Commissioned ",
+    "BUZZWORD_2": "Bishop",
+    "BUZZWORD_3": "Best In Me",
+    "BUZZWORD_4": "Never Would Have Made It",
+    "BUZZWORD_5": "Singer "
+  },
+  {
+    "KEYWORD": "Mary",
+    "BUZZWORD_1": "Joseph",
+    "BUZZWORD_2": "Jesus ",
+    "BUZZWORD_3": "Mother ",
+    "BUZZWORD_4": "Magdeline",
+    "BUZZWORD_5": "Weep"
+  },
+  {
+    "KEYWORD": "Mary Mary",
+    "BUZZWORD_1": "Erica ",
+    "BUZZWORD_2": "God in me",
+    "BUZZWORD_3": "Shackles",
+    "BUZZWORD_4": "Sisters",
+    "BUZZWORD_5": "Tina"
+  },
+  {
+    "KEYWORD": "Matthew",
+    "BUZZWORD_1": "Book",
+    "BUZZWORD_2": "Apostle ",
+    "BUZZWORD_3": "Twelve",
+    "BUZZWORD_4": "Levi",
+    "BUZZWORD_5": "Tax"
+  },
+  {
+    "KEYWORD": "Melody",
+    "BUZZWORD_1": "Harmony",
+    "BUZZWORD_2": "Tune",
+    "BUZZWORD_3": "Song",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Singer "
+  },
+  {
+    "KEYWORD": "Mercy",
+    "BUZZWORD_1": "Grace ",
+    "BUZZWORD_2": "Kind ",
+    "BUZZWORD_3": "Compassion",
+    "BUZZWORD_4": "Generosity",
+    "BUZZWORD_5": "Tender"
+  },
+  {
+    "KEYWORD": "Message",
+    "BUZZWORD_1": "Sermon",
+    "BUZZWORD_2": "Note",
+    "BUZZWORD_3": "Memo",
+    "BUZZWORD_4": "Communicate",
+    "BUZZWORD_5": "Speech"
+  },
+  {
+    "KEYWORD": "Methodist ",
+    "BUZZWORD_1": "Protestant",
+    "BUZZWORD_2": " Denominations ",
+    "BUZZWORD_3": "United",
+    "BUZZWORD_4": "Hospital",
+    "BUZZWORD_5": "Church"
+  },
+  {
+    "KEYWORD": "Michelle Williams",
+    "BUZZWORD_1": "Destiny's Child ",
+    "BUZZWORD_2": "Fela",
+    "BUZZWORD_3": "Beyonce",
+    "BUZZWORD_4": "Bills",
+    "BUZZWORD_5": "Kelly Rowland"
+  },
+  {
+    "KEYWORD": "Microphone",
+    "BUZZWORD_1": "Sing",
+    "BUZZWORD_2": "Instrument",
+    "BUZZWORD_3": "Amplify",
+    "BUZZWORD_4": "Loud",
+    "BUZZWORD_5": "Talk"
+  },
+  {
+    "KEYWORD": "Mighty Clouds of Joy",
+    "BUZZWORD_1": "Joe Ligon",
+    "BUZZWORD_2": "Quartet",
+    "BUZZWORD_3": "Group",
+    "BUZZWORD_4": "Men",
+    "BUZZWORD_5": "Songs"
+  },
+  {
+    "KEYWORD": "Mime",
+    "BUZZWORD_1": "White",
+    "BUZZWORD_2": "Face",
+    "BUZZWORD_3": "Quiet",
+    "BUZZWORD_4": "Paint",
+    "BUZZWORD_5": "Silent"
+  },
+  {
+    "KEYWORD": "Minister",
+    "BUZZWORD_1": "Bishop",
+    "BUZZWORD_2": "Pastor",
+    "BUZZWORD_3": "Shepherd",
+    "BUZZWORD_4": "Reverend ",
+    "BUZZWORD_5": "Words"
+  },
+  {
+    "KEYWORD": "Ministry ",
+    "BUZZWORD_1": "Leadership",
+    "BUZZWORD_2": "Serve",
+    "BUZZWORD_3": "Minister ",
+    "BUZZWORD_4": "Church",
+    "BUZZWORD_5": "Organization"
+  },
+  {
+    "KEYWORD": "Missionary",
+    "BUZZWORD_1": "Apostle ",
+    "BUZZWORD_2": "Evangelist ",
+    "BUZZWORD_3": "Minister ",
+    "BUZZWORD_4": "Priest",
+    "BUZZWORD_5": "Messenger"
+  },
+  {
+    "KEYWORD": "Moses",
+    "BUZZWORD_1": "Red Sea",
+    "BUZZWORD_2": "Slave ",
+    "BUZZWORD_3": "10 Commandements ",
+    "BUZZWORD_4": "Egypt",
+    "BUZZWORD_5": "Exodus"
+  },
+  {
+    "KEYWORD": "Mother",
+    "BUZZWORD_1": "Mom",
+    "BUZZWORD_2": "Parent ",
+    "BUZZWORD_3": "Female ",
+    "BUZZWORD_4": "Father ",
+    "BUZZWORD_5": "Mary"
+  },
+  {
+    "KEYWORD": "Mother's Day",
+    "BUZZWORD_1": "Mom",
+    "BUZZWORD_2": "Holiday ",
+    "BUZZWORD_3": "Hallmark ",
+    "BUZZWORD_4": "Brunch",
+    "BUZZWORD_5": "Wife"
+  },
+  {
+    "KEYWORD": "Mourner's Bench",
+    "BUZZWORD_1": "Seat ",
+    "BUZZWORD_2": "Beraeved ",
+    "BUZZWORD_3": "Sorrow",
+    "BUZZWORD_4": "Griever",
+    "BUZZWORD_5": "Revival"
+  },
+  {
+    "KEYWORD": "Negro Spiritual",
+    "BUZZWORD_1": "Song",
+    "BUZZWORD_2": "Slaves",
+    "BUZZWORD_3": "Choir",
+    "BUZZWORD_4": "Gospel",
+    "BUZZWORD_5": "Folk"
+  },
+  {
+    "KEYWORD": "Neighbor",
+    "BUZZWORD_1": "Resident",
+    "BUZZWORD_2": "Community ",
+    "BUZZWORD_3": "Next ",
+    "BUZZWORD_4": "Nearby",
+    "BUZZWORD_5": "Person"
+  },
+  {
+    "KEYWORD": "New International Version",
+    "BUZZWORD_1": "Bible",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Type ",
+    "BUZZWORD_4": "NIV",
+    "BUZZWORD_5": "Translation"
+  },
+  {
+    "KEYWORD": "New Member",
+    "BUZZWORD_1": "Affiliate ",
+    "BUZZWORD_2": "Join",
+    "BUZZWORD_3": "Comrade ",
+    "BUZZWORD_4": "Family ",
+    "BUZZWORD_5": "Associate "
+  },
+  {
+    "KEYWORD": "New Testament",
+    "BUZZWORD_1": "Bible",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Old Testament",
+    "BUZZWORD_4": "After Christ (A.d)",
+    "BUZZWORD_5": "Part"
+  },
+  {
+    "KEYWORD": "Noah",
+    "BUZZWORD_1": "Ark",
+    "BUZZWORD_2": "Animals",
+    "BUZZWORD_3": "Pairs ",
+    "BUZZWORD_4": "Two",
+    "BUZZWORD_5": "Boat"
+  },
+  {
+    "KEYWORD": "Nobody Greater ",
+    "BUZZWORD_1": "VaShawn Mitchell",
+    "BUZZWORD_2": "God",
+    "BUZZWORD_3": "Song",
+    "BUZZWORD_4": "Searched",
+    "BUZZWORD_5": "Mountain"
+  },
+  {
+    "KEYWORD": "Numbers",
+    "BUZZWORD_1": "Digits ",
+    "BUZZWORD_2": "Unit",
+    "BUZZWORD_3": "Count",
+    "BUZZWORD_4": "Books",
+    "BUZZWORD_5": "Fourth"
+  },
+  {
+    "KEYWORD": "Offering",
+    "BUZZWORD_1": "Giving",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Donation",
+    "BUZZWORD_4": "Sacrifice",
+    "BUZZWORD_5": "Collection Plate"
+  },
+  {
+    "KEYWORD": "Old Testament",
+    "BUZZWORD_1": "New Testament",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Bible",
+    "BUZZWORD_4": "Beginning",
+    "BUZZWORD_5": "First"
+  },
+  {
+    "KEYWORD": "Organ",
+    "BUZZWORD_1": "Instrument ",
+    "BUZZWORD_2": "Piano",
+    "BUZZWORD_3": "Keys ",
+    "BUZZWORD_4": "Pipes ",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "Pantyhose",
+    "BUZZWORD_1": "Tights ",
+    "BUZZWORD_2": "Hosiery",
+    "BUZZWORD_3": "Stockings ",
+    "BUZZWORD_4": "Nylons",
+    "BUZZWORD_5": "Sheers"
+  },
+  {
+    "KEYWORD": "Pastor",
+    "BUZZWORD_1": "Teacher",
+    "BUZZWORD_2": "Reverend",
+    "BUZZWORD_3": "Bishop",
+    "BUZZWORD_4": "Leader",
+    "BUZZWORD_5": "Minister"
+  },
+  {
+    "KEYWORD": "Pastor's Aid",
+    "BUZZWORD_1": "Offering",
+    "BUZZWORD_2": "Money ",
+    "BUZZWORD_3": "Currency ",
+    "BUZZWORD_4": "Cash",
+    "BUZZWORD_5": "Assistant"
+  },
+  {
+    "KEYWORD": "Paul",
+    "BUZZWORD_1": "Saul",
+    "BUZZWORD_2": "Apostle",
+    "BUZZWORD_3": "Saint",
+    "BUZZWORD_4": "Jesus",
+    "BUZZWORD_5": "Gospel"
+  },
+  {
+    "KEYWORD": "Peace",
+    "BUZZWORD_1": "Accord ",
+    "BUZZWORD_2": "Harmony",
+    "BUZZWORD_3": "Unity",
+    "BUZZWORD_4": "Agreement ",
+    "BUZZWORD_5": "One"
+  },
+  {
+    "KEYWORD": "Pentecostal",
+    "BUZZWORD_1": "Denomination",
+    "BUZZWORD_2": "South",
+    "BUZZWORD_3": "Baptist",
+    "BUZZWORD_4": "Holy Spirit",
+    "BUZZWORD_5": "Church"
+  },
+  {
+    "KEYWORD": "Peppermint",
+    "BUZZWORD_1": "Candy ",
+    "BUZZWORD_2": "Lady",
+    "BUZZWORD_3": "Spearmint",
+    "BUZZWORD_4": "Fresh ",
+    "BUZZWORD_5": "Purse"
+  },
+  {
+    "KEYWORD": "Peter ",
+    "BUZZWORD_1": "Apostles",
+    "BUZZWORD_2": "Saint",
+    "BUZZWORD_3": "Simon",
+    "BUZZWORD_4": "Jesus",
+    "BUZZWORD_5": "Disciple"
+  },
+  {
+    "KEYWORD": "Pew",
+    "BUZZWORD_1": "Bench",
+    "BUZZWORD_2": "Seat",
+    "BUZZWORD_3": "Stall",
+    "BUZZWORD_4": "Chair",
+    "BUZZWORD_5": "Row"
+  },
+  {
+    "KEYWORD": "Pharisees",
+    "BUZZWORD_1": "Hypocrite",
+    "BUZZWORD_2": "Strict",
+    "BUZZWORD_3": "Traditions",
+    "BUZZWORD_4": "Jewish",
+    "BUZZWORD_5": "Law"
+  },
+  {
+    "KEYWORD": "Piano",
+    "BUZZWORD_1": "Keyboard",
+    "BUZZWORD_2": "Instrument",
+    "BUZZWORD_3": "Musical",
+    "BUZZWORD_4": "Organ",
+    "BUZZWORD_5": "Keys"
+  },
+  {
+    "KEYWORD": "Pastor's Kid",
+    "BUZZWORD_1": "First",
+    "BUZZWORD_2": "Child",
+    "BUZZWORD_3": "Son ",
+    "BUZZWORD_4": "Daughter ",
+    "BUZZWORD_5": "Baby"
+  },
+  {
+    "KEYWORD": "Podium",
+    "BUZZWORD_1": "Platform",
+    "BUZZWORD_2": "Pulpit",
+    "BUZZWORD_3": "Stage ",
+    "BUZZWORD_4": "Audience ",
+    "BUZZWORD_5": "Stand"
+  },
+  {
+    "KEYWORD": "Pontius Pilate",
+    "BUZZWORD_1": "Jesus",
+    "BUZZWORD_2": "Cross",
+    "BUZZWORD_3": "Sentenced",
+    "BUZZWORD_4": "Crucify",
+    "BUZZWORD_5": "Roman"
+  },
+  {
+    "KEYWORD": "Praise",
+    "BUZZWORD_1": "Appreciate ",
+    "BUZZWORD_2": "Esteem",
+    "BUZZWORD_3": "Glory",
+    "BUZZWORD_4": "Exalt",
+    "BUZZWORD_5": "Worship"
+  },
+  {
+    "KEYWORD": "Praise Break",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Feet ",
+    "BUZZWORD_3": "Flipping",
+    "BUZZWORD_4": "Singing",
+    "BUZZWORD_5": "Shout"
+  },
+  {
+    "KEYWORD": "Praise Dance",
+    "BUZZWORD_1": "Movement ",
+    "BUZZWORD_2": "Leap",
+    "BUZZWORD_3": "Jump",
+    "BUZZWORD_4": "Twirl",
+    "BUZZWORD_5": "Express"
+  },
+  {
+    "KEYWORD": "Praise Report",
+    "BUZZWORD_1": "Testimony ",
+    "BUZZWORD_2": "Account",
+    "BUZZWORD_3": "Announcement",
+    "BUZZWORD_4": "News ",
+    "BUZZWORD_5": "Testimony"
+  },
+  {
+    "KEYWORD": "Praise Team",
+    "BUZZWORD_1": "Worship",
+    "BUZZWORD_2": "Sing ",
+    "BUZZWORD_3": "Glee",
+    "BUZZWORD_4": "Vocal",
+    "BUZZWORD_5": "Dance"
+  },
+  {
+    "KEYWORD": "Pray",
+    "BUZZWORD_1": "Knees",
+    "BUZZWORD_2": "Hands",
+    "BUZZWORD_3": "Bow",
+    "BUZZWORD_4": "Eyes ",
+    "BUZZWORD_5": "Thanks"
+  },
+  {
+    "KEYWORD": "Prayer Cloth",
+    "BUZZWORD_1": "Fabric",
+    "BUZZWORD_2": "Material",
+    "BUZZWORD_3": "Handkerchief ",
+    "BUZZWORD_4": "Cover",
+    "BUZZWORD_5": "White"
+  },
+  {
+    "KEYWORD": "Prayer Warrior",
+    "BUZZWORD_1": "Fighter",
+    "BUZZWORD_2": "Solider",
+    "BUZZWORD_3": "Trooper ",
+    "BUZZWORD_4": "Battle",
+    "BUZZWORD_5": "Religious"
+  },
+  {
+    "KEYWORD": "Processional",
+    "BUZZWORD_1": "End",
+    "BUZZWORD_2": "Beginning",
+    "BUZZWORD_3": "Cars",
+    "BUZZWORD_4": "Line",
+    "BUZZWORD_5": "Order"
+  },
+  {
+    "KEYWORD": "Program",
+    "BUZZWORD_1": "Order of Events ",
+    "BUZZWORD_2": "Schedule",
+    "BUZZWORD_3": "Business",
+    "BUZZWORD_4": "Meetings",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Prophet",
+    "BUZZWORD_1": "Future ",
+    "BUZZWORD_2": "Predict",
+    "BUZZWORD_3": "See",
+    "BUZZWORD_4": "Reader",
+    "BUZZWORD_5": "Spiritual"
+  },
+  {
+    "KEYWORD": "Proverbs",
+    "BUZZWORD_1": "Phrase",
+    "BUZZWORD_2": "Text",
+    "BUZZWORD_3": "Motto",
+    "BUZZWORD_4": "Word",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Psalms",
+    "BUZZWORD_1": "Praise",
+    "BUZZWORD_2": "Hymn",
+    "BUZZWORD_3": "Verse",
+    "BUZZWORD_4": "Chant",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Pulpit",
+    "BUZZWORD_1": "Lectern",
+    "BUZZWORD_2": "Podium",
+    "BUZZWORD_3": "Platform",
+    "BUZZWORD_4": "Stage",
+    "BUZZWORD_5": "Front"
+  },
+  {
+    "KEYWORD": "Remark",
+    "BUZZWORD_1": "Note",
+    "BUZZWORD_2": "Talk",
+    "BUZZWORD_3": "Acknowledgement ",
+    "BUZZWORD_4": "Comment",
+    "BUZZWORD_5": "Words"
+  },
+  {
+    "KEYWORD": "Repast",
+    "BUZZWORD_1": "Banquet ",
+    "BUZZWORD_2": "Funeral",
+    "BUZZWORD_3": "Food ",
+    "BUZZWORD_4": "Meal ",
+    "BUZZWORD_5": "Die"
+  },
+  {
+    "KEYWORD": "Repent",
+    "BUZZWORD_1": "Forgive",
+    "BUZZWORD_2": "Apologize ",
+    "BUZZWORD_3": "Remorse ",
+    "BUZZWORD_4": "Regret ",
+    "BUZZWORD_5": "Sorry"
+  },
+  {
+    "KEYWORD": "Resolutions",
+    "BUZZWORD_1": "Funeral ",
+    "BUZZWORD_2": "Acknowledgment",
+    "BUZZWORD_3": "Commitment",
+    "BUZZWORD_4": "Principles",
+    "BUZZWORD_5": "New Year"
+  },
+  {
+    "KEYWORD": "Resurrection",
+    "BUZZWORD_1": "Awakening ",
+    "BUZZWORD_2": "Rebirth ",
+    "BUZZWORD_3": "Life",
+    "BUZZWORD_4": "Revival",
+    "BUZZWORD_5": "Alive"
+  },
+  {
+    "KEYWORD": "Revelations",
+    "BUZZWORD_1": "Thou shall",
+    "BUZZWORD_2": "Moses",
+    "BUZZWORD_3": "Law",
+    "BUZZWORD_4": "Rule",
+    "BUZZWORD_5": "Apocalypse"
+  },
+  {
+    "KEYWORD": "Reverend",
+    "BUZZWORD_1": "Pastor",
+    "BUZZWORD_2": "Bishop",
+    "BUZZWORD_3": "Leader",
+    "BUZZWORD_4": "Man",
+    "BUZZWORD_5": "Church"
+  },
+  {
+    "KEYWORD": "Revival",
+    "BUZZWORD_1": "Repentance",
+    "BUZZWORD_2": "Restore",
+    "BUZZWORD_3": "Spirtual",
+    "BUZZWORD_4": "Love",
+    "BUZZWORD_5": "Faith"
+  },
+  {
+    "KEYWORD": "Ricky Dillard",
+    "BUZZWORD_1": "King",
+    "BUZZWORD_2": "Blood",
+    "BUZZWORD_3": "Singer",
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "New G"
+  },
+  {
+    "KEYWORD": "Robe",
+    "BUZZWORD_1": "Gown",
+    "BUZZWORD_2": "Outfit ",
+    "BUZZWORD_3": "Dress",
+    "BUZZWORD_4": "Clothing",
+    "BUZZWORD_5": "Body"
+  },
+  {
+    "KEYWORD": "Rod",
+    "BUZZWORD_1": "Stick",
+    "BUZZWORD_2": "Cane ",
+    "BUZZWORD_3": "Staff",
+    "BUZZWORD_4": "Baton",
+    "BUZZWORD_5": "Staff"
+  },
+  {
+    "KEYWORD": "Roster",
+    "BUZZWORD_1": "Agenda ",
+    "BUZZWORD_2": "Record",
+    "BUZZWORD_3": "Program",
+    "BUZZWORD_4": "Roll",
+    "BUZZWORD_5": "Schedule"
+  },
+  {
+    "KEYWORD": "Ruth ",
+    "BUZZWORD_1": "Boaz",
+    "BUZZWORD_2": "Widow",
+    "BUZZWORD_3": "Naomi",
+    "BUZZWORD_4": "Book",
+    "BUZZWORD_5": "Widow"
+  },
+  {
+    "KEYWORD": "Sacrament",
+    "BUZZWORD_1": "Baptism",
+    "BUZZWORD_2": "Celebration",
+    "BUZZWORD_3": "Marriage",
+    "BUZZWORD_4": "Ritual",
+    "BUZZWORD_5": "Confession"
+  },
+  {
+    "KEYWORD": "Sactified",
+    "BUZZWORD_1": "Anointed",
+    "BUZZWORD_2": "Blessed",
+    "BUZZWORD_3": "Holy",
+    "BUZZWORD_4": "Divine",
+    "BUZZWORD_5": "Filled "
+  },
+  {
+    "KEYWORD": "Saints",
+    "BUZZWORD_1": "Holy",
+    "BUZZWORD_2": "Glorified",
+    "BUZZWORD_3": "Good",
+    "BUZZWORD_4": "Blessed",
+    "BUZZWORD_5": "Angels "
+  },
+  {
+    "KEYWORD": "Salvation",
+    "BUZZWORD_1": "Deliverance",
+    "BUZZWORD_2": "Saved",
+    "BUZZWORD_3": "Redemption",
+    "BUZZWORD_4": "Restoration",
+    "BUZZWORD_5": "Sin"
+  },
+  {
+    "KEYWORD": "Samson",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Strong",
+    "BUZZWORD_3": "Cut",
+    "BUZZWORD_4": "Delilah",
+    "BUZZWORD_5": "Philistines"
+  },
+  {
+    "KEYWORD": "Sanctuary",
+    "BUZZWORD_1": "Church",
+    "BUZZWORD_2": "Holy Place ",
+    "BUZZWORD_3": "Altar ",
+    "BUZZWORD_4": "Shrine",
+    "BUZZWORD_5": "Temple "
+  },
+  {
+    "KEYWORD": "Saul",
+    "BUZZWORD_1": "Paul",
+    "BUZZWORD_2": "King",
+    "BUZZWORD_3": "Israel",
+    "BUZZWORD_4": "Anointed",
+    "BUZZWORD_5": "David"
+  },
+  {
+    "KEYWORD": "Saved",
+    "BUZZWORD_1": "Devout",
+    "BUZZWORD_2": "Jesus",
+    "BUZZWORD_3": "Accept",
+    "BUZZWORD_4": "Sin",
+    "BUZZWORD_5": "Salvation"
+  },
+  {
+    "KEYWORD": "Scripture",
+    "BUZZWORD_1": "Word",
+    "BUZZWORD_2": "Bible",
+    "BUZZWORD_3": "Verse",
+    "BUZZWORD_4": "Sentence",
+    "BUZZWORD_5": "Text "
+  },
+  {
+    "KEYWORD": "Seed",
+    "BUZZWORD_1": "Bud ",
+    "BUZZWORD_2": "Seed ",
+    "BUZZWORD_3": "Semen",
+    "BUZZWORD_4": "Egg",
+    "BUZZWORD_5": "Conception"
+  },
+  {
+    "KEYWORD": "Sermon",
+    "BUZZWORD_1": "Reverend",
+    "BUZZWORD_2": "Lesson",
+    "BUZZWORD_3": "Pastor",
+    "BUZZWORD_4": "Preach",
+    "BUZZWORD_5": "Advice"
+  },
+  {
+    "KEYWORD": "Seventh-day Adventist",
+    "BUZZWORD_1": "Denomination",
+    "BUZZWORD_2": "Saturday",
+    "BUZZWORD_3": "Sabbath",
+    "BUZZWORD_4": "Second Coming",
+    "BUZZWORD_5": "Law"
+  },
+  {
+    "KEYWORD": "Shawl",
+    "BUZZWORD_1": "Cape ",
+    "BUZZWORD_2": "Cloth",
+    "BUZZWORD_3": "Cloak",
+    "BUZZWORD_4": "Scarf",
+    "BUZZWORD_5": "Stole"
+  },
+  {
+    "KEYWORD": "Shirley Caesar",
+    "BUZZWORD_1": "You Name It",
+    "BUZZWORD_2": "Singer",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Pastor",
+    "BUZZWORD_5": "Queen"
+  },
+  {
+    "KEYWORD": "Shout",
+    "BUZZWORD_1": "Howl",
+    "BUZZWORD_2": "Scream",
+    "BUZZWORD_3": "Whoop",
+    "BUZZWORD_4": "Cry ",
+    "BUZZWORD_5": "Yell"
+  },
+  {
+    "KEYWORD": "Sick & Shut-in",
+    "BUZZWORD_1": "Ill",
+    "BUZZWORD_2": "Announcements",
+    "BUZZWORD_3": "Hospital",
+    "BUZZWORD_4": "Home",
+    "BUZZWORD_5": "Can't"
+  },
+  {
+    "KEYWORD": "Sign Language ",
+    "BUZZWORD_1": "Hand",
+    "BUZZWORD_2": "Deaf ",
+    "BUZZWORD_3": "ASL",
+    "BUZZWORD_4": "Gesture ",
+    "BUZZWORD_5": "Nonverbal"
+  },
+  {
+    "KEYWORD": "Sin",
+    "BUZZWORD_1": "Saint",
+    "BUZZWORD_2": "Human",
+    "BUZZWORD_3": "Sinner",
+    "BUZZWORD_4": "Bad",
+    "BUZZWORD_5": "Immoral"
+  },
+  {
+    "KEYWORD": "Sister ",
+    "BUZZWORD_1": "Brother ",
+    "BUZZWORD_2": "Female ",
+    "BUZZWORD_3": "Kin",
+    "BUZZWORD_4": "Relative ",
+    "BUZZWORD_5": "Twin"
+  },
+  {
+    "KEYWORD": "Slain",
+    "BUZZWORD_1": "Assassinated",
+    "BUZZWORD_2": "Dead ",
+    "BUZZWORD_3": "Kill",
+    "BUZZWORD_4": "Murder",
+    "BUZZWORD_5": "Stabbed"
+  },
+  {
+    "KEYWORD": "Smokie Norful",
+    "BUZZWORD_1": "I Need You Now",
+    "BUZZWORD_2": "Singer",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Gospel",
+    "BUZZWORD_5": "Pastor"
+  },
+  {
+    "KEYWORD": "Sodom",
+    "BUZZWORD_1": "Gomorrah",
+    "BUZZWORD_2": "Sin",
+    "BUZZWORD_3": "Fire",
+    "BUZZWORD_4": "Destroyed",
+    "BUZZWORD_5": "Genesis"
+  },
+  {
+    "KEYWORD": "Solo ",
+    "BUZZWORD_1": "Single",
+    "BUZZWORD_2": "Solitary",
+    "BUZZWORD_3": "Unaccompanied",
+    "BUZZWORD_4": "Alone",
+    "BUZZWORD_5": "Singer "
+  },
+  {
+    "KEYWORD": "Solomon",
+    "BUZZWORD_1": "David",
+    "BUZZWORD_2": "Temple ",
+    "BUZZWORD_3": "Kingdom",
+    "BUZZWORD_4": "Wives ",
+    "BUZZWORD_5": "Jerusalem"
+  },
+  {
+    "KEYWORD": "Sopranos",
+    "BUZZWORD_1": "Bass",
+    "BUZZWORD_2": "Tenor",
+    "BUZZWORD_3": "Alto",
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "High"
+  },
+  {
+    "KEYWORD": "Soul",
+    "BUZZWORD_1": "Spirit",
+    "BUZZWORD_2": "Energy ",
+    "BUZZWORD_3": "Vibes ",
+    "BUZZWORD_4": "Heart",
+    "BUZZWORD_5": "Inspiration"
+  },
+  {
+    "KEYWORD": "Sound Man",
+    "BUZZWORD_1": "Audio",
+    "BUZZWORD_2": "Video",
+    "BUZZWORD_3": "Speaker",
+    "BUZZWORD_4": "Microphones",
+    "BUZZWORD_5": "Amplify "
+  },
+  {
+    "KEYWORD": "Staff",
+    "BUZZWORD_1": "Servants",
+    "BUZZWORD_2": "Serpent",
+    "BUZZWORD_3": "Rod ",
+    "BUZZWORD_4": "Hand",
+    "BUZZWORD_5": "Rod"
+  },
+  {
+    "KEYWORD": "Stage Plays",
+    "BUZZWORD_1": "Tyler Perry ",
+    "BUZZWORD_2": "Jecaryous Johnson",
+    "BUZZWORD_3": "Theatre",
+    "BUZZWORD_4": "Script",
+    "BUZZWORD_5": "Drama Ministry"
+  },
+  {
+    "KEYWORD": "Steeple",
+    "BUZZWORD_1": "Tower",
+    "BUZZWORD_2": "Spire",
+    "BUZZWORD_3": "High Point ",
+    "BUZZWORD_4": "Belfry ",
+    "BUZZWORD_5": "Apex"
+  },
+  {
+    "KEYWORD": "Stellar Awards",
+    "BUZZWORD_1": "Gospel",
+    "BUZZWORD_2": "Best ",
+    "BUZZWORD_3": "Winner ",
+    "BUZZWORD_4": "Nominees",
+    "BUZZWORD_5": "Performance "
+  },
+  {
+    "KEYWORD": "Sunday",
+    "BUZZWORD_1": "Week",
+    "BUZZWORD_2": "Lord ",
+    "BUZZWORD_3": "Rest ",
+    "BUZZWORD_4": "Sabbath",
+    "BUZZWORD_5": "Weekend"
+  },
+  {
+    "KEYWORD": "Sunday School",
+    "BUZZWORD_1": "Kids",
+    "BUZZWORD_2": "Teacher",
+    "BUZZWORD_3": "Bad",
+    "BUZZWORD_4": "Study",
+    "BUZZWORD_5": "Children"
+  },
+  {
+    "KEYWORD": "Sunday's Best",
+    "BUZZWORD_1": "Kirk Franklin",
+    "BUZZWORD_2": "Clothing",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "BET ",
+    "BUZZWORD_5": "Judges "
+  },
+  {
+    "KEYWORD": "T.D. Jakes",
+    "BUZZWORD_1": "Woman Thou Art Loosed",
+    "BUZZWORD_2": "Pastor",
+    "BUZZWORD_3": "Potter's House",
+    "BUZZWORD_4": "Megachurch",
+    "BUZZWORD_5": "Minister"
+  },
+  {
+    "KEYWORD": "Tabernacle",
+    "BUZZWORD_1": "Church ",
+    "BUZZWORD_2": "Temple ",
+    "BUZZWORD_3": "Point",
+    "BUZZWORD_4": "Sanctuary",
+    "BUZZWORD_5": "Worship"
+  },
+  {
+    "KEYWORD": "Tamborine",
+    "BUZZWORD_1": "Instrument ",
+    "BUZZWORD_2": "Shake",
+    "BUZZWORD_3": "Choir",
+    "BUZZWORD_4": "Move",
+    "BUZZWORD_5": "Hand"
+  },
+  {
+    "KEYWORD": "Tamela Mann",
+    "BUZZWORD_1": "David",
+    "BUZZWORD_2": "Song",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Tyler Perry",
+    "BUZZWORD_5": "Take Me to the King"
+  },
+  {
+    "KEYWORD": "Tarrying Room",
+    "BUZZWORD_1": "Baptize",
+    "BUZZWORD_2": "Service",
+    "BUZZWORD_3": "Praying",
+    "BUZZWORD_4": "God",
+    "BUZZWORD_5": "Spirit"
+  },
+  {
+    "KEYWORD": "Tenor",
+    "BUZZWORD_1": "Alto",
+    "BUZZWORD_2": "Soprano",
+    "BUZZWORD_3": "Bass",
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "Men"
+  },
+  {
+    "KEYWORD": "Testimony",
+    "BUZZWORD_1": "Personal",
+    "BUZZWORD_2": "Story",
+    "BUZZWORD_3": "Trials",
+    "BUZZWORD_4": "Tribulations",
+    "BUZZWORD_5": "Truth"
+  },
+  {
+    "KEYWORD": "The Ark",
+    "BUZZWORD_1": "Noah",
+    "BUZZWORD_2": "Flood",
+    "BUZZWORD_3": "Animals",
+    "BUZZWORD_4": "God",
+    "BUZZWORD_5": "Two"
+  },
+  {
+    "KEYWORD": "The Clark Sisters ",
+    "BUZZWORD_1": "Singers",
+    "BUZZWORD_2": "Group",
+    "BUZZWORD_3": "Women",
+    "BUZZWORD_4": "Blessed & Highly Favored",
+    "BUZZWORD_5": "I've Got the Victory"
+  },
+  {
+    "KEYWORD": "The Last Supper ",
+    "BUZZWORD_1": "Jesus ",
+    "BUZZWORD_2": "Disciples",
+    "BUZZWORD_3": "Communion",
+    "BUZZWORD_4": "Bread",
+    "BUZZWORD_5": "Wine "
+  },
+  {
+    "KEYWORD": "Theology",
+    "BUZZWORD_1": "Religious",
+    "BUZZWORD_2": "Theory",
+    "BUZZWORD_3": "Belief",
+    "BUZZWORD_4": "Creed ",
+    "BUZZWORD_5": "Doctrine"
+  },
+  {
+    "KEYWORD": "Throne",
+    "BUZZWORD_1": "Chair",
+    "BUZZWORD_2": "Royalty ",
+    "BUZZWORD_3": "Seat ",
+    "BUZZWORD_4": "Toliet ",
+    "BUZZWORD_5": "Power "
+  },
+  {
+    "KEYWORD": "Tithe",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Ten percent",
+    "BUZZWORD_3": "Offering plate",
+    "BUZZWORD_4": "Cash",
+    "BUZZWORD_5": "Offering "
+  },
+  {
+    "KEYWORD": "Tongues",
+    "BUZZWORD_1": "Holy spirit",
+    "BUZZWORD_2": "Speaking",
+    "BUZZWORD_3": "Holy Ghost",
+    "BUZZWORD_4": "Spiritual gift",
+    "BUZZWORD_5": "Mouth"
+  },
+  {
+    "KEYWORD": "Tower of Babel",
+    "BUZZWORD_1": "Building ",
+    "BUZZWORD_2": "Sky",
+    "BUZZWORD_3": "Language",
+    "BUZZWORD_4": "Confusion",
+    "BUZZWORD_5": "Discord"
+  },
+  {
+    "KEYWORD": "Trustees",
+    "BUZZWORD_1": "Executor ",
+    "BUZZWORD_2": "Guardian",
+    "BUZZWORD_3": "Keeper ",
+    "BUZZWORD_4": "Warden ",
+    "BUZZWORD_5": "Administrator"
+  },
+  {
+    "KEYWORD": "Tye Tribbet",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "Greater Anointing",
+    "BUZZWORD_3": "Gospel",
+    "BUZZWORD_4": "Performer",
+    "BUZZWORD_5": "Keyboard"
+  },
+  {
+    "KEYWORD": "Tyler Perry",
+    "BUZZWORD_1": "Madea",
+    "BUZZWORD_2": "Plays",
+    "BUZZWORD_3": "Movies",
+    "BUZZWORD_4": "Inspirational",
+    "BUZZWORD_5": "Producer"
+  },
+  {
+    "KEYWORD": "Usher",
+    "BUZZWORD_1": "Seat",
+    "BUZZWORD_2": "Gloves ",
+    "BUZZWORD_3": "Board ",
+    "BUZZWORD_4": "Walk",
+    "BUZZWORD_5": "Greet "
+  },
+  {
+    "KEYWORD": "Vacation Bible School",
+    "BUZZWORD_1": "Summer",
+    "BUZZWORD_2": "Kids",
+    "BUZZWORD_3": "Learn",
+    "BUZZWORD_4": "Camp",
+    "BUZZWORD_5": "Retreat"
+  },
+  {
+    "KEYWORD": "Visitor",
+    "BUZZWORD_1": "Guest",
+    "BUZZWORD_2": "Company",
+    "BUZZWORD_3": "Invitee",
+    "BUZZWORD_4": "Foreigner ",
+    "BUZZWORD_5": "Newbie"
+  },
+  {
+    "KEYWORD": "Volunteer",
+    "BUZZWORD_1": "Servant ",
+    "BUZZWORD_2": "Assist",
+    "BUZZWORD_3": "Help",
+    "BUZZWORD_4": "Attendant ",
+    "BUZZWORD_5": "Domestic"
+  },
+  {
+    "KEYWORD": "Walter Hawkins",
+    "BUZZWORD_1": "Tremaine",
+    "BUZZWORD_2": "Singer",
+    "BUZZWORD_3": "Pastor",
+    "BUZZWORD_4": "What Is This",
+    "BUZZWORD_5": "Composer"
+  },
+  {
+    "KEYWORD": "Welcome",
+    "BUZZWORD_1": "Accepted",
+    "BUZZWORD_2": "Appreciated ",
+    "BUZZWORD_3": "Wanted ",
+    "BUZZWORD_4": "Cordial",
+    "BUZZWORD_5": "Desired "
+  },
+  {
+    "KEYWORD": "Wine",
+    "BUZZWORD_1": "Red",
+    "BUZZWORD_2": "Jesus",
+    "BUZZWORD_3": "Water",
+    "BUZZWORD_4": "Sip",
+    "BUZZWORD_5": "Grapes"
+  },
+  {
+    "KEYWORD": "Witness",
+    "BUZZWORD_1": "Testify ",
+    "BUZZWORD_2": "Speak",
+    "BUZZWORD_3": "Storyteller",
+    "BUZZWORD_4": "Ministrel",
+    "BUZZWORD_5": "Relate"
+  },
+  {
+    "KEYWORD": "Woman Thou Art Loosed",
+    "BUZZWORD_1": "Fiction",
+    "BUZZWORD_2": "Movie",
+    "BUZZWORD_3": "T.D. Jakes",
+    "BUZZWORD_4": "Conference",
+    "BUZZWORD_5": "Book"
+  },
+  {
+    "KEYWORD": "Worship",
+    "BUZZWORD_1": "Honor",
+    "BUZZWORD_2": "Adore",
+    "BUZZWORD_3": "Exalt",
+    "BUZZWORD_4": "Homage ",
+    "BUZZWORD_5": "Devote"
+  },
+  {
+    "KEYWORD": "WWJD",
+    "BUZZWORD_1": "What ",
+    "BUZZWORD_2": "Would ",
+    "BUZZWORD_3": "Jesus ",
+    "BUZZWORD_4": "Do",
+    "BUZZWORD_5": "Acronym"
+  },
+  {
+    "KEYWORD": "Yolanda Adams",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "Host",
+    "BUZZWORD_3": "Yesterday",
+    "BUZZWORD_4": "Battle",
+    "BUZZWORD_5": "Heart"
+  },
+  {
+    "KEYWORD": "Zion",
+    "BUZZWORD_1": "David",
+    "BUZZWORD_2": "Jerusalem",
+    "BUZZWORD_3": "Hebrew",
+    "BUZZWORD_4": "Hill",
+    "BUZZWORD_5": "Place"
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "KEYWORD": "Paris ",
+    "BUZZWORD_1": "Jay Z ",
+    "BUZZWORD_2": "Kanye West ",
+    "BUZZWORD_3": "France ",
+    "BUZZWORD_4": "Love",
+    "BUZZWORD_5": "Eiffel Tower "
+  },
+  {
+    "KEYWORD": "Africa",
+    "BUZZWORD_1": "Continent ",
+    "BUZZWORD_2": "West ",
+    "BUZZWORD_3": "South ",
+    "BUZZWORD_4": "Motherland ",
+    "BUZZWORD_5": "Nigeria"
+  },
+  {
+    "KEYWORD": "Afropunk ",
+    "BUZZWORD_1": "Hipster ",
+    "BUZZWORD_2": "Futurism",
+    "BUZZWORD_3": "Solange ",
+    "BUZZWORD_4": "NeoSoul",
+    "BUZZWORD_5": "Music "
+  },
+  {
+    "KEYWORD": "AfroTech ",
+    "BUZZWORD_1": "Apps ",
+    "BUZZWORD_2": "Blavity ",
+    "BUZZWORD_3": "Conference ",
+    "BUZZWORD_4": "Startup",
+    "BUZZWORD_5": "Business "
+  },
+  {
+    "KEYWORD": "Air Traffic Control",
+    "BUZZWORD_1": "Tower ",
+    "BUZZWORD_2": "Wand ",
+    "BUZZWORD_3": "Runway ",
+    "BUZZWORD_4": "Headphones ",
+    "BUZZWORD_5": "Jump Suit "
+  },
+  {
+    "KEYWORD": "Airbnb",
+    "BUZZWORD_1": "Hotel ",
+    "BUZZWORD_2": "Motel ",
+    "BUZZWORD_3": "Accommodations",
+    "BUZZWORD_4": "Bed ",
+    "BUZZWORD_5": "Host "
+  },
+  {
+    "KEYWORD": "Airlines",
+    "BUZZWORD_1": "Journey ",
+    "BUZZWORD_2": "Thrills ",
+    "BUZZWORD_3": "Experience ",
+    "BUZZWORD_4": "Trip",
+    "BUZZWORD_5": "Venture"
+  },
+  {
+    "KEYWORD": "Airplane ",
+    "BUZZWORD_1": "Airlines ",
+    "BUZZWORD_2": "Transportation",
+    "BUZZWORD_3": "Jet ",
+    "BUZZWORD_4": "Wings ",
+    "BUZZWORD_5": "Fly"
+  },
+  {
+    "KEYWORD": "Airport Code ",
+    "BUZZWORD_1": "Three ",
+    "BUZZWORD_2": "Letters ",
+    "BUZZWORD_3": "Location",
+    "BUZZWORD_4": "Abbreviation",
+    "BUZZWORD_5": "Destination"
+  },
+  {
+    "KEYWORD": "Aisle ",
+    "BUZZWORD_1": "Plane ",
+    "BUZZWORD_2": "Window ",
+    "BUZZWORD_3": "Middle ",
+    "BUZZWORD_4": "Walk",
+    "BUZZWORD_5": "Across "
+  },
+  {
+    "KEYWORD": "All Star Weekend",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Groupies ",
+    "BUZZWORD_3": "NBA ",
+    "BUZZWORD_4": "Players ",
+    "BUZZWORD_5": "Celebrities "
+  },
+  {
+    "KEYWORD": "American ",
+    "BUZZWORD_1": "Airlines ",
+    "BUZZWORD_2": "USA ",
+    "BUZZWORD_3": "Flag ",
+    "BUZZWORD_4": "Country",
+    "BUZZWORD_5": "Apple Pie "
+  },
+  {
+    "KEYWORD": "Black Film Festival ",
+    "BUZZWORD_1": "Miami",
+    "BUZZWORD_2": "Florida ",
+    "BUZZWORD_3": "South Beach ",
+    "BUZZWORD_4": "Movies ",
+    "BUZZWORD_5": "Entertainment "
+  },
+  {
+    "KEYWORD": "American Boy ",
+    "BUZZWORD_1": "Song ",
+    "BUZZWORD_2": "Estelle",
+    "BUZZWORD_3": "Kanye West ",
+    "BUZZWORD_4": "Single ",
+    "BUZZWORD_5": "British"
+  },
+  {
+    "KEYWORD": "Amtrak",
+    "BUZZWORD_1": "Train",
+    "BUZZWORD_2": "Railroad ",
+    "BUZZWORD_3": "Car ",
+    "BUZZWORD_4": "Sleeper ",
+    "BUZZWORD_5": "Cross Country"
+  },
+  {
+    "KEYWORD": "Anchor ",
+    "BUZZWORD_1": "Dock ",
+    "BUZZWORD_2": "Boat ",
+    "BUZZWORD_3": "Cruise ",
+    "BUZZWORD_4": "Stop",
+    "BUZZWORD_5": "Arrival "
+  },
+  {
+    "KEYWORD": "Antarticia",
+    "BUZZWORD_1": "Cold ",
+    "BUZZWORD_2": "Freezing ",
+    "BUZZWORD_3": "Southern",
+    "BUZZWORD_4": "Penguin",
+    "BUZZWORD_5": "Ice"
+  },
+  {
+    "KEYWORD": "Arrival ",
+    "BUZZWORD_1": "Departure ",
+    "BUZZWORD_2": "Destination",
+    "BUZZWORD_3": "Entrance ",
+    "BUZZWORD_4": "There",
+    "BUZZWORD_5": "Landing "
+  },
+  {
+    "KEYWORD": "Art Basel ",
+    "BUZZWORD_1": "Miami",
+    "BUZZWORD_2": "Florida ",
+    "BUZZWORD_3": "South Beach ",
+    "BUZZWORD_4": "Parties ",
+    "BUZZWORD_5": "Creative "
+  },
+  {
+    "KEYWORD": "Asia ",
+    "BUZZWORD_1": "China ",
+    "BUZZWORD_2": "Japan",
+    "BUZZWORD_3": "Toyko ",
+    "BUZZWORD_4": "India",
+    "BUZZWORD_5": "Thailand"
+  },
+  {
+    "KEYWORD": "Atlantic ",
+    "BUZZWORD_1": "Ocean",
+    "BUZZWORD_2": "Sea ",
+    "BUZZWORD_3": "Water ",
+    "BUZZWORD_4": "Coast ",
+    "BUZZWORD_5": "Beach "
+  },
+  {
+    "KEYWORD": "ATV ",
+    "BUZZWORD_1": "Terrain",
+    "BUZZWORD_2": "Vehicle ",
+    "BUZZWORD_3": "All ",
+    "BUZZWORD_4": "Four Wheel",
+    "BUZZWORD_5": "Automatic "
+  },
+  {
+    "KEYWORD": "Australia",
+    "BUZZWORD_1": "Sydney ",
+    "BUZZWORD_2": "Continent ",
+    "BUZZWORD_3": "Aborgine",
+    "BUZZWORD_4": "Island ",
+    "BUZZWORD_5": "Tasmania"
+  },
+  {
+    "KEYWORD": "Backpacking",
+    "BUZZWORD_1": "Europe",
+    "BUZZWORD_2": "Adventure ",
+    "BUZZWORD_3": "Walk",
+    "BUZZWORD_4": "Jungle ",
+    "BUZZWORD_5": "Mountain"
+  },
+  {
+    "KEYWORD": "Baecation",
+    "BUZZWORD_1": "Vacation",
+    "BUZZWORD_2": "Baby ",
+    "BUZZWORD_3": "Boo",
+    "BUZZWORD_4": "Companion",
+    "BUZZWORD_5": "Trip"
+  },
+  {
+    "KEYWORD": "Baggage Claim",
+    "BUZZWORD_1": "Airport ",
+    "BUZZWORD_2": "Luggage ",
+    "BUZZWORD_3": "Belt ",
+    "BUZZWORD_4": "Tag",
+    "BUZZWORD_5": "Monitor "
+  },
+  {
+    "KEYWORD": "Beach ",
+    "BUZZWORD_1": "Island ",
+    "BUZZWORD_2": "Sand ",
+    "BUZZWORD_3": "Palm Trees ",
+    "BUZZWORD_4": "Sun",
+    "BUZZWORD_5": "Ocean "
+  },
+  {
+    "KEYWORD": "Bed Bugs ",
+    "BUZZWORD_1": "Hotel ",
+    "BUZZWORD_2": "Bite",
+    "BUZZWORD_3": "Itch",
+    "BUZZWORD_4": "Motel ",
+    "BUZZWORD_5": "Insect"
+  },
+  {
+    "KEYWORD": "BET Experience ",
+    "BUZZWORD_1": "Los Angeles",
+    "BUZZWORD_2": "LA Live ",
+    "BUZZWORD_3": "VIP",
+    "BUZZWORD_4": "Celebrities ",
+    "BUZZWORD_5": "Awards "
+  },
+  {
+    "KEYWORD": "Bike ",
+    "BUZZWORD_1": "Pedal ",
+    "BUZZWORD_2": "Motorcycle ",
+    "BUZZWORD_3": "Wheels ",
+    "BUZZWORD_4": "Tandem",
+    "BUZZWORD_5": "Ride"
+  },
+  {
+    "KEYWORD": "Binoculars",
+    "BUZZWORD_1": "Magnify",
+    "BUZZWORD_2": "Glasses ",
+    "BUZZWORD_3": "Telescope ",
+    "BUZZWORD_4": "Boost ",
+    "BUZZWORD_5": "Amplify"
+  },
+  {
+    "KEYWORD": "Biscoff",
+    "BUZZWORD_1": "Cookies ",
+    "BUZZWORD_2": "United ",
+    "BUZZWORD_3": "Snack",
+    "BUZZWORD_4": "Package ",
+    "BUZZWORD_5": "Coffee"
+  },
+  {
+    "KEYWORD": "Black Ski Summit ",
+    "BUZZWORD_1": "Winter ",
+    "BUZZWORD_2": "Snow ",
+    "BUZZWORD_3": "Parties ",
+    "BUZZWORD_4": "Snowboard ",
+    "BUZZWORD_5": "Slopes"
+  },
+  {
+    "KEYWORD": "Blogger",
+    "BUZZWORD_1": "Writer ",
+    "BUZZWORD_2": "Online ",
+    "BUZZWORD_3": "Travel",
+    "BUZZWORD_4": "Reviews ",
+    "BUZZWORD_5": "Op-Ed "
+  },
+  {
+    "KEYWORD": "Boarding Group",
+    "BUZZWORD_1": "First Class ",
+    "BUZZWORD_2": "Economy ",
+    "BUZZWORD_3": "Business ",
+    "BUZZWORD_4": "A ",
+    "BUZZWORD_5": "B "
+  },
+  {
+    "KEYWORD": "Boarding Pass ",
+    "BUZZWORD_1": "Ticket",
+    "BUZZWORD_2": "Entry",
+    "BUZZWORD_3": "Pass",
+    "BUZZWORD_4": "Admission",
+    "BUZZWORD_5": "Seat"
+  },
+  {
+    "KEYWORD": "Boat ",
+    "BUZZWORD_1": "Sail",
+    "BUZZWORD_2": "Dingy",
+    "BUZZWORD_3": "Cruise ",
+    "BUZZWORD_4": "Captain",
+    "BUZZWORD_5": "Ship"
+  },
+  {
+    "KEYWORD": "Boeing",
+    "BUZZWORD_1": "Airplane ",
+    "BUZZWORD_2": 747,
+    "BUZZWORD_3": "Fly",
+    "BUZZWORD_4": "Company",
+    "BUZZWORD_5": "Aerospace "
+  },
+  {
+    "KEYWORD": "Border ",
+    "BUZZWORD_1": "Outline",
+    "BUZZWORD_2": "Boundary",
+    "BUZZWORD_3": "Line",
+    "BUZZWORD_4": "Limit",
+    "BUZZWORD_5": "End "
+  },
+  {
+    "KEYWORD": "Brazil",
+    "BUZZWORD_1": "Sao Paulo",
+    "BUZZWORD_2": "South America ",
+    "BUZZWORD_3": "Olympics ",
+    "BUZZWORD_4": "Rio de Janeiro",
+    "BUZZWORD_5": "Christ the Redeemer"
+  },
+  {
+    "KEYWORD": "Break ",
+    "BUZZWORD_1": "Summer",
+    "BUZZWORD_2": "Fall",
+    "BUZZWORD_3": "Spring ",
+    "BUZZWORD_4": "Winter ",
+    "BUZZWORD_5": "Lunch "
+  },
+  {
+    "KEYWORD": "Buddy Pass ",
+    "BUZZWORD_1": "Free ",
+    "BUZZWORD_2": "Companion",
+    "BUZZWORD_3": "Complementary ",
+    "BUZZWORD_4": "Standby",
+    "BUZZWORD_5": "Revenue "
+  },
+  {
+    "KEYWORD": "Bungee Jump",
+    "BUZZWORD_1": "Thrill",
+    "BUZZWORD_2": "Cord ",
+    "BUZZWORD_3": "Ledge ",
+    "BUZZWORD_4": "Tandem",
+    "BUZZWORD_5": "Fear "
+  },
+  {
+    "KEYWORD": "Bus ",
+    "BUZZWORD_1": "Greyhound ",
+    "BUZZWORD_2": "Vehicle ",
+    "BUZZWORD_3": "Transportation",
+    "BUZZWORD_4": "Charter ",
+    "BUZZWORD_5": "Motor Car "
+  },
+  {
+    "KEYWORD": "Business Class ",
+    "BUZZWORD_1": "First",
+    "BUZZWORD_2": "Economy",
+    "BUZZWORD_3": "Beverage Service ",
+    "BUZZWORD_4": "Leg Room",
+    "BUZZWORD_5": "Priority "
+  },
+  {
+    "KEYWORD": "Business Trip",
+    "BUZZWORD_1": "Employment ",
+    "BUZZWORD_2": "Commerce ",
+    "BUZZWORD_3": "Business",
+    "BUZZWORD_4": "Gig",
+    "BUZZWORD_5": "Work "
+  },
+  {
+    "KEYWORD": "California ",
+    "BUZZWORD_1": "Los Angeles ",
+    "BUZZWORD_2": "Sacramento",
+    "BUZZWORD_3": "Hollywood ",
+    "BUZZWORD_4": "San Francisco",
+    "BUZZWORD_5": "Oakland "
+  },
+  {
+    "KEYWORD": "Camera ",
+    "BUZZWORD_1": "Photography",
+    "BUZZWORD_2": "Pictures",
+    "BUZZWORD_3": "Digital",
+    "BUZZWORD_4": "Phone",
+    "BUZZWORD_5": "Selfie"
+  },
+  {
+    "KEYWORD": "Canada",
+    "BUZZWORD_1": "Canada ",
+    "BUZZWORD_2": "Caribana",
+    "BUZZWORD_3": "Drake ",
+    "BUZZWORD_4": "The Six ",
+    "BUZZWORD_5": "Ontario"
+  },
+  {
+    "KEYWORD": "Cancellation",
+    "BUZZWORD_1": "Weather ",
+    "BUZZWORD_2": "Storm",
+    "BUZZWORD_3": "Refund ",
+    "BUZZWORD_4": "Ice ",
+    "BUZZWORD_5": "Snow "
+  },
+  {
+    "KEYWORD": "Canoe ",
+    "BUZZWORD_1": "Boat ",
+    "BUZZWORD_2": "Paddle ",
+    "BUZZWORD_3": "Lake ",
+    "BUZZWORD_4": "River ",
+    "BUZZWORD_5": "Kayak"
+  },
+  {
+    "KEYWORD": "Captain",
+    "BUZZWORD_1": "Pilot ",
+    "BUZZWORD_2": "Leader ",
+    "BUZZWORD_3": "Skipper ",
+    "BUZZWORD_4": "Head ",
+    "BUZZWORD_5": "Officer "
+  },
+  {
+    "KEYWORD": "Car ",
+    "BUZZWORD_1": "Vehicle ",
+    "BUZZWORD_2": "Automobile ",
+    "BUZZWORD_3": "Drive",
+    "BUZZWORD_4": "Sedan ",
+    "BUZZWORD_5": "Rental"
+  },
+  {
+    "KEYWORD": "Caribana ",
+    "BUZZWORD_1": "Canada ",
+    "BUZZWORD_2": "Toronto ",
+    "BUZZWORD_3": "Carnival",
+    "BUZZWORD_4": "West Indian ",
+    "BUZZWORD_5": "Play Mas "
+  },
+  {
+    "KEYWORD": "Carnival",
+    "BUZZWORD_1": "Costumes ",
+    "BUZZWORD_2": "Play Mas ",
+    "BUZZWORD_3": "Feathers ",
+    "BUZZWORD_4": "Jewelry ",
+    "BUZZWORD_5": "West Indies "
+  },
+  {
+    "KEYWORD": "Carry On ",
+    "BUZZWORD_1": "Luggage ",
+    "BUZZWORD_2": "Security ",
+    "BUZZWORD_3": "Check",
+    "BUZZWORD_4": "Pay ",
+    "BUZZWORD_5": "Bag "
+  },
+  {
+    "KEYWORD": "Casino",
+    "BUZZWORD_1": "Gamble ",
+    "BUZZWORD_2": "Cash",
+    "BUZZWORD_3": "Money ",
+    "BUZZWORD_4": "Vegas ",
+    "BUZZWORD_5": "Slots "
+  },
+  {
+    "KEYWORD": "Check-In",
+    "BUZZWORD_1": "Airport ",
+    "BUZZWORD_2": "Flight ",
+    "BUZZWORD_3": "Departure ",
+    "BUZZWORD_4": "Time ",
+    "BUZZWORD_5": "Late "
+  },
+  {
+    "KEYWORD": "China ",
+    "BUZZWORD_1": "Asia ",
+    "BUZZWORD_2": "Beijing ",
+    "BUZZWORD_3": "Shanghai",
+    "BUZZWORD_4": "Oriental",
+    "BUZZWORD_5": "Great Wall"
+  },
+  {
+    "KEYWORD": "Citizen",
+    "BUZZWORD_1": "Civilian",
+    "BUZZWORD_2": "National",
+    "BUZZWORD_3": "Inhabitant",
+    "BUZZWORD_4": "Native ",
+    "BUZZWORD_5": "Taxpayer "
+  },
+  {
+    "KEYWORD": "Communication",
+    "BUZZWORD_1": "Conversation",
+    "BUZZWORD_2": "Intercourse ",
+    "BUZZWORD_3": "Correspondence ",
+    "BUZZWORD_4": "Talk",
+    "BUZZWORD_5": "Transfer "
+  },
+  {
+    "KEYWORD": "Commuter ",
+    "BUZZWORD_1": "Traveler ",
+    "BUZZWORD_2": "Suburbanite ",
+    "BUZZWORD_3": "City Worker ",
+    "BUZZWORD_4": "Movement ",
+    "BUZZWORD_5": "Driver "
+  },
+  {
+    "KEYWORD": "Compass",
+    "BUZZWORD_1": "Direction",
+    "BUZZWORD_2": "West ",
+    "BUZZWORD_3": "East ",
+    "BUZZWORD_4": "North ",
+    "BUZZWORD_5": "South"
+  },
+  {
+    "KEYWORD": "Concert ",
+    "BUZZWORD_1": "Musician",
+    "BUZZWORD_2": "Perfomance ",
+    "BUZZWORD_3": "Live ",
+    "BUZZWORD_4": "Artist ",
+    "BUZZWORD_5": "Band "
+  },
+  {
+    "KEYWORD": "Concierge ",
+    "BUZZWORD_1": "Attendant ",
+    "BUZZWORD_2": "Doorman",
+    "BUZZWORD_3": "Assistant ",
+    "BUZZWORD_4": "Hotel ",
+    "BUZZWORD_5": "Front Desk "
+  },
+  {
+    "KEYWORD": "Conclave",
+    "BUZZWORD_1": "Greek ",
+    "BUZZWORD_2": "Omegas ",
+    "BUZZWORD_3": "Conference ",
+    "BUZZWORD_4": "Gathering ",
+    "BUZZWORD_5": "Fellowship"
+  },
+  {
+    "KEYWORD": "Concourse ",
+    "BUZZWORD_1": "Gate ",
+    "BUZZWORD_2": "Terminal",
+    "BUZZWORD_3": "Airport ",
+    "BUZZWORD_4": "Airlines ",
+    "BUZZWORD_5": "Lobby"
+  },
+  {
+    "KEYWORD": "Congressional Black Caucus ",
+    "BUZZWORD_1": "Washington",
+    "BUZZWORD_2": "DC ",
+    "BUZZWORD_3": "CBC",
+    "BUZZWORD_4": "Politician",
+    "BUZZWORD_5": "Networking"
+  },
+  {
+    "KEYWORD": "Convention",
+    "BUZZWORD_1": "Conclave ",
+    "BUZZWORD_2": "Assembly",
+    "BUZZWORD_3": "Expo",
+    "BUZZWORD_4": "Meeting",
+    "BUZZWORD_5": "Delegation"
+  },
+  {
+    "KEYWORD": "Credit Card ",
+    "BUZZWORD_1": "Amex ",
+    "BUZZWORD_2": "Visa ",
+    "BUZZWORD_3": "Mastercard ",
+    "BUZZWORD_4": "Debit Card ",
+    "BUZZWORD_5": "Charge Card "
+  },
+  {
+    "KEYWORD": "Creole",
+    "BUZZWORD_1": "Haitian",
+    "BUZZWORD_2": "Language ",
+    "BUZZWORD_3": "French ",
+    "BUZZWORD_4": "Local ",
+    "BUZZWORD_5": "New Orleans "
+  },
+  {
+    "KEYWORD": "Cropover ",
+    "BUZZWORD_1": "Barbados ",
+    "BUZZWORD_2": "Islands ",
+    "BUZZWORD_3": "West Indies ",
+    "BUZZWORD_4": "Celebration",
+    "BUZZWORD_5": "Festival"
+  },
+  {
+    "KEYWORD": "Cruise ",
+    "BUZZWORD_1": "Sail",
+    "BUZZWORD_2": "Sea",
+    "BUZZWORD_3": "Royal",
+    "BUZZWORD_4": "Captain",
+    "BUZZWORD_5": "Carnival"
+  },
+  {
+    "KEYWORD": "Cuba ",
+    "BUZZWORD_1": "Havana",
+    "BUZZWORD_2": "Salsa ",
+    "BUZZWORD_3": "Cigar ",
+    "BUZZWORD_4": "West Indies ",
+    "BUZZWORD_5": "Castro"
+  },
+  {
+    "KEYWORD": "Cuisine",
+    "BUZZWORD_1": "Menu",
+    "BUZZWORD_2": "Food ",
+    "BUZZWORD_3": "Faire ",
+    "BUZZWORD_4": "Dishes",
+    "BUZZWORD_5": "Cooking"
+  },
+  {
+    "KEYWORD": "Cultural",
+    "BUZZWORD_1": "Artistic ",
+    "BUZZWORD_2": "Learned",
+    "BUZZWORD_3": "Social",
+    "BUZZWORD_4": "Stimulate ",
+    "BUZZWORD_5": "Travelled"
+  },
+  {
+    "KEYWORD": "Culture",
+    "BUZZWORD_1": "Travel ",
+    "BUZZWORD_2": "Member ",
+    "BUZZWORD_3": "Discount ",
+    "BUZZWORD_4": "Rental ",
+    "BUZZWORD_5": "Road Side "
+  },
+  {
+    "KEYWORD": "Currency ",
+    "BUZZWORD_1": "Money ",
+    "BUZZWORD_2": "Cash ",
+    "BUZZWORD_3": "Notes ",
+    "BUZZWORD_4": "Coins ",
+    "BUZZWORD_5": "Bills"
+  },
+  {
+    "KEYWORD": "Customs ",
+    "BUZZWORD_1": "Tariffs",
+    "BUZZWORD_2": "Tax ",
+    "BUZZWORD_3": "Imports ",
+    "BUZZWORD_4": "Stamp",
+    "BUZZWORD_5": "Passport"
+  },
+  {
+    "KEYWORD": "Dance ",
+    "BUZZWORD_1": "Movement ",
+    "BUZZWORD_2": "Disco",
+    "BUZZWORD_3": "Club",
+    "BUZZWORD_4": "Feet",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "DC",
+    "BUZZWORD_1": "Washington ",
+    "BUZZWORD_2": "CBC ",
+    "BUZZWORD_3": "District ",
+    "BUZZWORD_4": "Columbia ",
+    "BUZZWORD_5": "DMV"
+  },
+  {
+    "KEYWORD": "Delta ",
+    "BUZZWORD_1": "Plane ",
+    "BUZZWORD_2": "Airlines ",
+    "BUZZWORD_3": "Triangle ",
+    "BUZZWORD_4": "Greek",
+    "BUZZWORD_5": "Sorority"
+  },
+  {
+    "KEYWORD": "Departure ",
+    "BUZZWORD_1": "Takeoff",
+    "BUZZWORD_2": "Exit",
+    "BUZZWORD_3": "Escape",
+    "BUZZWORD_4": "Retreat",
+    "BUZZWORD_5": "Leave"
+  },
+  {
+    "KEYWORD": "Diaspora ",
+    "BUZZWORD_1": "African ",
+    "BUZZWORD_2": "Black ",
+    "BUZZWORD_3": "Community",
+    "BUZZWORD_4": "Descent",
+    "BUZZWORD_5": "Culture"
+  },
+  {
+    "KEYWORD": "Dock",
+    "BUZZWORD_1": "Anchor",
+    "BUZZWORD_2": "Arrival ",
+    "BUZZWORD_3": "Stop",
+    "BUZZWORD_4": "Boat ",
+    "BUZZWORD_5": "Cruise "
+  },
+  {
+    "KEYWORD": "Dramamine",
+    "BUZZWORD_1": "Motion",
+    "BUZZWORD_2": "Sickness ",
+    "BUZZWORD_3": "Tablet ",
+    "BUZZWORD_4": "Medicine ",
+    "BUZZWORD_5": "Pill"
+  },
+  {
+    "KEYWORD": "Earth ",
+    "BUZZWORD_1": "Globe ",
+    "BUZZWORD_2": "World ",
+    "BUZZWORD_3": "Map",
+    "BUZZWORD_4": "Planet ",
+    "BUZZWORD_5": "Universe"
+  },
+  {
+    "KEYWORD": "East Africa",
+    "BUZZWORD_1": "Sudan",
+    "BUZZWORD_2": "Eritrea",
+    "BUZZWORD_3": "Dijibouti",
+    "BUZZWORD_4": "Madagascar ",
+    "BUZZWORD_5": "Motherland"
+  },
+  {
+    "KEYWORD": "Emergency Exit ",
+    "BUZZWORD_1": "Danger",
+    "BUZZWORD_2": "Leave ",
+    "BUZZWORD_3": "Passage ",
+    "BUZZWORD_4": "Door ",
+    "BUZZWORD_5": "Opening "
+  },
+  {
+    "KEYWORD": "England",
+    "BUZZWORD_1": "London",
+    "BUZZWORD_2": "Britain",
+    "BUZZWORD_3": "United Kingdom",
+    "BUZZWORD_4": "Meghan Markle",
+    "BUZZWORD_5": "Queen"
+  },
+  {
+    "KEYWORD": "Entertainment ",
+    "BUZZWORD_1": "Enjoyment",
+    "BUZZWORD_2": "Amusement",
+    "BUZZWORD_3": "Recreation",
+    "BUZZWORD_4": "Delight",
+    "BUZZWORD_5": "Excitement"
+  },
+  {
+    "KEYWORD": "Essence Fest ",
+    "BUZZWORD_1": "New Orleans ",
+    "BUZZWORD_2": "NOLA ",
+    "BUZZWORD_3": "Stadium",
+    "BUZZWORD_4": "Mercedes-Benz ",
+    "BUZZWORD_5": "Music "
+  },
+  {
+    "KEYWORD": "Europe ",
+    "BUZZWORD_1": "Eastern",
+    "BUZZWORD_2": "Western",
+    "BUZZWORD_3": "France ",
+    "BUZZWORD_4": "Italy ",
+    "BUZZWORD_5": "England "
+  },
+  {
+    "KEYWORD": "Expat",
+    "BUZZWORD_1": "Expatriate",
+    "BUZZWORD_2": "Immigrant",
+    "BUZZWORD_3": "Refugee",
+    "BUZZWORD_4": "Move",
+    "BUZZWORD_5": "Relocate"
+  },
+  {
+    "KEYWORD": "Exchange ",
+    "BUZZWORD_1": "Foreign ",
+    "BUZZWORD_2": "Currency ",
+    "BUZZWORD_3": "Transaction",
+    "BUZZWORD_4": "Commerce",
+    "BUZZWORD_5": "Transfer"
+  },
+  {
+    "KEYWORD": "Excursion",
+    "BUZZWORD_1": "Tour ",
+    "BUZZWORD_2": "Trip ",
+    "BUZZWORD_3": "Travel",
+    "BUZZWORD_4": "Voyage ",
+    "BUZZWORD_5": "Getaway "
+  },
+  {
+    "KEYWORD": "Exit ",
+    "BUZZWORD_1": "Leave ",
+    "BUZZWORD_2": "Depart ",
+    "BUZZWORD_3": "Door",
+    "BUZZWORD_4": "Gate ",
+    "BUZZWORD_5": "Passage"
+  },
+  {
+    "KEYWORD": "Family Reunion",
+    "BUZZWORD_1": "Relatives ",
+    "BUZZWORD_2": "Kin",
+    "BUZZWORD_3": "Homecoming ",
+    "BUZZWORD_4": "Get Together ",
+    "BUZZWORD_5": "Blood"
+  },
+  {
+    "KEYWORD": "Fantastic Voyage ",
+    "BUZZWORD_1": "Tour",
+    "BUZZWORD_2": "Exercusion",
+    "BUZZWORD_3": "Journey ",
+    "BUZZWORD_4": "Coolio",
+    "BUZZWORD_5": "Lakeside"
+  },
+  {
+    "KEYWORD": "Fashion Week ",
+    "BUZZWORD_1": "Stylish ",
+    "BUZZWORD_2": "London",
+    "BUZZWORD_3": "New York ",
+    "BUZZWORD_4": "Paris",
+    "BUZZWORD_5": "Model"
+  },
+  {
+    "KEYWORD": "First Class ",
+    "BUZZWORD_1": "Economy",
+    "BUZZWORD_2": "Business",
+    "BUZZWORD_3": "Plus ",
+    "BUZZWORD_4": "Seating ",
+    "BUZZWORD_5": "A "
+  },
+  {
+    "KEYWORD": "First Mate ",
+    "BUZZWORD_1": "Pilot ",
+    "BUZZWORD_2": "Captain",
+    "BUZZWORD_3": "Boat ",
+    "BUZZWORD_4": "Plane ",
+    "BUZZWORD_5": "Commander"
+  },
+  {
+    "KEYWORD": "Fishing ",
+    "BUZZWORD_1": "Deep Sea",
+    "BUZZWORD_2": "Line ",
+    "BUZZWORD_3": "Worms ",
+    "BUZZWORD_4": "Pole ",
+    "BUZZWORD_5": "Seafood"
+  },
+  {
+    "KEYWORD": "Five Star ",
+    "BUZZWORD_1": "Hotel ",
+    "BUZZWORD_2": "Review ",
+    "BUZZWORD_3": "Top",
+    "BUZZWORD_4": "Luxury",
+    "BUZZWORD_5": "Top"
+  },
+  {
+    "KEYWORD": "Flight Attendant ",
+    "BUZZWORD_1": "Stewardness",
+    "BUZZWORD_2": "Hostess",
+    "BUZZWORD_3": "Crew ",
+    "BUZZWORD_4": "Cabin",
+    "BUZZWORD_5": "Purser"
+  },
+  {
+    "KEYWORD": "Flight Deal ",
+    "BUZZWORD_1": "Glitch ",
+    "BUZZWORD_2": "Book",
+    "BUZZWORD_3": "Alerts ",
+    "BUZZWORD_4": "Discount",
+    "BUZZWORD_5": "Ticket "
+  },
+  {
+    "KEYWORD": "Florida ",
+    "BUZZWORD_1": "Orlando",
+    "BUZZWORD_2": "Miami ",
+    "BUZZWORD_3": "Disney",
+    "BUZZWORD_4": "Theme Parks ",
+    "BUZZWORD_5": "Beaches "
+  },
+  {
+    "KEYWORD": "Football Classics",
+    "BUZZWORD_1": "HBCU",
+    "BUZZWORD_2": "Conference",
+    "BUZZWORD_3": "Marching Band ",
+    "BUZZWORD_4": "Rivals",
+    "BUZZWORD_5": "Team"
+  },
+  {
+    "KEYWORD": "Foreign ",
+    "BUZZWORD_1": "Overseas ",
+    "BUZZWORD_2": "Different ",
+    "BUZZWORD_3": "Distant ",
+    "BUZZWORD_4": "Unfamiliar",
+    "BUZZWORD_5": "Exotic"
+  },
+  {
+    "KEYWORD": "France",
+    "BUZZWORD_1": "Paris",
+    "BUZZWORD_2": "French",
+    "BUZZWORD_3": "Bonjour ",
+    "BUZZWORD_4": "Eiffel Tower",
+    "BUZZWORD_5": "Notre Dame "
+  },
+  {
+    "KEYWORD": "Frequent Flier ",
+    "BUZZWORD_1": "Points ",
+    "BUZZWORD_2": "Member ",
+    "BUZZWORD_3": "Traveler ",
+    "BUZZWORD_4": "Transfer ",
+    "BUZZWORD_5": "Upgrade "
+  },
+  {
+    "KEYWORD": "Frontier ",
+    "BUZZWORD_1": "Perimeter ",
+    "BUZZWORD_2": "Border",
+    "BUZZWORD_3": "Line ",
+    "BUZZWORD_4": "Edge ",
+    "BUZZWORD_5": "Limit"
+  },
+  {
+    "KEYWORD": "Gas ",
+    "BUZZWORD_1": "Fuel",
+    "BUZZWORD_2": "Oil",
+    "BUZZWORD_3": "Petrol",
+    "BUZZWORD_4": "Motor",
+    "BUZZWORD_5": "Station"
+  },
+  {
+    "KEYWORD": "Gate ",
+    "BUZZWORD_1": "Fence ",
+    "BUZZWORD_2": "Terminal ",
+    "BUZZWORD_3": "Concourse ",
+    "BUZZWORD_4": "Letter ",
+    "BUZZWORD_5": "Jetway "
+  },
+  {
+    "KEYWORD": "Geography",
+    "BUZZWORD_1": "Earth",
+    "BUZZWORD_2": "Science ",
+    "BUZZWORD_3": "Topography",
+    "BUZZWORD_4": "Cartography",
+    "BUZZWORD_5": "Geology"
+  },
+  {
+    "KEYWORD": "Ghana",
+    "BUZZWORD_1": "West Africa",
+    "BUZZWORD_2": "Black Star",
+    "BUZZWORD_3": "Accra ",
+    "BUZZWORD_4": "Jollof ",
+    "BUZZWORD_5": "Azonto"
+  },
+  {
+    "KEYWORD": "Gift Shop",
+    "BUZZWORD_1": "Souvenir ",
+    "BUZZWORD_2": "Store ",
+    "BUZZWORD_3": "Trinket ",
+    "BUZZWORD_4": "Knicknacks ",
+    "BUZZWORD_5": "Boutique"
+  },
+  {
+    "KEYWORD": "Globe ",
+    "BUZZWORD_1": "Map ",
+    "BUZZWORD_2": "Earth",
+    "BUZZWORD_3": "Direction",
+    "BUZZWORD_4": "Geography",
+    "BUZZWORD_5": "Direction"
+  },
+  {
+    "KEYWORD": "GPS ",
+    "BUZZWORD_1": "Directions ",
+    "BUZZWORD_2": "Global",
+    "BUZZWORD_3": "Google ",
+    "BUZZWORD_4": "Positioning",
+    "BUZZWORD_5": "Garmin"
+  },
+  {
+    "KEYWORD": "Graduation ",
+    "BUZZWORD_1": "College ",
+    "BUZZWORD_2": "High School",
+    "BUZZWORD_3": "Convocation",
+    "BUZZWORD_4": "Commencement",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Greyhound ",
+    "BUZZWORD_1": "Bus ",
+    "BUZZWORD_2": "Motorcoach",
+    "BUZZWORD_3": "Charter ",
+    "BUZZWORD_4": "Roadtrip",
+    "BUZZWORD_5": "Dog "
+  },
+  {
+    "KEYWORD": "Guide ",
+    "BUZZWORD_1": "Tour ",
+    "BUZZWORD_2": "Advisor ",
+    "BUZZWORD_3": "Leader",
+    "BUZZWORD_4": "Counselor",
+    "BUZZWORD_5": "Assist"
+  },
+  {
+    "KEYWORD": "Haiti",
+    "BUZZWORD_1": "Creole ",
+    "BUZZWORD_2": "Sak Pase",
+    "BUZZWORD_3": "Island",
+    "BUZZWORD_4": "West Indies ",
+    "BUZZWORD_5": "Earthquake "
+  },
+  {
+    "KEYWORD": "Hammock ",
+    "BUZZWORD_1": "Swing ",
+    "BUZZWORD_2": "Bed ",
+    "BUZZWORD_3": "Cot",
+    "BUZZWORD_4": "Beach ",
+    "BUZZWORD_5": "Palmtree"
+  },
+  {
+    "KEYWORD": "Hangglide",
+    "BUZZWORD_1": "Tandem",
+    "BUZZWORD_2": "Sky",
+    "BUZZWORD_3": "Aricraft",
+    "BUZZWORD_4": "Thrill",
+    "BUZZWORD_5": "Heights"
+  },
+  {
+    "KEYWORD": "Hedonism",
+    "BUZZWORD_1": "Resort ",
+    "BUZZWORD_2": "Pleasure ",
+    "BUZZWORD_3": "Desire ",
+    "BUZZWORD_4": "Jamaica ",
+    "BUZZWORD_5": "Carnal"
+  },
+  {
+    "KEYWORD": "Helicopter ",
+    "BUZZWORD_1": "Chopper ",
+    "BUZZWORD_2": "Air ",
+    "BUZZWORD_3": "Propeller",
+    "BUZZWORD_4": "Pilot",
+    "BUZZWORD_5": "Tours"
+  },
+  {
+    "KEYWORD": "Hemisphere",
+    "BUZZWORD_1": "Equator ",
+    "BUZZWORD_2": "Southern",
+    "BUZZWORD_3": "Nothern",
+    "BUZZWORD_4": "Half ",
+    "BUZZWORD_5": "Division"
+  },
+  {
+    "KEYWORD": "Hike",
+    "BUZZWORD_1": "Walk",
+    "BUZZWORD_2": "Trek",
+    "BUZZWORD_3": "Exploration",
+    "BUZZWORD_4": "Tour",
+    "BUZZWORD_5": "Backpack"
+  },
+  {
+    "KEYWORD": "History ",
+    "BUZZWORD_1": "Past ",
+    "BUZZWORD_2": "Ancient",
+    "BUZZWORD_3": "Old Days",
+    "BUZZWORD_4": "Yesterday",
+    "BUZZWORD_5": "Future"
+  },
+  {
+    "KEYWORD": "Hobby ",
+    "BUZZWORD_1": "Craft",
+    "BUZZWORD_2": "Amusement",
+    "BUZZWORD_3": "Fun",
+    "BUZZWORD_4": "Fad",
+    "BUZZWORD_5": "Specialty"
+  },
+  {
+    "KEYWORD": "Holiday",
+    "BUZZWORD_1": "Break",
+    "BUZZWORD_2": "Celebration",
+    "BUZZWORD_3": "Vacation",
+    "BUZZWORD_4": "Special",
+    "BUZZWORD_5": "Festival"
+  },
+  {
+    "KEYWORD": "HomeAway ",
+    "BUZZWORD_1": "Hotel",
+    "BUZZWORD_2": "Motel ",
+    "BUZZWORD_3": "Accommodation",
+    "BUZZWORD_4": "Shelter ",
+    "BUZZWORD_5": "Inn"
+  },
+  {
+    "KEYWORD": "Honeymoon",
+    "BUZZWORD_1": "Marriage ",
+    "BUZZWORD_2": "Wedding",
+    "BUZZWORD_3": "Newlyweds ",
+    "BUZZWORD_4": "Love ",
+    "BUZZWORD_5": "Romance"
+  },
+  {
+    "KEYWORD": "Hostel",
+    "BUZZWORD_1": "Hotel",
+    "BUZZWORD_2": "Shelter ",
+    "BUZZWORD_3": "Movie ",
+    "BUZZWORD_4": "Motel",
+    "BUZZWORD_5": "Accommodations"
+  },
+  {
+    "KEYWORD": "Hostess",
+    "BUZZWORD_1": "Mistress",
+    "BUZZWORD_2": "Attendant ",
+    "BUZZWORD_3": "Stewardess",
+    "BUZZWORD_4": "Helper ",
+    "BUZZWORD_5": "Accommodating"
+  },
+  {
+    "KEYWORD": "Hotel ",
+    "BUZZWORD_1": "Inn",
+    "BUZZWORD_2": "Room Service ",
+    "BUZZWORD_3": "Maid ",
+    "BUZZWORD_4": "Concierge",
+    "BUZZWORD_5": "Accommodations"
+  },
+  {
+    "KEYWORD": "Hotel Bar ",
+    "BUZZWORD_1": "Alcohol",
+    "BUZZWORD_2": "Spirits ",
+    "BUZZWORD_3": "Cocktails ",
+    "BUZZWORD_4": "Beer ",
+    "BUZZWORD_5": "Wine "
+  },
+  {
+    "KEYWORD": "Housekeeping ",
+    "BUZZWORD_1": "Clean ",
+    "BUZZWORD_2": "Turn Down",
+    "BUZZWORD_3": "Fresh Towels ",
+    "BUZZWORD_4": "Maid ",
+    "BUZZWORD_5": "Do Not Disturb"
+  },
+  {
+    "KEYWORD": "Ice Machine ",
+    "BUZZWORD_1": "Hotel ",
+    "BUZZWORD_2": "Water ",
+    "BUZZWORD_3": "Hallway ",
+    "BUZZWORD_4": "Bucket ",
+    "BUZZWORD_5": "Drink"
+  },
+  {
+    "KEYWORD": "Immigrant ",
+    "BUZZWORD_1": "Alien ",
+    "BUZZWORD_2": "Foreigner",
+    "BUZZWORD_3": "Migrant",
+    "BUZZWORD_4": "Newcomer",
+    "BUZZWORD_5": "Pioneer"
+  },
+  {
+    "KEYWORD": "Immunization",
+    "BUZZWORD_1": "Shot ",
+    "BUZZWORD_2": "Yellow Card ",
+    "BUZZWORD_3": "Yellow Fever ",
+    "BUZZWORD_4": "Disease ",
+    "BUZZWORD_5": "Malaria "
+  },
+  {
+    "KEYWORD": "India",
+    "BUZZWORD_1": "Taj Mahal",
+    "BUZZWORD_2": "Ghandi",
+    "BUZZWORD_3": "Asia",
+    "BUZZWORD_4": "New Delhi",
+    "BUZZWORD_5": "Hindu"
+  },
+  {
+    "KEYWORD": "Indian Ocean ",
+    "BUZZWORD_1": "Body ",
+    "BUZZWORD_2": "Water ",
+    "BUZZWORD_3": "Sea",
+    "BUZZWORD_4": "Asia",
+    "BUZZWORD_5": "Australia"
+  },
+  {
+    "KEYWORD": "Inkwell",
+    "BUZZWORD_1": "Martha's Vineayard",
+    "BUZZWORD_2": "Massachusettes",
+    "BUZZWORD_3": "Movie ",
+    "BUZZWORD_4": "Beach ",
+    "BUZZWORD_5": "Summer "
+  },
+  {
+    "KEYWORD": "Inn ",
+    "BUZZWORD_1": "Hotel ",
+    "BUZZWORD_2": "Motel ",
+    "BUZZWORD_3": "Holiday ",
+    "BUZZWORD_4": "Accommodations ",
+    "BUZZWORD_5": "Hostel"
+  },
+  {
+    "KEYWORD": "Innclusive ",
+    "BUZZWORD_1": "Airbnb",
+    "BUZZWORD_2": "Housing ",
+    "BUZZWORD_3": "Hotel ",
+    "BUZZWORD_4": "Host ",
+    "BUZZWORD_5": "Black-Owned "
+  },
+  {
+    "KEYWORD": "Insurance ",
+    "BUZZWORD_1": "Allowance ",
+    "BUZZWORD_2": "Coverage ",
+    "BUZZWORD_3": "Guarantee ",
+    "BUZZWORD_4": "Assurance ",
+    "BUZZWORD_5": "Coverage "
+  },
+  {
+    "KEYWORD": "International ",
+    "BUZZWORD_1": "Foreign ",
+    "BUZZWORD_2": "Global",
+    "BUZZWORD_3": "Universal",
+    "BUZZWORD_4": "Cosmopolitan",
+    "BUZZWORD_5": "World"
+  },
+  {
+    "KEYWORD": "International Player Anthem",
+    "BUZZWORD_1": "I Choose You",
+    "BUZZWORD_2": "Outkast ",
+    "BUZZWORD_3": "UGK",
+    "BUZZWORD_4": "Big Boi ",
+    "BUZZWORD_5": "Bun B "
+  },
+  {
+    "KEYWORD": "Island ",
+    "BUZZWORD_1": "Pennisula ",
+    "BUZZWORD_2": "West Indies",
+    "BUZZWORD_3": "Surrounded",
+    "BUZZWORD_4": "Reef",
+    "BUZZWORD_5": "Isle "
+  },
+  {
+    "KEYWORD": "Israel ",
+    "BUZZWORD_1": "Jesus",
+    "BUZZWORD_2": "Holy Land ",
+    "BUZZWORD_3": "Jerusaleum ",
+    "BUZZWORD_4": "Middle East",
+    "BUZZWORD_5": "Christians "
+  },
+  {
+    "KEYWORD": "Jamaica ",
+    "BUZZWORD_1": "Kingston ",
+    "BUZZWORD_2": "Reggae",
+    "BUZZWORD_3": "Montego Bay ",
+    "BUZZWORD_4": "Bob Marley ",
+    "BUZZWORD_5": "Negril"
+  },
+  {
+    "KEYWORD": "Jetlag ",
+    "BUZZWORD_1": "Tired ",
+    "BUZZWORD_2": "Time Zone ",
+    "BUZZWORD_3": "Sleep",
+    "BUZZWORD_4": "Natural",
+    "BUZZWORD_5": "Rhythm"
+  },
+  {
+    "KEYWORD": "Jetsetter ",
+    "BUZZWORD_1": "Traveler",
+    "BUZZWORD_2": "Nomad ",
+    "BUZZWORD_3": "Sightseer",
+    "BUZZWORD_4": "Vistor ",
+    "BUZZWORD_5": "Visitor"
+  },
+  {
+    "KEYWORD": "Jetway",
+    "BUZZWORD_1": "Gateway",
+    "BUZZWORD_2": "Hall",
+    "BUZZWORD_3": "Entrance ",
+    "BUZZWORD_4": "Entry",
+    "BUZZWORD_5": "Passage "
+  },
+  {
+    "KEYWORD": "Journey",
+    "BUZZWORD_1": "Adventure ",
+    "BUZZWORD_2": "Odyssey",
+    "BUZZWORD_3": "Expedition",
+    "BUZZWORD_4": "Quest ",
+    "BUZZWORD_5": "Tour "
+  },
+  {
+    "KEYWORD": "Jump Seat ",
+    "BUZZWORD_1": "Crew ",
+    "BUZZWORD_2": "Flight ",
+    "BUZZWORD_3": "Deadhead ",
+    "BUZZWORD_4": "Cabin",
+    "BUZZWORD_5": "Takeoff"
+  },
+  {
+    "KEYWORD": "Jungle ",
+    "BUZZWORD_1": "Rainforest ",
+    "BUZZWORD_2": "Animals",
+    "BUZZWORD_3": "Plant ",
+    "BUZZWORD_4": "Green ",
+    "BUZZWORD_5": "Bush"
+  },
+  {
+    "KEYWORD": "Kayak",
+    "BUZZWORD_1": "Boat ",
+    "BUZZWORD_2": "Canoe ",
+    "BUZZWORD_3": "Row ",
+    "BUZZWORD_4": "Lake ",
+    "BUZZWORD_5": "Flight Deals "
+  },
+  {
+    "KEYWORD": "Kenya",
+    "BUZZWORD_1": "East Africa",
+    "BUZZWORD_2": "Safari",
+    "BUZZWORD_3": "Republic ",
+    "BUZZWORD_4": "Nairobi",
+    "BUZZWORD_5": "Indian Ocean "
+  },
+  {
+    "KEYWORD": "Lake ",
+    "BUZZWORD_1": "River ",
+    "BUZZWORD_2": "Stream ",
+    "BUZZWORD_3": "Body ",
+    "BUZZWORD_4": "Water ",
+    "BUZZWORD_5": "Pond"
+  },
+  {
+    "KEYWORD": "Landing",
+    "BUZZWORD_1": "Takeoff ",
+    "BUZZWORD_2": "Airplane ",
+    "BUZZWORD_3": "Pilot ",
+    "BUZZWORD_4": "Arrive ",
+    "BUZZWORD_5": "Dock"
+  },
+  {
+    "KEYWORD": "Landmarks ",
+    "BUZZWORD_1": "Milestone",
+    "BUZZWORD_2": "Benchmark",
+    "BUZZWORD_3": "Memorial",
+    "BUZZWORD_4": "Trace ",
+    "BUZZWORD_5": "Feature "
+  },
+  {
+    "KEYWORD": "Language ",
+    "BUZZWORD_1": "Foreign",
+    "BUZZWORD_2": "Accent ",
+    "BUZZWORD_3": "Dialect ",
+    "BUZZWORD_4": "Speech ",
+    "BUZZWORD_5": "Talk"
+  },
+  {
+    "KEYWORD": "Las Vegas ",
+    "BUZZWORD_1": "Nevada ",
+    "BUZZWORD_2": "Reno",
+    "BUZZWORD_3": "Casino",
+    "BUZZWORD_4": "Gamble ",
+    "BUZZWORD_5": "Shows "
+  },
+  {
+    "KEYWORD": "Life Raft ",
+    "BUZZWORD_1": "Safety ",
+    "BUZZWORD_2": "Float ",
+    "BUZZWORD_3": "Swim ",
+    "BUZZWORD_4": "Cruise ",
+    "BUZZWORD_5": "Airplane "
+  },
+  {
+    "KEYWORD": "Limo",
+    "BUZZWORD_1": "Car ",
+    "BUZZWORD_2": "Long ",
+    "BUZZWORD_3": "Auto ",
+    "BUZZWORD_4": "Vehicle ",
+    "BUZZWORD_5": "Stretch"
+  },
+  {
+    "KEYWORD": "Los Angeles",
+    "BUZZWORD_1": "California",
+    "BUZZWORD_2": "Movies",
+    "BUZZWORD_3": "Star",
+    "BUZZWORD_4": "Coast",
+    "BUZZWORD_5": "Famous"
+  },
+  {
+    "KEYWORD": "Luggage ",
+    "BUZZWORD_1": "Baggage ",
+    "BUZZWORD_2": "Gear ",
+    "BUZZWORD_3": "Rack ",
+    "BUZZWORD_4": "Belongings ",
+    "BUZZWORD_5": "Trunk"
+  },
+  {
+    "KEYWORD": "Luxury ",
+    "BUZZWORD_1": "Affluence ",
+    "BUZZWORD_2": "Comfort ",
+    "BUZZWORD_3": "Leisure ",
+    "BUZZWORD_4": "Exravagant ",
+    "BUZZWORD_5": "Enjoyment "
+  },
+  {
+    "KEYWORD": "Lyft ",
+    "BUZZWORD_1": "Uber ",
+    "BUZZWORD_2": "Car Share ",
+    "BUZZWORD_3": "Taxi ",
+    "BUZZWORD_4": "Cab ",
+    "BUZZWORD_5": "Pick Up "
+  },
+  {
+    "KEYWORD": "Map ",
+    "BUZZWORD_1": "Globe ",
+    "BUZZWORD_2": "Geography",
+    "BUZZWORD_3": "World ",
+    "BUZZWORD_4": "Land ",
+    "BUZZWORD_5": "Direction"
+  },
+  {
+    "KEYWORD": "Mardi Gras ",
+    "BUZZWORD_1": "NOLA ",
+    "BUZZWORD_2": "New Orleans ",
+    "BUZZWORD_3": "Masks ",
+    "BUZZWORD_4": "Beads ",
+    "BUZZWORD_5": "Zulu Ball "
+  },
+  {
+    "KEYWORD": "Mecca",
+    "BUZZWORD_1": "Malcolm X ",
+    "BUZZWORD_2": "Holy Land ",
+    "BUZZWORD_3": "Islam",
+    "BUZZWORD_4": "Muhammad",
+    "BUZZWORD_5": "Muslim"
+  },
+  {
+    "KEYWORD": "Megabus",
+    "BUZZWORD_1": "Bus ",
+    "BUZZWORD_2": "Discount ",
+    "BUZZWORD_3": "Ride ",
+    "BUZZWORD_4": "Dollar ",
+    "BUZZWORD_5": "Distance "
+  },
+  {
+    "KEYWORD": "Middle East ",
+    "BUZZWORD_1": "Dubai",
+    "BUZZWORD_2": "Abu Dhabi",
+    "BUZZWORD_3": "UAE",
+    "BUZZWORD_4": "Emirates ",
+    "BUZZWORD_5": "Oil"
+  },
+  {
+    "KEYWORD": "Middle Seat ",
+    "BUZZWORD_1": "Aisle ",
+    "BUZZWORD_2": "In Between ",
+    "BUZZWORD_3": "Chair ",
+    "BUZZWORD_4": "Window ",
+    "BUZZWORD_5": "Space "
+  },
+  {
+    "KEYWORD": "Mileage",
+    "BUZZWORD_1": "Kilometers ",
+    "BUZZWORD_2": "Distance ",
+    "BUZZWORD_3": "Measurement ",
+    "BUZZWORD_4": "Length ",
+    "BUZZWORD_5": "Range "
+  },
+  {
+    "KEYWORD": "Mini Bar ",
+    "BUZZWORD_1": "Hotel ",
+    "BUZZWORD_2": "50mL",
+    "BUZZWORD_3": "Bottles ",
+    "BUZZWORD_4": "Spirits",
+    "BUZZWORD_5": "Cocktail "
+  },
+  {
+    "KEYWORD": "Motel ",
+    "BUZZWORD_1": "Inn",
+    "BUZZWORD_2": "Hotel ",
+    "BUZZWORD_3": "Bates ",
+    "BUZZWORD_4": "Six ",
+    "BUZZWORD_5": "Lodge "
+  },
+  {
+    "KEYWORD": "Motherland ",
+    "BUZZWORD_1": "Africa",
+    "BUZZWORD_2": "Continent ",
+    "BUZZWORD_3": "Ghana ",
+    "BUZZWORD_4": "Nigeria",
+    "BUZZWORD_5": "South "
+  },
+  {
+    "KEYWORD": "Mountain",
+    "BUZZWORD_1": "Climb",
+    "BUZZWORD_2": "Cliff",
+    "BUZZWORD_3": "Everest ",
+    "BUZZWORD_4": "Range ",
+    "BUZZWORD_5": "Peak"
+  },
+  {
+    "KEYWORD": "Movement ",
+    "BUZZWORD_1": "Black ",
+    "BUZZWORD_2": "Travel ",
+    "BUZZWORD_3": "Roam",
+    "BUZZWORD_4": "Motion",
+    "BUZZWORD_5": "Shift "
+  },
+  {
+    "KEYWORD": "Movies ",
+    "BUZZWORD_1": "Films ",
+    "BUZZWORD_2": "Entertainment ",
+    "BUZZWORD_3": "Hollywood ",
+    "BUZZWORD_4": "Flick",
+    "BUZZWORD_5": "Motion Picture "
+  },
+  {
+    "KEYWORD": "Moving Walkway",
+    "BUZZWORD_1": "Airport ",
+    "BUZZWORD_2": "Faster ",
+    "BUZZWORD_3": "Mall",
+    "BUZZWORD_4": "Transport ",
+    "BUZZWORD_5": "Terminals"
+  },
+  {
+    "KEYWORD": "Museum ",
+    "BUZZWORD_1": "Building ",
+    "BUZZWORD_2": "Foundation",
+    "BUZZWORD_3": "Art ",
+    "BUZZWORD_4": "History ",
+    "BUZZWORD_5": "Science "
+  },
+  {
+    "KEYWORD": "Music Festival ",
+    "BUZZWORD_1": "Bonaroo",
+    "BUZZWORD_2": "Lollapalooza ",
+    "BUZZWORD_3": "The Roots",
+    "BUZZWORD_4": "Cochella",
+    "BUZZWORD_5": "Essence "
+  },
+  {
+    "KEYWORD": "Nap ",
+    "BUZZWORD_1": "Sleep ",
+    "BUZZWORD_2": "Short ",
+    "BUZZWORD_3": "Energy ",
+    "BUZZWORD_4": "Doze ",
+    "BUZZWORD_5": "Cat "
+  },
+  {
+    "KEYWORD": "New York ",
+    "BUZZWORD_1": "NYC",
+    "BUZZWORD_2": "Big Apple ",
+    "BUZZWORD_3": "City ",
+    "BUZZWORD_4": "Sleeps",
+    "BUZZWORD_5": "Empire State "
+  },
+  {
+    "KEYWORD": "Nile River ",
+    "BUZZWORD_1": "Cleopatra",
+    "BUZZWORD_2": "Egypt ",
+    "BUZZWORD_3": "Water",
+    "BUZZWORD_4": "Sail",
+    "BUZZWORD_5": "Barge"
+  },
+  {
+    "KEYWORD": "Nomad ",
+    "BUZZWORD_1": "Migrant",
+    "BUZZWORD_2": "Pilgrim",
+    "BUZZWORD_3": "Vangbond ",
+    "BUZZWORD_4": "Wanderer",
+    "BUZZWORD_5": "Traveller"
+  },
+  {
+    "KEYWORD": "North America ",
+    "BUZZWORD_1": "Canda ",
+    "BUZZWORD_2": "Mexico",
+    "BUZZWORD_3": "United States",
+    "BUZZWORD_4": "South ",
+    "BUZZWORD_5": "Continent"
+  },
+  {
+    "KEYWORD": "Oxygen Mask",
+    "BUZZWORD_1": "Air ",
+    "BUZZWORD_2": "Overhead ",
+    "BUZZWORD_3": "Breathe ",
+    "BUZZWORD_4": "Face ",
+    "BUZZWORD_5": "Life "
+  },
+  {
+    "KEYWORD": "Pacific ",
+    "BUZZWORD_1": "Ocean",
+    "BUZZWORD_2": "Specific",
+    "BUZZWORD_3": "Body",
+    "BUZZWORD_4": "Water ",
+    "BUZZWORD_5": "Atlantic"
+  },
+  {
+    "KEYWORD": "Palm Trees ",
+    "BUZZWORD_1": "Island ",
+    "BUZZWORD_2": "Warm ",
+    "BUZZWORD_3": "Shade ",
+    "BUZZWORD_4": "Coconuts ",
+    "BUZZWORD_5": "Hammocks"
+  },
+  {
+    "KEYWORD": "Paper Planes ",
+    "BUZZWORD_1": "M.I.A. ",
+    "BUZZWORD_2": "Song ",
+    "BUZZWORD_3": "Single ",
+    "BUZZWORD_4": "Play",
+    "BUZZWORD_5": "Fly"
+  },
+  {
+    "KEYWORD": "Parasailing",
+    "BUZZWORD_1": "Flying ",
+    "BUZZWORD_2": "Gliding ",
+    "BUZZWORD_3": "Chute ",
+    "BUZZWORD_4": "Boat",
+    "BUZZWORD_5": "Line "
+  },
+  {
+    "KEYWORD": "Paris, Toyko",
+    "BUZZWORD_1": "Lupe Fiasco ",
+    "BUZZWORD_2": "Rapper ",
+    "BUZZWORD_3": "Japan",
+    "BUZZWORD_4": "France ",
+    "BUZZWORD_5": "Single "
+  },
+  {
+    "KEYWORD": "Park n Fly ",
+    "BUZZWORD_1": "Cars ",
+    "BUZZWORD_2": "Vehicles ",
+    "BUZZWORD_3": "Airport ",
+    "BUZZWORD_4": "Shuttle ",
+    "BUZZWORD_5": "Short Term "
+  },
+  {
+    "KEYWORD": "Passport",
+    "BUZZWORD_1": "Stamps ",
+    "BUZZWORD_2": "Customs ",
+    "BUZZWORD_3": "Foreigner ",
+    "BUZZWORD_4": "Credentials ",
+    "BUZZWORD_5": "Border "
+  },
+  {
+    "KEYWORD": "Patrois",
+    "BUZZWORD_1": "Jamaica ",
+    "BUZZWORD_2": "Language ",
+    "BUZZWORD_3": "Dialect ",
+    "BUZZWORD_4": "Lingo",
+    "BUZZWORD_5": "Slang "
+  },
+  {
+    "KEYWORD": "Peanuts ",
+    "BUZZWORD_1": "Airplane ",
+    "BUZZWORD_2": "Snack ",
+    "BUZZWORD_3": "Salted ",
+    "BUZZWORD_4": "Package ",
+    "BUZZWORD_5": "Allergy "
+  },
+  {
+    "KEYWORD": "Peninsula",
+    "BUZZWORD_1": "Island ",
+    "BUZZWORD_2": "Three Sides ",
+    "BUZZWORD_3": "Florida ",
+    "BUZZWORD_4": "Land ",
+    "BUZZWORD_5": "Water "
+  },
+  {
+    "KEYWORD": "Petrol",
+    "BUZZWORD_1": "Gas ",
+    "BUZZWORD_2": "Disel",
+    "BUZZWORD_3": "Fuel ",
+    "BUZZWORD_4": "Propel",
+    "BUZZWORD_5": "Motor "
+  },
+  {
+    "KEYWORD": "Photos ",
+    "BUZZWORD_1": "Pictures ",
+    "BUZZWORD_2": "Photography",
+    "BUZZWORD_3": "Digital ",
+    "BUZZWORD_4": "Album",
+    "BUZZWORD_5": "Memories "
+  },
+  {
+    "KEYWORD": "Pilot",
+    "BUZZWORD_1": "Captain",
+    "BUZZWORD_2": "Leader ",
+    "BUZZWORD_3": "Airplane ",
+    "BUZZWORD_4": "Officer ",
+    "BUZZWORD_5": "Helicopter "
+  },
+  {
+    "KEYWORD": "Pleasure ",
+    "BUZZWORD_1": "Bliss ",
+    "BUZZWORD_2": "Amusement ",
+    "BUZZWORD_3": "Enjoyment ",
+    "BUZZWORD_4": "Satisfaction",
+    "BUZZWORD_5": "Content "
+  },
+  {
+    "KEYWORD": "Points ",
+    "BUZZWORD_1": "Miles ",
+    "BUZZWORD_2": "Credit Card ",
+    "BUZZWORD_3": "Transfer ",
+    "BUZZWORD_4": "Cash In",
+    "BUZZWORD_5": "Member "
+  },
+  {
+    "KEYWORD": "Pool",
+    "BUZZWORD_1": "Swim",
+    "BUZZWORD_2": "Water ",
+    "BUZZWORD_3": "Cholrine ",
+    "BUZZWORD_4": "Splash ",
+    "BUZZWORD_5": "Heated "
+  },
+  {
+    "KEYWORD": "Pre-Check ",
+    "BUZZWORD_1": "Before ",
+    "BUZZWORD_2": "Boarding ",
+    "BUZZWORD_3": "Confirmation ",
+    "BUZZWORD_4": "Seating ",
+    "BUZZWORD_5": "Attendance "
+  },
+  {
+    "KEYWORD": "Pretzels ",
+    "BUZZWORD_1": "Peanuts ",
+    "BUZZWORD_2": "Snack ",
+    "BUZZWORD_3": "Salt",
+    "BUZZWORD_4": "Package ",
+    "BUZZWORD_5": "Airplane "
+  },
+  {
+    "KEYWORD": "Private Jet ",
+    "BUZZWORD_1": "Airplane ",
+    "BUZZWORD_2": "Aircraft ",
+    "BUZZWORD_3": "Airliner ",
+    "BUZZWORD_4": "Airbus ",
+    "BUZZWORD_5": "Luxury "
+  },
+  {
+    "KEYWORD": "Pyramids ",
+    "BUZZWORD_1": "Giza ",
+    "BUZZWORD_2": "Egypt ",
+    "BUZZWORD_3": "Ancient ",
+    "BUZZWORD_4": "Tomb",
+    "BUZZWORD_5": "Cairo"
+  },
+  {
+    "KEYWORD": "Red Sea ",
+    "BUZZWORD_1": "Water",
+    "BUZZWORD_2": "Ocean",
+    "BUZZWORD_3": "Salty",
+    "BUZZWORD_4": "Moses",
+    "BUZZWORD_5": "Part"
+  },
+  {
+    "KEYWORD": "Reggae",
+    "BUZZWORD_1": "Jamaica",
+    "BUZZWORD_2": "Patois ",
+    "BUZZWORD_3": "Bob Marley ",
+    "BUZZWORD_4": "Dancehall",
+    "BUZZWORD_5": "Music "
+  },
+  {
+    "KEYWORD": "Remote ",
+    "BUZZWORD_1": "Island ",
+    "BUZZWORD_2": "Control ",
+    "BUZZWORD_3": "Far Away ",
+    "BUZZWORD_4": "Distant ",
+    "BUZZWORD_5": "Isolated "
+  },
+  {
+    "KEYWORD": "Rental ",
+    "BUZZWORD_1": "Car ",
+    "BUZZWORD_2": "Vehicle ",
+    "BUZZWORD_3": "Borrow ",
+    "BUZZWORD_4": "Truck",
+    "BUZZWORD_5": "Van "
+  },
+  {
+    "KEYWORD": "Reservation",
+    "BUZZWORD_1": "Accommodation",
+    "BUZZWORD_2": "Seat",
+    "BUZZWORD_3": "Booking",
+    "BUZZWORD_4": "Arrangement",
+    "BUZZWORD_5": "Bought"
+  },
+  {
+    "KEYWORD": "Restroom",
+    "BUZZWORD_1": "Lavatory",
+    "BUZZWORD_2": "Toilet",
+    "BUZZWORD_3": "John",
+    "BUZZWORD_4": "Loo",
+    "BUZZWORD_5": "Washroom"
+  },
+  {
+    "KEYWORD": "Retreat ",
+    "BUZZWORD_1": "Seclusion",
+    "BUZZWORD_2": "Refuge",
+    "BUZZWORD_3": "Withdraw",
+    "BUZZWORD_4": "Departure",
+    "BUZZWORD_5": "Spiritual"
+  },
+  {
+    "KEYWORD": "Roadtrip",
+    "BUZZWORD_1": "    Drive",
+    "BUZZWORD_2": "Outing",
+    "BUZZWORD_3": "Tour",
+    "BUZZWORD_4": "Expedition",
+    "BUZZWORD_5": "Excursion"
+  },
+  {
+    "KEYWORD": "Room Service ",
+    "BUZZWORD_1": "Order",
+    "BUZZWORD_2": "Tip",
+    "BUZZWORD_3": "Food",
+    "BUZZWORD_4": "Hotel",
+    "BUZZWORD_5": "Waiter"
+  },
+  {
+    "KEYWORD": "Roundtrip",
+    "BUZZWORD_1": "Tour",
+    "BUZZWORD_2": "Circular",
+    "BUZZWORD_3": "There and Back",
+    "BUZZWORD_4": "Go and Come",
+    "BUZZWORD_5": "Return"
+  },
+  {
+    "KEYWORD": "Route 66",
+    "BUZZWORD_1": "Kicks ",
+    "BUZZWORD_2": "Highway",
+    "BUZZWORD_3": "Long",
+    "BUZZWORD_4": "TV Show",
+    "BUZZWORD_5": "Road"
+  },
+  {
+    "KEYWORD": "RV ",
+    "BUZZWORD_1": "Travels",
+    "BUZZWORD_2": "Camper",
+    "BUZZWORD_3": "Winnebago",
+    "BUZZWORD_4": "Recreational",
+    "BUZZWORD_5": "Mobile"
+  },
+  {
+    "KEYWORD": "Ryan Air ",
+    "BUZZWORD_1": "Airline",
+    "BUZZWORD_2": "Economy",
+    "BUZZWORD_3": "Charters",
+    "BUZZWORD_4": "International",
+    "BUZZWORD_5": "Inexpensive"
+  },
+  {
+    "KEYWORD": "Safari ",
+    "BUZZWORD_1": "Africa",
+    "BUZZWORD_2": "Wild",
+    "BUZZWORD_3": "Animals",
+    "BUZZWORD_4": "Shoot",
+    "BUZZWORD_5": "Tiger"
+  },
+  {
+    "KEYWORD": "Salsa ",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Latin",
+    "BUZZWORD_3": "Sauce",
+    "BUZZWORD_4": "Topping",
+    "BUZZWORD_5": "Condiment"
+  },
+  {
+    "KEYWORD": "Sand ",
+    "BUZZWORD_1": "Beach",
+    "BUZZWORD_2": "Island",
+    "BUZZWORD_3": "Ocean",
+    "BUZZWORD_4": "Tan",
+    "BUZZWORD_5": "Shells"
+  },
+  {
+    "KEYWORD": "Scuba ",
+    "BUZZWORD_1": "Dive",
+    "BUZZWORD_2": "Water",
+    "BUZZWORD_3": "Tank",
+    "BUZZWORD_4": "Fish",
+    "BUZZWORD_5": "Oxygen"
+  },
+  {
+    "KEYWORD": "Sea ",
+    "BUZZWORD_1": "Water",
+    "BUZZWORD_2": "Red",
+    "BUZZWORD_3": "Wave",
+    "BUZZWORD_4": "Deep",
+    "BUZZWORD_5": "Diving"
+  },
+  {
+    "KEYWORD": "Selfie Stick",
+    "BUZZWORD_1": "Photos",
+    "BUZZWORD_2": "Pictures",
+    "BUZZWORD_3": "Cell Phone",
+    "BUZZWORD_4": "Social Media",
+    "BUZZWORD_5": "Solo"
+  },
+  {
+    "KEYWORD": "Shop",
+    "BUZZWORD_1": "Buy",
+    "BUZZWORD_2": "Credit",
+    "BUZZWORD_3": "Spend",
+    "BUZZWORD_4": "Store",
+    "BUZZWORD_5": "Souvenirs"
+  },
+  {
+    "KEYWORD": "Shuttle ",
+    "BUZZWORD_1": "Van",
+    "BUZZWORD_2": "Transport",
+    "BUZZWORD_3": "Wheels ",
+    "BUZZWORD_4": "Bus ",
+    "BUZZWORD_5": "Group"
+  },
+  {
+    "KEYWORD": "Ski ",
+    "BUZZWORD_1": "Lift ",
+    "BUZZWORD_2": "Snow",
+    "BUZZWORD_3": "Resort",
+    "BUZZWORD_4": "Mountain",
+    "BUZZWORD_5": "Lodge"
+  },
+  {
+    "KEYWORD": "Skinny Dip ",
+    "BUZZWORD_1": "Nude",
+    "BUZZWORD_2": "Water",
+    "BUZZWORD_3": "Swim",
+    "BUZZWORD_4": "Bare",
+    "BUZZWORD_5": "Wet"
+  },
+  {
+    "KEYWORD": "Sky Dive ",
+    "BUZZWORD_1": "Clouds ",
+    "BUZZWORD_2": "Blue ",
+    "BUZZWORD_3": "Fly",
+    "BUZZWORD_4": "Tandem ",
+    "BUZZWORD_5": "Thrill"
+  },
+  {
+    "KEYWORD": "Sleeper Car ",
+    "BUZZWORD_1": "Train",
+    "BUZZWORD_2": "Private",
+    "BUZZWORD_3": "Bed",
+    "BUZZWORD_4": "Tracks",
+    "BUZZWORD_5": "Travel"
+  },
+  {
+    "KEYWORD": "Snacks ",
+    "BUZZWORD_1": "Nibble",
+    "BUZZWORD_2": "Small",
+    "BUZZWORD_3": "Munch",
+    "BUZZWORD_4": "Bedtime",
+    "BUZZWORD_5": "Tasty"
+  },
+  {
+    "KEYWORD": "Snorkel ",
+    "BUZZWORD_1": "Water",
+    "BUZZWORD_2": "Finns",
+    "BUZZWORD_3": "Underwater",
+    "BUZZWORD_4": "Fish",
+    "BUZZWORD_5": "Coral"
+  },
+  {
+    "KEYWORD": "Snorkeling",
+    "BUZZWORD_1": "Water",
+    "BUZZWORD_2": "Vacation",
+    "BUZZWORD_3": "Underwater",
+    "BUZZWORD_4": "Fish",
+    "BUZZWORD_5": "Coral"
+  },
+  {
+    "KEYWORD": "Snow ",
+    "BUZZWORD_1": "Cold",
+    "BUZZWORD_2": "Winter",
+    "BUZZWORD_3": "White",
+    "BUZZWORD_4": "Icey",
+    "BUZZWORD_5": "Boots"
+  },
+  {
+    "KEYWORD": "Snowboard ",
+    "BUZZWORD_1": "Activity",
+    "BUZZWORD_2": "Sport",
+    "BUZZWORD_3": "Snow",
+    "BUZZWORD_4": "Winter",
+    "BUZZWORD_5": "Flat"
+  },
+  {
+    "KEYWORD": "South Africa ",
+    "BUZZWORD_1": "Cape Town",
+    "BUZZWORD_2": "Johannesburg",
+    "BUZZWORD_3": "Durbin",
+    "BUZZWORD_4": "Nelson Mandela",
+    "BUZZWORD_5": "Robbin Island"
+  },
+  {
+    "KEYWORD": "South America",
+    "BUZZWORD_1": "Warm",
+    "BUZZWORD_2": "Brazil",
+    "BUZZWORD_3": "Argentina",
+    "BUZZWORD_4": "Continent",
+    "BUZZWORD_5": "Tropical"
+  },
+  {
+    "KEYWORD": "Southwest ",
+    "BUZZWORD_1": "Area",
+    "BUZZWORD_2": "Airline",
+    "BUZZWORD_3": "Direction",
+    "BUZZWORD_4": "Friendly",
+    "BUZZWORD_5": "Travel"
+  },
+  {
+    "KEYWORD": "Souvenir ",
+    "BUZZWORD_1": "Shop",
+    "BUZZWORD_2": "Vacation",
+    "BUZZWORD_3": "Gifts",
+    "BUZZWORD_4": "Buy",
+    "BUZZWORD_5": "Presents"
+  },
+  {
+    "KEYWORD": "Spa ",
+    "BUZZWORD_1": "Beauty",
+    "BUZZWORD_2": "Massage",
+    "BUZZWORD_3": "Facial",
+    "BUZZWORD_4": "Relax",
+    "BUZZWORD_5": "Treatments"
+  },
+  {
+    "KEYWORD": "Spirit ",
+    "BUZZWORD_1": "Team",
+    "BUZZWORD_2": "Sports",
+    "BUZZWORD_3": "Airline",
+    "BUZZWORD_4": "Economy",
+    "BUZZWORD_5": "Travel"
+  },
+  {
+    "KEYWORD": "Spring Break ",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "Trip",
+    "BUZZWORD_3": "Vacation",
+    "BUZZWORD_4": "Wild",
+    "BUZZWORD_5": "Students"
+  },
+  {
+    "KEYWORD": "Standby",
+    "BUZZWORD_1": "Me",
+    "BUZZWORD_2": "Pass ",
+    "BUZZWORD_3": "Companion",
+    "BUZZWORD_4": "Employee",
+    "BUZZWORD_5": "Travel"
+  },
+  {
+    "KEYWORD": "Subway ",
+    "BUZZWORD_1": "Underground",
+    "BUZZWORD_2": "Train",
+    "BUZZWORD_3": "Sandwich",
+    "BUZZWORD_4": "Restaurant",
+    "BUZZWORD_5": "New York"
+  },
+  {
+    "KEYWORD": "Suite ",
+    "BUZZWORD_1": "Office",
+    "BUZZWORD_2": "Hotel",
+    "BUZZWORD_3": "Room",
+    "BUZZWORD_4": "Expensive",
+    "BUZZWORD_5": "Large"
+  },
+  {
+    "KEYWORD": "Summer Break",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Vacation",
+    "BUZZWORD_4": "Warm",
+    "BUZZWORD_5": "July"
+  },
+  {
+    "KEYWORD": "Sundance ",
+    "BUZZWORD_1": "Movies",
+    "BUZZWORD_2": "Award",
+    "BUZZWORD_3": "Western",
+    "BUZZWORD_4": "Wyoming",
+    "BUZZWORD_5": "Stars"
+  },
+  {
+    "KEYWORD": "Super Bowl ",
+    "BUZZWORD_1": "Football",
+    "BUZZWORD_2": "NFL ",
+    "BUZZWORD_3": "Big Game ",
+    "BUZZWORD_4": "January",
+    "BUZZWORD_5": "Commercials"
+  },
+  {
+    "KEYWORD": "Surf ",
+    "BUZZWORD_1": "Wave",
+    "BUZZWORD_2": "Water",
+    "BUZZWORD_3": "Board",
+    "BUZZWORD_4": "Sport",
+    "BUZZWORD_5": "Vacation"
+  },
+  {
+    "KEYWORD": "Swim ",
+    "BUZZWORD_1": "Water ",
+    "BUZZWORD_2": "Pool",
+    "BUZZWORD_3": "Beach ",
+    "BUZZWORD_4": "Stroke ",
+    "BUZZWORD_5": "Backstroke"
+  },
+  {
+    "KEYWORD": "Takeoff ",
+    "BUZZWORD_1": "Seatbelt",
+    "BUZZWORD_2": "Start",
+    "BUZZWORD_3": "Video",
+    "BUZZWORD_4": "Airplane",
+    "BUZZWORD_5": "Seatback"
+  },
+  {
+    "KEYWORD": "Tarmac ",
+    "BUZZWORD_1": "Airplane",
+    "BUZZWORD_2": "Runway",
+    "BUZZWORD_3": "Holding",
+    "BUZZWORD_4": "Grounded",
+    "BUZZWORD_5": "Weather"
+  },
+  {
+    "KEYWORD": "Taste of Chicago ",
+    "BUZZWORD_1": "Illinois ",
+    "BUZZWORD_2": "Food ",
+    "BUZZWORD_3": "Festival ",
+    "BUZZWORD_4": "Grant Park ",
+    "BUZZWORD_5": "Picnic "
+  },
+  {
+    "KEYWORD": "Tax ",
+    "BUZZWORD_1": "Fee",
+    "BUZZWORD_2": "Tariff ",
+    "BUZZWORD_3": "Departure ",
+    "BUZZWORD_4": "Toll",
+    "BUZZWORD_5": "IRS"
+  },
+  {
+    "KEYWORD": "Taxi ",
+    "BUZZWORD_1": "Lyft ",
+    "BUZZWORD_2": "Uber ",
+    "BUZZWORD_3": "Cab ",
+    "BUZZWORD_4": "Checker ",
+    "BUZZWORD_5": "Driver "
+  },
+  {
+    "KEYWORD": "Terminal ",
+    "BUZZWORD_1": "Concourse ",
+    "BUZZWORD_2": "Airport ",
+    "BUZZWORD_3": "Gate ",
+    "BUZZWORD_4": "Number ",
+    "BUZZWORD_5": "Letter "
+  },
+  {
+    "KEYWORD": "Texas ",
+    "BUZZWORD_1": "State Fair ",
+    "BUZZWORD_2": "Classic ",
+    "BUZZWORD_3": "Dallas ",
+    "BUZZWORD_4": "Houston",
+    "BUZZWORD_5": "Austin"
+  },
+  {
+    "KEYWORD": "The Roots Picnic",
+    "BUZZWORD_1": "Philadelphia ",
+    "BUZZWORD_2": "Philly",
+    "BUZZWORD_3": "Pennsylvania ",
+    "BUZZWORD_4": "Penn's Landing ",
+    "BUZZWORD_5": "Music Festival"
+  },
+  {
+    "KEYWORD": "Theme Park ",
+    "BUZZWORD_1": "Rides ",
+    "BUZZWORD_2": "Amusement ",
+    "BUZZWORD_3": "Food ",
+    "BUZZWORD_4": "Ticket ",
+    "BUZZWORD_5": "Thrill"
+  },
+  {
+    "KEYWORD": "Ticket ",
+    "BUZZWORD_1": "Admission",
+    "BUZZWORD_2": "Entry ",
+    "BUZZWORD_3": "Pass ",
+    "BUZZWORD_4": "Pay",
+    "BUZZWORD_5": "Print"
+  },
+  {
+    "KEYWORD": "Time Zone ",
+    "BUZZWORD_1": "Toyko",
+    "BUZZWORD_2": "New York ",
+    "BUZZWORD_3": "Eastern ",
+    "BUZZWORD_4": "Los Angeles",
+    "BUZZWORD_5": "Pacific "
+  },
+  {
+    "KEYWORD": "Toll",
+    "BUZZWORD_1": "Tax ",
+    "BUZZWORD_2": "Fee ",
+    "BUZZWORD_3": "Tariff",
+    "BUZZWORD_4": "Entry ",
+    "BUZZWORD_5": "Booth"
+  },
+  {
+    "KEYWORD": "Tour",
+    "BUZZWORD_1": "Journey",
+    "BUZZWORD_2": "Excursion",
+    "BUZZWORD_3": "Outing ",
+    "BUZZWORD_4": "Sightsee ",
+    "BUZZWORD_5": "Expedition"
+  },
+  {
+    "KEYWORD": "Tourist ",
+    "BUZZWORD_1": "Visitor",
+    "BUZZWORD_2": "Travelor",
+    "BUZZWORD_3": "Foreigner",
+    "BUZZWORD_4": "Trip",
+    "BUZZWORD_5": "Sightsee"
+  },
+  {
+    "KEYWORD": "Towels ",
+    "BUZZWORD_1": "Housekeeping ",
+    "BUZZWORD_2": "Fresh",
+    "BUZZWORD_3": "White ",
+    "BUZZWORD_4": "Hotel ",
+    "BUZZWORD_5": "Dry"
+  },
+  {
+    "KEYWORD": "Train",
+    "BUZZWORD_1": "Rides ",
+    "BUZZWORD_2": "Track",
+    "BUZZWORD_3": "Rails",
+    "BUZZWORD_4": "Conductor",
+    "BUZZWORD_5": "Sleeper"
+  },
+  {
+    "KEYWORD": "Translate ",
+    "BUZZWORD_1": "Language",
+    "BUZZWORD_2": "Foreign",
+    "BUZZWORD_3": "Understand",
+    "BUZZWORD_4": "English",
+    "BUZZWORD_5": "Tourist"
+  },
+  {
+    "KEYWORD": "Transportation",
+    "BUZZWORD_1": "Drive",
+    "BUZZWORD_2": "Car",
+    "BUZZWORD_3": "Airplane",
+    "BUZZWORD_4": "Bus",
+    "BUZZWORD_5": "Move"
+  },
+  {
+    "KEYWORD": "Travel Agent ",
+    "BUZZWORD_1": "Tickets",
+    "BUZZWORD_2": "Reservations",
+    "BUZZWORD_3": "Planner",
+    "BUZZWORD_4": "Airline",
+    "BUZZWORD_5": "Person"
+  },
+  {
+    "KEYWORD": "Travel Channel ",
+    "BUZZWORD_1": "Dhani Jones ",
+    "BUZZWORD_2": "Shows ",
+    "BUZZWORD_3": "Cable ",
+    "BUZZWORD_4": "Foreign",
+    "BUZZWORD_5": "Countries"
+  },
+  {
+    "KEYWORD": "Trek",
+    "BUZZWORD_1": "Travel",
+    "BUZZWORD_2": "Migrate",
+    "BUZZWORD_3": "Tour",
+    "BUZZWORD_4": "Journey",
+    "BUZZWORD_5": "Trip"
+  },
+  {
+    "KEYWORD": "Trip ",
+    "BUZZWORD_1": "Tour ",
+    "BUZZWORD_2": "Vacation",
+    "BUZZWORD_3": "Voyage ",
+    "BUZZWORD_4": "Stint ",
+    "BUZZWORD_5": "Travel "
+  },
+  {
+    "KEYWORD": "TSA ",
+    "BUZZWORD_1": "Security",
+    "BUZZWORD_2": "Airport ",
+    "BUZZWORD_3": "Lines",
+    "BUZZWORD_4": "Checker ",
+    "BUZZWORD_5": "Luggage"
+  },
+  {
+    "KEYWORD": "Tube ",
+    "BUZZWORD_1": "London",
+    "BUZZWORD_2": "Train",
+    "BUZZWORD_3": "Subway ",
+    "BUZZWORD_4": "Britain",
+    "BUZZWORD_5": "England "
+  },
+  {
+    "KEYWORD": "Uber ",
+    "BUZZWORD_1": "Lyft",
+    "BUZZWORD_2": "Shared ",
+    "BUZZWORD_3": "Ride ",
+    "BUZZWORD_4": "App",
+    "BUZZWORD_5": "Car "
+  },
+  {
+    "KEYWORD": "United ",
+    "BUZZWORD_1": "Airline",
+    "BUZZWORD_2": "Continental",
+    "BUZZWORD_3": "Chicago",
+    "BUZZWORD_4": "Friendly Skies",
+    "BUZZWORD_5": "Plane"
+  },
+  {
+    "KEYWORD": "Vacation ",
+    "BUZZWORD_1": "Leisure",
+    "BUZZWORD_2": "Trip",
+    "BUZZWORD_3": "Travel",
+    "BUZZWORD_4": "Flight",
+    "BUZZWORD_5": "Journey"
+  },
+  {
+    "KEYWORD": "Virgin ",
+    "BUZZWORD_1": "Airlines ",
+    "BUZZWORD_2": "International",
+    "BUZZWORD_3": "Airplane ",
+    "BUZZWORD_4": "Airways ",
+    "BUZZWORD_5": "Luxury "
+  },
+  {
+    "KEYWORD": "VISA ",
+    "BUZZWORD_1": "Passport",
+    "BUZZWORD_2": "Stamp",
+    "BUZZWORD_3": "Country",
+    "BUZZWORD_4": "Foreign",
+    "BUZZWORD_5": "Entry"
+  },
+  {
+    "KEYWORD": "Visit ",
+    "BUZZWORD_1": "Tour ",
+    "BUZZWORD_2": "Travel ",
+    "BUZZWORD_3": "Place",
+    "BUZZWORD_4": "Trip",
+    "BUZZWORD_5": "Vacation"
+  },
+  {
+    "KEYWORD": "Voucher ",
+    "BUZZWORD_1": "Certificate ",
+    "BUZZWORD_2": "Check ",
+    "BUZZWORD_3": "Coupon",
+    "BUZZWORD_4": "Ticket ",
+    "BUZZWORD_5": "IOU"
+  },
+  {
+    "KEYWORD": "Wanderlust",
+    "BUZZWORD_1": "Nomad ",
+    "BUZZWORD_2": "Restless",
+    "BUZZWORD_3": "Travelor",
+    "BUZZWORD_4": "Tourist",
+    "BUZZWORD_5": "Adventurer"
+  },
+  {
+    "KEYWORD": "Wedding ",
+    "BUZZWORD_1": "Marriage ",
+    "BUZZWORD_2": "Gifts ",
+    "BUZZWORD_3": "Couple",
+    "BUZZWORD_4": "Love ",
+    "BUZZWORD_5": "Union"
+  },
+  {
+    "KEYWORD": "West Indies",
+    "BUZZWORD_1": "Islands ",
+    "BUZZWORD_2": "Jamaica ",
+    "BUZZWORD_3": "Bahamas ",
+    "BUZZWORD_4": "Caribbean",
+    "BUZZWORD_5": "Haiti"
+  },
+  {
+    "KEYWORD": "WhatsApp",
+    "BUZZWORD_1": "Communicate ",
+    "BUZZWORD_2": "Group ",
+    "BUZZWORD_3": "Messaging ",
+    "BUZZWORD_4": "Text ",
+    "BUZZWORD_5": "Share "
+  },
+  {
+    "KEYWORD": "Wi-Fi",
+    "BUZZWORD_1": "Wireless ",
+    "BUZZWORD_2": "Internet ",
+    "BUZZWORD_3": "Computers ",
+    "BUZZWORD_4": "Network",
+    "BUZZWORD_5": "Signal "
+  },
+  {
+    "KEYWORD": "Window Seat ",
+    "BUZZWORD_1": "Erykah Badu",
+    "BUZZWORD_2": "Aisle",
+    "BUZZWORD_3": "Middle ",
+    "BUZZWORD_4": "Airplane ",
+    "BUZZWORD_5": "Inside"
+  },
+  {
+    "KEYWORD": "Wings ",
+    "BUZZWORD_1": "Airplane ",
+    "BUZZWORD_2": "Jet ",
+    "BUZZWORD_3": "Captain",
+    "BUZZWORD_4": "Uniform",
+    "BUZZWORD_5": "Bird"
+  },
+  {
+    "KEYWORD": "Wonders of the World ",
+    "BUZZWORD_1": "Seven",
+    "BUZZWORD_2": "Giza ",
+    "BUZZWORD_3": "Babylon",
+    "BUZZWORD_4": "Pyramid ",
+    "BUZZWORD_5": "Olympia "
+  },
+  {
+    "KEYWORD": "Yacht Week ",
+    "BUZZWORD_1": "Greece ",
+    "BUZZWORD_2": "Boat ",
+    "BUZZWORD_3": "Sail ",
+    "BUZZWORD_4": "Virgin Islands ",
+    "BUZZWORD_5": "Croatia"
+  },
+  {
+    "KEYWORD": "Zipline ",
+    "BUZZWORD_1": "Mountains ",
+    "BUZZWORD_2": "Forests",
+    "BUZZWORD_3": "Jungle",
+    "BUZZWORD_4": "Rainforest ",
+    "BUZZWORD_5": "Glide "
+  }
+]

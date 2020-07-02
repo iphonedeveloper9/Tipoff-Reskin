@@ -1,0 +1,2402 @@
+[
+  {
+    "KEYWORD": 42,
+    "BUZZWORD_1": "Jackie Brown ",
+    "BUZZWORD_2": "Baseball",
+    "BUZZWORD_3": "Negro ",
+    "BUZZWORD_4": "Chadwick Boseman",
+    "BUZZWORD_5": "Dodgers "
+  },
+  {
+    "KEYWORD": "12 Years a Slave ",
+    "BUZZWORD_1": "Lupita Nyong'o",
+    "BUZZWORD_2": "Platation",
+    "BUZZWORD_3": "Freeman",
+    "BUZZWORD_4": "Slavemaster ",
+    "BUZZWORD_5": "Cotton"
+  },
+  {
+    "KEYWORD": "3 Strikes ",
+    "BUZZWORD_1": "Felon",
+    "BUZZWORD_2": "Parole ",
+    "BUZZWORD_3": "Arrested ",
+    "BUZZWORD_4": "Jail ",
+    "BUZZWORD_5": "Brain Hooks "
+  },
+  {
+    "KEYWORD": "4 Little Girls ",
+    "BUZZWORD_1": "Fire",
+    "BUZZWORD_2": "Church ",
+    "BUZZWORD_3": "Alabama",
+    "BUZZWORD_4": "KKK",
+    "BUZZWORD_5": "Racist"
+  },
+  {
+    "KEYWORD": "8 Mile",
+    "BUZZWORD_1": "Detroit ",
+    "BUZZWORD_2": "Eminem",
+    "BUZZWORD_3": "Kim",
+    "BUZZWORD_4": "Mekhi Phifer",
+    "BUZZWORD_5": "Cheddar Bob "
+  },
+  {
+    "KEYWORD": "A Lesson Before Dying ",
+    "BUZZWORD_1": "Willie Francis",
+    "BUZZWORD_2": "Louisiana ",
+    "BUZZWORD_3": "Electric Chair ",
+    "BUZZWORD_4": "Novel",
+    "BUZZWORD_5": "Murder "
+  },
+  {
+    "KEYWORD": "A Low Down Dirty Shame ",
+    "BUZZWORD_1": "Keenan Ivory Wayans ",
+    "BUZZWORD_2": "Jada Pinkett-Smith ",
+    "BUZZWORD_3": "Peaches ",
+    "BUZZWORD_4": "Detective ",
+    "BUZZWORD_5": "Mendoza "
+  },
+  {
+    "KEYWORD": "A Rage in Harlem ",
+    "BUZZWORD_1": "Silm ",
+    "BUZZWORD_2": "New York City ",
+    "BUZZWORD_3": "Gregory Hines ",
+    "BUZZWORD_4": "Forest Whittaker ",
+    "BUZZWORD_5": "Goldy "
+  },
+  {
+    "KEYWORD": "A Thin Line Between Love and Hate ",
+    "BUZZWORD_1": "Martin Lawrence ",
+    "BUZZWORD_2": "Bobby Brown ",
+    "BUZZWORD_3": "Chocolate City ",
+    "BUZZWORD_4": "Brandi",
+    "BUZZWORD_5": "Lynn Whitfield"
+  },
+  {
+    "KEYWORD": "A Time to Kill",
+    "BUZZWORD_1": "Sam L. Jackson ",
+    "BUZZWORD_2": "Rape ",
+    "BUZZWORD_3": "Sandra Bullock",
+    "BUZZWORD_4": "Matthew McConaughney ",
+    "BUZZWORD_5": "Justice "
+  },
+  {
+    "KEYWORD": "Above the Rim ",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Duane Martin ",
+    "BUZZWORD_3": "Tupac Shakur ",
+    "BUZZWORD_4": "Birdie ",
+    "BUZZWORD_5": "Bernie Mac "
+  },
+  {
+    "KEYWORD": "Action Jackson",
+    "BUZZWORD_1": "Sexual Predator ",
+    "BUZZWORD_2": "Detroit",
+    "BUZZWORD_3": "Vanity ",
+    "BUZZWORD_4": "Sharon Stone",
+    "BUZZWORD_5": "Politics"
+  },
+  {
+    "KEYWORD": "Ali ",
+    "BUZZWORD_1": "Will Smith ",
+    "BUZZWORD_2": "Muhammad ",
+    "BUZZWORD_3": "Cassius Clay ",
+    "BUZZWORD_4": "Boxer ",
+    "BUZZWORD_5": "Butterfly "
+  },
+  {
+    "KEYWORD": "All Eyez on Me ",
+    "BUZZWORD_1": "Tupac Shakur ",
+    "BUZZWORD_2": "Afeni",
+    "BUZZWORD_3": "Jada Pinkett",
+    "BUZZWORD_4": "Notorious BIG ",
+    "BUZZWORD_5": "Death Row"
+  },
+  {
+    "KEYWORD": "American Gangster ",
+    "BUZZWORD_1": "Frank Lucas ",
+    "BUZZWORD_2": "Drugs",
+    "BUZZWORD_3": "Crack ",
+    "BUZZWORD_4": "Jay-Z",
+    "BUZZWORD_5": "Denzel Washington "
+  },
+  {
+    "KEYWORD": "Amistad ",
+    "BUZZWORD_1": "Djimon Hounsou",
+    "BUZZWORD_2": "Slave Ship",
+    "BUZZWORD_3": "Uprising",
+    "BUZZWORD_4": "Cinque ",
+    "BUZZWORD_5": "Prisoner"
+  },
+  {
+    "KEYWORD": "Antwone Fisher ",
+    "BUZZWORD_1": "Abuse ",
+    "BUZZWORD_2": "Denzel Washington",
+    "BUZZWORD_3": "Orphan",
+    "BUZZWORD_4": "Derek Luke ",
+    "BUZZWORD_5": "US Navy "
+  },
+  {
+    "KEYWORD": "Are We There Yet? ",
+    "BUZZWORD_1": "Nia Long ",
+    "BUZZWORD_2": "Ice Cube ",
+    "BUZZWORD_3": "Road Trip ",
+    "BUZZWORD_4": "Canda ",
+    "BUZZWORD_5": "Children "
+  },
+  {
+    "KEYWORD": "ATL",
+    "BUZZWORD_1": "TI ",
+    "BUZZWORD_2": "Skating ",
+    "BUZZWORD_3": "Mechanicsville",
+    "BUZZWORD_4": "New New ",
+    "BUZZWORD_5": "Atlanta "
+  },
+  {
+    "KEYWORD": "Baby Boy ",
+    "BUZZWORD_1": "Snoop Dogg ",
+    "BUZZWORD_2": "Taraji P Henson",
+    "BUZZWORD_3": "Tyrese ",
+    "BUZZWORD_4": "Ving Rhames",
+    "BUZZWORD_5": "John Singleton "
+  },
+  {
+    "KEYWORD": "Bad Boys ",
+    "BUZZWORD_1": "Martin Lawrence ",
+    "BUZZWORD_2": "Will Smith ",
+    "BUZZWORD_3": "Miami",
+    "BUZZWORD_4": "Cops ",
+    "BUZZWORD_5": "Detective "
+  },
+  {
+    "KEYWORD": "Bamboozled ",
+    "BUZZWORD_1": "Satire",
+    "BUZZWORD_2": "Black Face ",
+    "BUZZWORD_3": "Damon Wayans ",
+    "BUZZWORD_4": "Savion Glover ",
+    "BUZZWORD_5": "Spike Lee "
+  },
+  {
+    "KEYWORD": "BAPS",
+    "BUZZWORD_1": "Wealthy ",
+    "BUZZWORD_2": "Princess ",
+    "BUZZWORD_3": "Jada Pinkett-Smith",
+    "BUZZWORD_4": "Beautician",
+    "BUZZWORD_5": "Hairstyles "
+  },
+  {
+    "KEYWORD": "Barbershop ",
+    "BUZZWORD_1": "Chicago ",
+    "BUZZWORD_2": "Ice Cube ",
+    "BUZZWORD_3": "Haircut",
+    "BUZZWORD_4": "Eve",
+    "BUZZWORD_5": "Cedric the Entertainer "
+  },
+  {
+    "KEYWORD": "Beasts of the Southern Wild ",
+    "BUZZWORD_1": "Hushpuppy ",
+    "BUZZWORD_2": "Quvenzhane'",
+    "BUZZWORD_3": "Wink",
+    "BUZZWORD_4": "Bathub",
+    "BUZZWORD_5": "Levee"
+  },
+  {
+    "KEYWORD": "Beat Street ",
+    "BUZZWORD_1": "Hip-Hop",
+    "BUZZWORD_2": "B-boy",
+    "BUZZWORD_3": "South Bronx ",
+    "BUZZWORD_4": "Breakdance",
+    "BUZZWORD_5": "Graffiti"
+  },
+  {
+    "KEYWORD": "Beauty Shop ",
+    "BUZZWORD_1": "Queen Latifah ",
+    "BUZZWORD_2": "Djimon Hounsou",
+    "BUZZWORD_3": "Hair Salon",
+    "BUZZWORD_4": "Atlanta",
+    "BUZZWORD_5": "Weave "
+  },
+  {
+    "KEYWORD": "Bebe's Kids ",
+    "BUZZWORD_1": "Animated ",
+    "BUZZWORD_2": "Cartoon",
+    "BUZZWORD_3": "Robin Harris ",
+    "BUZZWORD_4": "Tone Loc ",
+    "BUZZWORD_5": "Amusement Park"
+  },
+  {
+    "KEYWORD": "Belly",
+    "BUZZWORD_1": "DMX",
+    "BUZZWORD_2": "Nas ",
+    "BUZZWORD_3": "Kisha ",
+    "BUZZWORD_4": "Lennox ",
+    "BUZZWORD_5": "T-Boz "
+  },
+  {
+    "KEYWORD": "Beloved ",
+    "BUZZWORD_1": "Oprah Winfrey ",
+    "BUZZWORD_2": "Danny Glover ",
+    "BUZZWORD_3": "Drama ",
+    "BUZZWORD_4": "Thandie Newton",
+    "BUZZWORD_5": "Murder "
+  },
+  {
+    "KEYWORD": "Beverly Hills Cop ",
+    "BUZZWORD_1": "Axel Foley ",
+    "BUZZWORD_2": "Axel Foley ",
+    "BUZZWORD_3": "Eddie Murphy ",
+    "BUZZWORD_4": "Murder ",
+    "BUZZWORD_5": "California"
+  },
+  {
+    "KEYWORD": "Big Momma's House ",
+    "BUZZWORD_1": "Martin Lawrence ",
+    "BUZZWORD_2": "Disguise ",
+    "BUZZWORD_3": "Nia Long",
+    "BUZZWORD_4": "Detective ",
+    "BUZZWORD_5": "Undercover "
+  },
+  {
+    "KEYWORD": "Biker Boyz ",
+    "BUZZWORD_1": "Laurence Fishburne",
+    "BUZZWORD_2": "Derek Luke ",
+    "BUZZWORD_3": "Lisa Bonet ",
+    "BUZZWORD_4": "Maegan Good",
+    "BUZZWORD_5": "Motorcycles "
+  },
+  {
+    "KEYWORD": "Black Dynamite ",
+    "BUZZWORD_1": "Michael Jai White ",
+    "BUZZWORD_2": "Tommy Davidson",
+    "BUZZWORD_3": "Blaxplotation",
+    "BUZZWORD_4": "Kung Fu ",
+    "BUZZWORD_5": "Comedy "
+  },
+  {
+    "KEYWORD": "Black Knight ",
+    "BUZZWORD_1": "Renaissance ",
+    "BUZZWORD_2": "Medieval",
+    "BUZZWORD_3": "Amusement",
+    "BUZZWORD_4": "Peasants ",
+    "BUZZWORD_5": "Martin Lawrence "
+  },
+  {
+    "KEYWORD": "Black Panther ",
+    "BUZZWORD_1": "T'Challa ",
+    "BUZZWORD_2": "Lupita ",
+    "BUZZWORD_3": "Wakanda ",
+    "BUZZWORD_4": "Africa ",
+    "BUZZWORD_5": "Michael B. Jordan "
+  },
+  {
+    "KEYWORD": "Blacula ",
+    "BUZZWORD_1": "Transylvania ",
+    "BUZZWORD_2": "Count Dracula ",
+    "BUZZWORD_3": "Bloodsucker ",
+    "BUZZWORD_4": "Horror ",
+    "BUZZWORD_5": "Mystery"
+  },
+  {
+    "KEYWORD": "Blade ",
+    "BUZZWORD_1": "Wesley Snipes ",
+    "BUZZWORD_2": "Vampire ",
+    "BUZZWORD_3": "Superhero",
+    "BUZZWORD_4": "Marvel ",
+    "BUZZWORD_5": "Hunter "
+  },
+  {
+    "KEYWORD": "Blankman ",
+    "BUZZWORD_1": "Damon Wayans",
+    "BUZZWORD_2": "Superhero",
+    "BUZZWORD_3": "David Allen Grier ",
+    "BUZZWORD_4": "Bulletproof ",
+    "BUZZWORD_5": "Repairman"
+  },
+  {
+    "KEYWORD": "Blood Diamond ",
+    "BUZZWORD_1": "Africa ",
+    "BUZZWORD_2": "Djimon Hounsou",
+    "BUZZWORD_3": "Precious Stone ",
+    "BUZZWORD_4": "Political War ",
+    "BUZZWORD_5": "Leonardo DiCaprio"
+  },
+  {
+    "KEYWORD": "Blue Streak ",
+    "BUZZWORD_1": "Cop ",
+    "BUZZWORD_2": "Martin Lawrence ",
+    "BUZZWORD_3": "Diamond Heist ",
+    "BUZZWORD_4": "Soundtrack ",
+    "BUZZWORD_5": "Undercover "
+  },
+  {
+    "KEYWORD": "Bones ",
+    "BUZZWORD_1": "Horror ",
+    "BUZZWORD_2": "Snoop Dogg ",
+    "BUZZWORD_3": "Blaxplotation",
+    "BUZZWORD_4": "Pam Grier ",
+    "BUZZWORD_5": "Skeleton"
+  },
+  {
+    "KEYWORD": "Boomerang ",
+    "BUZZWORD_1": "Eddie Murphy ",
+    "BUZZWORD_2": "Robin Givens ",
+    "BUZZWORD_3": "Halle Berry ",
+    "BUZZWORD_4": "Marcus ",
+    "BUZZWORD_5": "Strange'"
+  },
+  {
+    "KEYWORD": "Breakin' ",
+    "BUZZWORD_1": "Dance ",
+    "BUZZWORD_2": "Comedy ",
+    "BUZZWORD_3": "Hip-Hop",
+    "BUZZWORD_4": "Ozone ",
+    "BUZZWORD_5": "Turbo"
+  },
+  {
+    "KEYWORD": "Breakin' All the Rules ",
+    "BUZZWORD_1": "Jamie Foxx ",
+    "BUZZWORD_2": "Morris Chestnut ",
+    "BUZZWORD_3": "Gabrielle Union",
+    "BUZZWORD_4": "Romantic Comedy ",
+    "BUZZWORD_5": "Author"
+  },
+  {
+    "KEYWORD": "Brian's Song ",
+    "BUZZWORD_1": "Chicago Bears ",
+    "BUZZWORD_2": "Mehki Phifer",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Civil Rights ",
+    "BUZZWORD_5": "Athlete"
+  },
+  {
+    "KEYWORD": "Brown Sugar ",
+    "BUZZWORD_1": "Sanaa Lathan",
+    "BUZZWORD_2": "Taye Diggs ",
+    "BUZZWORD_3": "Romantic Comedy ",
+    "BUZZWORD_4": "Hip-Hop ",
+    "BUZZWORD_5": "Dalmations"
+  },
+  {
+    "KEYWORD": "Cabin in the Sky ",
+    "BUZZWORD_1": "Ethel Waters ",
+    "BUZZWORD_2": "Rex Ingram",
+    "BUZZWORD_3": "Lena Horne",
+    "BUZZWORD_4": "Musical",
+    "BUZZWORD_5": "Lucifer "
+  },
+  {
+    "KEYWORD": "Cadillac Records ",
+    "BUZZWORD_1": "Etta James ",
+    "BUZZWORD_2": "Muddy Waters ",
+    "BUZZWORD_3": "Beyonce'",
+    "BUZZWORD_4": "Chess Records",
+    "BUZZWORD_5": "Chuck Berry "
+  },
+  {
+    "KEYWORD": "Carmen Jones ",
+    "BUZZWORD_1": "Dorothy Dandridge",
+    "BUZZWORD_2": "Broadway ",
+    "BUZZWORD_3": "Musical",
+    "BUZZWORD_4": "Academy Award ",
+    "BUZZWORD_5": "Hammerstein"
+  },
+  {
+    "KEYWORD": "Carwash ",
+    "BUZZWORD_1": "Auto ",
+    "BUZZWORD_2": "Soap",
+    "BUZZWORD_3": "Song ",
+    "BUZZWORD_4": "Remake ",
+    "BUZZWORD_5": "Brush "
+  },
+  {
+    "KEYWORD": "CB4 ",
+    "BUZZWORD_1": "Chris Rock ",
+    "BUZZWORD_2": "Comedy ",
+    "BUZZWORD_3": "Gangsta Rap ",
+    "BUZZWORD_4": "Parody",
+    "BUZZWORD_5": "Gusto"
+  },
+  {
+    "KEYWORD": "Chiraq ",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "Violence ",
+    "BUZZWORD_3": "Boycott ",
+    "BUZZWORD_4": "Nick Cannon",
+    "BUZZWORD_5": "Spike Lee "
+  },
+  {
+    "KEYWORD": "Class Act ",
+    "BUZZWORD_1": "Kid n Play ",
+    "BUZZWORD_2": "Los Angeles ",
+    "BUZZWORD_3": "90s",
+    "BUZZWORD_4": "High School ",
+    "BUZZWORD_5": "House Party "
+  },
+  {
+    "KEYWORD": "Claudine ",
+    "BUZZWORD_1": "Diahann Carrol",
+    "BUZZWORD_2": "70s",
+    "BUZZWORD_3": "James Earl Jones ",
+    "BUZZWORD_4": "Welfare",
+    "BUZZWORD_5": "Marriage "
+  },
+  {
+    "KEYWORD": "Cleopatra Jones ",
+    "BUZZWORD_1": "Blaxplotation ",
+    "BUZZWORD_2": "Action-Comedy ",
+    "BUZZWORD_3": "Undercover Agent ",
+    "BUZZWORD_4": "Modeling ",
+    "BUZZWORD_5": "Community "
+  },
+  {
+    "KEYWORD": "Clockers ",
+    "BUZZWORD_1": "Richard Price ",
+    "BUZZWORD_2": "Spike Lee",
+    "BUZZWORD_3": "Drug Dealer ",
+    "BUZZWORD_4": "Investigation",
+    "BUZZWORD_5": "Time"
+  },
+  {
+    "KEYWORD": "Coach Carter ",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Sam L. Jackson",
+    "BUZZWORD_3": "Richmond High",
+    "BUZZWORD_4": "Academic Probation",
+    "BUZZWORD_5": "Undeafeted"
+  },
+  {
+    "KEYWORD": "Coffy ",
+    "BUZZWORD_1": "Pam Grier ",
+    "BUZZWORD_2": "Vigilante",
+    "BUZZWORD_3": "Cream",
+    "BUZZWORD_4": "Nurse ",
+    "BUZZWORD_5": "Blaxplotation"
+  },
+  {
+    "KEYWORD": "Colors",
+    "BUZZWORD_1": "Sean Penn",
+    "BUZZWORD_2": "Robert Duvall",
+    "BUZZWORD_3": "LAPD",
+    "BUZZWORD_4": "Bloods ",
+    "BUZZWORD_5": "Crips "
+  },
+  {
+    "KEYWORD": "Coming to America",
+    "BUZZWORD_1": "Eddie Murphy ",
+    "BUZZWORD_2": "Aikeem",
+    "BUZZWORD_3": "Zumunda ",
+    "BUZZWORD_4": "Lisa ",
+    "BUZZWORD_5": "Arsenio Hall"
+  },
+  {
+    "KEYWORD": "Cooley High ",
+    "BUZZWORD_1": "Cochise ",
+    "BUZZWORD_2": "Chicago ",
+    "BUZZWORD_3": "School ",
+    "BUZZWORD_4": "Preach ",
+    "BUZZWORD_5": "What's Happening"
+  },
+  {
+    "KEYWORD": "Cornbread, Earl and Me ",
+    "BUZZWORD_1": "Laurence Fishburne",
+    "BUZZWORD_2": "1970s ",
+    "BUZZWORD_3": "Basketball",
+    "BUZZWORD_4": "Police Shooting ",
+    "BUZZWORD_5": "Scholarship"
+  },
+  {
+    "KEYWORD": "Cotton Comes to Harlem",
+    "BUZZWORD_1": "Ossie Davis ",
+    "BUZZWORD_2": "Redd Foxx ",
+    "BUZZWORD_3": "Novel",
+    "BUZZWORD_4": "Back-to-Africa",
+    "BUZZWORD_5": "Reverend O'Malley"
+  },
+  {
+    "KEYWORD": "Crooklyn ",
+    "BUZZWORD_1": "Troy ",
+    "BUZZWORD_2": "Coming-of-Age ",
+    "BUZZWORD_3": "Spike Lee ",
+    "BUZZWORD_4": "Brooklyn ",
+    "BUZZWORD_5": "Siblings "
+  },
+  {
+    "KEYWORD": "Cry Freedom",
+    "BUZZWORD_1": "Apartheid",
+    "BUZZWORD_2": "South Africa",
+    "BUZZWORD_3": "Biko",
+    "BUZZWORD_4": "Activist ",
+    "BUZZWORD_5": "Denzel Washington"
+  },
+  {
+    "KEYWORD": "Daddy's Little Girls ",
+    "BUZZWORD_1": "Gabrille Union",
+    "BUZZWORD_2": "Idris Elba ",
+    "BUZZWORD_3": "Tyler Perry ",
+    "BUZZWORD_4": "Single Father ",
+    "BUZZWORD_5": "Custody "
+  },
+  {
+    "KEYWORD": "Dead Presidents ",
+    "BUZZWORD_1": "Vietnam War ",
+    "BUZZWORD_2": "Crime ",
+    "BUZZWORD_3": "Larenz Tate ",
+    "BUZZWORD_4": "Heist ",
+    "BUZZWORD_5": "Makeup"
+  },
+  {
+    "KEYWORD": "Deep Cover ",
+    "BUZZWORD_1": "Thriller",
+    "BUZZWORD_2": "Laurence Fishburne",
+    "BUZZWORD_3": "DEA",
+    "BUZZWORD_4": "Undercover ",
+    "BUZZWORD_5": "Soundtrack"
+  },
+  {
+    "KEYWORD": "Deja Vu ",
+    "BUZZWORD_1": "New Orleans ",
+    "BUZZWORD_2": "Katrina ",
+    "BUZZWORD_3": "Denzel Washington ",
+    "BUZZWORD_4": "Paula Patton ",
+    "BUZZWORD_5": "Mardi Gras "
+  },
+  {
+    "KEYWORD": "Deliver Us from Eva ",
+    "BUZZWORD_1": "LL Cool J ",
+    "BUZZWORD_2": "Gabrielle Union ",
+    "BUZZWORD_3": "Romantic Comedy ",
+    "BUZZWORD_4": "Restaurant Inspector ",
+    "BUZZWORD_5": "Butcher "
+  },
+  {
+    "KEYWORD": "Devil in a Blue Dress ",
+    "BUZZWORD_1": "Book",
+    "BUZZWORD_2": "Spike Lee ",
+    "BUZZWORD_3": "Easy Rawlings",
+    "BUZZWORD_4": "Denzel Washington ",
+    "BUZZWORD_5": "Walter Mosley"
+  },
+  {
+    "KEYWORD": "Diary of a Mad Black Woman ",
+    "BUZZWORD_1": "Tyler Perry ",
+    "BUZZWORD_2": "Stageplay ",
+    "BUZZWORD_3": "Abuse",
+    "BUZZWORD_4": "Religious",
+    "BUZZWORD_5": "Empowerment"
+  },
+  {
+    "KEYWORD": "Disappearing Acts ",
+    "BUZZWORD_1": "Wesley Snipes ",
+    "BUZZWORD_2": "Sanaa Lathan ",
+    "BUZZWORD_3": "Romance ",
+    "BUZZWORD_4": "Drama ",
+    "BUZZWORD_5": "Terry McMillan"
+  },
+  {
+    "KEYWORD": "Django Unchained ",
+    "BUZZWORD_1": "Leonardo DiCaprio",
+    "BUZZWORD_2": "Sam L. Jackson ",
+    "BUZZWORD_3": "Candyland ",
+    "BUZZWORD_4": "Kerri Washington ",
+    "BUZZWORD_5": "Jamie Foxx "
+  },
+  {
+    "KEYWORD": "Do the Right Thing",
+    "BUZZWORD_1": "Race Riots ",
+    "BUZZWORD_2": "Brooklyn",
+    "BUZZWORD_3": "Pizzeria ",
+    "BUZZWORD_4": "Spike Lee ",
+    "BUZZWORD_5": "Sal"
+  },
+  {
+    "KEYWORD": "Dolemite",
+    "BUZZWORD_1": "Kung Foo",
+    "BUZZWORD_2": "Blaxplotation ",
+    "BUZZWORD_3": "Pimp",
+    "BUZZWORD_4": "Rudy Ray Moore ",
+    "BUZZWORD_5": "Queen Bee "
+  },
+  {
+    "KEYWORD": "Don't Be a Menace While Drinking Your Juice in the Hood",
+    "BUZZWORD_1": "Shawn ",
+    "BUZZWORD_2": "Marlon",
+    "BUZZWORD_3": "Spoof ",
+    "BUZZWORD_4": "Wayans",
+    "BUZZWORD_5": "Comedy "
+  },
+  {
+    "KEYWORD": "Dope ",
+    "BUZZWORD_1": "Ecstasy",
+    "BUZZWORD_2": "Backpack",
+    "BUZZWORD_3": "High-Schoolers",
+    "BUZZWORD_4": "Jib",
+    "BUZZWORD_5": "Diggy"
+  },
+  {
+    "KEYWORD": "Double Take ",
+    "BUZZWORD_1": "Eddie Griffin",
+    "BUZZWORD_2": "Comedy",
+    "BUZZWORD_3": "Investment Broker",
+    "BUZZWORD_4": "Orlando Jones ",
+    "BUZZWORD_5": "FBI"
+  },
+  {
+    "KEYWORD": "Down in the Delta ",
+    "BUZZWORD_1": "Maya Angelou",
+    "BUZZWORD_2": "Mississippi",
+    "BUZZWORD_3": "Affre Woodard",
+    "BUZZWORD_4": "Wesley Snipes ",
+    "BUZZWORD_5": "Mississippi"
+  },
+  {
+    "KEYWORD": "Down to Earth ",
+    "BUZZWORD_1": "Chris Rock ",
+    "BUZZWORD_2": "Heaven",
+    "BUZZWORD_3": "Comedian",
+    "BUZZWORD_4": "Comedy",
+    "BUZZWORD_5": "Lance Barton"
+  },
+  {
+    "KEYWORD": "Dr. Dolittle ",
+    "BUZZWORD_1": "Eddie Murphy",
+    "BUZZWORD_2": "Animals",
+    "BUZZWORD_3": "Converses",
+    "BUZZWORD_4": "Vet",
+    "BUZZWORD_5": "Re-make "
+  },
+  {
+    "KEYWORD": "Dreamgirls ",
+    "BUZZWORD_1": "Jennifer Hudson ",
+    "BUZZWORD_2": "Beyonce' ",
+    "BUZZWORD_3": "Jamie Foxx ",
+    "BUZZWORD_4": "Broadway ",
+    "BUZZWORD_5": "Musical "
+  },
+  {
+    "KEYWORD": "Enemy of the State ",
+    "BUZZWORD_1": "Will Smith ",
+    "BUZZWORD_2": "Regina King ",
+    "BUZZWORD_3": "GPS ",
+    "BUZZWORD_4": "Satellite ",
+    "BUZZWORD_5": "Lisa Bonet "
+  },
+  {
+    "KEYWORD": "Eve's Bayou ",
+    "BUZZWORD_1": "Louisiana ",
+    "BUZZWORD_2": "Jurnee Smollett",
+    "BUZZWORD_3": "Samuel Jackson",
+    "BUZZWORD_4": "Summer",
+    "BUZZWORD_5": "Lynn Whitfield"
+  },
+  {
+    "KEYWORD": "Fat Albert",
+    "BUZZWORD_1": "Cartoon",
+    "BUZZWORD_2": "Bill Cosby",
+    "BUZZWORD_3": "Keenan Thompson",
+    "BUZZWORD_4": "African American",
+    "BUZZWORD_5": "Mushmouth"
+  },
+  {
+    "KEYWORD": "Fighting Temptations",
+    "BUZZWORD_1": "Cuba Gooding Jr",
+    "BUZZWORD_2": "Beyonce' ",
+    "BUZZWORD_3": 2003,
+    "BUZZWORD_4": "Choir",
+    "BUZZWORD_5": "Competition"
+  },
+  {
+    "KEYWORD": "Flight ",
+    "BUZZWORD_1": "Pilot ",
+    "BUZZWORD_2": "Airplane ",
+    "BUZZWORD_3": "Denzel Washingon ",
+    "BUZZWORD_4": "Alcoholic ",
+    "BUZZWORD_5": "Crash "
+  },
+  {
+    "KEYWORD": "For Colored Girls",
+    "BUZZWORD_1": "Rape ",
+    "BUZZWORD_2": "Abuse ",
+    "BUZZWORD_3": "Assault ",
+    "BUZZWORD_4": "Women ",
+    "BUZZWORD_5": "Females "
+  },
+  {
+    "KEYWORD": "Four Brothers",
+    "BUZZWORD_1": "Tyrese ",
+    "BUZZWORD_2": "Detroit ",
+    "BUZZWORD_3": "Murder",
+    "BUZZWORD_4": "Adopted",
+    "BUZZWORD_5": "Mark Wahlbeg"
+  },
+  {
+    "KEYWORD": "Foxy Brown ",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Pam Grier",
+    "BUZZWORD_3": "Prostitute",
+    "BUZZWORD_4": "Vengeance",
+    "BUZZWORD_5": "Blaxplotation"
+  },
+  {
+    "KEYWORD": "Freedom Writers ",
+    "BUZZWORD_1": "Hilary Swank",
+    "BUZZWORD_2": "Los Angeles",
+    "BUZZWORD_3": "Teacher",
+    "BUZZWORD_4": "Journals",
+    "BUZZWORD_5": "Long Beach "
+  },
+  {
+    "KEYWORD": "Fresh",
+    "BUZZWORD_1": "Brooklyn",
+    "BUZZWORD_2": "Samuel Jackson",
+    "BUZZWORD_3": "Chess",
+    "BUZZWORD_4": "Drug Dealer",
+    "BUZZWORD_5": "12 Year Old"
+  },
+  {
+    "KEYWORD": "Friday",
+    "BUZZWORD_1": "Ice Cube ",
+    "BUZZWORD_2": "Debo",
+    "BUZZWORD_3": "Meagan Good",
+    "BUZZWORD_4": "Smokey",
+    "BUZZWORD_5": "Chris Tucker "
+  },
+  {
+    "KEYWORD": "Fruitvale Station",
+    "BUZZWORD_1": "Michael B. Jordan ",
+    "BUZZWORD_2": "Police ",
+    "BUZZWORD_3": "Shooting ",
+    "BUZZWORD_4": "Oakland ",
+    "BUZZWORD_5": "MART Train"
+  },
+  {
+    "KEYWORD": "Get on the Bus ",
+    "BUZZWORD_1": "Million Man March ",
+    "BUZZWORD_2": "Road Trip ",
+    "BUZZWORD_3": "D.C.",
+    "BUZZWORD_4": "",
+    "BUZZWORD_5": "Spike Lee "
+  },
+  {
+    "KEYWORD": "Get Out ",
+    "BUZZWORD_1": "Thriller ",
+    "BUZZWORD_2": "Interracial",
+    "BUZZWORD_3": "Sunken Place ",
+    "BUZZWORD_4": "Parents",
+    "BUZZWORD_5": "Jordan Peele"
+  },
+  {
+    "KEYWORD": "Get Rich or Die Tryin'",
+    "BUZZWORD_1": "50 Cent",
+    "BUZZWORD_2": "Album ",
+    "BUZZWORD_3": "Curtis Jackson",
+    "BUZZWORD_4": "Bill Duke",
+    "BUZZWORD_5": "Rapper"
+  },
+  {
+    "KEYWORD": "Ghost Dad ",
+    "BUZZWORD_1": "Bill Cosby ",
+    "BUZZWORD_2": "Spirit ",
+    "BUZZWORD_3": "Accident",
+    "BUZZWORD_4": "Afterlife",
+    "BUZZWORD_5": "Hopper"
+  },
+  {
+    "KEYWORD": "Ghosts of Mississippi",
+    "BUZZWORD_1": "Activist",
+    "BUZZWORD_2": "Medgar Evers",
+    "BUZZWORD_3": "Murder",
+    "BUZZWORD_4": "Whoopi Goldberg",
+    "BUZZWORD_5": "Trial"
+  },
+  {
+    "KEYWORD": "Girl 6 ",
+    "BUZZWORD_1": "Spike Lee ",
+    "BUZZWORD_2": "Isaiah Washington",
+    "BUZZWORD_3": "Phone Sex",
+    "BUZZWORD_4": "Operator",
+    "BUZZWORD_5": "Theresa Randle"
+  },
+  {
+    "KEYWORD": "Girls Trip ",
+    "BUZZWORD_1": "Tiffany Haddish",
+    "BUZZWORD_2": "Essence ",
+    "BUZZWORD_3": "Jada Pinkett",
+    "BUZZWORD_4": "Oprah Winfrey ",
+    "BUZZWORD_5": "Regina Hall "
+  },
+  {
+    "KEYWORD": "Gladiator ",
+    "BUZZWORD_1": "Russel Crowe",
+    "BUZZWORD_2": "Joaquin Phoenix",
+    "BUZZWORD_3": "Rome",
+    "BUZZWORD_4": "Arena",
+    "BUZZWORD_5": "Fighter"
+  },
+  {
+    "KEYWORD": "Glory ",
+    "BUZZWORD_1": "Morgan Freeman ",
+    "BUZZWORD_2": "Denzel Washington ",
+    "BUZZWORD_3": "Matthew Broderick",
+    "BUZZWORD_4": "Infantry",
+    "BUZZWORD_5": "Trip"
+  },
+  {
+    "KEYWORD": "Good Burger ",
+    "BUZZWORD_1": "Kennan Thompson",
+    "BUZZWORD_2": "Kel Mitchell",
+    "BUZZWORD_3": "Orange Soda ",
+    "BUZZWORD_4": "Sinbad",
+    "BUZZWORD_5": "Teen Movie"
+  },
+  {
+    "KEYWORD": "Good Deeds ",
+    "BUZZWORD_1": "Tyler Perry ",
+    "BUZZWORD_2": "Romance ",
+    "BUZZWORD_3": "Gabrielle Union",
+    "BUZZWORD_4": "Single Mom",
+    "BUZZWORD_5": "Thandie Newton"
+  },
+  {
+    "KEYWORD": "Good Hair ",
+    "BUZZWORD_1": "Chris Rock ",
+    "BUZZWORD_2": "Weave ",
+    "BUZZWORD_3": "Natural ",
+    "BUZZWORD_4": "Relaxer ",
+    "BUZZWORD_5": "Straight "
+  },
+  {
+    "KEYWORD": "Gridiron Gang",
+    "BUZZWORD_1": "The Rock",
+    "BUZZWORD_2": "Team",
+    "BUZZWORD_3": "Inmates",
+    "BUZZWORD_4": "Football",
+    "BUZZWORD_5": "Juveniles"
+  },
+  {
+    "KEYWORD": "Guess Who ",
+    "BUZZWORD_1": "Bernie Mac ",
+    "BUZZWORD_2": "Ashton Kutcher ",
+    "BUZZWORD_3": "Zoe Saldana",
+    "BUZZWORD_4": "Percy Jones",
+    "BUZZWORD_5": "Dinner"
+  },
+  {
+    "KEYWORD": "Guess Who's Coming to Dinner?",
+    "BUZZWORD_1": 1967,
+    "BUZZWORD_2": "Interracial",
+    "BUZZWORD_3": "Spencer Tracy",
+    "BUZZWORD_4": "Katherine Hepburn",
+    "BUZZWORD_5": "Sidney Poiter"
+  },
+  {
+    "KEYWORD": "Hardball",
+    "BUZZWORD_1": "Michael B Jordan",
+    "BUZZWORD_2": "Keanu Reeves",
+    "BUZZWORD_3": "Coach",
+    "BUZZWORD_4": "Little League",
+    "BUZZWORD_5": "Chicago"
+  },
+  {
+    "KEYWORD": "Harlem Nights ",
+    "BUZZWORD_1": "Redd Foxx ",
+    "BUZZWORD_2": "Richard Pryor ",
+    "BUZZWORD_3": "Eddie Murphy ",
+    "BUZZWORD_4": "Sunshine ",
+    "BUZZWORD_5": "Della Reese "
+  },
+  {
+    "KEYWORD": "Hav Plenty ",
+    "BUZZWORD_1": "Writer",
+    "BUZZWORD_2": "Homeless",
+    "BUZZWORD_3": "Hill Harper",
+    "BUZZWORD_4": "New Year's",
+    "BUZZWORD_5": "Apt. Sitter"
+  },
+  {
+    "KEYWORD": "He Got Game",
+    "BUZZWORD_1": "Jesus",
+    "BUZZWORD_2": " Basketball",
+    "BUZZWORD_3": "Denzel Washington ",
+    "BUZZWORD_4": "Prison",
+    "BUZZWORD_5": "Warden"
+  },
+  {
+    "KEYWORD": "Head of State ",
+    "BUZZWORD_1": "Chris Rock",
+    "BUZZWORD_2": "President",
+    "BUZZWORD_3": "Campaign",
+    "BUZZWORD_4": "Democratic",
+    "BUZZWORD_5": "Plane Crash"
+  },
+  {
+    "KEYWORD": "Hidden Figures ",
+    "BUZZWORD_1": "Taraji P. Henson",
+    "BUZZWORD_2": "History",
+    "BUZZWORD_3": "NASA",
+    "BUZZWORD_4": "John Glenn",
+    "BUZZWORD_5": "Octavia Spencer"
+  },
+  {
+    "KEYWORD": "High School High",
+    "BUZZWORD_1": "Marion Barry High",
+    "BUZZWORD_2": "WellingtonAcademy",
+    "BUZZWORD_3": "Mekhi Phifer",
+    "BUZZWORD_4": "Teacher",
+    "BUZZWORD_5": "Chicken Race"
+  },
+  {
+    "KEYWORD": "Higher Learning ",
+    "BUZZWORD_1": "John Singleton",
+    "BUZZWORD_2": "College Life",
+    "BUZZWORD_3": "Columbus University",
+    "BUZZWORD_4": "Omar Epps",
+    "BUZZWORD_5": "Freshman"
+  },
+  {
+    "KEYWORD": "Holiday Heart ",
+    "BUZZWORD_1": "Ving Rhames",
+    "BUZZWORD_2": "Alfre Woodard",
+    "BUZZWORD_3": "TV Movie",
+    "BUZZWORD_4": "Robert Townsend",
+    "BUZZWORD_5": "Drag Queen"
+  },
+  {
+    "KEYWORD": "Hollywood Shuffle ",
+    "BUZZWORD_1": "Robert Townsend",
+    "BUZZWORD_2": "Jivetime",
+    "BUZZWORD_3": "Stereotypes",
+    "BUZZWORD_4": "Hollywood",
+    "BUZZWORD_5": "Damon Wayans"
+  },
+  {
+    "KEYWORD": "Hoodlum",
+    "BUZZWORD_1": "Bumpy",
+    "BUZZWORD_2": "Numbers",
+    "BUZZWORD_3": "Jail",
+    "BUZZWORD_4": "Vanessa Williams",
+    "BUZZWORD_5": "Rivalry"
+  },
+  {
+    "KEYWORD": "Hoop Dreams ",
+    "BUZZWORD_1": "High School",
+    "BUZZWORD_2": "Chicago",
+    "BUZZWORD_3": "Cabrini-Green",
+    "BUZZWORD_4": "Westchester",
+    "BUZZWORD_5": "St Joseph High"
+  },
+  {
+    "KEYWORD": "Hot Boyz",
+    "BUZZWORD_1": "Master P",
+    "BUZZWORD_2": "Snoop Dog",
+    "BUZZWORD_3": "Silkk the Shocker ",
+    "BUZZWORD_4": "Not Limit ",
+    "BUZZWORD_5": "C-Murder"
+  },
+  {
+    "KEYWORD": "Hotel Rwanda ",
+    "BUZZWORD_1": "Africa ",
+    "BUZZWORD_2": "Don Cheadle",
+    "BUZZWORD_3": "Hutu",
+    "BUZZWORD_4": "Tutsi",
+    "BUZZWORD_5": "Genocide"
+  },
+  {
+    "KEYWORD": "House Party ",
+    "BUZZWORD_1": "Kid n Play ",
+    "BUZZWORD_2": "Sidney ",
+    "BUZZWORD_3": "Tisha Campbell",
+    "BUZZWORD_4": "Bilal",
+    "BUZZWORD_5": "Pops "
+  },
+  {
+    "KEYWORD": "How High",
+    "BUZZWORD_1": "Method Man ",
+    "BUZZWORD_2": "Redman",
+    "BUZZWORD_3": "Weed ",
+    "BUZZWORD_4": "Ivory ",
+    "BUZZWORD_5": "Harvard"
+  },
+  {
+    "KEYWORD": "How Stella Got Her Groove Back ",
+    "BUZZWORD_1": "Anglea Bassett ",
+    "BUZZWORD_2": "Whoopi Goldberg ",
+    "BUZZWORD_3": "Taye Diggs",
+    "BUZZWORD_4": "Jamaica",
+    "BUZZWORD_5": "Fling"
+  },
+  {
+    "KEYWORD": "How to Be a Player ",
+    "BUZZWORD_1": "Def Jam ",
+    "BUZZWORD_2": "Bill Bellamy",
+    "BUZZWORD_3": "Party",
+    "BUZZWORD_4": "Dray",
+    "BUZZWORD_5": "Bernie Mac"
+  },
+  {
+    "KEYWORD": "Hustle & Flow ",
+    "BUZZWORD_1": "Terrance Howard ",
+    "BUZZWORD_2": "Taraji P. Henson ",
+    "BUZZWORD_3": "Pimp",
+    "BUZZWORD_4": "Hip-Hop",
+    "BUZZWORD_5": "Memphis"
+  },
+  {
+    "KEYWORD": "I Can Do Bad All by Myself ",
+    "BUZZWORD_1": "Madea",
+    "BUZZWORD_2": "Singer",
+    "BUZZWORD_3": "Tyler Perry ",
+    "BUZZWORD_4": "Aunt April",
+    "BUZZWORD_5": "Taraji P. Henson"
+  },
+  {
+    "KEYWORD": "I Got the Hook Up ",
+    "BUZZWORD_1": "Master P ",
+    "BUZZWORD_2": "Cell Phones",
+    "BUZZWORD_3": "Truckload",
+    "BUZZWORD_4": "FBI",
+    "BUZZWORD_5": "Blue"
+  },
+  {
+    "KEYWORD": "I Think I Love My Wife ",
+    "BUZZWORD_1": "Chris Rock",
+    "BUZZWORD_2": "Kerry Washington",
+    "BUZZWORD_3": "Cheat ",
+    "BUZZWORD_4": "Marriage ",
+    "BUZZWORD_5": "Infidelity "
+  },
+  {
+    "KEYWORD": "I'm Gonna Git You Sucka ",
+    "BUZZWORD_1": "Jack Spade",
+    "BUZZWORD_2": "Gold Chain",
+    "BUZZWORD_3": "Bernie Casey",
+    "BUZZWORD_4": "Overdose",
+    "BUZZWORD_5": "Mr. Big"
+  },
+  {
+    "KEYWORD": "Idlewild ",
+    "BUZZWORD_1": "Outkast ",
+    "BUZZWORD_2": "Big Boi",
+    "BUZZWORD_3": "Andre 3000",
+    "BUZZWORD_4": "Musical ",
+    "BUZZWORD_5": "Soundtrack"
+  },
+  {
+    "KEYWORD": "Imitation of Life ",
+    "BUZZWORD_1": "Lana Turner",
+    "BUZZWORD_2": "Suzie",
+    "BUZZWORD_3": "Single Mother",
+    "BUZZWORD_4": "Race",
+    "BUZZWORD_5": "Passing"
+  },
+  {
+    "KEYWORD": "In Too Deep",
+    "BUZZWORD_1": "LL Cool J ",
+    "BUZZWORD_2": "Omar Epps",
+    "BUZZWORD_3": "Cop",
+    "BUZZWORD_4": "God",
+    "BUZZWORD_5": "Cincinnati"
+  },
+  {
+    "KEYWORD": "Introducing Dorothy Dandridge ",
+    "BUZZWORD_1": "Halle Berry ",
+    "BUZZWORD_2": "Singer ",
+    "BUZZWORD_3": "Actress",
+    "BUZZWORD_4": "Carmen Jones",
+    "BUZZWORD_5": "Entertainer "
+  },
+  {
+    "KEYWORD": "Jackie Brown ",
+    "BUZZWORD_1": "Flight Attendant",
+    "BUZZWORD_2": "Samuel Jackson",
+    "BUZZWORD_3": "Pam Grier",
+    "BUZZWORD_4": "Quentin Tarantino",
+    "BUZZWORD_5": "Smuggler"
+  },
+  {
+    "KEYWORD": "Jason's Lyric",
+    "BUZZWORD_1": "Drama",
+    "BUZZWORD_2": "Houston",
+    "BUZZWORD_3": "Jada Pinkett",
+    "BUZZWORD_4": "Salesman",
+    "BUZZWORD_5": "Allen Payne "
+  },
+  {
+    "KEYWORD": "Juice ",
+    "BUZZWORD_1": "Tupac Shakur",
+    "BUZZWORD_2": "Omar Epps",
+    "BUZZWORD_3": "Harlem",
+    "BUZZWORD_4": "DJ",
+    "BUZZWORD_5": "Bishop"
+  },
+  {
+    "KEYWORD": "Jumping the Broom ",
+    "BUZZWORD_1": "Paula Patton",
+    "BUZZWORD_2": "Angela Bassett",
+    "BUZZWORD_3": "Martha's Vineyard",
+    "BUZZWORD_4": "Loretta Devine",
+    "BUZZWORD_5": "Comedy"
+  },
+  {
+    "KEYWORD": "Just Another Girl on the IRT",
+    "BUZZWORD_1": "Drama",
+    "BUZZWORD_2": "Brooklyn",
+    "BUZZWORD_3": "Pregnant",
+    "BUZZWORD_4": "N.Y.Subway",
+    "BUZZWORD_5": "Public Transportation"
+  },
+  {
+    "KEYWORD": "Just Wright ",
+    "BUZZWORD_1": "Queen Latifah",
+    "BUZZWORD_2": "Common",
+    "BUZZWORD_3": "Basketball",
+    "BUZZWORD_4": "Physical Therapist ",
+    "BUZZWORD_5": "Romance "
+  },
+  {
+    "KEYWORD": "Juwanna Mann",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Drag",
+    "BUZZWORD_3": "Vivica Fox",
+    "BUZZWORD_4": "Jamal",
+    "BUZZWORD_5": "Miguel Nunez"
+  },
+  {
+    "KEYWORD": "Kingdom Come ",
+    "BUZZWORD_1": "Comedy",
+    "BUZZWORD_2": "Slocumb",
+    "BUZZWORD_3": "Funeral",
+    "BUZZWORD_4": "LL Cool J",
+    "BUZZWORD_5": "Jada Pinkett"
+  },
+  {
+    "KEYWORD": "Krush Groove ",
+    "BUZZWORD_1": "Blair Undewood",
+    "BUZZWORD_2": "Run-D.M.C",
+    "BUZZWORD_3": "Russel Walker",
+    "BUZZWORD_4": "Rap Label",
+    "BUZZWORD_5": "Hip-Hop "
+  },
+  {
+    "KEYWORD": "Lackawanna Blues ",
+    "BUZZWORD_1": "Boarding House",
+    "BUZZWORD_2": "New York",
+    "BUZZWORD_3": "Terrance Howard",
+    "BUZZWORD_4": "Ruben",
+    "BUZZWORD_5": "Jimmy Smits"
+  },
+  {
+    "KEYWORD": "Lakeview Terrace ",
+    "BUZZWORD_1": "Samuel Jackson",
+    "BUZZWORD_2": "Cop",
+    "BUZZWORD_3": "Interracial",
+    "BUZZWORD_4": "Kerry Washington",
+    "BUZZWORD_5": "Neighbor"
+  },
+  {
+    "KEYWORD": "Lean on Me ",
+    "BUZZWORD_1": "Morgan Freeman ",
+    "BUZZWORD_2": "Principal ",
+    "BUZZWORD_3": "Mr. Clark ",
+    "BUZZWORD_4": "East Side High",
+    "BUZZWORD_5": "Crazy Joe "
+  },
+  {
+    "KEYWORD": "Leprechaun in the Hood ",
+    "BUZZWORD_1": "Fantasy",
+    "BUZZWORD_2": "Ice-T",
+    "BUZZWORD_3": "Mack Daddy",
+    "BUZZWORD_4": "Medallion",
+    "BUZZWORD_5": "Little Man"
+  },
+  {
+    "KEYWORD": "Life ",
+    "BUZZWORD_1": "Eddie Murphy ",
+    "BUZZWORD_2": "Martin Lawrence ",
+    "BUZZWORD_3": "Bootlegging",
+    "BUZZWORD_4": "Mississippt",
+    "BUZZWORD_5": "Jail"
+  },
+  {
+    "KEYWORD": "Light It Up ",
+    "BUZZWORD_1": "Stand-Off",
+    "BUZZWORD_2": "High School",
+    "BUZZWORD_3": "Protest",
+    "BUZZWORD_4": "Usher ",
+    "BUZZWORD_5": "Vanessa Williams "
+  },
+  {
+    "KEYWORD": "Little Man ",
+    "BUZZWORD_1": "Toddler",
+    "BUZZWORD_2": "Marlon Wayans",
+    "BUZZWORD_3": "Kerry Washington",
+    "BUZZWORD_4": "Comedy",
+    "BUZZWORD_5": "Shawn Wayans "
+  },
+  {
+    "KEYWORD": "Losing Isaiah",
+    "BUZZWORD_1": "Halle Berry ",
+    "BUZZWORD_2": "Crack",
+    "BUZZWORD_3": "Mother",
+    "BUZZWORD_4": "Custody",
+    "BUZZWORD_5": "Adoption"
+  },
+  {
+    "KEYWORD": "Lottery Ticket ",
+    "BUZZWORD_1": "Bow Wow",
+    "BUZZWORD_2": "Ice Cube",
+    "BUZZWORD_3": "Projects",
+    "BUZZWORD_4": "Winner",
+    "BUZZWORD_5": "Loretta Divine"
+  },
+  {
+    "KEYWORD": "Love & Basketball",
+    "BUZZWORD_1": "Omar Epps ",
+    "BUZZWORD_2": "UCLA ",
+    "BUZZWORD_3": "Sanaa Lathan ",
+    "BUZZWORD_4": "Tyra Banks ",
+    "BUZZWORD_5": "WNBA"
+  },
+  {
+    "KEYWORD": "Love Don't Cost a Thing ",
+    "BUZZWORD_1": "Nick Cannon",
+    "BUZZWORD_2": "Steve Harvey",
+    "BUZZWORD_3": "Nerd",
+    "BUZZWORD_4": "Christina Milian",
+    "BUZZWORD_5": "Auto Repair"
+  },
+  {
+    "KEYWORD": "Love Jones ",
+    "BUZZWORD_1": "Nia Long",
+    "BUZZWORD_2": "Isaiah Washington",
+    "BUZZWORD_3": "Chicago",
+    "BUZZWORD_4": "Poetry",
+    "BUZZWORD_5": "Larenz Tate"
+  },
+  {
+    "KEYWORD": "Madea's Family Reunion",
+    "BUZZWORD_1": "Tyler Perry",
+    "BUZZWORD_2": "Blair Underwood ",
+    "BUZZWORD_3": "Stageplay",
+    "BUZZWORD_4": "House Arrest",
+    "BUZZWORD_5": "Abusive"
+  },
+  {
+    "KEYWORD": "Mahoghany ",
+    "BUZZWORD_1": "Diana Ross",
+    "BUZZWORD_2": "Billy Dee",
+    "BUZZWORD_3": "Chicago",
+    "BUZZWORD_4": "Designer",
+    "BUZZWORD_5": "Barry Gordy"
+  },
+  {
+    "KEYWORD": "Malcolm X ",
+    "BUZZWORD_1": "Denzel Washington ",
+    "BUZZWORD_2": "Angela Bassett ",
+    "BUZZWORD_3": "Elijah Muhammad ",
+    "BUZZWORD_4": "Muslim",
+    "BUZZWORD_5": "Spike Lee "
+  },
+  {
+    "KEYWORD": "Mandela: Long Walk to Freedom",
+    "BUZZWORD_1": "Idris Alba",
+    "BUZZWORD_2": "Revolutionary",
+    "BUZZWORD_3": "South Arica",
+    "BUZZWORD_4": "Apartheid",
+    "BUZZWORD_5": "Robben Island"
+  },
+  {
+    "KEYWORD": "Marshall",
+    "BUZZWORD_1": "Thurgood",
+    "BUZZWORD_2": "Lawyer",
+    "BUZZWORD_3": "NAACP",
+    "BUZZWORD_4": "Racism",
+    "BUZZWORD_5": "anti-Semitism"
+  },
+  {
+    "KEYWORD": "Meet the Browns",
+    "BUZZWORD_1": "Sitcom",
+    "BUZZWORD_2": "Tyler Perr",
+    "BUZZWORD_3": "Comedy",
+    "BUZZWORD_4": "Leroy",
+    "BUZZWORD_5": "Tamela Mann"
+  },
+  {
+    "KEYWORD": "Men of Honor ",
+    "BUZZWORD_1": "Cuba Gooding",
+    "BUZZWORD_2": "Navy",
+    "BUZZWORD_3": "Diver",
+    "BUZZWORD_4": "Discrimination",
+    "BUZZWORD_5": "Robert Ne Niro"
+  },
+  {
+    "KEYWORD": "Miss Evers' Boys ",
+    "BUZZWORD_1": "Alfre Woodard",
+    "BUZZWORD_2": "Nurse",
+    "BUZZWORD_3": "Syphillis",
+    "BUZZWORD_4": "Alabama",
+    "BUZZWORD_5": "Tuskegee"
+  },
+  {
+    "KEYWORD": "Mississippi Masala",
+    "BUZZWORD_1": "Uganda",
+    "BUZZWORD_2": "Idi Amin",
+    "BUZZWORD_3": "Mississippi",
+    "BUZZWORD_4": "Denzel Washington",
+    "BUZZWORD_5": "Mina"
+  },
+  {
+    "KEYWORD": "Mo' Better Blues ",
+    "BUZZWORD_1": "Spike Lee",
+    "BUZZWORD_2": "Wesly Snipes",
+    "BUZZWORD_3": "Denzel Washington",
+    "BUZZWORD_4": "Sax",
+    "BUZZWORD_5": "Muscian"
+  },
+  {
+    "KEYWORD": "Mo' Money ",
+    "BUZZWORD_1": "Stacey Dash",
+    "BUZZWORD_2": "Damon Wayans",
+    "BUZZWORD_3": "Credit Card",
+    "BUZZWORD_4": "Amber",
+    "BUZZWORD_5": "Cash "
+  },
+  {
+    "KEYWORD": "Money Train ",
+    "BUZZWORD_1": "Thriller",
+    "BUZZWORD_2": "Woody Harrelson",
+    "BUZZWORD_3": "New York",
+    "BUZZWORD_4": "Transit Cop",
+    "BUZZWORD_5": "Wesley Snipes"
+  },
+  {
+    "KEYWORD": "Moonlight",
+    "BUZZWORD_1": "Chiron",
+    "BUZZWORD_2": "Miami",
+    "BUZZWORD_3": "Gay",
+    "BUZZWORD_4": "Janelle Monae",
+    "BUZZWORD_5": "Oscar "
+  },
+  {
+    "KEYWORD": "Mr. 3000",
+    "BUZZWORD_1": "Baseball",
+    "BUZZWORD_2": "Brewers",
+    "BUZZWORD_3": "Bernie Mac",
+    "BUZZWORD_4": "Hall of Fame",
+    "BUZZWORD_5": "Player"
+  },
+  {
+    "KEYWORD": "Never Die Alone ",
+    "BUZZWORD_1": "Thriller",
+    "BUZZWORD_2": "Drug Lord",
+    "BUZZWORD_3": "New York",
+    "BUZZWORD_4": "DMX",
+    "BUZZWORD_5": "David Arquette"
+  },
+  {
+    "KEYWORD": "New Jack City ",
+    "BUZZWORD_1": "Nino Brown ",
+    "BUZZWORD_2": "Drugs ",
+    "BUZZWORD_3": "Ice-T ",
+    "BUZZWORD_4": "Wesley Snipes ",
+    "BUZZWORD_5": "Pookie "
+  },
+  {
+    "KEYWORD": "New Jersey Drive",
+    "BUZZWORD_1": "New Jersey",
+    "BUZZWORD_2": "Joyrides",
+    "BUZZWORD_3": "Midget",
+    "BUZZWORD_4": "Cars",
+    "BUZZWORD_5": "Impoverished"
+  },
+  {
+    "KEYWORD": "Next Day Air ",
+    "BUZZWORD_1": "Leo",
+    "BUZZWORD_2": "Marijuana",
+    "BUZZWORD_3": "Mike Epps",
+    "BUZZWORD_4": "Mos Def",
+    "BUZZWORD_5": "Donald Faison"
+  },
+  {
+    "KEYWORD": "Next Friday",
+    "BUZZWORD_1": "Ice Cube ",
+    "BUZZWORD_2": "Debo",
+    "BUZZWORD_3": "Uncle Elroy",
+    "BUZZWORD_4": "John Witherspoon",
+    "BUZZWORD_5": "Day Day "
+  },
+  {
+    "KEYWORD": "Norbit ",
+    "BUZZWORD_1": "Eddie Murphy ",
+    "BUZZWORD_2": "Overweight",
+    "BUZZWORD_3": "Rasputia ",
+    "BUZZWORD_4": "Thandie Newton",
+    "BUZZWORD_5": "Nerd "
+  },
+  {
+    "KEYWORD": "Not Easily Broken ",
+    "BUZZWORD_1": "Morris Chestnut",
+    "BUZZWORD_2": "Taraji P. Henson ",
+    "BUZZWORD_3": "Accident",
+    "BUZZWORD_4": "T.D.Jakes",
+    "BUZZWORD_5": "Inspirational "
+  },
+  {
+    "KEYWORD": "Notorious ",
+    "BUZZWORD_1": "Brooklyn",
+    "BUZZWORD_2": "B.I.G",
+    "BUZZWORD_3": "Rap",
+    "BUZZWORD_4": "Christopher Wallace",
+    "BUZZWORD_5": "Biggie Smalls"
+  },
+  {
+    "KEYWORD": "Obsessed ",
+    "BUZZWORD_1": "Idris Elba",
+    "BUZZWORD_2": "Beyonce' ",
+    "BUZZWORD_3": "Stalker",
+    "BUZZWORD_4": "Marriage",
+    "BUZZWORD_5": "Protection"
+  },
+  {
+    "KEYWORD": "Once Upon a Time When We Were Colored ",
+    "BUZZWORD_1": "Mississippi",
+    "BUZZWORD_2": "Ma Pearl",
+    "BUZZWORD_3": "Segregation",
+    "BUZZWORD_4": "Civil Rights",
+    "BUZZWORD_5": "Cliff"
+  },
+  {
+    "KEYWORD": "One Eight Seven",
+    "BUZZWORD_1": "Code",
+    "BUZZWORD_2": "Homicide",
+    "BUZZWORD_3": "Teacher",
+    "BUZZWORD_4": "Samuel Jackson",
+    "BUZZWORD_5": "Textbook"
+  },
+  {
+    "KEYWORD": "Original Gangstas ",
+    "BUZZWORD_1": "Pam Grier",
+    "BUZZWORD_2": "Jim Brown",
+    "BUZZWORD_3": "Gary Ind",
+    "BUZZWORD_4": "Rebels",
+    "BUZZWORD_5": "Gangs"
+  },
+  {
+    "KEYWORD": "Out of Time ",
+    "BUZZWORD_1": "Denzel Washington ",
+    "BUZZWORD_2": "Police Chief",
+    "BUZZWORD_3": "Florida",
+    "BUZZWORD_4": "Sanaa Lathan",
+    "BUZZWORD_5": "Cancer"
+  },
+  {
+    "KEYWORD": "Paid In Full",
+    "BUZZWORD_1": "Mehki Phifer",
+    "BUZZWORD_2": "Harlem",
+    "BUZZWORD_3": "Drugs",
+    "BUZZWORD_4": "Dry Cleaners",
+    "BUZZWORD_5": "Cam'ron"
+  },
+  {
+    "KEYWORD": "Panther ",
+    "BUZZWORD_1": "Kadeem Hardison",
+    "BUZZWORD_2": "Oakland",
+    "BUZZWORD_3": "Black Panthes",
+    "BUZZWORD_4": "Bobby",
+    "BUZZWORD_5": "Courtney B Vance"
+  },
+  {
+    "KEYWORD": "Passenger 57 ",
+    "BUZZWORD_1": "Wesley Snipes",
+    "BUZZWORD_2": "Terrorist",
+    "BUZZWORD_3": "Flight",
+    "BUZZWORD_4": "Cutter",
+    "BUZZWORD_5": "FBI"
+  },
+  {
+    "KEYWORD": "Phat Girlz",
+    "BUZZWORD_1": "Comedy",
+    "BUZZWORD_2": "Plus-Size",
+    "BUZZWORD_3": "Romance",
+    "BUZZWORD_4": "Mo'Nique",
+    "BUZZWORD_5": "Godfrey"
+  },
+  {
+    "KEYWORD": "Poetic Justice ",
+    "BUZZWORD_1": "Janet Jackson ",
+    "BUZZWORD_2": "Q-Tip ",
+    "BUZZWORD_3": "Tupac ",
+    "BUZZWORD_4": "Chicago ",
+    "BUZZWORD_5": "Mail Truck "
+  },
+  {
+    "KEYWORD": "Pootie Tang ",
+    "BUZZWORD_1": "Wanda Sykes",
+    "BUZZWORD_2": "Chris Rock",
+    "BUZZWORD_3": "Lecter Corp",
+    "BUZZWORD_4": "Role Model",
+    "BUZZWORD_5": "Hero"
+  },
+  {
+    "KEYWORD": "Porgy & Bess ",
+    "BUZZWORD_1": "Catfish Row",
+    "BUZZWORD_2": "Charleston",
+    "BUZZWORD_3": "Sidney Portier",
+    "BUZZWORD_4": "Bess",
+    "BUZZWORD_5": "Sportin'Life"
+  },
+  {
+    "KEYWORD": "Posse",
+    "BUZZWORD_1": "Mario Van Peeples",
+    "BUZZWORD_2": "Cuba",
+    "BUZZWORD_3": "Gold",
+    "BUZZWORD_4": "Spanish-American War",
+    "BUZZWORD_5": "Shipment"
+  },
+  {
+    "KEYWORD": "Pride ",
+    "BUZZWORD_1": "Terrance Howard ",
+    "BUZZWORD_2": "Swimming",
+    "BUZZWORD_3": "Bernie Mac",
+    "BUZZWORD_4": "Team",
+    "BUZZWORD_5": "Racism"
+  },
+  {
+    "KEYWORD": "Proud Mary ",
+    "BUZZWORD_1": "Taraji P. Henson",
+    "BUZZWORD_2": "Hit Woman",
+    "BUZZWORD_3": "Boston",
+    "BUZZWORD_4": "Crime",
+    "BUZZWORD_5": "Tina Turner"
+  },
+  {
+    "KEYWORD": "Purple Rain ",
+    "BUZZWORD_1": "Prince",
+    "BUZZWORD_2": "Song",
+    "BUZZWORD_3": "Color",
+    "BUZZWORD_4": "Apollonia",
+    "BUZZWORD_5": "Morris Day"
+  },
+  {
+    "KEYWORD": "Queen",
+    "BUZZWORD_1": "Alex Haley",
+    "BUZZWORD_2": "Halle Berry ",
+    "BUZZWORD_3": "Family",
+    "BUZZWORD_4": "Ancestry",
+    "BUZZWORD_5": "Roots "
+  },
+  {
+    "KEYWORD": "Ray ",
+    "BUZZWORD_1": "Jamie Foxx ",
+    "BUZZWORD_2": "Kerry Washington ",
+    "BUZZWORD_3": "Georgia ",
+    "BUZZWORD_4": "Blind ",
+    "BUZZWORD_5": "Charles"
+  },
+  {
+    "KEYWORD": "Red Tails ",
+    "BUZZWORD_1": "Airplanes ",
+    "BUZZWORD_2": "Tuskegee",
+    "BUZZWORD_3": "Pilots",
+    "BUZZWORD_4": "Fighter Jets",
+    "BUZZWORD_5": "Colored"
+  },
+  {
+    "KEYWORD": "Remember the Titans ",
+    "BUZZWORD_1": "Disney ",
+    "BUZZWORD_2": "Jerry Bruckheimer",
+    "BUZZWORD_3": "Denzel Washington ",
+    "BUZZWORD_4": "Integrate",
+    "BUZZWORD_5": "Football"
+  },
+  {
+    "KEYWORD": "Ricochet ",
+    "BUZZWORD_1": "Denzel Washington ",
+    "BUZZWORD_2": "Hit Man",
+    "BUZZWORD_3": "District Attorney",
+    "BUZZWORD_4": "Revenge",
+    "BUZZWORD_5": "Nick Styles"
+  },
+  {
+    "KEYWORD": "Ride",
+    "BUZZWORD_1": "Helen Hunt",
+    "BUZZWORD_2": "Editor",
+    "BUZZWORD_3": "Beach",
+    "BUZZWORD_4": "Los Angeles",
+    "BUZZWORD_5": "Comedy"
+  },
+  {
+    "KEYWORD": "Ride Along ",
+    "BUZZWORD_1": "Kevin Hart",
+    "BUZZWORD_2": "Security Guard",
+    "BUZZWORD_3": "Ice Cube",
+    "BUZZWORD_4": "Atlanta",
+    "BUZZWORD_5": "Cop"
+  },
+  {
+    "KEYWORD": "Roll Bounce ",
+    "BUZZWORD_1": "Skating ",
+    "BUZZWORD_2": "Bow Wow",
+    "BUZZWORD_3": "Sweetness ",
+    "BUZZWORD_4": "Chicago ",
+    "BUZZWORD_5": "Sweetwater "
+  },
+  {
+    "KEYWORD": "Roots ",
+    "BUZZWORD_1": "Kunta Kente ",
+    "BUZZWORD_2": "Kizzy ",
+    "BUZZWORD_3": "Alex Haley ",
+    "BUZZWORD_4": "Chicken George ",
+    "BUZZWORD_5": "Lavar Burton "
+  },
+  {
+    "KEYWORD": "Rosewood",
+    "BUZZWORD_1": "Florida ",
+    "BUZZWORD_2": "Race Riot ",
+    "BUZZWORD_3": "Don Cheadle",
+    "BUZZWORD_4": "John Voight",
+    "BUZZWORD_5": "Ving Rhames"
+  },
+  {
+    "KEYWORD": "Scary Movie ",
+    "BUZZWORD_1": "Marlon",
+    "BUZZWORD_2": "Shawn ",
+    "BUZZWORD_3": "Wayans ",
+    "BUZZWORD_4": "Spoof ",
+    "BUZZWORD_5": "Regina Hall"
+  },
+  {
+    "KEYWORD": "School Daze ",
+    "BUZZWORD_1": "Tisha Campbell",
+    "BUZZWORD_2": "Good Hair ",
+    "BUZZWORD_3": "Mission College ",
+    "BUZZWORD_4": "Half-Pint ",
+    "BUZZWORD_5": "Gamma"
+  },
+  {
+    "KEYWORD": "Selma",
+    "BUZZWORD_1": "Alabama",
+    "BUZZWORD_2": "MLK",
+    "BUZZWORD_3": "March",
+    "BUZZWORD_4": "Montgomery",
+    "BUZZWORD_5": 1965
+  },
+  {
+    "KEYWORD": "Selma, Lord, Selma",
+    "BUZZWORD_1": "Jurnee Smollett",
+    "BUZZWORD_2": "Racism",
+    "BUZZWORD_3": "Voting Rights",
+    "BUZZWORD_4": "Movement",
+    "BUZZWORD_5": "Alabama"
+  },
+  {
+    "KEYWORD": "Senseless ",
+    "BUZZWORD_1": "Comedy",
+    "BUZZWORD_2": "Marlon Wayans",
+    "BUZZWORD_3": "Superhuman",
+    "BUZZWORD_4": "Wall Street",
+    "BUZZWORD_5": "David Spade"
+  },
+  {
+    "KEYWORD": "Set It Off ",
+    "BUZZWORD_1": "Queen Latifah ",
+    "BUZZWORD_2": "Stoney ",
+    "BUZZWORD_3": "Jada Pinkett",
+    "BUZZWORD_4": "Viviva A. Fox",
+    "BUZZWORD_5": "Dr. Dre "
+  },
+  {
+    "KEYWORD": "Seven Pounds ",
+    "BUZZWORD_1": "Will Smith",
+    "BUZZWORD_2": "Ben Thomas",
+    "BUZZWORD_3": "Rosario Dawson",
+    "BUZZWORD_4": "Romance",
+    "BUZZWORD_5": "Secret"
+  },
+  {
+    "KEYWORD": "Shaft ",
+    "BUZZWORD_1": "John Singleton",
+    "BUZZWORD_2": "New York",
+    "BUZZWORD_3": "Detective",
+    "BUZZWORD_4": "Richard Roundtree",
+    "BUZZWORD_5": "Samuel Jackson"
+  },
+  {
+    "KEYWORD": "She's Gotta Have It ",
+    "BUZZWORD_1": "Nola",
+    "BUZZWORD_2": "Spike Lee",
+    "BUZZWORD_3": "Black and White",
+    "BUZZWORD_4": "40 Acres",
+    "BUZZWORD_5": "Geek"
+  },
+  {
+    "KEYWORD": "Shottas",
+    "BUZZWORD_1": "Drug Dealers",
+    "BUZZWORD_2": "Marley",
+    "BUZZWORD_3": "Miami",
+    "BUZZWORD_4": "Depoted",
+    "BUZZWORD_5": "Wyclef Jean"
+  },
+  {
+    "KEYWORD": "Sister Act ",
+    "BUZZWORD_1": "Whoopi Goldbeg",
+    "BUZZWORD_2": "Nuns",
+    "BUZZWORD_3": "Choir",
+    "BUZZWORD_4": "Convent",
+    "BUZZWORD_5": "Singer"
+  },
+  {
+    "KEYWORD": "Something New ",
+    "BUZZWORD_1": "Sanaa Lathan",
+    "BUZZWORD_2": "Blind Date",
+    "BUZZWORD_3": "Garden",
+    "BUZZWORD_4": "Blair Underwood",
+    "BUZZWORD_5": "Architect"
+  },
+  {
+    "KEYWORD": "Soul Food ",
+    "BUZZWORD_1": "Family ",
+    "BUZZWORD_2": "Nia Long",
+    "BUZZWORD_3": "Vivica A. Fox ",
+    "BUZZWORD_4": "Big Mama ",
+    "BUZZWORD_5": "Sunday Dinner"
+  },
+  {
+    "KEYWORD": "Soul Men ",
+    "BUZZWORD_1": "Comedy",
+    "BUZZWORD_2": "Bernie Mac",
+    "BUZZWORD_3": "Isaac Hayes",
+    "BUZZWORD_4": "Singers",
+    "BUZZWORD_5": "Reuniom"
+  },
+  {
+    "KEYWORD": "Soul Plane ",
+    "BUZZWORD_1": "Kevin Hart",
+    "BUZZWORD_2": "Airline",
+    "BUZZWORD_3": "Snoop",
+    "BUZZWORD_4": "Capt. Mack",
+    "BUZZWORD_5": "Comedy"
+  },
+  {
+    "KEYWORD": "South Central ",
+    "BUZZWORD_1": "Los Angeles ",
+    "BUZZWORD_2": "Ali",
+    "BUZZWORD_3": "Deuces",
+    "BUZZWORD_4": "Rehabilitation",
+    "BUZZWORD_5": "Gang"
+  },
+  {
+    "KEYWORD": "Sparkle ",
+    "BUZZWORD_1": "Girl Group",
+    "BUZZWORD_2": "Motown",
+    "BUZZWORD_3": "Whtiney Houston",
+    "BUZZWORD_4": "Detroit",
+    "BUZZWORD_5": "Jordin Sparks"
+  },
+  {
+    "KEYWORD": "Spawn ",
+    "BUZZWORD_1": "Assassin",
+    "BUZZWORD_2": "Double-Cross",
+    "BUZZWORD_3": "Hell",
+    "BUZZWORD_4": "Disfigured",
+    "BUZZWORD_5": "Micharl Jai White"
+  },
+  {
+    "KEYWORD": "Spike Lee ",
+    "BUZZWORD_1": "Director ",
+    "BUZZWORD_2": "40 Acres & a Mule ",
+    "BUZZWORD_3": "Producer ",
+    "BUZZWORD_4": "Morehouse ",
+    "BUZZWORD_5": "Brooklyn"
+  },
+  {
+    "KEYWORD": "Sprung ",
+    "BUZZWORD_1": "Comedy",
+    "BUZZWORD_2": "Montel",
+    "BUZZWORD_3": "Friends",
+    "BUZZWORD_4": "Gold Digger",
+    "BUZZWORD_5": "Tisha Campbell"
+  },
+  {
+    "KEYWORD": "State Property",
+    "BUZZWORD_1": "Beans ",
+    "BUZZWORD_2": "ABM",
+    "BUZZWORD_3": "Untouchable J",
+    "BUZZWORD_4": "Jay-Z",
+    "BUZZWORD_5": "Damon Dash"
+  },
+  {
+    "KEYWORD": "Steel Magnolias ",
+    "BUZZWORD_1": "Queen Latifah ",
+    "BUZZWORD_2": "Remake ",
+    "BUZZWORD_3": "Beautician",
+    "BUZZWORD_4": "Shelby",
+    "BUZZWORD_5": "Southern"
+  },
+  {
+    "KEYWORD": "Stomp the Yard ",
+    "BUZZWORD_1": "Dancer",
+    "BUZZWORD_2": "Atlanta",
+    "BUZZWORD_3": "Truth University",
+    "BUZZWORD_4": "Fraternities",
+    "BUZZWORD_5": "Competition"
+  },
+  {
+    "KEYWORD": "Stormy Weather ",
+    "BUZZWORD_1": "Lena Horne",
+    "BUZZWORD_2": "Cab Calloway",
+    "BUZZWORD_3": "1940s",
+    "BUZZWORD_4": "Stage Show",
+    "BUZZWORD_5": "Performers"
+  },
+  {
+    "KEYWORD": "Straight Out of Brooklyn",
+    "BUZZWORD_1": "Brooklyn",
+    "BUZZWORD_2": "Housing Project",
+    "BUZZWORD_3": "Robbery",
+    "BUZZWORD_4": "Briefcase",
+    "BUZZWORD_5": "Dennis"
+  },
+  {
+    "KEYWORD": "Straight Outta Compton ",
+    "BUZZWORD_1": "N.W.A",
+    "BUZZWORD_2": "Album ",
+    "BUZZWORD_3": "Los Angeles",
+    "BUZZWORD_4": "Ice Cube",
+    "BUZZWORD_5": "Dr. Dre"
+  },
+  {
+    "KEYWORD": "Streets is Watching ",
+    "BUZZWORD_1": "Musical",
+    "BUZZWORD_2": "Jay-Z",
+    "BUZZWORD_3": "Brooklyn",
+    "BUZZWORD_4": "Videos",
+    "BUZZWORD_5": "Rapper"
+  },
+  {
+    "KEYWORD": "Strictly Business ",
+    "BUZZWORD_1": "Waymon",
+    "BUZZWORD_2": "Real Estate",
+    "BUZZWORD_3": "Halle Berry",
+    "BUZZWORD_4": "Tommy Davidson",
+    "BUZZWORD_5": "Mail Room"
+  },
+  {
+    "KEYWORD": "Sugar Hill",
+    "BUZZWORD_1": "Wesley Snipes",
+    "BUZZWORD_2": "Roemello",
+    "BUZZWORD_3": "Drug Dealer",
+    "BUZZWORD_4": "North Carolina",
+    "BUZZWORD_5": "Raynathan"
+  },
+  {
+    "KEYWORD": "Sunset Park ",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Inner-City",
+    "BUZZWORD_3": "Teacher",
+    "BUZZWORD_4": "Rhea Pelman",
+    "BUZZWORD_5": "Coach"
+  },
+  {
+    "KEYWORD": "Super Fly ",
+    "BUZZWORD_1": "Ron O'Neal",
+    "BUZZWORD_2": "Priest",
+    "BUZZWORD_3": "Narcotics",
+    "BUZZWORD_4": "Retire",
+    "BUZZWORD_5": "Corrupt"
+  },
+  {
+    "KEYWORD": "Sweet Sweetback's Baadasssss Song",
+    "BUZZWORD_1": "Melvin Van Peebles",
+    "BUZZWORD_2": "Orphan",
+    "BUZZWORD_3": "Hell's Angels",
+    "BUZZWORD_4": "Brothel",
+    "BUZZWORD_5": "Sex Show"
+  },
+  {
+    "KEYWORD": "Tales From the Hood",
+    "BUZZWORD_1": "Thriller",
+    "BUZZWORD_2": "Mortician",
+    "BUZZWORD_3": "Drug Dealer",
+    "BUZZWORD_4": "Horror Tales",
+    "BUZZWORD_5": "Mr. Simms"
+  },
+  {
+    "KEYWORD": "Talk to Me ",
+    "BUZZWORD_1": "Ex-Convict",
+    "BUZZWORD_2": "Don Cheadle",
+    "BUZZWORD_3": "D.C.",
+    "BUZZWORD_4": "DJ",
+    "BUZZWORD_5": "Black Movement"
+  },
+  {
+    "KEYWORD": "Tap ",
+    "BUZZWORD_1": "Ex-Convict",
+    "BUZZWORD_2": "Gregory Hines",
+    "BUZZWORD_3": "Tap Dancer",
+    "BUZZWORD_4": "Little Mo",
+    "BUZZWORD_5": "Burglar"
+  },
+  {
+    "KEYWORD": "The Best Man ",
+    "BUZZWORD_1": "Nia Long ",
+    "BUZZWORD_2": "Terrance Howard ",
+    "BUZZWORD_3": "Writer",
+    "BUZZWORD_4": "Wedding",
+    "BUZZWORD_5": "Taye Diggs"
+  },
+  {
+    "KEYWORD": "The Bodyguard ",
+    "BUZZWORD_1": "Diva",
+    "BUZZWORD_2": "Whitney Houston",
+    "BUZZWORD_3": "Stalker",
+    "BUZZWORD_4": "Kevin Costner",
+    "BUZZWORD_5": "Protector"
+  },
+  {
+    "KEYWORD": "The Brothers ",
+    "BUZZWORD_1": "Friendship",
+    "BUZZWORD_2": "Romance ",
+    "BUZZWORD_3": "Comedy",
+    "BUZZWORD_4": "Morris Chestnut",
+    "BUZZWORD_5": "Shemar Moore"
+  },
+  {
+    "KEYWORD": "The Butler",
+    "BUZZWORD_1": "Oprah",
+    "BUZZWORD_2": "Forest Whitaker",
+    "BUZZWORD_3": "White House",
+    "BUZZWORD_4": "Oval Office",
+    "BUZZWORD_5": "First Family "
+  },
+  {
+    "KEYWORD": "The Color Purple ",
+    "BUZZWORD_1": "Whoopi Goldberg Oprah Winfrey ",
+    "BUZZWORD_2": "",
+    "BUZZWORD_3": "Celie ",
+    "BUZZWORD_4": "\"Mister\"",
+    "BUZZWORD_5": "Alice Walker"
+  },
+  {
+    "KEYWORD": "The Distinguished Gentleman",
+    "BUZZWORD_1": "Shyster",
+    "BUZZWORD_2": "Eddie Murphy",
+    "BUZZWORD_3": "Politician",
+    "BUZZWORD_4": "Sheryl Lee Ralph",
+    "BUZZWORD_5": "Cancer"
+  },
+  {
+    "KEYWORD": "The Emperor Jones ",
+    "BUZZWORD_1": "Brutus",
+    "BUZZWORD_2": "Paul Robeson",
+    "BUZZWORD_3": "Chain Gang",
+    "BUZZWORD_4": "Railway",
+    "BUZZWORD_5": "Gambler"
+  },
+  {
+    "KEYWORD": "The Family That Preys ",
+    "BUZZWORD_1": "Alfre Woodard",
+    "BUZZWORD_2": "Kathy Bates",
+    "BUZZWORD_3": "Road Trip",
+    "BUZZWORD_4": "Aizheimer's",
+    "BUZZWORD_5": "Infidelity"
+  },
+  {
+    "KEYWORD": "The Fighting Temptations ",
+    "BUZZWORD_1": "Cuba Gooding",
+    "BUZZWORD_2": "Beyonce' ",
+    "BUZZWORD_3": "Choir ",
+    "BUZZWORD_4": "Executive ",
+    "BUZZWORD_5": "Church "
+  },
+  {
+    "KEYWORD": "The Five Heartbeats ",
+    "BUZZWORD_1": "Robert Townsend ",
+    "BUZZWORD_2": "Diahann Caroll",
+    "BUZZWORD_3": "Nights Like This ",
+    "BUZZWORD_4": "Singing Group",
+    "BUZZWORD_5": "Leon"
+  },
+  {
+    "KEYWORD": "The Great Debaters ",
+    "BUZZWORD_1": "Denzel Washing",
+    "BUZZWORD_2": "Professor",
+    "BUZZWORD_3": "Wiley College",
+    "BUZZWORD_4": "Debators",
+    "BUZZWORD_5": "Team"
+  },
+  {
+    "KEYWORD": "The Help ",
+    "BUZZWORD_1": "Mississippi",
+    "BUZZWORD_2": "Domestics",
+    "BUZZWORD_3": "Chocolate Pie",
+    "BUZZWORD_4": "Viola Davis",
+    "BUZZWORD_5": "Skeeter"
+  },
+  {
+    "KEYWORD": "The Honeymooners ",
+    "BUZZWORD_1": "Cedric",
+    "BUZZWORD_2": "New York",
+    "BUZZWORD_3": "Bus Driver",
+    "BUZZWORD_4": "Mike Epps",
+    "BUZZWORD_5": "Comedy"
+  },
+  {
+    "KEYWORD": "The Hurricane ",
+    "BUZZWORD_1": "Prison",
+    "BUZZWORD_2": "Boxer ",
+    "BUZZWORD_3": "Denzel Washington",
+    "BUZZWORD_4": "Weather ",
+    "BUZZWORD_5": "Freedom"
+  },
+  {
+    "KEYWORD": "The Inkwell ",
+    "BUZZWORD_1": "Martha's Vineyard ",
+    "BUZZWORD_2": "Larenz Tate",
+    "BUZZWORD_3": "Fire",
+    "BUZZWORD_4": "Island",
+    "BUZZWORD_5": "Jada Pinkett"
+  },
+  {
+    "KEYWORD": "The Jackie Robinson Story ",
+    "BUZZWORD_1": "Baseball ",
+    "BUZZWORD_2": 42,
+    "BUZZWORD_3": "Coach",
+    "BUZZWORD_4": "Major League",
+    "BUZZWORD_5": "Ruby Dee"
+  },
+  {
+    "KEYWORD": "The Jacksons",
+    "BUZZWORD_1": "Michael ",
+    "BUZZWORD_2": "Tito",
+    "BUZZWORD_3": "Jermaine ",
+    "BUZZWORD_4": "Jackie ",
+    "BUZZWORD_5": "Joseph"
+  },
+  {
+    "KEYWORD": "The Josephine Baker Story ",
+    "BUZZWORD_1": "Dancer",
+    "BUZZWORD_2": "France",
+    "BUZZWORD_3": "Activist",
+    "BUZZWORD_4": "1920s",
+    "BUZZWORD_5": "Banana Skirt"
+  },
+  {
+    "KEYWORD": "The Ladies Man",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "Leon",
+    "BUZZWORD_3": "Radio",
+    "BUZZWORD_4": "Letter",
+    "BUZZWORD_5": "Tim Meadows"
+  },
+  {
+    "KEYWORD": "The Last Dragon ",
+    "BUZZWORD_1": "New York",
+    "BUZZWORD_2": "Bruce Lee",
+    "BUZZWORD_3": "Vanity",
+    "BUZZWORD_4": "Shogun",
+    "BUZZWORD_5": "Taimak"
+  },
+  {
+    "KEYWORD": "The Last King of Scotland ",
+    "BUZZWORD_1": "Uganda",
+    "BUZZWORD_2": "Dictator",
+    "BUZZWORD_3": "Idi Amin",
+    "BUZZWORD_4": "Forest Whitaker",
+    "BUZZWORD_5": "Physician"
+  },
+  {
+    "KEYWORD": "The Mack ",
+    "BUZZWORD_1": "\"Goldie\"",
+    "BUZZWORD_2": "Oakland",
+    "BUZZWORD_3": "Prostitute",
+    "BUZZWORD_4": "Pimp",
+    "BUZZWORD_5": "Lulu"
+  },
+  {
+    "KEYWORD": "The Meteor Man",
+    "BUZZWORD_1": "Robert Townsend ",
+    "BUZZWORD_2": "Superhero",
+    "BUZZWORD_3": "Teacher",
+    "BUZZWORD_4": "Meteor",
+    "BUZZWORD_5": "Science Fiction"
+  },
+  {
+    "KEYWORD": "The Mighty Quinn",
+    "BUZZWORD_1": "Denzel Washington",
+    "BUZZWORD_2": "Murder",
+    "BUZZWORD_3": "Caribbean",
+    "BUZZWORD_4": "Jucuzzi",
+    "BUZZWORD_5": "Maubee"
+  },
+  {
+    "KEYWORD": "The Nutty Professor ",
+    "BUZZWORD_1": "Eddie Murphy ",
+    "BUZZWORD_2": "Jada Pinkett-Smith ",
+    "BUZZWORD_3": "Buddy Love ",
+    "BUZZWORD_4": "Sherman Klump",
+    "BUZZWORD_5": "Obese"
+  },
+  {
+    "KEYWORD": "The Players Club ",
+    "BUZZWORD_1": "Ice Cube ",
+    "BUZZWORD_2": "Bernie Mac ",
+    "BUZZWORD_3": "Diamond ",
+    "BUZZWORD_4": "Stripper",
+    "BUZZWORD_5": "Lisa Raye "
+  },
+  {
+    "KEYWORD": "The Princess and the Frog ",
+    "BUZZWORD_1": "Disney",
+    "BUZZWORD_2": "Tiana",
+    "BUZZWORD_3": "New Orleans",
+    "BUZZWORD_4": "Priestess",
+    "BUZZWORD_5": "Prince Naveen"
+  },
+  {
+    "KEYWORD": "The Proud Family Movie",
+    "BUZZWORD_1": "Animated",
+    "BUZZWORD_2": "Scientist",
+    "BUZZWORD_3": "Clones",
+    "BUZZWORD_4": "Tommy Davidson",
+    "BUZZWORD_5": "Disney "
+  },
+  {
+    "KEYWORD": "The Pursuit of Happyness ",
+    "BUZZWORD_1": "Will Smith ",
+    "BUZZWORD_2": "Jaden Smith ",
+    "BUZZWORD_3": "Chris Gardner ",
+    "BUZZWORD_4": "Homeless ",
+    "BUZZWORD_5": "Thandie Newton "
+  },
+  {
+    "KEYWORD": "The Rosa Parks Story ",
+    "BUZZWORD_1": "Boycott ",
+    "BUZZWORD_2": "Bus ",
+    "BUZZWORD_3": "Civil Rights",
+    "BUZZWORD_4": "Segregation",
+    "BUZZWORD_5": "NAACP"
+  },
+  {
+    "KEYWORD": "The Secret Life of Bees ",
+    "BUZZWORD_1": "Dakota Fanning",
+    "BUZZWORD_2": "South Carolina",
+    "BUZZWORD_3": "Sisters",
+    "BUZZWORD_4": "Black Madonna",
+    "BUZZWORD_5": "Queen Latifah"
+  },
+  {
+    "KEYWORD": "The Spook Who Sat by the Door ",
+    "BUZZWORD_1": "Novel",
+    "BUZZWORD_2": "CIA",
+    "BUZZWORD_3": "Lawrence Cook",
+    "BUZZWORD_4": "Teenagers",
+    "BUZZWORD_5": "Ghost "
+  },
+  {
+    "KEYWORD": "The Temptations",
+    "BUZZWORD_1": "Motown",
+    "BUZZWORD_2": "Biography",
+    "BUZZWORD_3": "Otis Williams",
+    "BUZZWORD_4": "Group",
+    "BUZZWORD_5": "Singers"
+  },
+  {
+    "KEYWORD": "The Tuskegee Airmen",
+    "BUZZWORD_1": "Airplanes ",
+    "BUZZWORD_2": "Figther Jets ",
+    "BUZZWORD_3": "Laurence Fishburne",
+    "BUZZWORD_4": "Airforce",
+    "BUZZWORD_5": "Squadron"
+  },
+  {
+    "KEYWORD": "The Wash",
+    "BUZZWORD_1": "Comedy",
+    "BUZZWORD_2": "Snoop Dog",
+    "BUZZWORD_3": "Car Wash",
+    "BUZZWORD_4": "Roommates",
+    "BUZZWORD_5": "Kidnappers"
+  },
+  {
+    "KEYWORD": "The Wiz ",
+    "BUZZWORD_1": "Diana Ross",
+    "BUZZWORD_2": "Oz",
+    "BUZZWORD_3": "Witch",
+    "BUZZWORD_4": "Dorothy",
+    "BUZZWORD_5": "Scarecrow"
+  },
+  {
+    "KEYWORD": "The Women of Brewster Place ",
+    "BUZZWORD_1": "Oprah",
+    "BUZZWORD_2": "Inner-City",
+    "BUZZWORD_3": "Tenement",
+    "BUZZWORD_4": "Image Award",
+    "BUZZWORD_5": "Cicely Tyson"
+  },
+  {
+    "KEYWORD": "The Wood ",
+    "BUZZWORD_1": "Friends ",
+    "BUZZWORD_2": "Inglewood",
+    "BUZZWORD_3": "Groom",
+    "BUZZWORD_4": "Omar Epps",
+    "BUZZWORD_5": "LisaRaye"
+  },
+  {
+    "KEYWORD": "They Call Me Mr Tibbs",
+    "BUZZWORD_1": "Sidney Poitier",
+    "BUZZWORD_2": "Detective",
+    "BUZZWORD_3": "Murder",
+    "BUZZWORD_4": "Prostitute",
+    "BUZZWORD_5": "Peacher"
+  },
+  {
+    "KEYWORD": "Think Like a Man",
+    "BUZZWORD_1": "Steve Harvey ",
+    "BUZZWORD_2": "Romantic Comedy ",
+    "BUZZWORD_3": "Kevin Hart ",
+    "BUZZWORD_4": "Michael Ealy",
+    "BUZZWORD_5": "Relaionships"
+  },
+  {
+    "KEYWORD": "This Christmas ",
+    "BUZZWORD_1": "Monique'",
+    "BUZZWORD_2": "Loretta Devine",
+    "BUZZWORD_3": "Family",
+    "BUZZWORD_4": "Chris Brown",
+    "BUZZWORD_5": "Holiday"
+  },
+  {
+    "KEYWORD": "Three the Hard Way ",
+    "BUZZWORD_1": "Gordan Parks",
+    "BUZZWORD_2": "Jim Brown",
+    "BUZZWORD_3": "Black Belt",
+    "BUZZWORD_4": "Plot",
+    "BUZZWORD_5": "Poison"
+  },
+  {
+    "KEYWORD": "To Kill a Mockingbird",
+    "BUZZWORD_1": "Harper Lee",
+    "BUZZWORD_2": "Pulitzer",
+    "BUZZWORD_3": "Inequality",
+    "BUZZWORD_4": "Atticus Finch",
+    "BUZZWORD_5": "Rape"
+  },
+  {
+    "KEYWORD": "Trading Places ",
+    "BUZZWORD_1": "Dan Aykroyd",
+    "BUZZWORD_2": "Bet",
+    "BUZZWORD_3": "Brothers",
+    "BUZZWORD_4": "Eddie Murphy ",
+    "BUZZWORD_5": "Dukes"
+  },
+  {
+    "KEYWORD": "Training Day ",
+    "BUZZWORD_1": "Eva Mendez ",
+    "BUZZWORD_2": "Denzel Washington ",
+    "BUZZWORD_3": "Antoine Fuqua ",
+    "BUZZWORD_4": "King Kong",
+    "BUZZWORD_5": "LAPD"
+  },
+  {
+    "KEYWORD": "Undercover Brother ",
+    "BUZZWORD_1": "Dave Chappelle",
+    "BUZZWORD_2": "Operation Whitewash",
+    "BUZZWORD_3": "Underground Movement",
+    "BUZZWORD_4": "Eddie Griffin",
+    "BUZZWORD_5": "Campaign"
+  },
+  {
+    "KEYWORD": "Uptown Saturday Night ",
+    "BUZZWORD_1": "Bill Cosby ",
+    "BUZZWORD_2": "Sidney Poitier",
+    "BUZZWORD_3": "Lottery Ticket",
+    "BUZZWORD_4": "Holdup",
+    "BUZZWORD_5": "Nightclub"
+  },
+  {
+    "KEYWORD": "Vampire in Brooklyn ",
+    "BUZZWORD_1": "Eddie Murphy ",
+    "BUZZWORD_2": "Angela Bassett",
+    "BUZZWORD_3": "Occulist",
+    "BUZZWORD_4": "Murder",
+    "BUZZWORD_5": "Detective"
+  },
+  {
+    "KEYWORD": "Waiting to Exhale ",
+    "BUZZWORD_1": "Whitney Houston",
+    "BUZZWORD_2": "Terri McMillan ",
+    "BUZZWORD_3": "Romance",
+    "BUZZWORD_4": "Friendship",
+    "BUZZWORD_5": "Love Lives"
+  },
+  {
+    "KEYWORD": "Welcome Home, Roscoe Jenkins",
+    "BUZZWORD_1": "Cedric",
+    "BUZZWORD_2": "Reunion",
+    "BUZZWORD_3": "Family",
+    "BUZZWORD_4": "TV Host",
+    "BUZZWORD_5": "Martin Lawrence"
+  },
+  {
+    "KEYWORD": "What's Love Got to Do with It ",
+    "BUZZWORD_1": "Tina Turner ",
+    "BUZZWORD_2": "Ike ",
+    "BUZZWORD_3": "Angela Bassett ",
+    "BUZZWORD_4": "Anna Mae Bullock",
+    "BUZZWORD_5": "St Louis"
+  },
+  {
+    "KEYWORD": "When We Were Kings ",
+    "BUZZWORD_1": "Academy Award",
+    "BUZZWORD_2": "Documentary",
+    "BUZZWORD_3": "George Foreman",
+    "BUZZWORD_4": "Zaire",
+    "BUZZWORD_5": "Ali"
+  },
+  {
+    "KEYWORD": "White Men Can't Jump",
+    "BUZZWORD_1": "Basketball",
+    "BUZZWORD_2": "Wesley Snipes",
+    "BUZZWORD_3": "Woody Harrelson",
+    "BUZZWORD_4": "Con Game",
+    "BUZZWORD_5": "Los Angeles"
+  },
+  {
+    "KEYWORD": "Why Did I Get Married ",
+    "BUZZWORD_1": "Tyler Perry ",
+    "BUZZWORD_2": "Janet Jackson",
+    "BUZZWORD_3": "Infidelity",
+    "BUZZWORD_4": "Vacation",
+    "BUZZWORD_5": "Colorado"
+  },
+  {
+    "KEYWORD": "Women Thou Art Loosed ",
+    "BUZZWORD_1": "T.D.Jakes",
+    "BUZZWORD_2": "Loretta Devine",
+    "BUZZWORD_3": "Prison",
+    "BUZZWORD_4": "Melodrama",
+    "BUZZWORD_5": "Novel"
+  },
+  {
+    "KEYWORD": "Woo",
+    "BUZZWORD_1": "Jade Pinkett-Smith ",
+    "BUZZWORD_2": "Tommy Davidson",
+    "BUZZWORD_3": "Paralegal",
+    "BUZZWORD_4": "Date",
+    "BUZZWORD_5": "Dave Chappelle"
+  },
+  {
+    "KEYWORD": "You Got Served ",
+    "BUZZWORD_1": "Dance ",
+    "BUZZWORD_2": "Los Angeles",
+    "BUZZWORD_3": "Steve Harvey",
+    "BUZZWORD_4": "Competition",
+    "BUZZWORD_5": "Mr Rad"
+  },
+  {
+    "KEYWORD": "You So Crazy ",
+    "BUZZWORD_1": "Stand Up ",
+    "BUZZWORD_2": "Comedy ",
+    "BUZZWORD_3": "Martin Lawrence ",
+    "BUZZWORD_4": "Brooklyn",
+    "BUZZWORD_5": "Majestic Theater"
+  }
+]

@@ -1,0 +1,6 @@
+module Pods_tipoff_tipoffTests {
+  umbrella header "Pods-tipoff-tipoffTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

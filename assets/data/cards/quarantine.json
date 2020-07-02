@@ -1,0 +1,2410 @@
+[
+  {
+    "KEYWORD": "911",
+    "BUZZWORD_1": "Call",
+    "BUZZWORD_2": "Emergency ",
+    "BUZZWORD_3": "Paramedics",
+    "BUZZWORD_4": "Ambulance ",
+    "BUZZWORD_5": "Sirens"
+  },
+  {
+    "KEYWORD": "Abnormal ",
+    "BUZZWORD_1": "Unusual",
+    "BUZZWORD_2": "Rare",
+    "BUZZWORD_3": "Freak",
+    "BUZZWORD_4": "Uncommon",
+    "BUZZWORD_5": "Strange"
+  },
+  {
+    "KEYWORD": "Acceptance",
+    "BUZZWORD_1": "Approval",
+    "BUZZWORD_2": "Admission",
+    "BUZZWORD_3": "Compliance ",
+    "BUZZWORD_4": "Okay ",
+    "BUZZWORD_5": "Yes"
+  },
+  {
+    "KEYWORD": "Access",
+    "BUZZWORD_1": "Approach",
+    "BUZZWORD_2": "Course",
+    "BUZZWORD_3": "Door",
+    "BUZZWORD_4": "Way",
+    "BUZZWORD_5": "Entrance"
+  },
+  {
+    "KEYWORD": "Activities ",
+    "BUZZWORD_1": "Action",
+    "BUZZWORD_2": "Movement",
+    "BUZZWORD_3": "Bustle",
+    "BUZZWORD_4": "Labor",
+    "BUZZWORD_5": "Motion"
+  },
+  {
+    "KEYWORD": "Advocate",
+    "BUZZWORD_1": "Backer",
+    "BUZZWORD_2": "Ally",
+    "BUZZWORD_3": "Partner",
+    "BUZZWORD_4": "Champion",
+    "BUZZWORD_5": "Campaigner"
+  },
+  {
+    "KEYWORD": "Afflicted ",
+    "BUZZWORD_1": "Sick ",
+    "BUZZWORD_2": "Wozzy",
+    "BUZZWORD_3": "Suffering",
+    "BUZZWORD_4": "Ailing",
+    "BUZZWORD_5": "Sticken"
+  },
+  {
+    "KEYWORD": "Affordable ",
+    "BUZZWORD_1": "Budget ",
+    "BUZZWORD_2": "Modest",
+    "BUZZWORD_3": "Cheap",
+    "BUZZWORD_4": "Reasonable ",
+    "BUZZWORD_5": "Reduced"
+  },
+  {
+    "KEYWORD": "Age ",
+    "BUZZWORD_1": "Life ",
+    "BUZZWORD_2": "Number",
+    "BUZZWORD_3": "Maturity ",
+    "BUZZWORD_4": "Milestone",
+    "BUZZWORD_5": "Senior"
+  },
+  {
+    "KEYWORD": "Agency",
+    "BUZZWORD_1": "Authority",
+    "BUZZWORD_2": "Enforcement",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Jurisdiction",
+    "BUZZWORD_5": "Regulator"
+  },
+  {
+    "KEYWORD": "Airbourne",
+    "BUZZWORD_1": "Aerial",
+    "BUZZWORD_2": "Floating",
+    "BUZZWORD_3": "Drifting",
+    "BUZZWORD_4": "Hovering",
+    "BUZZWORD_5": "Mobile"
+  },
+  {
+    "KEYWORD": "Alternative",
+    "BUZZWORD_1": "Medicine",
+    "BUZZWORD_2": "Antiobiotics",
+    "BUZZWORD_3": "Drug",
+    "BUZZWORD_4": "Pharmaceutical ",
+    "BUZZWORD_5": "Prescription "
+  },
+  {
+    "KEYWORD": "Amazon Prime ",
+    "BUZZWORD_1": "App",
+    "BUZZWORD_2": "Movies",
+    "BUZZWORD_3": "Shows",
+    "BUZZWORD_4": "Entertainment ",
+    "BUZZWORD_5": "TV"
+  },
+  {
+    "KEYWORD": "Antibacterial",
+    "BUZZWORD_1": "Hygenic ",
+    "BUZZWORD_2": "Sterile",
+    "BUZZWORD_3": "Antibiotic",
+    "BUZZWORD_4": "Disinfectant",
+    "BUZZWORD_5": "Clean"
+  },
+  {
+    "KEYWORD": "Anxious",
+    "BUZZWORD_1": "Afraid",
+    "BUZZWORD_2": "Scared",
+    "BUZZWORD_3": "Antsy",
+    "BUZZWORD_4": "Jumpy",
+    "BUZZWORD_5": "Jumpy"
+  },
+  {
+    "KEYWORD": "Appointment ",
+    "BUZZWORD_1": "Tryst",
+    "BUZZWORD_2": "Invitation",
+    "BUZZWORD_3": "Rendezvous",
+    "BUZZWORD_4": "Consultation",
+    "BUZZWORD_5": "Gig"
+  },
+  {
+    "KEYWORD": "Article",
+    "BUZZWORD_1": "Clipping ",
+    "BUZZWORD_2": "Snippet",
+    "BUZZWORD_3": "Column",
+    "BUZZWORD_4": "Report",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Assistance ",
+    "BUZZWORD_1": "Relief",
+    "BUZZWORD_2": "Help",
+    "BUZZWORD_3": "Support",
+    "BUZZWORD_4": "Maintanence ",
+    "BUZZWORD_5": "Allieviation"
+  },
+  {
+    "KEYWORD": "Avoid",
+    "BUZZWORD_1": "Avert ",
+    "BUZZWORD_2": "Bypass",
+    "BUZZWORD_3": "Evade",
+    "BUZZWORD_4": "Shun",
+    "BUZZWORD_5": "Sidestep"
+  },
+  {
+    "KEYWORD": "Awareness ",
+    "BUZZWORD_1": "Enlightenment",
+    "BUZZWORD_2": "Realization",
+    "BUZZWORD_3": "Discernment",
+    "BUZZWORD_4": "Consciousness",
+    "BUZZWORD_5": "Familiarity"
+  },
+  {
+    "KEYWORD": "Baking",
+    "BUZZWORD_1": "Dessert ",
+    "BUZZWORD_2": "Oven ",
+    "BUZZWORD_3": "Sweets ",
+    "BUZZWORD_4": "Recipes",
+    "BUZZWORD_5": "Pastry"
+  },
+  {
+    "KEYWORD": "Barber ",
+    "BUZZWORD_1": "Beautician",
+    "BUZZWORD_2": "Shave",
+    "BUZZWORD_3": "Razor ",
+    "BUZZWORD_4": "Clippers",
+    "BUZZWORD_5": "Shop"
+  },
+  {
+    "KEYWORD": "Bat ",
+    "BUZZWORD_1": "Man",
+    "BUZZWORD_2": "Rat",
+    "BUZZWORD_3": "Nocturnal",
+    "BUZZWORD_4": "Fly",
+    "BUZZWORD_5": "Wings"
+  },
+  {
+    "KEYWORD": "Battle",
+    "BUZZWORD_1": "Assault",
+    "BUZZWORD_2": "Attack",
+    "BUZZWORD_3": "Warfare ",
+    "BUZZWORD_4": "Crusade ",
+    "BUZZWORD_5": "Fight"
+  },
+  {
+    "KEYWORD": "Beautician",
+    "BUZZWORD_1": "Barber ",
+    "BUZZWORD_2": "Wash",
+    "BUZZWORD_3": "Blow Dry ",
+    "BUZZWORD_4": "Curl ",
+    "BUZZWORD_5": "Cut "
+  },
+  {
+    "KEYWORD": "Believe",
+    "BUZZWORD_1": "Accept",
+    "BUZZWORD_2": "Trust",
+    "BUZZWORD_3": "Affirm",
+    "BUZZWORD_4": "Regard",
+    "BUZZWORD_5": "Conclude"
+  },
+  {
+    "KEYWORD": "Benefits",
+    "BUZZWORD_1": "Aid",
+    "BUZZWORD_2": "Assistance ",
+    "BUZZWORD_3": "Perks ",
+    "BUZZWORD_4": "Help ",
+    "BUZZWORD_5": "Extras "
+  },
+  {
+    "KEYWORD": "Bleach",
+    "BUZZWORD_1": "Clorox ",
+    "BUZZWORD_2": "Clear ",
+    "BUZZWORD_3": "Clean",
+    "BUZZWORD_4": "Wash",
+    "BUZZWORD_5": "Disinfect "
+  },
+  {
+    "KEYWORD": "Board Games",
+    "BUZZWORD_1": "Fun",
+    "BUZZWORD_2": "Group",
+    "BUZZWORD_3": "Cards",
+    "BUZZWORD_4": "Entertainment",
+    "BUZZWORD_5": "Pieces"
+  },
+  {
+    "KEYWORD": "Bonnet ",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Wrap",
+    "BUZZWORD_3": "Sleep",
+    "BUZZWORD_4": "Hat",
+    "BUZZWORD_5": "Satin"
+  },
+  {
+    "KEYWORD": "Bored",
+    "BUZZWORD_1": "Fatigued ",
+    "BUZZWORD_2": "Dull",
+    "BUZZWORD_3": "Blase'",
+    "BUZZWORD_4": "Spiritless",
+    "BUZZWORD_5": "Uninteresting"
+  },
+  {
+    "KEYWORD": "Bottle ",
+    "BUZZWORD_1": "Glass ",
+    "BUZZWORD_2": "Jug ",
+    "BUZZWORD_3": "Liquid ",
+    "BUZZWORD_4": "Drink ",
+    "BUZZWORD_5": "Milk "
+  },
+  {
+    "KEYWORD": "Brave ",
+    "BUZZWORD_1": "Bold ",
+    "BUZZWORD_2": "Gallant",
+    "BUZZWORD_3": "Fearless",
+    "BUZZWORD_4": "Heronic",
+    "BUZZWORD_5": "Strong"
+  },
+  {
+    "KEYWORD": "Breaking News",
+    "BUZZWORD_1": "Media ",
+    "BUZZWORD_2": "Immediate ",
+    "BUZZWORD_3": "Fast ",
+    "BUZZWORD_4": "Important ",
+    "BUZZWORD_5": "Urgent"
+  },
+  {
+    "KEYWORD": "Breath",
+    "BUZZWORD_1": "Exhale ",
+    "BUZZWORD_2": "Inhale",
+    "BUZZWORD_3": "Lungs ",
+    "BUZZWORD_4": "Wheeze",
+    "BUZZWORD_5": "Gasp"
+  },
+  {
+    "KEYWORD": "Budget",
+    "BUZZWORD_1": "Allocate ",
+    "BUZZWORD_2": "Allowance ",
+    "BUZZWORD_3": "Finance",
+    "BUZZWORD_4": "Statement ",
+    "BUZZWORD_5": "Fundas "
+  },
+  {
+    "KEYWORD": "Cabin Fever",
+    "BUZZWORD_1": "Restless",
+    "BUZZWORD_2": "Stir Crazy",
+    "BUZZWORD_3": "Confined ",
+    "BUZZWORD_4": "Antsy",
+    "BUZZWORD_5": "Fidgety"
+  },
+  {
+    "KEYWORD": "Calm",
+    "BUZZWORD_1": "Cool",
+    "BUZZWORD_2": "Mild",
+    "BUZZWORD_3": "Smooth",
+    "BUZZWORD_4": "Tranquil",
+    "BUZZWORD_5": "Inactive"
+  },
+  {
+    "KEYWORD": "Cardi B",
+    "BUZZWORD_1": "Rapper ",
+    "BUZZWORD_2": "Offset ",
+    "BUZZWORD_3": "Reality TV ",
+    "BUZZWORD_4": "MEME",
+    "BUZZWORD_5": "Kulture "
+  },
+  {
+    "KEYWORD": "Caring ",
+    "BUZZWORD_1": "Mother ",
+    "BUZZWORD_2": "Consider",
+    "BUZZWORD_3": "Tend",
+    "BUZZWORD_4": "Nurture",
+    "BUZZWORD_5": " Foster"
+  },
+  {
+    "KEYWORD": "Cases",
+    "BUZZWORD_1": "Examine",
+    "BUZZWORD_2": "Inspect",
+    "BUZZWORD_3": "Scrutinize",
+    "BUZZWORD_4": "Study",
+    "BUZZWORD_5": "Check Out"
+  },
+  {
+    "KEYWORD": "CDC",
+    "BUZZWORD_1": "Center ",
+    "BUZZWORD_2": "Disease ",
+    "BUZZWORD_3": "Control",
+    "BUZZWORD_4": "Organization",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Center",
+    "BUZZWORD_1": "Middle ",
+    "BUZZWORD_2": "Inside",
+    "BUZZWORD_3": "Midway",
+    "BUZZWORD_4": "Internal",
+    "BUZZWORD_5": "Innermost"
+  },
+  {
+    "KEYWORD": "Challenges ",
+    "BUZZWORD_1": "Social",
+    "BUZZWORD_2": "Media ",
+    "BUZZWORD_3": "Hashtag",
+    "BUZZWORD_4": "Bandwagon",
+    "BUZZWORD_5": "Funny"
+  },
+  {
+    "KEYWORD": "Children",
+    "BUZZWORD_1": "Kids ",
+    "BUZZWORD_2": "Youngster",
+    "BUZZWORD_3": "Brats",
+    "BUZZWORD_4": "Boys",
+    "BUZZWORD_5": "Girls"
+  },
+  {
+    "KEYWORD": "China",
+    "BUZZWORD_1": "Country",
+    "BUZZWORD_2": "Asia",
+    "BUZZWORD_3": "Shanghai",
+    "BUZZWORD_4": "Beijing",
+    "BUZZWORD_5": "Great Wall"
+  },
+  {
+    "KEYWORD": "Clarify",
+    "BUZZWORD_1": "Explain",
+    "BUZZWORD_2": "Describe ",
+    "BUZZWORD_3": "Define",
+    "BUZZWORD_4": "Simplify",
+    "BUZZWORD_5": "Settle"
+  },
+  {
+    "KEYWORD": "Clinic ",
+    "BUZZWORD_1": "Center",
+    "BUZZWORD_2": "Hospital",
+    "BUZZWORD_3": "Infirmary",
+    "BUZZWORD_4": "Surgery",
+    "BUZZWORD_5": "Dispensary"
+  },
+  {
+    "KEYWORD": "CNN",
+    "BUZZWORD_1": "Station",
+    "BUZZWORD_2": "Channel",
+    "BUZZWORD_3": "News ",
+    "BUZZWORD_4": "Media",
+    "BUZZWORD_5": "Don Lemon"
+  },
+  {
+    "KEYWORD": "Collect",
+    "BUZZWORD_1": "Amass",
+    "BUZZWORD_2": "Group",
+    "BUZZWORD_3": "Corral",
+    "BUZZWORD_4": "Save",
+    "BUZZWORD_5": "Assemble"
+  },
+  {
+    "KEYWORD": "Coloring",
+    "BUZZWORD_1": "Books ",
+    "BUZZWORD_2": "Crayons",
+    "BUZZWORD_3": "Markers ",
+    "BUZZWORD_4": "Fill In",
+    "BUZZWORD_5": "Shade "
+  },
+  {
+    "KEYWORD": "Community",
+    "BUZZWORD_1": "District",
+    "BUZZWORD_2": "Area",
+    "BUZZWORD_3": "Neighborhood ",
+    "BUZZWORD_4": "Precinct",
+    "BUZZWORD_5": "Suburbs"
+  },
+  {
+    "KEYWORD": "Complain",
+    "BUZZWORD_1": "Grumble",
+    "BUZZWORD_2": "Fuss",
+    "BUZZWORD_3": "Protest",
+    "BUZZWORD_4": "Whine",
+    "BUZZWORD_5": "Oppose"
+  },
+  {
+    "KEYWORD": "Complications",
+    "BUZZWORD_1": "Difficultly",
+    "BUZZWORD_2": "Problem",
+    "BUZZWORD_3": "Issue",
+    "BUZZWORD_4": "Barrier",
+    "BUZZWORD_5": "Impediment"
+  },
+  {
+    "KEYWORD": "Computer ",
+    "BUZZWORD_1": "CPU",
+    "BUZZWORD_2": "PC ",
+    "BUZZWORD_3": "Machine",
+    "BUZZWORD_4": "Laptop",
+    "BUZZWORD_5": "Digital"
+  },
+  {
+    "KEYWORD": "Concert ",
+    "BUZZWORD_1": "Virtual",
+    "BUZZWORD_2": "Artist",
+    "BUZZWORD_3": "Singer",
+    "BUZZWORD_4": "Rapper ",
+    "BUZZWORD_5": "Music "
+  },
+  {
+    "KEYWORD": "Conference Calls ",
+    "BUZZWORD_1": "Zoom",
+    "BUZZWORD_2": "Skype",
+    "BUZZWORD_3": "Meeting",
+    "BUZZWORD_4": "Group",
+    "BUZZWORD_5": "Work"
+  },
+  {
+    "KEYWORD": "Conspiracy Theory",
+    "BUZZWORD_1": "Internet ",
+    "BUZZWORD_2": "Research ",
+    "BUZZWORD_3": "Opinion",
+    "BUZZWORD_4": "Connections",
+    "BUZZWORD_5": "Argument"
+  },
+  {
+    "KEYWORD": "Contact",
+    "BUZZWORD_1": "Touch",
+    "BUZZWORD_2": "Proximately",
+    "BUZZWORD_3": "Associated",
+    "BUZZWORD_4": "Call",
+    "BUZZWORD_5": "Continuity"
+  },
+  {
+    "KEYWORD": "Contagious",
+    "BUZZWORD_1": "Infectious",
+    "BUZZWORD_2": "Endemic",
+    "BUZZWORD_3": "Spread",
+    "BUZZWORD_4": "Epidemic",
+    "BUZZWORD_5": "Deadly"
+  },
+  {
+    "KEYWORD": "Contract ",
+    "BUZZWORD_1": "Agreement ",
+    "BUZZWORD_2": "Pact",
+    "BUZZWORD_3": "Bond",
+    "BUZZWORD_4": "Settlement",
+    "BUZZWORD_5": "Binding"
+  },
+  {
+    "KEYWORD": "Conversation",
+    "BUZZWORD_1": "Talk",
+    "BUZZWORD_2": "Exchange",
+    "BUZZWORD_3": "Chat",
+    "BUZZWORD_4": "Discussion",
+    "BUZZWORD_5": "Discussion"
+  },
+  {
+    "KEYWORD": "Cooking ",
+    "BUZZWORD_1": "Bake",
+    "BUZZWORD_2": "Culinary",
+    "BUZZWORD_3": "Chef ",
+    "BUZZWORD_4": "Stovetop",
+    "BUZZWORD_5": "Oven"
+  },
+  {
+    "KEYWORD": "Coronavirus",
+    "BUZZWORD_1": "Circle",
+    "BUZZWORD_2": "Disease ",
+    "BUZZWORD_3": "Pandemic",
+    "BUZZWORD_4": "COVID-19",
+    "BUZZWORD_5": "Germ"
+  },
+  {
+    "KEYWORD": "Corporations",
+    "BUZZWORD_1": "Organizations",
+    "BUZZWORD_2": "Association",
+    "BUZZWORD_3": "Business",
+    "BUZZWORD_4": "Company",
+    "BUZZWORD_5": "Enterprise "
+  },
+  {
+    "KEYWORD": "Cough",
+    "BUZZWORD_1": "Hack ",
+    "BUZZWORD_2": "Cold ",
+    "BUZZWORD_3": "Flu",
+    "BUZZWORD_4": "Tickle",
+    "BUZZWORD_5": "Bark"
+  },
+  {
+    "KEYWORD": "COVID-19",
+    "BUZZWORD_1": "Coronavirus",
+    "BUZZWORD_2": "Disease ",
+    "BUZZWORD_3": "Germ",
+    "BUZZWORD_4": "Mutate",
+    "BUZZWORD_5": "Flu"
+  },
+  {
+    "KEYWORD": "Crib",
+    "BUZZWORD_1": "Address",
+    "BUZZWORD_2": "Abode",
+    "BUZZWORD_3": "Domicile",
+    "BUZZWORD_4": "Cradle",
+    "BUZZWORD_5": "Bassinet"
+  },
+  {
+    "KEYWORD": "Critical",
+    "BUZZWORD_1": "Dangerous",
+    "BUZZWORD_2": "Urgent",
+    "BUZZWORD_3": "Serious",
+    "BUZZWORD_4": "Crucial",
+    "BUZZWORD_5": "Risky"
+  },
+  {
+    "KEYWORD": "Curbside Pick Up",
+    "BUZZWORD_1": "Food ",
+    "BUZZWORD_2": "Restaurant ",
+    "BUZZWORD_3": "Take Out ",
+    "BUZZWORD_4": "Meals",
+    "BUZZWORD_5": "Car"
+  },
+  {
+    "KEYWORD": "Cure ",
+    "BUZZWORD_1": "Heal",
+    "BUZZWORD_2": "Restore",
+    "BUZZWORD_3": "Treatment",
+    "BUZZWORD_4": "Remedy",
+    "BUZZWORD_5": "Convalesce"
+  },
+  {
+    "KEYWORD": "Curve ",
+    "BUZZWORD_1": "Flatten",
+    "BUZZWORD_2": "Arc",
+    "BUZZWORD_3": "Arch",
+    "BUZZWORD_4": "Trajectory",
+    "BUZZWORD_5": "Bow"
+  },
+  {
+    "KEYWORD": "Dance",
+    "BUZZWORD_1": "Disco",
+    "BUZZWORD_2": "Swing",
+    "BUZZWORD_3": "Twist",
+    "BUZZWORD_4": "Tango",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "Days",
+    "BUZZWORD_1": "Time",
+    "BUZZWORD_2": "Night",
+    "BUZZWORD_3": "Sunrise ",
+    "BUZZWORD_4": "Dawn",
+    "BUZZWORD_5": "Light"
+  },
+  {
+    "KEYWORD": "Delicate ",
+    "BUZZWORD_1": "Fragile",
+    "BUZZWORD_2": "Feeble ",
+    "BUZZWORD_3": "Weak",
+    "BUZZWORD_4": "Flimsy ",
+    "BUZZWORD_5": "Brittle"
+  },
+  {
+    "KEYWORD": "Delivery ",
+    "BUZZWORD_1": "Distribute",
+    "BUZZWORD_2": "Dispatch",
+    "BUZZWORD_3": "Ship",
+    "BUZZWORD_4": "Mail",
+    "BUZZWORD_5": "Drop"
+  },
+  {
+    "KEYWORD": "Determine ",
+    "BUZZWORD_1": "Control ",
+    "BUZZWORD_2": "Regulate",
+    "BUZZWORD_3": "Rule",
+    "BUZZWORD_4": "Govern",
+    "BUZZWORD_5": "Influence"
+  },
+  {
+    "KEYWORD": "Diagnose",
+    "BUZZWORD_1": "Conclusion",
+    "BUZZWORD_2": "Analysis",
+    "BUZZWORD_3": "Examination",
+    "BUZZWORD_4": "Medicine ",
+    "BUZZWORD_5": "Opinion"
+  },
+  {
+    "KEYWORD": "Diet ",
+    "BUZZWORD_1": "Nutrition",
+    "BUZZWORD_2": "Fast",
+    "BUZZWORD_3": "Starvation",
+    "BUZZWORD_4": "Restriction ",
+    "BUZZWORD_5": "Feed"
+  },
+  {
+    "KEYWORD": "Disease ",
+    "BUZZWORD_1": "Cancer ",
+    "BUZZWORD_2": "Flu",
+    "BUZZWORD_3": "Fever ",
+    "BUZZWORD_4": "Illines",
+    "BUZZWORD_5": "Disorder"
+  },
+  {
+    "KEYWORD": "Disney Plus",
+    "BUZZWORD_1": "Channel",
+    "BUZZWORD_2": "App",
+    "BUZZWORD_3": "Movies ",
+    "BUZZWORD_4": "Shows ",
+    "BUZZWORD_5": "Entertainment"
+  },
+  {
+    "KEYWORD": "Dispensary",
+    "BUZZWORD_1": "Marijuana",
+    "BUZZWORD_2": "Weed ",
+    "BUZZWORD_3": "Legal",
+    "BUZZWORD_4": "High",
+    "BUZZWORD_5": "Green"
+  },
+  {
+    "KEYWORD": "Dizziness",
+    "BUZZWORD_1": "Dazed ",
+    "BUZZWORD_2": "Groggy",
+    "BUZZWORD_3": "Puzzled",
+    "BUZZWORD_4": "Woozy ",
+    "BUZZWORD_5": "Whirl"
+  },
+  {
+    "KEYWORD": "DJ",
+    "BUZZWORD_1": "Music",
+    "BUZZWORD_2": "Disc",
+    "BUZZWORD_3": "Jockey ",
+    "BUZZWORD_4": "Spin",
+    "BUZZWORD_5": "Selector"
+  },
+  {
+    "KEYWORD": "DNice ",
+    "BUZZWORD_1": "DJ ",
+    "BUZZWORD_2": "Music ",
+    "BUZZWORD_3": "8 hours ",
+    "BUZZWORD_4": "IG Live",
+    "BUZZWORD_5": "Obama"
+  },
+  {
+    "KEYWORD": "Doctor ",
+    "BUZZWORD_1": "Physician",
+    "BUZZWORD_2": "Expert",
+    "BUZZWORD_3": "Healer",
+    "BUZZWORD_4": "Scientist",
+    "BUZZWORD_5": "Specialist"
+  },
+  {
+    "KEYWORD": "Dominoes",
+    "BUZZWORD_1": "Black ",
+    "BUZZWORD_2": "White ",
+    "BUZZWORD_3": "Tiles",
+    "BUZZWORD_4": "Dots",
+    "BUZZWORD_5": "Game"
+  },
+  {
+    "KEYWORD": "Droplets ",
+    "BUZZWORD_1": "Particle",
+    "BUZZWORD_2": "Water ",
+    "BUZZWORD_3": "Tiny",
+    "BUZZWORD_4": "Tear",
+    "BUZZWORD_5": "H2O"
+  },
+  {
+    "KEYWORD": "Durag",
+    "BUZZWORD_1": "Hair ",
+    "BUZZWORD_2": "Waves ",
+    "BUZZWORD_3": "Fade ",
+    "BUZZWORD_4": "Tie",
+    "BUZZWORD_5": "Barber"
+  },
+  {
+    "KEYWORD": "Economy",
+    "BUZZWORD_1": "Marketing",
+    "BUZZWORD_2": "Merchandising",
+    "BUZZWORD_3": "Retail",
+    "BUZZWORD_4": "Wholesale ",
+    "BUZZWORD_5": "Budget"
+  },
+  {
+    "KEYWORD": "Emergency Room",
+    "BUZZWORD_1": "ER",
+    "BUZZWORD_2": "Hospital ",
+    "BUZZWORD_3": "Immediate ",
+    "BUZZWORD_4": "Dire ",
+    "BUZZWORD_5": "ICU"
+  },
+  {
+    "KEYWORD": "Empathetic",
+    "BUZZWORD_1": "Sensitive ",
+    "BUZZWORD_2": "Compassion",
+    "BUZZWORD_3": "Understanding ",
+    "BUZZWORD_4": "Merciful",
+    "BUZZWORD_5": "Warm"
+  },
+  {
+    "KEYWORD": "Empowement",
+    "BUZZWORD_1": "Approval",
+    "BUZZWORD_2": "Endorsement",
+    "BUZZWORD_3": " Privilege",
+    "BUZZWORD_4": "Permit",
+    "BUZZWORD_5": "Acknowledge"
+  },
+  {
+    "KEYWORD": "Encouragment ",
+    "BUZZWORD_1": "Confident",
+    "BUZZWORD_2": " Inspiration",
+    "BUZZWORD_3": "Cheer",
+    "BUZZWORD_4": "Optimism",
+    "BUZZWORD_5": "Assurance"
+  },
+  {
+    "KEYWORD": "Endurance",
+    "BUZZWORD_1": "Ability",
+    "BUZZWORD_2": "Perseverance ",
+    "BUZZWORD_3": "Stamina",
+    "BUZZWORD_4": "Vitatility",
+    "BUZZWORD_5": "Courage "
+  },
+  {
+    "KEYWORD": "Energy",
+    "BUZZWORD_1": "Strength",
+    "BUZZWORD_2": "Juice ",
+    "BUZZWORD_3": "Active",
+    "BUZZWORD_4": "Spirit",
+    "BUZZWORD_5": "Force"
+  },
+  {
+    "KEYWORD": "Enjoyment ",
+    "BUZZWORD_1": "Fun",
+    "BUZZWORD_2": "Amusement",
+    "BUZZWORD_3": "Gratification",
+    "BUZZWORD_4": "Joy",
+    "BUZZWORD_5": "Satisfaction"
+  },
+  {
+    "KEYWORD": "Enlightenment",
+    "BUZZWORD_1": "Insightful",
+    "BUZZWORD_2": "Proficiency",
+    "BUZZWORD_3": "Educated",
+    "BUZZWORD_4": "Knowledgeable",
+    "BUZZWORD_5": "Learning"
+  },
+  {
+    "KEYWORD": "Entertainment",
+    "BUZZWORD_1": "Distraction",
+    "BUZZWORD_2": "Fun",
+    "BUZZWORD_3": "Recreation",
+    "BUZZWORD_4": "Play ",
+    "BUZZWORD_5": "Enjoyment"
+  },
+  {
+    "KEYWORD": "Essential ",
+    "BUZZWORD_1": "Imperative",
+    "BUZZWORD_2": "Main",
+    "BUZZWORD_3": "Needed ",
+    "BUZZWORD_4": "Leader",
+    "BUZZWORD_5": "Imperative"
+  },
+  {
+    "KEYWORD": "Evolution",
+    "BUZZWORD_1": "Change",
+    "BUZZWORD_2": "Growth",
+    "BUZZWORD_3": "Transformation",
+    "BUZZWORD_4": "Progression",
+    "BUZZWORD_5": "Mature"
+  },
+  {
+    "KEYWORD": "Examination",
+    "BUZZWORD_1": "Inquiry ",
+    "BUZZWORD_2": "Inspection",
+    "BUZZWORD_3": "Probe",
+    "BUZZWORD_4": "Check-up",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Exercise ",
+    "BUZZWORD_1": "Movement ",
+    "BUZZWORD_2": "Cardio",
+    "BUZZWORD_3": "Gym",
+    "BUZZWORD_4": "Walk ",
+    "BUZZWORD_5": "Run"
+  },
+  {
+    "KEYWORD": "Exposure",
+    "BUZZWORD_1": "Hazard",
+    "BUZZWORD_2": "Risk",
+    "BUZZWORD_3": "Disclose ",
+    "BUZZWORD_4": "Confession ",
+    "BUZZWORD_5": "Airing"
+  },
+  {
+    "KEYWORD": "Facebook",
+    "BUZZWORD_1": "App",
+    "BUZZWORD_2": "Social Media ",
+    "BUZZWORD_3": "Wall",
+    "BUZZWORD_4": "Message ",
+    "BUZZWORD_5": "Likes "
+  },
+  {
+    "KEYWORD": "Faith",
+    "BUZZWORD_1": "Accept",
+    "BUZZWORD_2": "Hope ",
+    "BUZZWORD_3": "Belief ",
+    "BUZZWORD_4": "Conviction",
+    "BUZZWORD_5": "Confidence"
+  },
+  {
+    "KEYWORD": "Family ",
+    "BUZZWORD_1": "Companion",
+    "BUZZWORD_2": "Siblings ",
+    "BUZZWORD_3": "Relatives ",
+    "BUZZWORD_4": "Parents ",
+    "BUZZWORD_5": "Children "
+  },
+  {
+    "KEYWORD": "Famous",
+    "BUZZWORD_1": "Acclaimed",
+    "BUZZWORD_2": "Brilliant",
+    "BUZZWORD_3": "Eminent",
+    "BUZZWORD_4": "Glorious",
+    "BUZZWORD_5": "Grand"
+  },
+  {
+    "KEYWORD": "Fatal ",
+    "BUZZWORD_1": "Incurable",
+    "BUZZWORD_2": "Maligant ",
+    "BUZZWORD_3": "Mortal",
+    "BUZZWORD_4": "Deathly",
+    "BUZZWORD_5": "Disastrous"
+  },
+  {
+    "KEYWORD": "Fever ",
+    "BUZZWORD_1": "Temperature ",
+    "BUZZWORD_2": "Headache ",
+    "BUZZWORD_3": "Mind ",
+    "BUZZWORD_4": "Sick ",
+    "BUZZWORD_5": "Thermometer "
+  },
+  {
+    "KEYWORD": "Fight",
+    "BUZZWORD_1": "Argument ",
+    "BUZZWORD_2": "Battle",
+    "BUZZWORD_3": "Brawl",
+    "BUZZWORD_4": "Clash",
+    "BUZZWORD_5": "Melee"
+  },
+  {
+    "KEYWORD": "Fundraiser",
+    "BUZZWORD_1": "Race",
+    "BUZZWORD_2": "Charity",
+    "BUZZWORD_3": "Pledge",
+    "BUZZWORD_4": "Telethon",
+    "BUZZWORD_5": "Walk"
+  },
+  {
+    "KEYWORD": "Generous",
+    "BUZZWORD_1": "Helpful",
+    "BUZZWORD_2": "Reasonable  ",
+    "BUZZWORD_3": "Honest",
+    "BUZZWORD_4": "Charitable ",
+    "BUZZWORD_5": "Considerate"
+  },
+  {
+    "KEYWORD": "Gloves ",
+    "BUZZWORD_1": "Rubber ",
+    "BUZZWORD_2": "Protection",
+    "BUZZWORD_3": "Hands",
+    "BUZZWORD_4": "Mitt",
+    "BUZZWORD_5": "Hospitable"
+  },
+  {
+    "KEYWORD": "Government ",
+    "BUZZWORD_1": "Authority ",
+    "BUZZWORD_2": "Law ",
+    "BUZZWORD_3": "Politics ",
+    "BUZZWORD_4": "Rule ",
+    "BUZZWORD_5": "State "
+  },
+  {
+    "KEYWORD": "Governor",
+    "BUZZWORD_1": "State ",
+    "BUZZWORD_2": "Politician",
+    "BUZZWORD_3": "Leader",
+    "BUZZWORD_4": "Commander ",
+    "BUZZWORD_5": "Administration"
+  },
+  {
+    "KEYWORD": "Gown",
+    "BUZZWORD_1": "Dress",
+    "BUZZWORD_2": "Garment",
+    "BUZZWORD_3": "Cloth",
+    "BUZZWORD_4": "Frock",
+    "BUZZWORD_5": "Apparel"
+  },
+  {
+    "KEYWORD": "Gratitude",
+    "BUZZWORD_1": "Acknowledgment",
+    "BUZZWORD_2": "Recognition",
+    "BUZZWORD_3": "Gratefulness",
+    "BUZZWORD_4": "Thankful",
+    "BUZZWORD_5": "Honor"
+  },
+  {
+    "KEYWORD": "Growth",
+    "BUZZWORD_1": "Advance ",
+    "BUZZWORD_2": "Expansion ",
+    "BUZZWORD_3": "Gain",
+    "BUZZWORD_4": "Boost",
+    "BUZZWORD_5": "Hike"
+  },
+  {
+    "KEYWORD": "H1N1",
+    "BUZZWORD_1": "Flu",
+    "BUZZWORD_2": "Sickness ",
+    "BUZZWORD_3": "Illness ",
+    "BUZZWORD_4": "Virus",
+    "BUZZWORD_5": "Disease"
+  },
+  {
+    "KEYWORD": "Hair",
+    "BUZZWORD_1": "Fur",
+    "BUZZWORD_2": "Mane ",
+    "BUZZWORD_3": "Beautyshop",
+    "BUZZWORD_4": "Wig",
+    "BUZZWORD_5": "Eyebrow"
+  },
+  {
+    "KEYWORD": "Hand Sanitizer",
+    "BUZZWORD_1": "Gel",
+    "BUZZWORD_2": "Liquid ",
+    "BUZZWORD_3": "Spray",
+    "BUZZWORD_4": "Antibacterial",
+    "BUZZWORD_5": "Purell"
+  },
+  {
+    "KEYWORD": "Hands ",
+    "BUZZWORD_1": "Gloves ",
+    "BUZZWORD_2": "Wash",
+    "BUZZWORD_3": "Soap",
+    "BUZZWORD_4": "Water ",
+    "BUZZWORD_5": "Shake "
+  },
+  {
+    "KEYWORD": "Happy",
+    "BUZZWORD_1": "Cheerful",
+    "BUZZWORD_2": "Joyous",
+    "BUZZWORD_3": "Glad",
+    "BUZZWORD_4": "Ecstatic",
+    "BUZZWORD_5": "Jubilant"
+  },
+  {
+    "KEYWORD": "Hashtag",
+    "BUZZWORD_1": "Virual",
+    "BUZZWORD_2": "Instagram",
+    "BUZZWORD_3": "Pound",
+    "BUZZWORD_4": "Social ",
+    "BUZZWORD_5": "Media "
+  },
+  {
+    "KEYWORD": "HBO ",
+    "BUZZWORD_1": "Channel",
+    "BUZZWORD_2": "Premium",
+    "BUZZWORD_3": "Movies ",
+    "BUZZWORD_4": "Shows ",
+    "BUZZWORD_5": "Station"
+  },
+  {
+    "KEYWORD": "Headache",
+    "BUZZWORD_1": "Dilemma",
+    "BUZZWORD_2": "Hassle",
+    "BUZZWORD_3": "Pain",
+    "BUZZWORD_4": "Trouble ",
+    "BUZZWORD_5": "Worry"
+  },
+  {
+    "KEYWORD": "Healing ",
+    "BUZZWORD_1": "Cure",
+    "BUZZWORD_2": "Diagnose",
+    "BUZZWORD_3": "Remedy",
+    "BUZZWORD_4": "Aid",
+    "BUZZWORD_5": "Fix"
+  },
+  {
+    "KEYWORD": "Healthy ",
+    "BUZZWORD_1": "Lively",
+    "BUZZWORD_2": "Normal ",
+    "BUZZWORD_3": "Athletic",
+    "BUZZWORD_4": "Strong",
+    "BUZZWORD_5": "Tough"
+  },
+  {
+    "KEYWORD": "High Risk",
+    "BUZZWORD_1": "Exposure",
+    "BUZZWORD_2": "Liability",
+    "BUZZWORD_3": "Possibility",
+    "BUZZWORD_4": "Gamble",
+    "BUZZWORD_5": "Jeopardy"
+  },
+  {
+    "KEYWORD": "Hobby",
+    "BUZZWORD_1": "Amusement",
+    "BUZZWORD_2": "Activity ",
+    "BUZZWORD_3": "Craft ",
+    "BUZZWORD_4": "Fun",
+    "BUZZWORD_5": "Speciality"
+  },
+  {
+    "KEYWORD": "Homeschool",
+    "BUZZWORD_1": "Lesson",
+    "BUZZWORD_2": "Learn ",
+    "BUZZWORD_3": "Teach",
+    "BUZZWORD_4": "House ",
+    "BUZZWORD_5": "Student"
+  },
+  {
+    "KEYWORD": "Honest",
+    "BUZZWORD_1": "Authentic",
+    "BUZZWORD_2": "Decent",
+    "BUZZWORD_3": "Ethical",
+    "BUZZWORD_4": "Fair",
+    "BUZZWORD_5": "Sincere"
+  },
+  {
+    "KEYWORD": "Hoodies",
+    "BUZZWORD_1": "Cotton",
+    "BUZZWORD_2": "Head",
+    "BUZZWORD_3": "Drawstring",
+    "BUZZWORD_4": "Comfortable",
+    "BUZZWORD_5": "Clothing"
+  },
+  {
+    "KEYWORD": "Hopeful",
+    "BUZZWORD_1": "Confident",
+    "BUZZWORD_2": "Upbeat",
+    "BUZZWORD_3": "Comfortable ",
+    "BUZZWORD_4": "Content",
+    "BUZZWORD_5": "Eager"
+  },
+  {
+    "KEYWORD": "Hospital ",
+    "BUZZWORD_1": "ICU",
+    "BUZZWORD_2": "ER",
+    "BUZZWORD_3": "Emergency ",
+    "BUZZWORD_4": "Patients",
+    "BUZZWORD_5": "Room"
+  },
+  {
+    "KEYWORD": "Hulu",
+    "BUZZWORD_1": "Channel",
+    "BUZZWORD_2": "App",
+    "BUZZWORD_3": "Movies ",
+    "BUZZWORD_4": "Shows ",
+    "BUZZWORD_5": "Stream"
+  },
+  {
+    "KEYWORD": "Ibuprofen ",
+    "BUZZWORD_1": "Medicine ",
+    "BUZZWORD_2": "Advil",
+    "BUZZWORD_3": "Aspirin",
+    "BUZZWORD_4": "Antiflammatory",
+    "BUZZWORD_5": "Oral"
+  },
+  {
+    "KEYWORD": "Imagination ",
+    "BUZZWORD_1": "Artsy",
+    "BUZZWORD_2": "Fantasy",
+    "BUZZWORD_3": "Inventiveness",
+    "BUZZWORD_4": "Insight",
+    "BUZZWORD_5": "Inspiration"
+  },
+  {
+    "KEYWORD": "Important",
+    "BUZZWORD_1": "Critical",
+    "BUZZWORD_2": "Urgent",
+    "BUZZWORD_3": "Vital",
+    "BUZZWORD_4": "Meaningful",
+    "BUZZWORD_5": "Imperative"
+  },
+  {
+    "KEYWORD": "Indoors",
+    "BUZZWORD_1": "Inside",
+    "BUZZWORD_2": "Within",
+    "BUZZWORD_3": "Outdoors",
+    "BUZZWORD_4": "Outside ",
+    "BUZZWORD_5": "Building"
+  },
+  {
+    "KEYWORD": "Infection",
+    "BUZZWORD_1": "Disease",
+    "BUZZWORD_2": "Pison",
+    "BUZZWORD_3": "Virus",
+    "BUZZWORD_4": "Bug",
+    "BUZZWORD_5": "Germ"
+  },
+  {
+    "KEYWORD": "Inflammatory ",
+    "BUZZWORD_1": "Explosive",
+    "BUZZWORD_2": "Incendiary",
+    "BUZZWORD_3": "Anarchic",
+    "BUZZWORD_4": "Rabid",
+    "BUZZWORD_5": "Excited"
+  },
+  {
+    "KEYWORD": "Injection ",
+    "BUZZWORD_1": "Shot",
+    "BUZZWORD_2": "Antidote",
+    "BUZZWORD_3": "Drug",
+    "BUZZWORD_4": "Booster",
+    "BUZZWORD_5": "Dose"
+  },
+  {
+    "KEYWORD": "Inspiration",
+    "BUZZWORD_1": "Encouragement",
+    "BUZZWORD_2": "Incentive ",
+    "BUZZWORD_3": "Motivation",
+    "BUZZWORD_4": "Awakening",
+    "BUZZWORD_5": "Creativity"
+  },
+  {
+    "KEYWORD": "Instagram LIVE ",
+    "BUZZWORD_1": "IG",
+    "BUZZWORD_2": "Real Time",
+    "BUZZWORD_3": "DJ",
+    "BUZZWORD_4": "Social Media ",
+    "BUZZWORD_5": "Celebrities"
+  },
+  {
+    "KEYWORD": "Insurance ",
+    "BUZZWORD_1": "Protection",
+    "BUZZWORD_2": "Security",
+    "BUZZWORD_3": "Defense",
+    "BUZZWORD_4": "Guarantee",
+    "BUZZWORD_5": "Coverage"
+  },
+  {
+    "KEYWORD": "Intensive Care",
+    "BUZZWORD_1": "ICU",
+    "BUZZWORD_2": "Department",
+    "BUZZWORD_3": "Hospital",
+    "BUZZWORD_4": "Treatment",
+    "BUZZWORD_5": "Medical"
+  },
+  {
+    "KEYWORD": "Interest",
+    "BUZZWORD_1": "Loans",
+    "BUZZWORD_2": "Mortgage",
+    "BUZZWORD_3": "Credit Cards ",
+    "BUZZWORD_4": "Percentage ",
+    "BUZZWORD_5": "Rate "
+  },
+  {
+    "KEYWORD": "Investigate ",
+    "BUZZWORD_1": "Examine",
+    "BUZZWORD_2": "Inspect",
+    "BUZZWORD_3": "Question",
+    "BUZZWORD_4": "Police ",
+    "BUZZWORD_5": "Inquire "
+  },
+  {
+    "KEYWORD": "Kindness",
+    "BUZZWORD_1": "Courteous",
+    "BUZZWORD_2": "Cordial",
+    "BUZZWORD_3": "Decent ",
+    "BUZZWORD_4": "Patient ",
+    "BUZZWORD_5": "Sympathetic"
+  },
+  {
+    "KEYWORD": "Knowledge",
+    "BUZZWORD_1": "Awareness",
+    "BUZZWORD_2": "Education",
+    "BUZZWORD_3": "Expertise ",
+    "BUZZWORD_4": "Wisdom",
+    "BUZZWORD_5": "Ability"
+  },
+  {
+    "KEYWORD": "Laugh",
+    "BUZZWORD_1": "Giggle",
+    "BUZZWORD_2": "Snicker",
+    "BUZZWORD_3": "Roar",
+    "BUZZWORD_4": "Smile",
+    "BUZZWORD_5": "Haha"
+  },
+  {
+    "KEYWORD": "Leadership ",
+    "BUZZWORD_1": "Authority",
+    "BUZZWORD_2": "Power",
+    "BUZZWORD_3": "Management",
+    "BUZZWORD_4": "Team",
+    "BUZZWORD_5": "Captain"
+  },
+  {
+    "KEYWORD": "Leisure ",
+    "BUZZWORD_1": "Recreation",
+    "BUZZWORD_2": "Relaxation",
+    "BUZZWORD_3": "Retirement",
+    "BUZZWORD_4": "Sabbatical",
+    "BUZZWORD_5": "Vacation"
+  },
+  {
+    "KEYWORD": "Life ",
+    "BUZZWORD_1": "Live",
+    "BUZZWORD_2": "Love",
+    "BUZZWORD_3": "Heart",
+    "BUZZWORD_4": "Soul",
+    "BUZZWORD_5": "Celebrate"
+  },
+  {
+    "KEYWORD": "Lifestyle",
+    "BUZZWORD_1": "Situation",
+    "BUZZWORD_2": "Position",
+    "BUZZWORD_3": "Condition",
+    "BUZZWORD_4": "Circumstance",
+    "BUZZWORD_5": "State"
+  },
+  {
+    "KEYWORD": "Lightheaded",
+    "BUZZWORD_1": "Dizzy",
+    "BUZZWORD_2": "Dazed ",
+    "BUZZWORD_3": "Groggy",
+    "BUZZWORD_4": "Puzzled",
+    "BUZZWORD_5": "Wobbly"
+  },
+  {
+    "KEYWORD": "Long Term",
+    "BUZZWORD_1": "Short",
+    "BUZZWORD_2": "Time",
+    "BUZZWORD_3": "Period",
+    "BUZZWORD_4": "Comparative",
+    "BUZZWORD_5": "Continue"
+  },
+  {
+    "KEYWORD": "Loungewear",
+    "BUZZWORD_1": "Gym Shorts",
+    "BUZZWORD_2": "Clothing",
+    "BUZZWORD_3": "Sweats ",
+    "BUZZWORD_4": "Pajamas ",
+    "BUZZWORD_5": "Hoodies"
+  },
+  {
+    "KEYWORD": "Love",
+    "BUZZWORD_1": "Affection",
+    "BUZZWORD_2": "Devotion",
+    "BUZZWORD_3": "Passion",
+    "BUZZWORD_4": "Hate ",
+    "BUZZWORD_5": "Adore "
+  },
+  {
+    "KEYWORD": "Lungs ",
+    "BUZZWORD_1": "Organ",
+    "BUZZWORD_2": "Breathe",
+    "BUZZWORD_3": "Body",
+    "BUZZWORD_4": "Mucus ",
+    "BUZZWORD_5": "Oxygen"
+  },
+  {
+    "KEYWORD": "Lysol",
+    "BUZZWORD_1": "Spray ",
+    "BUZZWORD_2": "Antibaterial",
+    "BUZZWORD_3": "Can ",
+    "BUZZWORD_4": "Liquid",
+    "BUZZWORD_5": "Wipe"
+  },
+  {
+    "KEYWORD": "Mask ",
+    "BUZZWORD_1": "N95",
+    "BUZZWORD_2": "Face ",
+    "BUZZWORD_3": "Mouth ",
+    "BUZZWORD_4": "Tie",
+    "BUZZWORD_5": "Protect"
+  },
+  {
+    "KEYWORD": "Mature ",
+    "BUZZWORD_1": "Grown",
+    "BUZZWORD_2": "Cultivate",
+    "BUZZWORD_3": "Ready",
+    "BUZZWORD_4": "Developed ",
+    "BUZZWORD_5": "Ripe "
+  },
+  {
+    "KEYWORD": "Mayor",
+    "BUZZWORD_1": "Government",
+    "BUZZWORD_2": "City",
+    "BUZZWORD_3": "Leader ",
+    "BUZZWORD_4": "Law ",
+    "BUZZWORD_5": "Rule"
+  },
+  {
+    "KEYWORD": "Media ",
+    "BUZZWORD_1": "Television",
+    "BUZZWORD_2": "News ",
+    "BUZZWORD_3": "Cable ",
+    "BUZZWORD_4": "Radio ",
+    "BUZZWORD_5": "Communications"
+  },
+  {
+    "KEYWORD": "Medical ",
+    "BUZZWORD_1": "Pharmaceutical",
+    "BUZZWORD_2": "Sedative",
+    "BUZZWORD_3": " Narcotics",
+    "BUZZWORD_4": "Therapeutic",
+    "BUZZWORD_5": "Preventive"
+  },
+  {
+    "KEYWORD": "Medicine ",
+    "BUZZWORD_1": "Oral ",
+    "BUZZWORD_2": "Inject ",
+    "BUZZWORD_3": "Antibiotic",
+    "BUZZWORD_4": "Capsule",
+    "BUZZWORD_5": "Tablet"
+  },
+  {
+    "KEYWORD": "Megan thee Stallion",
+    "BUZZWORD_1": "Challenge ",
+    "BUZZWORD_2": "Dance ",
+    "BUZZWORD_3": "Savage ",
+    "BUZZWORD_4": "Rapper",
+    "BUZZWORD_5": "Big Ol Freak"
+  },
+  {
+    "KEYWORD": "Melanin",
+    "BUZZWORD_1": "Skin",
+    "BUZZWORD_2": "Pigment",
+    "BUZZWORD_3": "Dark",
+    "BUZZWORD_4": "Tint",
+    "BUZZWORD_5": "Complexion"
+  },
+  {
+    "KEYWORD": "MEMEs ",
+    "BUZZWORD_1": "Photos",
+    "BUZZWORD_2": "Messages",
+    "BUZZWORD_3": "Social Media",
+    "BUZZWORD_4": "Instagram",
+    "BUZZWORD_5": "Funny"
+  },
+  {
+    "KEYWORD": "Mercy",
+    "BUZZWORD_1": "Charity",
+    "BUZZWORD_2": "Leniency",
+    "BUZZWORD_3": "Benevolence",
+    "BUZZWORD_4": "Goodwill",
+    "BUZZWORD_5": "Blessing"
+  },
+  {
+    "KEYWORD": "Metabolism",
+    "BUZZWORD_1": "Chemical",
+    "BUZZWORD_2": "Reaction",
+    "BUZZWORD_3": "Energy",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Cellular"
+  },
+  {
+    "KEYWORD": "Miracle ",
+    "BUZZWORD_1": "Marvel",
+    "BUZZWORD_2": "Surprise",
+    "BUZZWORD_3": "Wonder",
+    "BUZZWORD_4": "God",
+    "BUZZWORD_5": "Rarity"
+  },
+  {
+    "KEYWORD": "Movies",
+    "BUZZWORD_1": "Film",
+    "BUZZWORD_2": "Netflix",
+    "BUZZWORD_3": "Screen",
+    "BUZZWORD_4": "Actors",
+    "BUZZWORD_5": "Entertainment"
+  },
+  {
+    "KEYWORD": "MSNBC ",
+    "BUZZWORD_1": "News ",
+    "BUZZWORD_2": "Media ",
+    "BUZZWORD_3": "Information",
+    "BUZZWORD_4": "Station",
+    "BUZZWORD_5": "Channel"
+  },
+  {
+    "KEYWORD": "Mucus",
+    "BUZZWORD_1": "Fungus ",
+    "BUZZWORD_2": "Gunk",
+    "BUZZWORD_3": "Goo",
+    "BUZZWORD_4": "Throat",
+    "BUZZWORD_5": "Ooze"
+  },
+  {
+    "KEYWORD": "Music",
+    "BUZZWORD_1": "Notes ",
+    "BUZZWORD_2": "R&B",
+    "BUZZWORD_3": "Concerts ",
+    "BUZZWORD_4": "Artist ",
+    "BUZZWORD_5": "Instruments"
+  },
+  {
+    "KEYWORD": "Mutate",
+    "BUZZWORD_1": "Change ",
+    "BUZZWORD_2": "Alter ",
+    "BUZZWORD_3": "Modify",
+    "BUZZWORD_4": "Vary ",
+    "BUZZWORD_5": "Different"
+  },
+  {
+    "KEYWORD": "N95 ",
+    "BUZZWORD_1": "Mask ",
+    "BUZZWORD_2": "Type",
+    "BUZZWORD_3": "Medical",
+    "BUZZWORD_4": "Protection",
+    "BUZZWORD_5": "Number"
+  },
+  {
+    "KEYWORD": "Necessary ",
+    "BUZZWORD_1": "Fundamental",
+    "BUZZWORD_2": "Basic",
+    "BUZZWORD_3": "Imperative",
+    "BUZZWORD_4": "Crucial",
+    "BUZZWORD_5": "Vital"
+  },
+  {
+    "KEYWORD": "Needle",
+    "BUZZWORD_1": "Pester ",
+    "BUZZWORD_2": "Badger ",
+    "BUZZWORD_3": "Nag ",
+    "BUZZWORD_4": "Irritate",
+    "BUZZWORD_5": "Sharp "
+  },
+  {
+    "KEYWORD": "Negative",
+    "BUZZWORD_1": "Gloomy",
+    "BUZZWORD_2": "Unfavorable ",
+    "BUZZWORD_3": "Contrary",
+    "BUZZWORD_4": "Anti",
+    "BUZZWORD_5": "Con"
+  },
+  {
+    "KEYWORD": "Nervous",
+    "BUZZWORD_1": "Afraid ",
+    "BUZZWORD_2": "Edgy ",
+    "BUZZWORD_3": "Concern ",
+    "BUZZWORD_4": "Timid ",
+    "BUZZWORD_5": "Uneasy "
+  },
+  {
+    "KEYWORD": "Netflix ",
+    "BUZZWORD_1": "Chill",
+    "BUZZWORD_2": "Shows",
+    "BUZZWORD_3": "Movies",
+    "BUZZWORD_4": "Stream",
+    "BUZZWORD_5": "TV "
+  },
+  {
+    "KEYWORD": "News ",
+    "BUZZWORD_1": "Inform",
+    "BUZZWORD_2": "Update",
+    "BUZZWORD_3": "Report",
+    "BUZZWORD_4": "Anchor",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Non-profit ",
+    "BUZZWORD_1": "Organization",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Corporation",
+    "BUZZWORD_4": "Institution",
+    "BUZZWORD_5": "Fundraise"
+  },
+  {
+    "KEYWORD": "Nurse ",
+    "BUZZWORD_1": "Assistant",
+    "BUZZWORD_2": "Therapist",
+    "BUZZWORD_3": "Caretaker",
+    "BUZZWORD_4": "RN",
+    "BUZZWORD_5": "Medic"
+  },
+  {
+    "KEYWORD": "Nurture ",
+    "BUZZWORD_1": "Care",
+    "BUZZWORD_2": "Diet",
+    "BUZZWORD_3": "Discipline",
+    "BUZZWORD_4": "Groom",
+    "BUZZWORD_5": "Feed"
+  },
+  {
+    "KEYWORD": "Nutrition",
+    "BUZZWORD_1": "Diet ",
+    "BUZZWORD_2": "Menu",
+    "BUZZWORD_3": "Substance ",
+    "BUZZWORD_4": "Vegetables ",
+    "BUZZWORD_5": "Fruits"
+  },
+  {
+    "KEYWORD": "Obedient ",
+    "BUZZWORD_1": "Faithful",
+    "BUZZWORD_2": "Devoted",
+    "BUZZWORD_3": "Loyal",
+    "BUZZWORD_4": "Respectful",
+    "BUZZWORD_5": "Law-Abiding"
+  },
+  {
+    "KEYWORD": "Opinion",
+    "BUZZWORD_1": "Theory",
+    "BUZZWORD_2": "View",
+    "BUZZWORD_3": "Assesement",
+    "BUZZWORD_4": "Thought",
+    "BUZZWORD_5": "Idea "
+  },
+  {
+    "KEYWORD": "Optimistic",
+    "BUZZWORD_1": "Bright ",
+    "BUZZWORD_2": "Cheerful ",
+    "BUZZWORD_3": "Confident ",
+    "BUZZWORD_4": "Encouraged ",
+    "BUZZWORD_5": "Hopeful "
+  },
+  {
+    "KEYWORD": "Options",
+    "BUZZWORD_1": "Choice ",
+    "BUZZWORD_2": "Privilege",
+    "BUZZWORD_3": "Rights ",
+    "BUZZWORD_4": "Opportuity ",
+    "BUZZWORD_5": "Preference "
+  },
+  {
+    "KEYWORD": "Oral ",
+    "BUZZWORD_1": "Voice ",
+    "BUZZWORD_2": "Vocal",
+    "BUZZWORD_3": "Articulate ",
+    "BUZZWORD_4": "Narrate ",
+    "BUZZWORD_5": "Verbal"
+  },
+  {
+    "KEYWORD": "Organic ",
+    "BUZZWORD_1": "Original",
+    "BUZZWORD_2": "Biological",
+    "BUZZWORD_3": "Natural",
+    "BUZZWORD_4": "Living ",
+    "BUZZWORD_5": "Essential"
+  },
+  {
+    "KEYWORD": "Organization ",
+    "BUZZWORD_1": "Non-for-profit ",
+    "BUZZWORD_2": "Institution ",
+    "BUZZWORD_3": "Corporation",
+    "BUZZWORD_4": "Groups ",
+    "BUZZWORD_5": "Alignment"
+  },
+  {
+    "KEYWORD": "Pajamas ",
+    "BUZZWORD_1": "Sleep",
+    "BUZZWORD_2": "Bed ",
+    "BUZZWORD_3": "Attire",
+    "BUZZWORD_4": "Apperal",
+    "BUZZWORD_5": "Comfortable"
+  },
+  {
+    "KEYWORD": "Pandemic",
+    "BUZZWORD_1": "Epidemic",
+    "BUZZWORD_2": "Universal",
+    "BUZZWORD_3": "General",
+    "BUZZWORD_4": "Comprehensive ",
+    "BUZZWORD_5": "Overall"
+  },
+  {
+    "KEYWORD": "Patient ",
+    "BUZZWORD_1": "Tolerant ",
+    "BUZZWORD_2": "Forgiving ",
+    "BUZZWORD_3": "Understanding",
+    "BUZZWORD_4": "Even Tempered ",
+    "BUZZWORD_5": "Composed "
+  },
+  {
+    "KEYWORD": "Payment ",
+    "BUZZWORD_1": "Award",
+    "BUZZWORD_2": "Disbursement",
+    "BUZZWORD_3": "Fee",
+    "BUZZWORD_4": "Reimbursement",
+    "BUZZWORD_5": "Sum"
+  },
+  {
+    "KEYWORD": "Persistent ",
+    "BUZZWORD_1": "Tenacious",
+    "BUZZWORD_2": "Continual",
+    "BUZZWORD_3": "Relentless",
+    "BUZZWORD_4": "Stubborn",
+    "BUZZWORD_5": "Steadfast "
+  },
+  {
+    "KEYWORD": "Pharmaceticals",
+    "BUZZWORD_1": "Industry",
+    "BUZZWORD_2": "Medicine",
+    "BUZZWORD_3": "Lobbyist",
+    "BUZZWORD_4": "Sales",
+    "BUZZWORD_5": "Corporations"
+  },
+  {
+    "KEYWORD": "Pharmacy ",
+    "BUZZWORD_1": "Prescription ",
+    "BUZZWORD_2": "Pharmacists",
+    "BUZZWORD_3": "Drugs",
+    "BUZZWORD_4": "Medicine",
+    "BUZZWORD_5": "Chemists"
+  },
+  {
+    "KEYWORD": "Physician ",
+    "BUZZWORD_1": "Doctor",
+    "BUZZWORD_2": "Nurse",
+    "BUZZWORD_3": "Medical",
+    "BUZZWORD_4": "MD",
+    "BUZZWORD_5": "Practice"
+  },
+  {
+    "KEYWORD": "Pneumonia",
+    "BUZZWORD_1": "Sickenss ",
+    "BUZZWORD_2": "Upper ",
+    "BUZZWORD_3": "Respiratory ",
+    "BUZZWORD_4": "Infection",
+    "BUZZWORD_5": "Lungs"
+  },
+  {
+    "KEYWORD": "Positive",
+    "BUZZWORD_1": "Clear ",
+    "BUZZWORD_2": "Conclusive ",
+    "BUZZWORD_3": "Specific ",
+    "BUZZWORD_4": "Decesive ",
+    "BUZZWORD_5": "Confident "
+  },
+  {
+    "KEYWORD": "Powerful ",
+    "BUZZWORD_1": "Authoratative ",
+    "BUZZWORD_2": "Dominant ",
+    "BUZZWORD_3": "Energetic",
+    "BUZZWORD_4": "Dymanic ",
+    "BUZZWORD_5": "Forceful"
+  },
+  {
+    "KEYWORD": "Practices ",
+    "BUZZWORD_1": "Form ",
+    "BUZZWORD_2": "Habit",
+    "BUZZWORD_3": "Method",
+    "BUZZWORD_4": "Tradition",
+    "BUZZWORD_5": "Use"
+  },
+  {
+    "KEYWORD": "Prescription ",
+    "BUZZWORD_1": "Medication",
+    "BUZZWORD_2": "Drugs",
+    "BUZZWORD_3": "Pharmacy",
+    "BUZZWORD_4": "Treatment",
+    "BUZZWORD_5": "Written"
+  },
+  {
+    "KEYWORD": "Presents ",
+    "BUZZWORD_1": "Current",
+    "BUZZWORD_2": "Gift ",
+    "BUZZWORD_3": "Here ",
+    "BUZZWORD_4": "Current",
+    "BUZZWORD_5": "Today"
+  },
+  {
+    "KEYWORD": "Prestige ",
+    "BUZZWORD_1": "Esteem",
+    "BUZZWORD_2": "Importance ",
+    "BUZZWORD_3": "Prominence",
+    "BUZZWORD_4": "Dignity",
+    "BUZZWORD_5": "Power "
+  },
+  {
+    "KEYWORD": "Prevention",
+    "BUZZWORD_1": "Block",
+    "BUZZWORD_2": "Determent",
+    "BUZZWORD_3": "Impede",
+    "BUZZWORD_4": "Interception",
+    "BUZZWORD_5": "Obstacle"
+  },
+  {
+    "KEYWORD": "Primary ",
+    "BUZZWORD_1": "Dominant",
+    "BUZZWORD_2": "Fundamental",
+    "BUZZWORD_3": "Main",
+    "BUZZWORD_4": "Principal",
+    "BUZZWORD_5": "Vital"
+  },
+  {
+    "KEYWORD": "Progress ",
+    "BUZZWORD_1": "Breakthrough",
+    "BUZZWORD_2": "Development",
+    "BUZZWORD_3": "Evolution",
+    "BUZZWORD_4": "Improvement",
+    "BUZZWORD_5": "Momentum"
+  },
+  {
+    "KEYWORD": "Protect ",
+    "BUZZWORD_1": "Cover",
+    "BUZZWORD_2": "Cushion",
+    "BUZZWORD_3": "Defend",
+    "BUZZWORD_4": "Shield",
+    "BUZZWORD_5": "Insulate"
+  },
+  {
+    "KEYWORD": "Public",
+    "BUZZWORD_1": "City",
+    "BUZZWORD_2": "Social",
+    "BUZZWORD_3": "Popular",
+    "BUZZWORD_4": "National",
+    "BUZZWORD_5": "Civil"
+  },
+  {
+    "KEYWORD": "Quality ",
+    "BUZZWORD_1": "Trait",
+    "BUZZWORD_2": "Element",
+    "BUZZWORD_3": "Condition",
+    "BUZZWORD_4": "Description",
+    "BUZZWORD_5": "Aspect"
+  },
+  {
+    "KEYWORD": "Quarantine",
+    "BUZZWORD_1": "Seclusion",
+    "BUZZWORD_2": "Indoors",
+    "BUZZWORD_3": "Inside ",
+    "BUZZWORD_4": "Home",
+    "BUZZWORD_5": "Stay In"
+  },
+  {
+    "KEYWORD": "Questions",
+    "BUZZWORD_1": "Inquire",
+    "BUZZWORD_2": "Interrogate",
+    "BUZZWORD_3": "Ask",
+    "BUZZWORD_4": "Query",
+    "BUZZWORD_5": " Third Degree"
+  },
+  {
+    "KEYWORD": "Rare ",
+    "BUZZWORD_1": "Extraordinary",
+    "BUZZWORD_2": "Scarce",
+    "BUZZWORD_3": "Unique",
+    "BUZZWORD_4": "Strange",
+    "BUZZWORD_5": "Uncommon"
+  },
+  {
+    "KEYWORD": "Read ",
+    "BUZZWORD_1": "Interpret",
+    "BUZZWORD_2": "Learn",
+    "BUZZWORD_3": "Glance ",
+    "BUZZWORD_4": "Scan",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Real",
+    "BUZZWORD_1": "Absolute",
+    "BUZZWORD_2": "Original",
+    "BUZZWORD_3": "legitimate",
+    "BUZZWORD_4": "certain",
+    "BUZZWORD_5": "positive"
+  },
+  {
+    "KEYWORD": "Recession",
+    "BUZZWORD_1": "Bankruptcy",
+    "BUZZWORD_2": "Collapse",
+    "BUZZWORD_3": "Decline",
+    "BUZZWORD_4": "Deflation",
+    "BUZZWORD_5": "Downturn"
+  },
+  {
+    "KEYWORD": "Record ",
+    "BUZZWORD_1": "Document ",
+    "BUZZWORD_2": "Report ",
+    "BUZZWORD_3": "Tape ",
+    "BUZZWORD_4": "Transcribe ",
+    "BUZZWORD_5": " CD"
+  },
+  {
+    "KEYWORD": "Recover ",
+    "BUZZWORD_1": "Resume",
+    "BUZZWORD_2": "Restore ",
+    "BUZZWORD_3": "Recoup",
+    "BUZZWORD_4": "Reclaim",
+    "BUZZWORD_5": "Retrieve "
+  },
+  {
+    "KEYWORD": "Refresh ",
+    "BUZZWORD_1": "Exhilarate ",
+    "BUZZWORD_2": "Rejuvenate ",
+    "BUZZWORD_3": "Invigorate ",
+    "BUZZWORD_4": "Replenish",
+    "BUZZWORD_5": "Revive "
+  },
+  {
+    "KEYWORD": "Rejuvenate",
+    "BUZZWORD_1": "Revive ",
+    "BUZZWORD_2": "Renew ",
+    "BUZZWORD_3": "Restore ",
+    "BUZZWORD_4": "Revitalize",
+    "BUZZWORD_5": "Spruce Up "
+  },
+  {
+    "KEYWORD": "Relevent ",
+    "BUZZWORD_1": "Significant ",
+    "BUZZWORD_2": "Relate ",
+    "BUZZWORD_3": "Important ",
+    "BUZZWORD_4": "Pertinent",
+    "BUZZWORD_5": "Applicable "
+  },
+  {
+    "KEYWORD": "Relief",
+    "BUZZWORD_1": "Allieviation",
+    "BUZZWORD_2": "Assistance ",
+    "BUZZWORD_3": "Maintenance",
+    "BUZZWORD_4": "Support",
+    "BUZZWORD_5": "Help"
+  },
+  {
+    "KEYWORD": "Reminder",
+    "BUZZWORD_1": "Letter ",
+    "BUZZWORD_2": "Sign",
+    "BUZZWORD_3": "Note ",
+    "BUZZWORD_4": "Memo",
+    "BUZZWORD_5": "Souvenir "
+  },
+  {
+    "KEYWORD": "Research ",
+    "BUZZWORD_1": "Investigation",
+    "BUZZWORD_2": "Exploration",
+    "BUZZWORD_3": "Groundwork",
+    "BUZZWORD_4": "Probe ",
+    "BUZZWORD_5": "Analysis "
+  },
+  {
+    "KEYWORD": "Resources",
+    "BUZZWORD_1": "Assets",
+    "BUZZWORD_2": "Basics",
+    "BUZZWORD_3": "Belongings",
+    "BUZZWORD_4": "Funds",
+    "BUZZWORD_5": "Capital"
+  },
+  {
+    "KEYWORD": "Respiratory",
+    "BUZZWORD_1": "Lungs ",
+    "BUZZWORD_2": "Breathing",
+    "BUZZWORD_3": "Inhale",
+    "BUZZWORD_4": "System",
+    "BUZZWORD_5": "Oxygen"
+  },
+  {
+    "KEYWORD": "Responsible ",
+    "BUZZWORD_1": "Answerable",
+    "BUZZWORD_2": "Culpable",
+    "BUZZWORD_3": "Pledge ",
+    "BUZZWORD_4": "Guilty",
+    "BUZZWORD_5": "Liable"
+  },
+  {
+    "KEYWORD": "Rest ",
+    "BUZZWORD_1": "Break",
+    "BUZZWORD_2": "Peace",
+    "BUZZWORD_3": "Recess",
+    "BUZZWORD_4": "Comfort",
+    "BUZZWORD_5": "Relief"
+  },
+  {
+    "KEYWORD": "Reveal",
+    "BUZZWORD_1": "Acknowledge ",
+    "BUZZWORD_2": "Affirm ",
+    "BUZZWORD_3": "Confess",
+    "BUZZWORD_4": "Declare ",
+    "BUZZWORD_5": "Divulge"
+  },
+  {
+    "KEYWORD": "Risk",
+    "BUZZWORD_1": "Danger",
+    "BUZZWORD_2": "Exposure",
+    "BUZZWORD_3": "Hazard",
+    "BUZZWORD_4": "Liability",
+    "BUZZWORD_5": "Uncertainty"
+  },
+  {
+    "KEYWORD": "Routine ",
+    "BUZZWORD_1": "Convention",
+    "BUZZWORD_2": "Normal",
+    "BUZZWORD_3": "Regular ",
+    "BUZZWORD_4": "Usual",
+    "BUZZWORD_5": "Ordinary "
+  },
+  {
+    "KEYWORD": "Sample",
+    "BUZZWORD_1": "Specimen",
+    "BUZZWORD_2": "Fragment",
+    "BUZZWORD_3": "Pattern",
+    "BUZZWORD_4": "Element",
+    "BUZZWORD_5": "Case "
+  },
+  {
+    "KEYWORD": "Sanitary",
+    "BUZZWORD_1": "Hygienic",
+    "BUZZWORD_2": "Unpolluted",
+    "BUZZWORD_3": "Purified",
+    "BUZZWORD_4": "Clean",
+    "BUZZWORD_5": "Sterile"
+  },
+  {
+    "KEYWORD": "SARS ",
+    "BUZZWORD_1": "Flu",
+    "BUZZWORD_2": "Sickness ",
+    "BUZZWORD_3": "Illness ",
+    "BUZZWORD_4": "Virus",
+    "BUZZWORD_5": "Disease"
+  },
+  {
+    "KEYWORD": "Shelter ",
+    "BUZZWORD_1": "Dwelling",
+    "BUZZWORD_2": "Sanctuary",
+    "BUZZWORD_3": "House ",
+    "BUZZWORD_4": "Crib",
+    "BUZZWORD_5": "Tent"
+  },
+  {
+    "KEYWORD": "Short Term",
+    "BUZZWORD_1": "Long",
+    "BUZZWORD_2": "Time",
+    "BUZZWORD_3": "Abbreviated",
+    "BUZZWORD_4": "Decreased",
+    "BUZZWORD_5": "Less"
+  },
+  {
+    "KEYWORD": "Showtime",
+    "BUZZWORD_1": "Station",
+    "BUZZWORD_2": "Channel",
+    "BUZZWORD_3": "Movies ",
+    "BUZZWORD_4": "Shows ",
+    "BUZZWORD_5": "Premium"
+  },
+  {
+    "KEYWORD": "Sick",
+    "BUZZWORD_1": "Ill",
+    "BUZZWORD_2": "Ailment",
+    "BUZZWORD_3": "Under the Weather ",
+    "BUZZWORD_4": "Frail",
+    "BUZZWORD_5": "Well"
+  },
+  {
+    "KEYWORD": "Significant ",
+    "BUZZWORD_1": "Understanding",
+    "BUZZWORD_2": "Gravity",
+    "BUZZWORD_3": "Magnitude ",
+    "BUZZWORD_4": "Influence",
+    "BUZZWORD_5": "Merit"
+  },
+  {
+    "KEYWORD": "Skype",
+    "BUZZWORD_1": "Conference ",
+    "BUZZWORD_2": "Video",
+    "BUZZWORD_3": "Meeting",
+    "BUZZWORD_4": "Multiple",
+    "BUZZWORD_5": "Virtual"
+  },
+  {
+    "KEYWORD": "Soap",
+    "BUZZWORD_1": "Suds",
+    "BUZZWORD_2": "Bar",
+    "BUZZWORD_3": "Liquid",
+    "BUZZWORD_4": "Hand",
+    "BUZZWORD_5": "Water"
+  },
+  {
+    "KEYWORD": "Social Distancing",
+    "BUZZWORD_1": "Apart",
+    "BUZZWORD_2": "Feet ",
+    "BUZZWORD_3": "Six ",
+    "BUZZWORD_4": "Away",
+    "BUZZWORD_5": "Far "
+  },
+  {
+    "KEYWORD": "Social Media",
+    "BUZZWORD_1": "Instagram",
+    "BUZZWORD_2": "Facebook",
+    "BUZZWORD_3": "TikTok",
+    "BUZZWORD_4": "Apps",
+    "BUZZWORD_5": "Followers"
+  },
+  {
+    "KEYWORD": "Spades ",
+    "BUZZWORD_1": "Game ",
+    "BUZZWORD_2": "Cards ",
+    "BUZZWORD_3": "Books",
+    "BUZZWORD_4": "Hearts",
+    "BUZZWORD_5": "Renig"
+  },
+  {
+    "KEYWORD": "Specimen ",
+    "BUZZWORD_1": "Exhibit",
+    "BUZZWORD_2": "Sampling ",
+    "BUZZWORD_3": "Urine",
+    "BUZZWORD_4": "Variety ",
+    "BUZZWORD_5": "Cell"
+  },
+  {
+    "KEYWORD": "Spiritual",
+    "BUZZWORD_1": "Divine ",
+    "BUZZWORD_2": "Devotional",
+    "BUZZWORD_3": "Intangible",
+    "BUZZWORD_4": "Sacred ",
+    "BUZZWORD_5": "Pure "
+  },
+  {
+    "KEYWORD": "Staff ",
+    "BUZZWORD_1": "Group",
+    "BUZZWORD_2": "Assistance",
+    "BUZZWORD_3": "Administration",
+    "BUZZWORD_4": "Manage",
+    "BUZZWORD_5": "Workers"
+  },
+  {
+    "KEYWORD": "Stafford Law",
+    "BUZZWORD_1": "Disaster ",
+    "BUZZWORD_2": "Relief",
+    "BUZZWORD_3": "Emergency ",
+    "BUZZWORD_4": "Act ",
+    "BUZZWORD_5": "Assistance"
+  },
+  {
+    "KEYWORD": "Stay Home",
+    "BUZZWORD_1": "Break ",
+    "BUZZWORD_2": "Stop",
+    "BUZZWORD_3": "Halt ",
+    "BUZZWORD_4": "Domicile",
+    "BUZZWORD_5": "Vacation"
+  },
+  {
+    "KEYWORD": "Stir Crazy ",
+    "BUZZWORD_1": "Bored",
+    "BUZZWORD_2": "Antsy",
+    "BUZZWORD_3": "Confined",
+    "BUZZWORD_4": "Fidgety",
+    "BUZZWORD_5": "Cabin Fever "
+  },
+  {
+    "KEYWORD": "Stock Market ",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Shares ",
+    "BUZZWORD_3": "Buy",
+    "BUZZWORD_4": "Sell",
+    "BUZZWORD_5": "DOW"
+  },
+  {
+    "KEYWORD": "Student Loans",
+    "BUZZWORD_1": "Funding ",
+    "BUZZWORD_2": "Money ",
+    "BUZZWORD_3": "College ",
+    "BUZZWORD_4": "Sallie Mae",
+    "BUZZWORD_5": "Interest "
+  },
+  {
+    "KEYWORD": "Study",
+    "BUZZWORD_1": "Examination",
+    "BUZZWORD_2": "Class",
+    "BUZZWORD_3": "Inspection",
+    "BUZZWORD_4": "Research",
+    "BUZZWORD_5": "Review "
+  },
+  {
+    "KEYWORD": "Supplements ",
+    "BUZZWORD_1": "Vitamins",
+    "BUZZWORD_2": "Minerals",
+    "BUZZWORD_3": "Additional",
+    "BUZZWORD_4": "Complement",
+    "BUZZWORD_5": "Extra"
+  },
+  {
+    "KEYWORD": "Support ",
+    "BUZZWORD_1": "Backing",
+    "BUZZWORD_2": "Base",
+    "BUZZWORD_3": "Cornerstone",
+    "BUZZWORD_4": "Encouragement",
+    "BUZZWORD_5": "Assistance "
+  },
+  {
+    "KEYWORD": "Surface ",
+    "BUZZWORD_1": "Exterior",
+    "BUZZWORD_2": "Outer ",
+    "BUZZWORD_3": "Outward",
+    "BUZZWORD_4": "Outside",
+    "BUZZWORD_5": "Top"
+  },
+  {
+    "KEYWORD": "Sweatpants ",
+    "BUZZWORD_1": "Grey ",
+    "BUZZWORD_2": "Cotton ",
+    "BUZZWORD_3": "Soft",
+    "BUZZWORD_4": "Comfortable",
+    "BUZZWORD_5": "Lounge"
+  },
+  {
+    "KEYWORD": "Symptoms",
+    "BUZZWORD_1": "Lump",
+    "BUZZWORD_2": "Warning",
+    "BUZZWORD_3": "Evidence",
+    "BUZZWORD_4": "Indication",
+    "BUZZWORD_5": "Rash"
+  },
+  {
+    "KEYWORD": "Team",
+    "BUZZWORD_1": "Club",
+    "BUZZWORD_2": "Organization",
+    "BUZZWORD_3": "Company",
+    "BUZZWORD_4": "Squad",
+    "BUZZWORD_5": "Unit"
+  },
+  {
+    "KEYWORD": "Technology",
+    "BUZZWORD_1": "Smartphone",
+    "BUZZWORD_2": "Robotics",
+    "BUZZWORD_3": "Computer",
+    "BUZZWORD_4": "Animation",
+    "BUZZWORD_5": "Automation"
+  },
+  {
+    "KEYWORD": "Test",
+    "BUZZWORD_1": "Assessment",
+    "BUZZWORD_2": "Quiz",
+    "BUZZWORD_3": "Experiment",
+    "BUZZWORD_4": "Attempt",
+    "BUZZWORD_5": "Final"
+  },
+  {
+    "KEYWORD": "Thought",
+    "BUZZWORD_1": "Assessment",
+    "BUZZWORD_2": "Belief",
+    "BUZZWORD_3": "Conclusion",
+    "BUZZWORD_4": "Theory",
+    "BUZZWORD_5": "Expectation"
+  },
+  {
+    "KEYWORD": "Thriving",
+    "BUZZWORD_1": "Booming",
+    "BUZZWORD_2": "Co",
+    "BUZZWORD_3": "Health",
+    "BUZZWORD_4": "Robust",
+    "BUZZWORD_5": "Growing"
+  },
+  {
+    "KEYWORD": "TikTok",
+    "BUZZWORD_1": "App",
+    "BUZZWORD_2": "Videos ",
+    "BUZZWORD_3": "Dance ",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": null
+  },
+  {
+    "KEYWORD": "Time",
+    "BUZZWORD_1": "Age",
+    "BUZZWORD_2": "Date ",
+    "BUZZWORD_3": "Day",
+    "BUZZWORD_4": "Week",
+    "BUZZWORD_5": "Moment"
+  },
+  {
+    "KEYWORD": "Tired ",
+    "BUZZWORD_1": "Sleepy ",
+    "BUZZWORD_2": "Exhausted ",
+    "BUZZWORD_3": "Rest",
+    "BUZZWORD_4": "Fatigued",
+    "BUZZWORD_5": "Drained "
+  },
+  {
+    "KEYWORD": "Togetherness\t",
+    "BUZZWORD_1": "Affection",
+    "BUZZWORD_2": "Attachment",
+    "BUZZWORD_3": "Connection",
+    "BUZZWORD_4": "Closeness",
+    "BUZZWORD_5": "Inseparable"
+  },
+  {
+    "KEYWORD": "Toliet Paper",
+    "BUZZWORD_1": "Bathroom",
+    "BUZZWORD_2": "Restroom",
+    "BUZZWORD_3": "Wipe",
+    "BUZZWORD_4": "Flush",
+    "BUZZWORD_5": "Butt"
+  },
+  {
+    "KEYWORD": "Transformation",
+    "BUZZWORD_1": "Conversion",
+    "BUZZWORD_2": "Renewal",
+    "BUZZWORD_3": "Alteration",
+    "BUZZWORD_4": "Flip Flop",
+    "BUZZWORD_5": "Switch"
+  },
+  {
+    "KEYWORD": "Treatment ",
+    "BUZZWORD_1": "Options ",
+    "BUZZWORD_2": "Cure",
+    "BUZZWORD_3": "Operation",
+    "BUZZWORD_4": "Dose",
+    "BUZZWORD_5": "Healing"
+  },
+  {
+    "KEYWORD": "Triumphant ",
+    "BUZZWORD_1": "Elated",
+    "BUZZWORD_2": "Victorious",
+    "BUZZWORD_3": "Win",
+    "BUZZWORD_4": "Proud",
+    "BUZZWORD_5": "Glorious"
+  },
+  {
+    "KEYWORD": "Trust",
+    "BUZZWORD_1": "Confidence ",
+    "BUZZWORD_2": "Faith",
+    "BUZZWORD_3": "Hope ",
+    "BUZZWORD_4": "Assurance",
+    "BUZZWORD_5": "Certainty"
+  },
+  {
+    "KEYWORD": "Truthful ",
+    "BUZZWORD_1": "Believable",
+    "BUZZWORD_2": "Candid",
+    "BUZZWORD_3": "Factual",
+    "BUZZWORD_4": "Precise",
+    "BUZZWORD_5": "Reliable"
+  },
+  {
+    "KEYWORD": "TV",
+    "BUZZWORD_1": "Television",
+    "BUZZWORD_2": "Shows",
+    "BUZZWORD_3": "Entertainment",
+    "BUZZWORD_4": "Movies ",
+    "BUZZWORD_5": "Station"
+  },
+  {
+    "KEYWORD": "Unassuming",
+    "BUZZWORD_1": "Humble",
+    "BUZZWORD_2": "Modest ",
+    "BUZZWORD_3": "Meek",
+    "BUZZWORD_4": "Unpretentious",
+    "BUZZWORD_5": "Quiet"
+  },
+  {
+    "KEYWORD": "Unbiased ",
+    "BUZZWORD_1": "Objective ",
+    "BUZZWORD_2": "Equal ",
+    "BUZZWORD_3": "Impartial ",
+    "BUZZWORD_4": "Justify",
+    "BUZZWORD_5": "Even Handed "
+  },
+  {
+    "KEYWORD": "Uncertain",
+    "BUZZWORD_1": "Ambiguous",
+    "BUZZWORD_2": "Questionable",
+    "BUZZWORD_3": "Unclear",
+    "BUZZWORD_4": "Undecided",
+    "BUZZWORD_5": "Undetermined"
+  },
+  {
+    "KEYWORD": "Unconventional",
+    "BUZZWORD_1": "Atypical",
+    "BUZZWORD_2": "Bizarre",
+    "BUZZWORD_3": "Eccentric",
+    "BUZZWORD_4": "Offbeat",
+    "BUZZWORD_5": "Crazy"
+  },
+  {
+    "KEYWORD": "Unity",
+    "BUZZWORD_1": "Agreement ",
+    "BUZZWORD_2": "Harmony",
+    "BUZZWORD_3": "Solidarity",
+    "BUZZWORD_4": "Peaceful",
+    "BUZZWORD_5": "Accord"
+  },
+  {
+    "KEYWORD": "Urgent",
+    "BUZZWORD_1": "Compelling",
+    "BUZZWORD_2": "Crucial",
+    "BUZZWORD_3": "Demanding",
+    "BUZZWORD_4": "Essential",
+    "BUZZWORD_5": "Necessary"
+  },
+  {
+    "KEYWORD": "URI",
+    "BUZZWORD_1": "Upper ",
+    "BUZZWORD_2": "Respiratory",
+    "BUZZWORD_3": "Infection",
+    "BUZZWORD_4": "Lungs ",
+    "BUZZWORD_5": "Pneumonia "
+  },
+  {
+    "KEYWORD": "Vaccine ",
+    "BUZZWORD_1": "Dose",
+    "BUZZWORD_2": "Needle",
+    "BUZZWORD_3": "Booster",
+    "BUZZWORD_4": "Cure",
+    "BUZZWORD_5": "Incoculation"
+  },
+  {
+    "KEYWORD": "Ventilator",
+    "BUZZWORD_1": "Oxygen ",
+    "BUZZWORD_2": "Assist",
+    "BUZZWORD_3": "Machine",
+    "BUZZWORD_4": "Hospital",
+    "BUZZWORD_5": "Lungs"
+  },
+  {
+    "KEYWORD": "Video Games ",
+    "BUZZWORD_1": "Nintendo",
+    "BUZZWORD_2": "Computer ",
+    "BUZZWORD_3": "Players",
+    "BUZZWORD_4": "Controls",
+    "BUZZWORD_5": "Fun"
+  },
+  {
+    "KEYWORD": "Virtual",
+    "BUZZWORD_1": "Parties ",
+    "BUZZWORD_2": "Concerts ",
+    "BUZZWORD_3": "Meeting ",
+    "BUZZWORD_4": "Calls ",
+    "BUZZWORD_5": "Shows"
+  },
+  {
+    "KEYWORD": "Virus ",
+    "BUZZWORD_1": "Corona",
+    "BUZZWORD_2": "Sick",
+    "BUZZWORD_3": "Germs",
+    "BUZZWORD_4": "Disease ",
+    "BUZZWORD_5": "Ailment"
+  },
+  {
+    "KEYWORD": "Visionary",
+    "BUZZWORD_1": "Idealist",
+    "BUZZWORD_2": "Lofty",
+    "BUZZWORD_3": "Radical",
+    "BUZZWORD_4": "Dreamer",
+    "BUZZWORD_5": "Romantic"
+  },
+  {
+    "KEYWORD": "Vital",
+    "BUZZWORD_1": "Basic",
+    "BUZZWORD_2": "Fundamental",
+    "BUZZWORD_3": "Integral",
+    "BUZZWORD_4": "Key",
+    "BUZZWORD_5": "Significant"
+  },
+  {
+    "KEYWORD": "Vitamins",
+    "BUZZWORD_1": "Nutrients ",
+    "BUZZWORD_2": "Minerals",
+    "BUZZWORD_3": "Pills",
+    "BUZZWORD_4": "Tablets",
+    "BUZZWORD_5": "C "
+  },
+  {
+    "KEYWORD": "Weeks ",
+    "BUZZWORD_1": "Time ",
+    "BUZZWORD_2": "Days ",
+    "BUZZWORD_3": "Months ",
+    "BUZZWORD_4": "Seven",
+    "BUZZWORD_5": "Past "
+  },
+  {
+    "KEYWORD": "WHO",
+    "BUZZWORD_1": "World ",
+    "BUZZWORD_2": "Health",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Knowledgable",
+    "BUZZWORD_5": "Group"
+  },
+  {
+    "KEYWORD": "Zoom Media",
+    "BUZZWORD_1": "Conference ",
+    "BUZZWORD_2": "Call",
+    "BUZZWORD_3": "Virtual",
+    "BUZZWORD_4": "Meeting ",
+    "BUZZWORD_5": "Video"
+  }
+]

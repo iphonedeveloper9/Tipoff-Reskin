@@ -1,0 +1,2386 @@
+[
+  {
+    "KEYWORD": "911",
+    "BUZZWORD_1": "Call",
+    "BUZZWORD_2": "Emergency",
+    "BUZZWORD_3": "Paramedics",
+    "BUZZWORD_4": "Ambulance",
+    "BUZZWORD_5": "Sirens"
+  },
+  {
+    "KEYWORD": "5K",
+    "BUZZWORD_1": "Walk",
+    "BUZZWORD_2": "Run",
+    "BUZZWORD_3": "Move",
+    "BUZZWORD_4": "Fundraiser",
+    "BUZZWORD_5": "Marathon"
+  },
+  {
+    "KEYWORD": "Abnormal",
+    "BUZZWORD_1": "Unusual",
+    "BUZZWORD_2": "Rare",
+    "BUZZWORD_3": "Freak",
+    "BUZZWORD_4": "Uncommon",
+    "BUZZWORD_5": "Strange"
+  },
+  {
+    "KEYWORD": "Absent",
+    "BUZZWORD_1": "Away",
+    "BUZZWORD_2": "Removed",
+    "BUZZWORD_3": "No-show",
+    "BUZZWORD_4": "Astray",
+    "BUZZWORD_5": "Vanished"
+  },
+  {
+    "KEYWORD": "Acceptance",
+    "BUZZWORD_1": "Approval",
+    "BUZZWORD_2": "Admission",
+    "BUZZWORD_3": "Compliance",
+    "BUZZWORD_4": "Okay",
+    "BUZZWORD_5": "Yes"
+  },
+  {
+    "KEYWORD": "Access",
+    "BUZZWORD_1": "Approach",
+    "BUZZWORD_2": "Course",
+    "BUZZWORD_3": "Door",
+    "BUZZWORD_4": "Way",
+    "BUZZWORD_5": "Entrance"
+  },
+  {
+    "KEYWORD": "Accessible",
+    "BUZZWORD_1": "Easy",
+    "BUZZWORD_2": "Effortless",
+    "BUZZWORD_3": "Simple",
+    "BUZZWORD_4": "Snap",
+    "BUZZWORD_5": "Breeze"
+  },
+  {
+    "KEYWORD": "Accomplish",
+    "BUZZWORD_1": "Achieve",
+    "BUZZWORD_2": "Finish",
+    "BUZZWORD_3": "Resolved",
+    "BUZZWORD_4": "Conclude",
+    "BUZZWORD_5": "Performed"
+  },
+  {
+    "KEYWORD": "Advocate",
+    "BUZZWORD_1": "Backer",
+    "BUZZWORD_2": "Ally",
+    "BUZZWORD_3": "Partner",
+    "BUZZWORD_4": "Champion",
+    "BUZZWORD_5": "Campaigner"
+  },
+  {
+    "KEYWORD": "Afflicted",
+    "BUZZWORD_1": "Sick",
+    "BUZZWORD_2": "Wozzy",
+    "BUZZWORD_3": "Suffering",
+    "BUZZWORD_4": "Ailing",
+    "BUZZWORD_5": "Sticken"
+  },
+  {
+    "KEYWORD": "Affordable",
+    "BUZZWORD_1": "Budget",
+    "BUZZWORD_2": "Modest",
+    "BUZZWORD_3": "Cheap",
+    "BUZZWORD_4": "Reasonable",
+    "BUZZWORD_5": "Reduced"
+  },
+  {
+    "KEYWORD": "Agency",
+    "BUZZWORD_1": "Authority",
+    "BUZZWORD_2": "Enforcement",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Jurisdiction",
+    "BUZZWORD_5": "Regulator"
+  },
+  {
+    "KEYWORD": "Alkaline",
+    "BUZZWORD_1": "Astringent",
+    "BUZZWORD_2": "Tonic",
+    "BUZZWORD_3": "Briny",
+    "BUZZWORD_4": "Neutralizing",
+    "BUZZWORD_5": "Alkali"
+  },
+  {
+    "KEYWORD": "Alternative",
+    "BUZZWORD_1": "Medicine",
+    "BUZZWORD_2": "Antiobiotics",
+    "BUZZWORD_3": "Drug",
+    "BUZZWORD_4": "Pharmaceutical",
+    "BUZZWORD_5": "Prescription"
+  },
+  {
+    "KEYWORD": "Aneurysm",
+    "BUZZWORD_1": "Brain",
+    "BUZZWORD_2": "Blood Clot",
+    "BUZZWORD_3": "Bleeding",
+    "BUZZWORD_4": "Vein",
+    "BUZZWORD_5": "Headache"
+  },
+  {
+    "KEYWORD": "Anxious",
+    "BUZZWORD_1": "Afraid",
+    "BUZZWORD_2": "Scared",
+    "BUZZWORD_3": "Antsy",
+    "BUZZWORD_4": "Jumpy",
+    "BUZZWORD_5": "Jumpy"
+  },
+  {
+    "KEYWORD": "Appointment",
+    "BUZZWORD_1": "Tryst",
+    "BUZZWORD_2": "Invitation",
+    "BUZZWORD_3": "Rendezvous",
+    "BUZZWORD_4": "Consultation",
+    "BUZZWORD_5": "Gig"
+  },
+  {
+    "KEYWORD": "Article",
+    "BUZZWORD_1": "Clipping",
+    "BUZZWORD_2": "Snippet",
+    "BUZZWORD_3": "Column",
+    "BUZZWORD_4": "Report",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Avoid",
+    "BUZZWORD_1": "Avert",
+    "BUZZWORD_2": "Bypass",
+    "BUZZWORD_3": "Evade",
+    "BUZZWORD_4": "Shun",
+    "BUZZWORD_5": "Sidestep"
+  },
+  {
+    "KEYWORD": "Awareness",
+    "BUZZWORD_1": "Enlightenment",
+    "BUZZWORD_2": "Realization",
+    "BUZZWORD_3": "Discernment",
+    "BUZZWORD_4": "Consciousness",
+    "BUZZWORD_5": "Familiarity"
+  },
+  {
+    "KEYWORD": "Bald",
+    "BUZZWORD_1": "Barren",
+    "BUZZWORD_2": "Hairless",
+    "BUZZWORD_3": "Naked",
+    "BUZZWORD_4": "Smooth",
+    "BUZZWORD_5": "Shaven"
+  },
+  {
+    "KEYWORD": "Balm",
+    "BUZZWORD_1": "Lotion",
+    "BUZZWORD_2": "Cream",
+    "BUZZWORD_3": "Dressing",
+    "BUZZWORD_4": "Soother",
+    "BUZZWORD_5": "Ointment"
+  },
+  {
+    "KEYWORD": "Bandage",
+    "BUZZWORD_1": "Bandaid",
+    "BUZZWORD_2": "Wrap",
+    "BUZZWORD_3": "Bleeding",
+    "BUZZWORD_4": "Gauze",
+    "BUZZWORD_5": "Wound"
+  },
+  {
+    "KEYWORD": "Bankruptcy",
+    "BUZZWORD_1": "Liquidate",
+    "BUZZWORD_2": "Non-payment",
+    "BUZZWORD_3": "default",
+    "BUZZWORD_4": "Debt",
+    "BUZZWORD_5": "Fault"
+  },
+  {
+    "KEYWORD": "Beautiful",
+    "BUZZWORD_1": "Alluring",
+    "BUZZWORD_2": "Charming",
+    "BUZZWORD_3": "Cute",
+    "BUZZWORD_4": "Dazzling",
+    "BUZZWORD_5": "Pretty"
+  },
+  {
+    "KEYWORD": "Believe",
+    "BUZZWORD_1": "Accept",
+    "BUZZWORD_2": "Trust",
+    "BUZZWORD_3": "Affirm",
+    "BUZZWORD_4": "Regard",
+    "BUZZWORD_5": "Conclude"
+  },
+  {
+    "KEYWORD": "Benefactor",
+    "BUZZWORD_1": "Backer",
+    "BUZZWORD_2": "Contirbuter",
+    "BUZZWORD_3": "Philanthropist",
+    "BUZZWORD_4": "Sponsor",
+    "BUZZWORD_5": "Supporter"
+  },
+  {
+    "KEYWORD": "Benefits",
+    "BUZZWORD_1": "Aid",
+    "BUZZWORD_2": "Assistance",
+    "BUZZWORD_3": "Perks",
+    "BUZZWORD_4": "Help",
+    "BUZZWORD_5": "Extras"
+  },
+  {
+    "KEYWORD": "Benign",
+    "BUZZWORD_1": "Malignant",
+    "BUZZWORD_2": "Tumor",
+    "BUZZWORD_3": "Mass",
+    "BUZZWORD_4": "Lump",
+    "BUZZWORD_5": "Cancerous"
+  },
+  {
+    "KEYWORD": "Birth Control",
+    "BUZZWORD_1": "Pills",
+    "BUZZWORD_2": "Patch",
+    "BUZZWORD_3": "Contraception",
+    "BUZZWORD_4": "Ring",
+    "BUZZWORD_5": "Shot"
+  },
+  {
+    "KEYWORD": "Blood Clot",
+    "BUZZWORD_1": "Thrombosis",
+    "BUZZWORD_2": "Flow",
+    "BUZZWORD_3": "Obstruction",
+    "BUZZWORD_4": "Circulatory",
+    "BUZZWORD_5": "Fatal"
+  },
+  {
+    "KEYWORD": "Blood Pressure",
+    "BUZZWORD_1": "High",
+    "BUZZWORD_2": "Low",
+    "BUZZWORD_3": "Vessels",
+    "BUZZWORD_4": "Diastolic",
+    "BUZZWORD_5": "Systolic"
+  },
+  {
+    "KEYWORD": "Blood Vessels",
+    "BUZZWORD_1": "Veins",
+    "BUZZWORD_2": "Artery",
+    "BUZZWORD_3": "Capillaries",
+    "BUZZWORD_4": "Vascular",
+    "BUZZWORD_5": "Tissue"
+  },
+  {
+    "KEYWORD": "Bones",
+    "BUZZWORD_1": "Skins",
+    "BUZZWORD_2": "Skeleton",
+    "BUZZWORD_3": "Skull",
+    "BUZZWORD_4": "Broken",
+    "BUZZWORD_5": "Dog"
+  },
+  {
+    "KEYWORD": "Bottle",
+    "BUZZWORD_1": "Glass",
+    "BUZZWORD_2": "Jug",
+    "BUZZWORD_3": "Liquid",
+    "BUZZWORD_4": "Drink",
+    "BUZZWORD_5": "Milk"
+  },
+  {
+    "KEYWORD": "Bra",
+    "BUZZWORD_1": "Sports",
+    "BUZZWORD_2": "Lingerie",
+    "BUZZWORD_3": "Underware",
+    "BUZZWORD_4": "Undergarment",
+    "BUZZWORD_5": "Breasts"
+  },
+  {
+    "KEYWORD": "Brave",
+    "BUZZWORD_1": "Bold",
+    "BUZZWORD_2": "Gallant",
+    "BUZZWORD_3": "Fearless",
+    "BUZZWORD_4": "Heronic",
+    "BUZZWORD_5": "Strong"
+  },
+  {
+    "KEYWORD": "Breast",
+    "BUZZWORD_1": "Jugs",
+    "BUZZWORD_2": "The Girls",
+    "BUZZWORD_3": "Ta Tas",
+    "BUZZWORD_4": "Chi-Chi's",
+    "BUZZWORD_5": "Boobies"
+  },
+  {
+    "KEYWORD": "Budget",
+    "BUZZWORD_1": "Allocate",
+    "BUZZWORD_2": "Allowance",
+    "BUZZWORD_3": "Finance",
+    "BUZZWORD_4": "Statement",
+    "BUZZWORD_5": "Fundas"
+  },
+  {
+    "KEYWORD": "Calm",
+    "BUZZWORD_1": "Cool",
+    "BUZZWORD_2": "Mild",
+    "BUZZWORD_3": "Smooth",
+    "BUZZWORD_4": "tranquil",
+    "BUZZWORD_5": "inactive"
+  },
+  {
+    "KEYWORD": "Cancer",
+    "BUZZWORD_1": "Tumor",
+    "BUZZWORD_2": "Benign",
+    "BUZZWORD_3": "Sickness",
+    "BUZZWORD_4": "Survive",
+    "BUZZWORD_5": "Disease"
+  },
+  {
+    "KEYWORD": "Canvass",
+    "BUZZWORD_1": "Campaign",
+    "BUZZWORD_2": "Survey",
+    "BUZZWORD_3": "solicit",
+    "BUZZWORD_4": "Walk",
+    "BUZZWORD_5": "neighborhood"
+  },
+  {
+    "KEYWORD": "Capable",
+    "BUZZWORD_1": "accomplished",
+    "BUZZWORD_2": "efficient",
+    "BUZZWORD_3": "talented",
+    "BUZZWORD_4": "gifted",
+    "BUZZWORD_5": "proficient"
+  },
+  {
+    "KEYWORD": "Caring",
+    "BUZZWORD_1": "Mother",
+    "BUZZWORD_2": "consider",
+    "BUZZWORD_3": "tend",
+    "BUZZWORD_4": "nurture",
+    "BUZZWORD_5": "Foster"
+  },
+  {
+    "KEYWORD": "CBD",
+    "BUZZWORD_1": "Oil",
+    "BUZZWORD_2": "Weed",
+    "BUZZWORD_3": "Marijuana",
+    "BUZZWORD_4": "Hemp",
+    "BUZZWORD_5": "Mary Jane"
+  },
+  {
+    "KEYWORD": "Celebrate",
+    "BUZZWORD_1": "honor",
+    "BUZZWORD_2": "memorialize",
+    "BUZZWORD_3": "party",
+    "BUZZWORD_4": "rejoice",
+    "BUZZWORD_5": "praise"
+  },
+  {
+    "KEYWORD": "Cells",
+    "BUZZWORD_1": "Egg",
+    "BUZZWORD_2": "Germ",
+    "BUZZWORD_3": "Embryo",
+    "BUZZWORD_4": "Spore",
+    "BUZZWORD_5": "Genes"
+  },
+  {
+    "KEYWORD": "Cellulite",
+    "BUZZWORD_1": "Blubber",
+    "BUZZWORD_2": "Flab",
+    "BUZZWORD_3": "Obesity",
+    "BUZZWORD_4": "Excess",
+    "BUZZWORD_5": "Bugle"
+  },
+  {
+    "KEYWORD": "Center",
+    "BUZZWORD_1": "Middle",
+    "BUZZWORD_2": "Inside",
+    "BUZZWORD_3": "Midway",
+    "BUZZWORD_4": "Internal",
+    "BUZZWORD_5": "Innermost"
+  },
+  {
+    "KEYWORD": "Cervical",
+    "BUZZWORD_1": "Cancer",
+    "BUZZWORD_2": "Ovarian",
+    "BUZZWORD_3": "HPV",
+    "BUZZWORD_4": "Screening",
+    "BUZZWORD_5": "Pap Smear"
+  },
+  {
+    "KEYWORD": "Chemotherapy",
+    "BUZZWORD_1": "poison",
+    "BUZZWORD_2": "cancer",
+    "BUZZWORD_3": "treatment",
+    "BUZZWORD_4": "Cure",
+    "BUZZWORD_5": "Tumor"
+  },
+  {
+    "KEYWORD": "Children",
+    "BUZZWORD_1": "Kids",
+    "BUZZWORD_2": "Youngster",
+    "BUZZWORD_3": "Brats",
+    "BUZZWORD_4": "Boys",
+    "BUZZWORD_5": "Girls"
+  },
+  {
+    "KEYWORD": "Cholesterol",
+    "BUZZWORD_1": "High",
+    "BUZZWORD_2": "Low",
+    "BUZZWORD_3": "Fats",
+    "BUZZWORD_4": "Diet",
+    "BUZZWORD_5": "Nutrition"
+  },
+  {
+    "KEYWORD": "Cigarettes",
+    "BUZZWORD_1": "Squares",
+    "BUZZWORD_2": "Smoke",
+    "BUZZWORD_3": "Butt",
+    "BUZZWORD_4": "Puff",
+    "BUZZWORD_5": "Leaf"
+  },
+  {
+    "KEYWORD": "Clarify",
+    "BUZZWORD_1": "Explain",
+    "BUZZWORD_2": "Describe",
+    "BUZZWORD_3": "Define",
+    "BUZZWORD_4": "Simplify",
+    "BUZZWORD_5": "Settle"
+  },
+  {
+    "KEYWORD": "Clinical",
+    "BUZZWORD_1": "Analytic",
+    "BUZZWORD_2": "Antiseptic",
+    "BUZZWORD_3": "Detached",
+    "BUZZWORD_4": "Scientific",
+    "BUZZWORD_5": "Impersonal"
+  },
+  {
+    "KEYWORD": "Collect",
+    "BUZZWORD_1": "Amass",
+    "BUZZWORD_2": "Group",
+    "BUZZWORD_3": "Corral",
+    "BUZZWORD_4": "Save",
+    "BUZZWORD_5": "Assemble"
+  },
+  {
+    "KEYWORD": "Colonic",
+    "BUZZWORD_1": "Cleanse",
+    "BUZZWORD_2": "Waste",
+    "BUZZWORD_3": "Dispose",
+    "BUZZWORD_4": "Organ",
+    "BUZZWORD_5": "Alternative"
+  },
+  {
+    "KEYWORD": "Community",
+    "BUZZWORD_1": "District",
+    "BUZZWORD_2": "area",
+    "BUZZWORD_3": "Neighborhood",
+    "BUZZWORD_4": "Precinct",
+    "BUZZWORD_5": "suburbs"
+  },
+  {
+    "KEYWORD": "Complain",
+    "BUZZWORD_1": "Grumble",
+    "BUZZWORD_2": "Fuss",
+    "BUZZWORD_3": "Protest",
+    "BUZZWORD_4": "Whine",
+    "BUZZWORD_5": "Oppose"
+  },
+  {
+    "KEYWORD": "Complicated",
+    "BUZZWORD_1": "Intricate",
+    "BUZZWORD_2": "Knotty",
+    "BUZZWORD_3": "Tricky",
+    "BUZZWORD_4": "Elaborate",
+    "BUZZWORD_5": "Involved"
+  },
+  {
+    "KEYWORD": "Complications",
+    "BUZZWORD_1": "Difficultly",
+    "BUZZWORD_2": "Problem",
+    "BUZZWORD_3": "Issue",
+    "BUZZWORD_4": "Barrier",
+    "BUZZWORD_5": "Impediment"
+  },
+  {
+    "KEYWORD": "Contact",
+    "BUZZWORD_1": "Touch",
+    "BUZZWORD_2": "Proximately",
+    "BUZZWORD_3": "Associated",
+    "BUZZWORD_4": "Call",
+    "BUZZWORD_5": "Continuity"
+  },
+  {
+    "KEYWORD": "Contraception",
+    "BUZZWORD_1": "Birth Control",
+    "BUZZWORD_2": "Pill",
+    "BUZZWORD_3": "Condom",
+    "BUZZWORD_4": "Patch",
+    "BUZZWORD_5": "Shot"
+  },
+  {
+    "KEYWORD": "Contract",
+    "BUZZWORD_1": "Agreement",
+    "BUZZWORD_2": "Pact",
+    "BUZZWORD_3": "Bond",
+    "BUZZWORD_4": "Settlement",
+    "BUZZWORD_5": "Binding"
+  },
+  {
+    "KEYWORD": "Conversation",
+    "BUZZWORD_1": "Talk",
+    "BUZZWORD_2": "Exchange",
+    "BUZZWORD_3": "Chat",
+    "BUZZWORD_4": "Discussion",
+    "BUZZWORD_5": "Discussion"
+  },
+  {
+    "KEYWORD": "Conversion",
+    "BUZZWORD_1": "Changeover",
+    "BUZZWORD_2": "Growth",
+    "BUZZWORD_3": "Expansion",
+    "BUZZWORD_4": "Modification",
+    "BUZZWORD_5": "Alteration"
+  },
+  {
+    "KEYWORD": "Crib",
+    "BUZZWORD_1": "Address",
+    "BUZZWORD_2": "Abode",
+    "BUZZWORD_3": "Domicile",
+    "BUZZWORD_4": "Cradle",
+    "BUZZWORD_5": "Bassinet"
+  },
+  {
+    "KEYWORD": "Crippled",
+    "BUZZWORD_1": "Broken",
+    "BUZZWORD_2": "Defective",
+    "BUZZWORD_3": "Insufficient",
+    "BUZZWORD_4": "Damage",
+    "BUZZWORD_5": "Mangled"
+  },
+  {
+    "KEYWORD": "Critic",
+    "BUZZWORD_1": "Commentator",
+    "BUZZWORD_2": "Expert",
+    "BUZZWORD_3": "Judge",
+    "BUZZWORD_4": "Reviewer",
+    "BUZZWORD_5": "Analyzer"
+  },
+  {
+    "KEYWORD": "Cure",
+    "BUZZWORD_1": "Heal",
+    "BUZZWORD_2": "Restore",
+    "BUZZWORD_3": "Treatment",
+    "BUZZWORD_4": "Remedy",
+    "BUZZWORD_5": "Convalesce"
+  },
+  {
+    "KEYWORD": "Curves",
+    "BUZZWORD_1": "Bend",
+    "BUZZWORD_2": "Round",
+    "BUZZWORD_3": "Circle",
+    "BUZZWORD_4": "Arc",
+    "BUZZWORD_5": "Crescent"
+  },
+  {
+    "KEYWORD": "Cutting Edge",
+    "BUZZWORD_1": "Forefront",
+    "BUZZWORD_2": "advancement",
+    "BUZZWORD_3": "New-wave",
+    "BUZZWORD_4": "invention",
+    "BUZZWORD_5": "pioneer"
+  },
+  {
+    "KEYWORD": "Dance",
+    "BUZZWORD_1": "Disco",
+    "BUZZWORD_2": "Swing",
+    "BUZZWORD_3": "Twist",
+    "BUZZWORD_4": "Tango",
+    "BUZZWORD_5": "Music"
+  },
+  {
+    "KEYWORD": "Deductible",
+    "BUZZWORD_1": "Insurance",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Balance",
+    "BUZZWORD_4": "Portion",
+    "BUZZWORD_5": "Co-Pay"
+  },
+  {
+    "KEYWORD": "Delicate",
+    "BUZZWORD_1": "fragile",
+    "BUZZWORD_2": "feeble",
+    "BUZZWORD_3": "Weak",
+    "BUZZWORD_4": "flimsy",
+    "BUZZWORD_5": "brittle"
+  },
+  {
+    "KEYWORD": "Denial",
+    "BUZZWORD_1": "Refute",
+    "BUZZWORD_2": "Rebuttal",
+    "BUZZWORD_3": "Disbelief",
+    "BUZZWORD_4": "Veto",
+    "BUZZWORD_5": "Dissent"
+  },
+  {
+    "KEYWORD": "Descendants",
+    "BUZZWORD_1": "Offspring",
+    "BUZZWORD_2": "Kin",
+    "BUZZWORD_3": "Child",
+    "BUZZWORD_4": "Heir",
+    "BUZZWORD_5": "Brood"
+  },
+  {
+    "KEYWORD": "Designer",
+    "BUZZWORD_1": "Creator",
+    "BUZZWORD_2": "Producer",
+    "BUZZWORD_3": "Inventor",
+    "BUZZWORD_4": "Originator",
+    "BUZZWORD_5": "Fashion"
+  },
+  {
+    "KEYWORD": "Detection",
+    "BUZZWORD_1": "discovery",
+    "BUZZWORD_2": "revelation",
+    "BUZZWORD_3": "expose",
+    "BUZZWORD_4": "survive",
+    "BUZZWORD_5": "uncover"
+  },
+  {
+    "KEYWORD": "Determine",
+    "BUZZWORD_1": "Control",
+    "BUZZWORD_2": "Regulate",
+    "BUZZWORD_3": "Rule",
+    "BUZZWORD_4": "Govern",
+    "BUZZWORD_5": "Influence"
+  },
+  {
+    "KEYWORD": "Diabetes",
+    "BUZZWORD_1": "Sugar",
+    "BUZZWORD_2": "Insulin",
+    "BUZZWORD_3": "Sweets",
+    "BUZZWORD_4": "Coma",
+    "BUZZWORD_5": "Type"
+  },
+  {
+    "KEYWORD": "Diagnose",
+    "BUZZWORD_1": "Conclusion",
+    "BUZZWORD_2": "Analysis",
+    "BUZZWORD_3": "Examination",
+    "BUZZWORD_4": "Medicine",
+    "BUZZWORD_5": "Opinion"
+  },
+  {
+    "KEYWORD": "Diagnostic",
+    "BUZZWORD_1": "Distinguish",
+    "BUZZWORD_2": "Identify",
+    "BUZZWORD_3": "Characteristic",
+    "BUZZWORD_4": "Test",
+    "BUZZWORD_5": "Symptomatic"
+  },
+  {
+    "KEYWORD": "Diet",
+    "BUZZWORD_1": "Nutrition",
+    "BUZZWORD_2": "Fast",
+    "BUZZWORD_3": "Starvation",
+    "BUZZWORD_4": "Restriction",
+    "BUZZWORD_5": "Feed"
+  },
+  {
+    "KEYWORD": "Dignity",
+    "BUZZWORD_1": "decorum",
+    "BUZZWORD_2": "Grace",
+    "BUZZWORD_3": "honor",
+    "BUZZWORD_4": "respectable",
+    "BUZZWORD_5": "stature"
+  },
+  {
+    "KEYWORD": "Disease",
+    "BUZZWORD_1": "Cancer",
+    "BUZZWORD_2": "Flu",
+    "BUZZWORD_3": "Fever",
+    "BUZZWORD_4": "Illines",
+    "BUZZWORD_5": "Disorder"
+  },
+  {
+    "KEYWORD": "Doctor",
+    "BUZZWORD_1": "Physician",
+    "BUZZWORD_2": "Expert",
+    "BUZZWORD_3": "Healer",
+    "BUZZWORD_4": "Scientist",
+    "BUZZWORD_5": "Specialist"
+  },
+  {
+    "KEYWORD": "Early",
+    "BUZZWORD_1": "fresh",
+    "BUZZWORD_2": "new",
+    "BUZZWORD_3": "before",
+    "BUZZWORD_4": "initial",
+    "BUZZWORD_5": "preparation"
+  },
+  {
+    "KEYWORD": "Economics",
+    "BUZZWORD_1": "marketing",
+    "BUZZWORD_2": "merchandising",
+    "BUZZWORD_3": "retail",
+    "BUZZWORD_4": "wholesale",
+    "BUZZWORD_5": "budget"
+  },
+  {
+    "KEYWORD": "Emergency Room",
+    "BUZZWORD_1": "ER",
+    "BUZZWORD_2": "Hospital",
+    "BUZZWORD_3": "Immediate",
+    "BUZZWORD_4": "Dire",
+    "BUZZWORD_5": "ICU"
+  },
+  {
+    "KEYWORD": "Empathetic",
+    "BUZZWORD_1": "Sensitive",
+    "BUZZWORD_2": "Compassion",
+    "BUZZWORD_3": "Understanding",
+    "BUZZWORD_4": "Merciful",
+    "BUZZWORD_5": "Warm"
+  },
+  {
+    "KEYWORD": "Empowement",
+    "BUZZWORD_1": "approval",
+    "BUZZWORD_2": "endorsement",
+    "BUZZWORD_3": "privilege",
+    "BUZZWORD_4": "permit",
+    "BUZZWORD_5": "acknowledge"
+  },
+  {
+    "KEYWORD": "Encouragment",
+    "BUZZWORD_1": "confident",
+    "BUZZWORD_2": "inspiration",
+    "BUZZWORD_3": "cheer",
+    "BUZZWORD_4": "optimism",
+    "BUZZWORD_5": "assurance"
+  },
+  {
+    "KEYWORD": "Endurance",
+    "BUZZWORD_1": "Ability",
+    "BUZZWORD_2": "Perseverance",
+    "BUZZWORD_3": "Stamina",
+    "BUZZWORD_4": "Vitatility",
+    "BUZZWORD_5": "Courage"
+  },
+  {
+    "KEYWORD": "Energy",
+    "BUZZWORD_1": "Strength",
+    "BUZZWORD_2": "Juice",
+    "BUZZWORD_3": "Active",
+    "BUZZWORD_4": "Spirit",
+    "BUZZWORD_5": "Force"
+  },
+  {
+    "KEYWORD": "Enjoyment",
+    "BUZZWORD_1": "fun",
+    "BUZZWORD_2": "amusement",
+    "BUZZWORD_3": "gratification",
+    "BUZZWORD_4": "Joy",
+    "BUZZWORD_5": "satisfaction"
+  },
+  {
+    "KEYWORD": "Enlightenment",
+    "BUZZWORD_1": "insightful",
+    "BUZZWORD_2": "proficiency",
+    "BUZZWORD_3": "educated",
+    "BUZZWORD_4": "knowledgeable",
+    "BUZZWORD_5": "learning"
+  },
+  {
+    "KEYWORD": "Epidermis",
+    "BUZZWORD_1": "Membrane",
+    "BUZZWORD_2": "Hide",
+    "BUZZWORD_3": "Fur",
+    "BUZZWORD_4": "Skin",
+    "BUZZWORD_5": "Husk"
+  },
+  {
+    "KEYWORD": "Equal",
+    "BUZZWORD_1": "balance",
+    "BUZZWORD_2": "comparable",
+    "BUZZWORD_3": "level",
+    "BUZZWORD_4": "proportionate",
+    "BUZZWORD_5": "identical"
+  },
+  {
+    "KEYWORD": "Essential",
+    "BUZZWORD_1": "Imperative",
+    "BUZZWORD_2": "Main",
+    "BUZZWORD_3": "Needed",
+    "BUZZWORD_4": "Leader",
+    "BUZZWORD_5": "Imperative"
+  },
+  {
+    "KEYWORD": "Estrogen",
+    "BUZZWORD_1": "Testosterone",
+    "BUZZWORD_2": "Horomones",
+    "BUZZWORD_3": "Sex",
+    "BUZZWORD_4": "Gender",
+    "BUZZWORD_5": "Pituitary Gland"
+  },
+  {
+    "KEYWORD": "Evolution",
+    "BUZZWORD_1": "Change",
+    "BUZZWORD_2": "Growth",
+    "BUZZWORD_3": "Transformation",
+    "BUZZWORD_4": "Progression",
+    "BUZZWORD_5": "Mature"
+  },
+  {
+    "KEYWORD": "Examination",
+    "BUZZWORD_1": "Inquiry",
+    "BUZZWORD_2": "Inspection",
+    "BUZZWORD_3": "Probe",
+    "BUZZWORD_4": "Check-up",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Excited",
+    "BUZZWORD_1": "Thrilled",
+    "BUZZWORD_2": "Eager",
+    "BUZZWORD_3": "Charged",
+    "BUZZWORD_4": "Stimulated",
+    "BUZZWORD_5": "Delighted"
+  },
+  {
+    "KEYWORD": "Excuses",
+    "BUZZWORD_1": "Alibi",
+    "BUZZWORD_2": "Justify",
+    "BUZZWORD_3": "Reason",
+    "BUZZWORD_4": "Proof",
+    "BUZZWORD_5": "Cover"
+  },
+  {
+    "KEYWORD": "Exercise",
+    "BUZZWORD_1": "Movement",
+    "BUZZWORD_2": "Cardio",
+    "BUZZWORD_3": "Gym",
+    "BUZZWORD_4": "Walk",
+    "BUZZWORD_5": "Run"
+  },
+  {
+    "KEYWORD": "Exposure",
+    "BUZZWORD_1": "Hazard",
+    "BUZZWORD_2": "Risk",
+    "BUZZWORD_3": "Disclose",
+    "BUZZWORD_4": "Confession",
+    "BUZZWORD_5": "Airing"
+  },
+  {
+    "KEYWORD": "Faith",
+    "BUZZWORD_1": "Accept",
+    "BUZZWORD_2": "Hope",
+    "BUZZWORD_3": "Belief",
+    "BUZZWORD_4": "Conviction",
+    "BUZZWORD_5": "Confidence"
+  },
+  {
+    "KEYWORD": "Fallopean Tubes",
+    "BUZZWORD_1": "Cervix",
+    "BUZZWORD_2": "Ovaries",
+    "BUZZWORD_3": "Vaginal",
+    "BUZZWORD_4": "Menstral Cycle",
+    "BUZZWORD_5": "Pituitary Gland"
+  },
+  {
+    "KEYWORD": "Family",
+    "BUZZWORD_1": "Companion",
+    "BUZZWORD_2": "Siblings",
+    "BUZZWORD_3": "Relatives",
+    "BUZZWORD_4": "Parents",
+    "BUZZWORD_5": "Children"
+  },
+  {
+    "KEYWORD": "Famous",
+    "BUZZWORD_1": "Acclaimed",
+    "BUZZWORD_2": "Brilliant",
+    "BUZZWORD_3": "Eminent",
+    "BUZZWORD_4": "Glorious",
+    "BUZZWORD_5": "Grand"
+  },
+  {
+    "KEYWORD": "Fever",
+    "BUZZWORD_1": "Temperature",
+    "BUZZWORD_2": "Headache",
+    "BUZZWORD_3": "Mind",
+    "BUZZWORD_4": "Sick",
+    "BUZZWORD_5": "Thermometer"
+  },
+  {
+    "KEYWORD": "Fight",
+    "BUZZWORD_1": "Argument",
+    "BUZZWORD_2": "Battle",
+    "BUZZWORD_3": "Brawl",
+    "BUZZWORD_4": "Clash",
+    "BUZZWORD_5": "Melee"
+  },
+  {
+    "KEYWORD": "Flexible",
+    "BUZZWORD_1": "adjustable",
+    "BUZZWORD_2": "Bend",
+    "BUZZWORD_3": "extend",
+    "BUZZWORD_4": "limber",
+    "BUZZWORD_5": "formable"
+  },
+  {
+    "KEYWORD": "Fundamental",
+    "BUZZWORD_1": "Central",
+    "BUZZWORD_2": "Elementary",
+    "BUZZWORD_3": "Indispensable",
+    "BUZZWORD_4": "Major",
+    "BUZZWORD_5": "vital"
+  },
+  {
+    "KEYWORD": "Fundraiser",
+    "BUZZWORD_1": "Race",
+    "BUZZWORD_2": "Charity",
+    "BUZZWORD_3": "Pledge",
+    "BUZZWORD_4": "Telethon",
+    "BUZZWORD_5": "Walk"
+  },
+  {
+    "KEYWORD": "Generous",
+    "BUZZWORD_1": "Helpful",
+    "BUZZWORD_2": "Reasonable",
+    "BUZZWORD_3": "Honest",
+    "BUZZWORD_4": "Charitable",
+    "BUZZWORD_5": "Considerate"
+  },
+  {
+    "KEYWORD": "Glamour",
+    "BUZZWORD_1": "Beauty",
+    "BUZZWORD_2": "Lashes",
+    "BUZZWORD_3": "Allure",
+    "BUZZWORD_4": "Contour",
+    "BUZZWORD_5": "Make-up"
+  },
+  {
+    "KEYWORD": "Gorgeous",
+    "BUZZWORD_1": "Attrive",
+    "BUZZWORD_2": "Bright",
+    "BUZZWORD_3": "Dazzling",
+    "BUZZWORD_4": "Opulent",
+    "BUZZWORD_5": "Impressive"
+  },
+  {
+    "KEYWORD": "Gown",
+    "BUZZWORD_1": "Dress",
+    "BUZZWORD_2": "Garment",
+    "BUZZWORD_3": "Cloth",
+    "BUZZWORD_4": "Frock",
+    "BUZZWORD_5": "Apparel"
+  },
+  {
+    "KEYWORD": "Gratitude",
+    "BUZZWORD_1": "Acknowledgment",
+    "BUZZWORD_2": "Recognition",
+    "BUZZWORD_3": "Gratefulness",
+    "BUZZWORD_4": "Thankful",
+    "BUZZWORD_5": "Honor"
+  },
+  {
+    "KEYWORD": "Growth",
+    "BUZZWORD_1": "Advance",
+    "BUZZWORD_2": "Expansion",
+    "BUZZWORD_3": "Gain",
+    "BUZZWORD_4": "Boost",
+    "BUZZWORD_5": "Hike"
+  },
+  {
+    "KEYWORD": "Gynecologist",
+    "BUZZWORD_1": "Doctor",
+    "BUZZWORD_2": "Physician",
+    "BUZZWORD_3": "Obstetrician",
+    "BUZZWORD_4": "Female Health",
+    "BUZZWORD_5": "Menstral"
+  },
+  {
+    "KEYWORD": "Hair",
+    "BUZZWORD_1": "Fur",
+    "BUZZWORD_2": "Mane",
+    "BUZZWORD_3": "Beautyshop",
+    "BUZZWORD_4": "Wig",
+    "BUZZWORD_5": "Eyebrow"
+  },
+  {
+    "KEYWORD": "Happy",
+    "BUZZWORD_1": "Cheerful",
+    "BUZZWORD_2": "Joyous",
+    "BUZZWORD_3": "Glad",
+    "BUZZWORD_4": "Ecstatic",
+    "BUZZWORD_5": "Jubilant"
+  },
+  {
+    "KEYWORD": "Harmless",
+    "BUZZWORD_1": "Gentle",
+    "BUZZWORD_2": "Innocent",
+    "BUZZWORD_3": "Naive",
+    "BUZZWORD_4": "Simple",
+    "BUZZWORD_5": "Plain"
+  },
+  {
+    "KEYWORD": "Hat",
+    "BUZZWORD_1": "Helmet",
+    "BUZZWORD_2": "Tam",
+    "BUZZWORD_3": "Cap",
+    "BUZZWORD_4": "Fedora",
+    "BUZZWORD_5": "Bonnet"
+  },
+  {
+    "KEYWORD": "Headache",
+    "BUZZWORD_1": "Dilemma",
+    "BUZZWORD_2": "Hassle",
+    "BUZZWORD_3": "Pain",
+    "BUZZWORD_4": "Trouble",
+    "BUZZWORD_5": "Worry"
+  },
+  {
+    "KEYWORD": "Healing",
+    "BUZZWORD_1": "Cure",
+    "BUZZWORD_2": "Diagnose",
+    "BUZZWORD_3": "Remedy",
+    "BUZZWORD_4": "Aid",
+    "BUZZWORD_5": "Fix"
+  },
+  {
+    "KEYWORD": "Health",
+    "BUZZWORD_1": "Robust",
+    "BUZZWORD_2": "In-Shape",
+    "BUZZWORD_3": "Fit",
+    "BUZZWORD_4": "Strength",
+    "BUZZWORD_5": "Energy"
+  },
+  {
+    "KEYWORD": "Healthy",
+    "BUZZWORD_1": "Lively",
+    "BUZZWORD_2": "Normal",
+    "BUZZWORD_3": "Athletic",
+    "BUZZWORD_4": "Strong",
+    "BUZZWORD_5": "Tough"
+  },
+  {
+    "KEYWORD": "Heart",
+    "BUZZWORD_1": "Feeling",
+    "BUZZWORD_2": "Love",
+    "BUZZWORD_3": "Compassion",
+    "BUZZWORD_4": "Affection",
+    "BUZZWORD_5": "Tender"
+  },
+  {
+    "KEYWORD": "Heart Disease",
+    "BUZZWORD_1": "Cholesterol",
+    "BUZZWORD_2": "Cardiovascular",
+    "BUZZWORD_3": "Cardiologist",
+    "BUZZWORD_4": "Congenital",
+    "BUZZWORD_5": "Organ"
+  },
+  {
+    "KEYWORD": "Heavenly",
+    "BUZZWORD_1": "Angelic",
+    "BUZZWORD_2": "Divine",
+    "BUZZWORD_3": "Blissful",
+    "BUZZWORD_4": "Lovely",
+    "BUZZWORD_5": "Wonderful"
+  },
+  {
+    "KEYWORD": "History",
+    "BUZZWORD_1": "Ancestry",
+    "BUZZWORD_2": "Culture",
+    "BUZZWORD_3": "Legacy",
+    "BUZZWORD_4": "Estate",
+    "BUZZWORD_5": "Birthright"
+  },
+  {
+    "KEYWORD": "Honest",
+    "BUZZWORD_1": "Authentic",
+    "BUZZWORD_2": "Decent",
+    "BUZZWORD_3": "Ethical",
+    "BUZZWORD_4": "Fair",
+    "BUZZWORD_5": "Sincere"
+  },
+  {
+    "KEYWORD": "Hopeful",
+    "BUZZWORD_1": "Confident",
+    "BUZZWORD_2": "Upbeat",
+    "BUZZWORD_3": "Comfortable",
+    "BUZZWORD_4": "Content",
+    "BUZZWORD_5": "Eager"
+  },
+  {
+    "KEYWORD": "Hormones",
+    "BUZZWORD_1": "Estrogen",
+    "BUZZWORD_2": "Testosterone",
+    "BUZZWORD_3": "Pill",
+    "BUZZWORD_4": "Foam",
+    "BUZZWORD_5": "Jelly"
+  },
+  {
+    "KEYWORD": "Hospital",
+    "BUZZWORD_1": "ICU",
+    "BUZZWORD_2": "ER",
+    "BUZZWORD_3": "Emergency",
+    "BUZZWORD_4": "Patients",
+    "BUZZWORD_5": "Room"
+  },
+  {
+    "KEYWORD": "Humble",
+    "BUZZWORD_1": "courteous",
+    "BUZZWORD_2": "modest",
+    "BUZZWORD_3": "sheepish",
+    "BUZZWORD_4": "soft-spoken",
+    "BUZZWORD_5": "quiet"
+  },
+  {
+    "KEYWORD": "Hypertension",
+    "BUZZWORD_1": "Heart",
+    "BUZZWORD_2": "Disease",
+    "BUZZWORD_3": "Blood Pressure",
+    "BUZZWORD_4": "High",
+    "BUZZWORD_5": ""
+  },
+  {
+    "KEYWORD": "Imagination",
+    "BUZZWORD_1": "artsy",
+    "BUZZWORD_2": "fantasy",
+    "BUZZWORD_3": "inventiveness",
+    "BUZZWORD_4": "insight",
+    "BUZZWORD_5": "inspiration"
+  },
+  {
+    "KEYWORD": "Important",
+    "BUZZWORD_1": "Critical",
+    "BUZZWORD_2": "Urgent",
+    "BUZZWORD_3": "Vital",
+    "BUZZWORD_4": "Meaningful",
+    "BUZZWORD_5": "Imperative"
+  },
+  {
+    "KEYWORD": "Infection",
+    "BUZZWORD_1": "Disease",
+    "BUZZWORD_2": "Pison",
+    "BUZZWORD_3": "Virus",
+    "BUZZWORD_4": "Bug",
+    "BUZZWORD_5": "Germ"
+  },
+  {
+    "KEYWORD": "Inflammatory",
+    "BUZZWORD_1": "Explosive",
+    "BUZZWORD_2": "Incendiary",
+    "BUZZWORD_3": "Anarchic",
+    "BUZZWORD_4": "Rabid",
+    "BUZZWORD_5": "Excited"
+  },
+  {
+    "KEYWORD": "Injection",
+    "BUZZWORD_1": "Shoit",
+    "BUZZWORD_2": "Antidote",
+    "BUZZWORD_3": "Drug",
+    "BUZZWORD_4": "Booster",
+    "BUZZWORD_5": "Dose"
+  },
+  {
+    "KEYWORD": "Inspiration",
+    "BUZZWORD_1": "encouragement",
+    "BUZZWORD_2": "incentive",
+    "BUZZWORD_3": "motivation",
+    "BUZZWORD_4": "Awakening",
+    "BUZZWORD_5": "creativity"
+  },
+  {
+    "KEYWORD": "Insulin",
+    "BUZZWORD_1": "Diabetes",
+    "BUZZWORD_2": "Peptide",
+    "BUZZWORD_3": "Hormore",
+    "BUZZWORD_4": "Pancreas",
+    "BUZZWORD_5": "Metabolism"
+  },
+  {
+    "KEYWORD": "Insurance",
+    "BUZZWORD_1": "Protection",
+    "BUZZWORD_2": "Security",
+    "BUZZWORD_3": "Defense",
+    "BUZZWORD_4": "Guarantee",
+    "BUZZWORD_5": "Coverage"
+  },
+  {
+    "KEYWORD": "Intensive Care",
+    "BUZZWORD_1": "ICU",
+    "BUZZWORD_2": "Department",
+    "BUZZWORD_3": "Hospital",
+    "BUZZWORD_4": "Treatment",
+    "BUZZWORD_5": "Medical"
+  },
+  {
+    "KEYWORD": "Intentional",
+    "BUZZWORD_1": "Calulated",
+    "BUZZWORD_2": "Volunteer",
+    "BUZZWORD_3": "Willful",
+    "BUZZWORD_4": "Prearranged",
+    "BUZZWORD_5": "Meant"
+  },
+  {
+    "KEYWORD": "Investigate",
+    "BUZZWORD_1": "Examine",
+    "BUZZWORD_2": "Inspect",
+    "BUZZWORD_3": "question",
+    "BUZZWORD_4": "police",
+    "BUZZWORD_5": "inquire"
+  },
+  {
+    "KEYWORD": "Keepsake",
+    "BUZZWORD_1": "memento",
+    "BUZZWORD_2": "trophy",
+    "BUZZWORD_3": "Pandora",
+    "BUZZWORD_4": "Tiffany's",
+    "BUZZWORD_5": "token"
+  },
+  {
+    "KEYWORD": "Kindness",
+    "BUZZWORD_1": "courteous",
+    "BUZZWORD_2": "cordial",
+    "BUZZWORD_3": "decent",
+    "BUZZWORD_4": "patient",
+    "BUZZWORD_5": "sympathetic"
+  },
+  {
+    "KEYWORD": "Knowledge",
+    "BUZZWORD_1": "awareness",
+    "BUZZWORD_2": "education",
+    "BUZZWORD_3": "expertise",
+    "BUZZWORD_4": "wisdom",
+    "BUZZWORD_5": "ability"
+  },
+  {
+    "KEYWORD": "Large",
+    "BUZZWORD_1": "Big",
+    "BUZZWORD_2": "Huge",
+    "BUZZWORD_3": "Enormous",
+    "BUZZWORD_4": "Small",
+    "BUZZWORD_5": "Little"
+  },
+  {
+    "KEYWORD": "Laugh",
+    "BUZZWORD_1": "Giggle",
+    "BUZZWORD_2": "Snicker",
+    "BUZZWORD_3": "Roar",
+    "BUZZWORD_4": "Smile",
+    "BUZZWORD_5": "Haha"
+  },
+  {
+    "KEYWORD": "Leadership",
+    "BUZZWORD_1": "Authority",
+    "BUZZWORD_2": "power",
+    "BUZZWORD_3": "management",
+    "BUZZWORD_4": "team",
+    "BUZZWORD_5": "captain"
+  },
+  {
+    "KEYWORD": "Leisure",
+    "BUZZWORD_1": "Recreation",
+    "BUZZWORD_2": "relaxation",
+    "BUZZWORD_3": "retirement",
+    "BUZZWORD_4": "sabbatical",
+    "BUZZWORD_5": "vacation"
+  },
+  {
+    "KEYWORD": "Life",
+    "BUZZWORD_1": "live",
+    "BUZZWORD_2": "love",
+    "BUZZWORD_3": "heart",
+    "BUZZWORD_4": "soul",
+    "BUZZWORD_5": "celebrate"
+  },
+  {
+    "KEYWORD": "Lifestyle",
+    "BUZZWORD_1": "Situation",
+    "BUZZWORD_2": "Position",
+    "BUZZWORD_3": "Condition",
+    "BUZZWORD_4": "Circumstance",
+    "BUZZWORD_5": "State"
+  },
+  {
+    "KEYWORD": "Limber",
+    "BUZZWORD_1": "Spry",
+    "BUZZWORD_2": "Graceful",
+    "BUZZWORD_3": "Nimble",
+    "BUZZWORD_4": "Quick",
+    "BUZZWORD_5": "Athletic"
+  },
+  {
+    "KEYWORD": "Logical",
+    "BUZZWORD_1": "rational",
+    "BUZZWORD_2": "plausible",
+    "BUZZWORD_3": "intelligent",
+    "BUZZWORD_4": "obvious",
+    "BUZZWORD_5": "wise"
+  },
+  {
+    "KEYWORD": "Long Term",
+    "BUZZWORD_1": "Short",
+    "BUZZWORD_2": "Time",
+    "BUZZWORD_3": "Period",
+    "BUZZWORD_4": "Comparative",
+    "BUZZWORD_5": "Continue"
+  },
+  {
+    "KEYWORD": "Lounge",
+    "BUZZWORD_1": "bar",
+    "BUZZWORD_2": "Tavern",
+    "BUZZWORD_3": "Club",
+    "BUZZWORD_4": "saloon",
+    "BUZZWORD_5": "Watering Hole"
+  },
+  {
+    "KEYWORD": "Love",
+    "BUZZWORD_1": "affection",
+    "BUZZWORD_2": "devotion",
+    "BUZZWORD_3": "passion",
+    "BUZZWORD_4": "hate",
+    "BUZZWORD_5": "adore"
+  },
+  {
+    "KEYWORD": "Loyal",
+    "BUZZWORD_1": "trustworthy",
+    "BUZZWORD_2": "devoted",
+    "BUZZWORD_3": "faithful",
+    "BUZZWORD_4": "steadfast",
+    "BUZZWORD_5": "staunch"
+  },
+  {
+    "KEYWORD": "Lump",
+    "BUZZWORD_1": "knot",
+    "BUZZWORD_2": "tumor",
+    "BUZZWORD_3": "cyst",
+    "BUZZWORD_4": "bulge",
+    "BUZZWORD_5": "bump"
+  },
+  {
+    "KEYWORD": "Malignant",
+    "BUZZWORD_1": "Benign",
+    "BUZZWORD_2": "Cancer",
+    "BUZZWORD_3": "Tumor",
+    "BUZZWORD_4": "screening",
+    "BUZZWORD_5": ""
+  },
+  {
+    "KEYWORD": "Mammogram",
+    "BUZZWORD_1": "X-ray",
+    "BUZZWORD_2": "normal",
+    "BUZZWORD_3": "Cancer",
+    "BUZZWORD_4": "tumor",
+    "BUZZWORD_5": "annual"
+  },
+  {
+    "KEYWORD": "Mature",
+    "BUZZWORD_1": "Grown",
+    "BUZZWORD_2": "Cultivate",
+    "BUZZWORD_3": "Ready",
+    "BUZZWORD_4": "Developed",
+    "BUZZWORD_5": "Ripe"
+  },
+  {
+    "KEYWORD": "Media",
+    "BUZZWORD_1": "Television",
+    "BUZZWORD_2": "News",
+    "BUZZWORD_3": "Cable",
+    "BUZZWORD_4": "Radio",
+    "BUZZWORD_5": "Communications"
+  },
+  {
+    "KEYWORD": "Medical",
+    "BUZZWORD_1": "Pharmaceutical",
+    "BUZZWORD_2": "sedative",
+    "BUZZWORD_3": "Narcotics",
+    "BUZZWORD_4": "therapeutic",
+    "BUZZWORD_5": "preventive"
+  },
+  {
+    "KEYWORD": "Medicine",
+    "BUZZWORD_1": "Oral",
+    "BUZZWORD_2": "Inject",
+    "BUZZWORD_3": "antibiotic",
+    "BUZZWORD_4": "capsule",
+    "BUZZWORD_5": "tablet"
+  },
+  {
+    "KEYWORD": "Medium",
+    "BUZZWORD_1": "average",
+    "BUZZWORD_2": "ordinary",
+    "BUZZWORD_3": "fast",
+    "BUZZWORD_4": "slow",
+    "BUZZWORD_5": "large"
+  },
+  {
+    "KEYWORD": "Melanin",
+    "BUZZWORD_1": "Skin",
+    "BUZZWORD_2": "Pigment",
+    "BUZZWORD_3": "Dark",
+    "BUZZWORD_4": "Tint",
+    "BUZZWORD_5": "Complexion"
+  },
+  {
+    "KEYWORD": "Menstrual Cycle",
+    "BUZZWORD_1": "Period",
+    "BUZZWORD_2": "Monthly",
+    "BUZZWORD_3": "Tampons",
+    "BUZZWORD_4": "Repeat",
+    "BUZZWORD_5": "Pads"
+  },
+  {
+    "KEYWORD": "Mercy",
+    "BUZZWORD_1": "Charity",
+    "BUZZWORD_2": "leniency",
+    "BUZZWORD_3": "benevolence",
+    "BUZZWORD_4": "Goodwill",
+    "BUZZWORD_5": "blessing"
+  },
+  {
+    "KEYWORD": "Metabolism",
+    "BUZZWORD_1": "Chemical",
+    "BUZZWORD_2": "Reaction",
+    "BUZZWORD_3": "Energy",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Cellular"
+  },
+  {
+    "KEYWORD": "Middle",
+    "BUZZWORD_1": "between",
+    "BUZZWORD_2": "Center",
+    "BUZZWORD_3": "intermediate",
+    "BUZZWORD_4": "average",
+    "BUZZWORD_5": "front"
+  },
+  {
+    "KEYWORD": "Mind",
+    "BUZZWORD_1": "attention",
+    "BUZZWORD_2": "brain",
+    "BUZZWORD_3": "head",
+    "BUZZWORD_4": "intelligence",
+    "BUZZWORD_5": "imagination"
+  },
+  {
+    "KEYWORD": "Miracle",
+    "BUZZWORD_1": "Marvel",
+    "BUZZWORD_2": "surprise",
+    "BUZZWORD_3": "Wonder",
+    "BUZZWORD_4": "God",
+    "BUZZWORD_5": "Rarity"
+  },
+  {
+    "KEYWORD": "MRI",
+    "BUZZWORD_1": "Magnetic",
+    "BUZZWORD_2": "Resonance",
+    "BUZZWORD_3": "Imaging",
+    "BUZZWORD_4": "Scan",
+    "BUZZWORD_5": "Diagnostic"
+  },
+  {
+    "KEYWORD": "Necessary",
+    "BUZZWORD_1": "fundamental",
+    "BUZZWORD_2": "basic",
+    "BUZZWORD_3": "imperative",
+    "BUZZWORD_4": "crucial",
+    "BUZZWORD_5": "vital"
+  },
+  {
+    "KEYWORD": "Needle",
+    "BUZZWORD_1": "pester",
+    "BUZZWORD_2": "badger",
+    "BUZZWORD_3": "nag",
+    "BUZZWORD_4": "irritate",
+    "BUZZWORD_5": "goad"
+  },
+  {
+    "KEYWORD": "Negative",
+    "BUZZWORD_1": "gloomy",
+    "BUZZWORD_2": "unfavorable",
+    "BUZZWORD_3": "contrary",
+    "BUZZWORD_4": "anti",
+    "BUZZWORD_5": "con"
+  },
+  {
+    "KEYWORD": "Nervous",
+    "BUZZWORD_1": "afraid",
+    "BUZZWORD_2": "edgy",
+    "BUZZWORD_3": "concern",
+    "BUZZWORD_4": "timid",
+    "BUZZWORD_5": "uneasy"
+  },
+  {
+    "KEYWORD": "Nipple",
+    "BUZZWORD_1": "cow",
+    "BUZZWORD_2": "bosom",
+    "BUZZWORD_3": "bust",
+    "BUZZWORD_4": "Chest",
+    "BUZZWORD_5": "Pierce"
+  },
+  {
+    "KEYWORD": "Non-profit",
+    "BUZZWORD_1": "Organization",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Corporation",
+    "BUZZWORD_4": "Institution",
+    "BUZZWORD_5": "Fundraise"
+  },
+  {
+    "KEYWORD": "Nurse",
+    "BUZZWORD_1": "assistant",
+    "BUZZWORD_2": "therapist",
+    "BUZZWORD_3": "caretaker",
+    "BUZZWORD_4": "RN",
+    "BUZZWORD_5": "medic"
+  },
+  {
+    "KEYWORD": "Nurture",
+    "BUZZWORD_1": "care",
+    "BUZZWORD_2": "diet",
+    "BUZZWORD_3": "discipline",
+    "BUZZWORD_4": "groom",
+    "BUZZWORD_5": "feed"
+  },
+  {
+    "KEYWORD": "Nutrition",
+    "BUZZWORD_1": "diet",
+    "BUZZWORD_2": "menu",
+    "BUZZWORD_3": "substance",
+    "BUZZWORD_4": "vegetables",
+    "BUZZWORD_5": "fruits"
+  },
+  {
+    "KEYWORD": "Obedient",
+    "BUZZWORD_1": "faithful",
+    "BUZZWORD_2": "devoted",
+    "BUZZWORD_3": "loyal",
+    "BUZZWORD_4": "respectful",
+    "BUZZWORD_5": "law-abiding"
+  },
+  {
+    "KEYWORD": "Obese",
+    "BUZZWORD_1": "plump",
+    "BUZZWORD_2": "heavy",
+    "BUZZWORD_3": "Stout",
+    "BUZZWORD_4": "anorexic",
+    "BUZZWORD_5": "paunchy"
+  },
+  {
+    "KEYWORD": "Obstetrician",
+    "BUZZWORD_1": "doctor",
+    "BUZZWORD_2": "nurse",
+    "BUZZWORD_3": "midwife",
+    "BUZZWORD_4": "deliver",
+    "BUZZWORD_5": "baby"
+  },
+  {
+    "KEYWORD": "October",
+    "BUZZWORD_1": "month",
+    "BUZZWORD_2": "fall",
+    "BUZZWORD_3": "Libra",
+    "BUZZWORD_4": "pink",
+    "BUZZWORD_5": "Halloween"
+  },
+  {
+    "KEYWORD": "Opinion",
+    "BUZZWORD_1": "Theory",
+    "BUZZWORD_2": "View",
+    "BUZZWORD_3": "assessment",
+    "BUZZWORD_4": "thought",
+    "BUZZWORD_5": "idea"
+  },
+  {
+    "KEYWORD": "Opt",
+    "BUZZWORD_1": "decide",
+    "BUZZWORD_2": "elect",
+    "BUZZWORD_3": "take",
+    "BUZZWORD_4": "select",
+    "BUZZWORD_5": "prefer"
+  },
+  {
+    "KEYWORD": "Optimistic",
+    "BUZZWORD_1": "bright",
+    "BUZZWORD_2": "cheerful",
+    "BUZZWORD_3": "confident",
+    "BUZZWORD_4": "encouraged",
+    "BUZZWORD_5": "hopeful"
+  },
+  {
+    "KEYWORD": "Options",
+    "BUZZWORD_1": "choice",
+    "BUZZWORD_2": "privilege",
+    "BUZZWORD_3": "rights",
+    "BUZZWORD_4": "opportunity",
+    "BUZZWORD_5": "preference"
+  },
+  {
+    "KEYWORD": "Oral",
+    "BUZZWORD_1": "voice",
+    "BUZZWORD_2": "vocal",
+    "BUZZWORD_3": "articulate",
+    "BUZZWORD_4": "narrate",
+    "BUZZWORD_5": "verbal"
+  },
+  {
+    "KEYWORD": "Organic",
+    "BUZZWORD_1": "original",
+    "BUZZWORD_2": "biological",
+    "BUZZWORD_3": "natural",
+    "BUZZWORD_4": "living",
+    "BUZZWORD_5": "essential"
+  },
+  {
+    "KEYWORD": "Organization",
+    "BUZZWORD_1": "non for profit",
+    "BUZZWORD_2": "institutions",
+    "BUZZWORD_3": "Corporation",
+    "BUZZWORD_4": "groups",
+    "BUZZWORD_5": "alignment"
+  },
+  {
+    "KEYWORD": "Ovaries",
+    "BUZZWORD_1": "Reproductive",
+    "BUZZWORD_2": "Hormones",
+    "BUZZWORD_3": "Estrogen",
+    "BUZZWORD_4": "Menstruation",
+    "BUZZWORD_5": "Fertilization"
+  },
+  {
+    "KEYWORD": "Pap Smear",
+    "BUZZWORD_1": "Test",
+    "BUZZWORD_2": "HPV",
+    "BUZZWORD_3": "Cells",
+    "BUZZWORD_4": "Uterus",
+    "BUZZWORD_5": "Cancer"
+  },
+  {
+    "KEYWORD": "Paradise",
+    "BUZZWORD_1": "heaven",
+    "BUZZWORD_2": "Utopia",
+    "BUZZWORD_3": "Wonderland",
+    "BUZZWORD_4": "tropics",
+    "BUZZWORD_5": "Beach"
+  },
+  {
+    "KEYWORD": "Parents",
+    "BUZZWORD_1": "father",
+    "BUZZWORD_2": "mother",
+    "BUZZWORD_3": "caretaker",
+    "BUZZWORD_4": "folks",
+    "BUZZWORD_5": "Guardian"
+  },
+  {
+    "KEYWORD": "Patient",
+    "BUZZWORD_1": "tolerant",
+    "BUZZWORD_2": "forgiving",
+    "BUZZWORD_3": "understanding",
+    "BUZZWORD_4": "even tempered",
+    "BUZZWORD_5": "composed"
+  },
+  {
+    "KEYWORD": "Payment",
+    "BUZZWORD_1": "award",
+    "BUZZWORD_2": "disbursement",
+    "BUZZWORD_3": "fee",
+    "BUZZWORD_4": "reimbursement",
+    "BUZZWORD_5": "Sum"
+  },
+  {
+    "KEYWORD": "Persistent",
+    "BUZZWORD_1": "tenacious",
+    "BUZZWORD_2": "continual",
+    "BUZZWORD_3": "relentless",
+    "BUZZWORD_4": "stubborn",
+    "BUZZWORD_5": "steadfast"
+  },
+  {
+    "KEYWORD": "Pharmacy",
+    "BUZZWORD_1": "Prescription",
+    "BUZZWORD_2": "Pharmacists",
+    "BUZZWORD_3": "Drugs",
+    "BUZZWORD_4": "Medicine",
+    "BUZZWORD_5": "Chemists"
+  },
+  {
+    "KEYWORD": "Physician",
+    "BUZZWORD_1": "Doctor",
+    "BUZZWORD_2": "Nurse",
+    "BUZZWORD_3": "Medical",
+    "BUZZWORD_4": "MD",
+    "BUZZWORD_5": "Practice"
+  },
+  {
+    "KEYWORD": "Pink",
+    "BUZZWORD_1": "rose",
+    "BUZZWORD_2": "blush",
+    "BUZZWORD_3": "fuchsia",
+    "BUZZWORD_4": "Coral",
+    "BUZZWORD_5": "salmon"
+  },
+  {
+    "KEYWORD": "Placenta",
+    "BUZZWORD_1": "Mucous",
+    "BUZZWORD_2": "Membrane",
+    "BUZZWORD_3": "Uterus",
+    "BUZZWORD_4": "Fetus",
+    "BUZZWORD_5": "Nourishment"
+  },
+  {
+    "KEYWORD": "Pleasure",
+    "BUZZWORD_1": "Bliss",
+    "BUZZWORD_2": "enjoyment",
+    "BUZZWORD_3": "contentment",
+    "BUZZWORD_4": "comfort",
+    "BUZZWORD_5": "Joy."
+  },
+  {
+    "KEYWORD": "Positive",
+    "BUZZWORD_1": "clear",
+    "BUZZWORD_2": "conclusive",
+    "BUZZWORD_3": "specific",
+    "BUZZWORD_4": "decisive",
+    "BUZZWORD_5": "confident"
+  },
+  {
+    "KEYWORD": "Possible",
+    "BUZZWORD_1": "achievable",
+    "BUZZWORD_2": "feasible",
+    "BUZZWORD_3": "potential",
+    "BUZZWORD_4": "desirable",
+    "BUZZWORD_5": "imaginable"
+  },
+  {
+    "KEYWORD": "Powerful",
+    "BUZZWORD_1": "authoritative",
+    "BUZZWORD_2": "dominant",
+    "BUZZWORD_3": "energetic",
+    "BUZZWORD_4": "dynamic",
+    "BUZZWORD_5": "forceful"
+  },
+  {
+    "KEYWORD": "Practices",
+    "BUZZWORD_1": "form",
+    "BUZZWORD_2": "habit",
+    "BUZZWORD_3": "method",
+    "BUZZWORD_4": "tradition",
+    "BUZZWORD_5": "use"
+  },
+  {
+    "KEYWORD": "Pregnant",
+    "BUZZWORD_1": "Expecting",
+    "BUZZWORD_2": "Child-bearing",
+    "BUZZWORD_3": "Fertilization",
+    "BUZZWORD_4": "Baby",
+    "BUZZWORD_5": "Birth"
+  },
+  {
+    "KEYWORD": "Prescription",
+    "BUZZWORD_1": "Medication",
+    "BUZZWORD_2": "Drugs",
+    "BUZZWORD_3": "Pharmacy",
+    "BUZZWORD_4": "Treatment",
+    "BUZZWORD_5": "Written"
+  },
+  {
+    "KEYWORD": "Presents",
+    "BUZZWORD_1": "current",
+    "BUZZWORD_2": "gift",
+    "BUZZWORD_3": "here",
+    "BUZZWORD_4": "current",
+    "BUZZWORD_5": "today"
+  },
+  {
+    "KEYWORD": "Prestige",
+    "BUZZWORD_1": "esteem",
+    "BUZZWORD_2": "importance",
+    "BUZZWORD_3": "prominence",
+    "BUZZWORD_4": "dignity",
+    "BUZZWORD_5": "power"
+  },
+  {
+    "KEYWORD": "Prevention",
+    "BUZZWORD_1": "block",
+    "BUZZWORD_2": "determent",
+    "BUZZWORD_3": "impede",
+    "BUZZWORD_4": "interception",
+    "BUZZWORD_5": "obstacle"
+  },
+  {
+    "KEYWORD": "Primary",
+    "BUZZWORD_1": "dominant",
+    "BUZZWORD_2": "fundamental",
+    "BUZZWORD_3": "Main",
+    "BUZZWORD_4": "principal",
+    "BUZZWORD_5": "vital"
+  },
+  {
+    "KEYWORD": "Principal",
+    "BUZZWORD_1": "Key",
+    "BUZZWORD_2": "Major",
+    "BUZZWORD_3": "Primary",
+    "BUZZWORD_4": "Prime",
+    "BUZZWORD_5": "Prominent"
+  },
+  {
+    "KEYWORD": "Progress",
+    "BUZZWORD_1": "breakthrough",
+    "BUZZWORD_2": "development",
+    "BUZZWORD_3": "evolution",
+    "BUZZWORD_4": "Improvement",
+    "BUZZWORD_5": "momentum"
+  },
+  {
+    "KEYWORD": "Prohibit",
+    "BUZZWORD_1": "constraint",
+    "BUZZWORD_2": "ban",
+    "BUZZWORD_3": "forbid",
+    "BUZZWORD_4": "halt",
+    "BUZZWORD_5": "prevent"
+  },
+  {
+    "KEYWORD": "Protect",
+    "BUZZWORD_1": "cover",
+    "BUZZWORD_2": "cushion",
+    "BUZZWORD_3": "defend",
+    "BUZZWORD_4": "Shield",
+    "BUZZWORD_5": "insulate"
+  },
+  {
+    "KEYWORD": "Proud",
+    "BUZZWORD_1": "appreciative",
+    "BUZZWORD_2": "glad",
+    "BUZZWORD_3": "honored",
+    "BUZZWORD_4": "Noble",
+    "BUZZWORD_5": "fiery"
+  },
+  {
+    "KEYWORD": "Public",
+    "BUZZWORD_1": "city",
+    "BUZZWORD_2": "social",
+    "BUZZWORD_3": "popular",
+    "BUZZWORD_4": "national",
+    "BUZZWORD_5": "civil"
+  },
+  {
+    "KEYWORD": "Quality",
+    "BUZZWORD_1": "trait",
+    "BUZZWORD_2": "element",
+    "BUZZWORD_3": "condition",
+    "BUZZWORD_4": "description",
+    "BUZZWORD_5": "aspect"
+  },
+  {
+    "KEYWORD": "Questions",
+    "BUZZWORD_1": "inquire",
+    "BUZZWORD_2": "interrogate",
+    "BUZZWORD_3": "ask",
+    "BUZZWORD_4": "query",
+    "BUZZWORD_5": "third degree"
+  },
+  {
+    "KEYWORD": "Radiation",
+    "BUZZWORD_1": "Spread",
+    "BUZZWORD_2": "Treatment",
+    "BUZZWORD_3": "Diffusion",
+    "BUZZWORD_4": "Emission",
+    "BUZZWORD_5": "Distribution"
+  },
+  {
+    "KEYWORD": "Rare",
+    "BUZZWORD_1": "extraordinary",
+    "BUZZWORD_2": "scarce",
+    "BUZZWORD_3": "unique",
+    "BUZZWORD_4": "strange",
+    "BUZZWORD_5": "uncommon"
+  },
+  {
+    "KEYWORD": "Rash",
+    "BUZZWORD_1": "immature",
+    "BUZZWORD_2": "hasty",
+    "BUZZWORD_3": "daring",
+    "BUZZWORD_4": "bold",
+    "BUZZWORD_5": "irrational"
+  },
+  {
+    "KEYWORD": "Real",
+    "BUZZWORD_1": "absolute",
+    "BUZZWORD_2": "original",
+    "BUZZWORD_3": "legitimate",
+    "BUZZWORD_4": "certain",
+    "BUZZWORD_5": "positive"
+  },
+  {
+    "KEYWORD": "Record",
+    "BUZZWORD_1": "document",
+    "BUZZWORD_2": "report",
+    "BUZZWORD_3": "tape",
+    "BUZZWORD_4": "transcribe",
+    "BUZZWORD_5": "CD"
+  },
+  {
+    "KEYWORD": "Recover",
+    "BUZZWORD_1": "resume",
+    "BUZZWORD_2": "restore",
+    "BUZZWORD_3": "recoup",
+    "BUZZWORD_4": "reclaim",
+    "BUZZWORD_5": "retrieve"
+  },
+  {
+    "KEYWORD": "Refresh",
+    "BUZZWORD_1": "exhilarate",
+    "BUZZWORD_2": "rejuvenate",
+    "BUZZWORD_3": "invigorate",
+    "BUZZWORD_4": "replenish",
+    "BUZZWORD_5": "revive"
+  },
+  {
+    "KEYWORD": "Register",
+    "BUZZWORD_1": "archive",
+    "BUZZWORD_2": "Chronicle",
+    "BUZZWORD_3": "Ledger",
+    "BUZZWORD_4": "book",
+    "BUZZWORD_5": "entry"
+  },
+  {
+    "KEYWORD": "Rejuvenate",
+    "BUZZWORD_1": "revive",
+    "BUZZWORD_2": "renew",
+    "BUZZWORD_3": "restore",
+    "BUZZWORD_4": "Revitalize",
+    "BUZZWORD_5": "spruce up"
+  },
+  {
+    "KEYWORD": "Relevent",
+    "BUZZWORD_1": "significant",
+    "BUZZWORD_2": "related",
+    "BUZZWORD_3": "important",
+    "BUZZWORD_4": "Pertinent",
+    "BUZZWORD_5": "Applicable"
+  },
+  {
+    "KEYWORD": "Reminder",
+    "BUZZWORD_1": "letter",
+    "BUZZWORD_2": "sign",
+    "BUZZWORD_3": "note",
+    "BUZZWORD_4": "memo",
+    "BUZZWORD_5": "souvenir"
+  },
+  {
+    "KEYWORD": "Remission",
+    "BUZZWORD_1": "Excuse",
+    "BUZZWORD_2": "Reprieve",
+    "BUZZWORD_3": "Mercy",
+    "BUZZWORD_4": "Release",
+    "BUZZWORD_5": "Discharge"
+  },
+  {
+    "KEYWORD": "Research",
+    "BUZZWORD_1": "investigation",
+    "BUZZWORD_2": "exploration",
+    "BUZZWORD_3": "groundwork",
+    "BUZZWORD_4": "probe",
+    "BUZZWORD_5": "analysis"
+  },
+  {
+    "KEYWORD": "Responsible",
+    "BUZZWORD_1": "answerable",
+    "BUZZWORD_2": "culpable",
+    "BUZZWORD_3": "pledge",
+    "BUZZWORD_4": "guilty",
+    "BUZZWORD_5": "liable"
+  },
+  {
+    "KEYWORD": "Rest",
+    "BUZZWORD_1": "Break",
+    "BUZZWORD_2": "Peace",
+    "BUZZWORD_3": "Recess",
+    "BUZZWORD_4": "Comfort",
+    "BUZZWORD_5": "Relief"
+  },
+  {
+    "KEYWORD": "Reveal",
+    "BUZZWORD_1": "acknowledge",
+    "BUZZWORD_2": "affirm",
+    "BUZZWORD_3": "confess",
+    "BUZZWORD_4": "declare",
+    "BUZZWORD_5": "divulge"
+  },
+  {
+    "KEYWORD": "Ribbon",
+    "BUZZWORD_1": "bow",
+    "BUZZWORD_2": "decoration",
+    "BUZZWORD_3": "award",
+    "BUZZWORD_4": "fan",
+    "BUZZWORD_5": "prize"
+  },
+  {
+    "KEYWORD": "Risk",
+    "BUZZWORD_1": "Danger",
+    "BUZZWORD_2": "exposure",
+    "BUZZWORD_3": "hazard",
+    "BUZZWORD_4": "liability",
+    "BUZZWORD_5": "uncertainty"
+  },
+  {
+    "KEYWORD": "Routine",
+    "BUZZWORD_1": "conventional",
+    "BUZZWORD_2": "normal",
+    "BUZZWORD_3": "regular",
+    "BUZZWORD_4": "usual",
+    "BUZZWORD_5": "ordinary"
+  },
+  {
+    "KEYWORD": "Sample",
+    "BUZZWORD_1": "specimen",
+    "BUZZWORD_2": "fragment",
+    "BUZZWORD_3": "pattern",
+    "BUZZWORD_4": "element",
+    "BUZZWORD_5": "case"
+  },
+  {
+    "KEYWORD": "Sanitary",
+    "BUZZWORD_1": "Hygienic",
+    "BUZZWORD_2": "Unpolluted",
+    "BUZZWORD_3": "Purified",
+    "BUZZWORD_4": "Clean",
+    "BUZZWORD_5": "Sterile"
+  },
+  {
+    "KEYWORD": "Seamless",
+    "BUZZWORD_1": "smooth",
+    "BUZZWORD_2": "effortless",
+    "BUZZWORD_3": "orderly",
+    "BUZZWORD_4": "logical",
+    "BUZZWORD_5": "ideal"
+  },
+  {
+    "KEYWORD": "Sexy",
+    "BUZZWORD_1": "hot",
+    "BUZZWORD_2": "sensual",
+    "BUZZWORD_3": "racy",
+    "BUZZWORD_4": "provocative",
+    "BUZZWORD_5": "curvy"
+  },
+  {
+    "KEYWORD": "Shelter",
+    "BUZZWORD_1": "dwelling",
+    "BUZZWORD_2": "sanctuary",
+    "BUZZWORD_3": "house",
+    "BUZZWORD_4": "crib",
+    "BUZZWORD_5": "tent"
+  },
+  {
+    "KEYWORD": "Short Term",
+    "BUZZWORD_1": "Long",
+    "BUZZWORD_2": "Time",
+    "BUZZWORD_3": "Abbreviated",
+    "BUZZWORD_4": "Decreased",
+    "BUZZWORD_5": "Less"
+  },
+  {
+    "KEYWORD": "Significant",
+    "BUZZWORD_1": "understanding",
+    "BUZZWORD_2": "gravity",
+    "BUZZWORD_3": "magnitude",
+    "BUZZWORD_4": "influence",
+    "BUZZWORD_5": "Merit"
+  },
+  {
+    "KEYWORD": "Sincere",
+    "BUZZWORD_1": "candor",
+    "BUZZWORD_2": "earnest",
+    "BUZZWORD_3": "truthful",
+    "BUZZWORD_4": "frankness",
+    "BUZZWORD_5": "caring"
+  },
+  {
+    "KEYWORD": "Skin",
+    "BUZZWORD_1": "Organ",
+    "BUZZWORD_2": "Covering",
+    "BUZZWORD_3": "Lotion",
+    "BUZZWORD_4": "Epidermis",
+    "BUZZWORD_5": "Outside"
+  },
+  {
+    "KEYWORD": "Small",
+    "BUZZWORD_1": "tiny",
+    "BUZZWORD_2": "little",
+    "BUZZWORD_3": "large",
+    "BUZZWORD_4": "medium",
+    "BUZZWORD_5": "micro"
+  },
+  {
+    "KEYWORD": "Specimen",
+    "BUZZWORD_1": "Exhibit",
+    "BUZZWORD_2": "Sampling",
+    "BUZZWORD_3": "Urine",
+    "BUZZWORD_4": "Variety",
+    "BUZZWORD_5": "Cell"
+  },
+  {
+    "KEYWORD": "Spiritual",
+    "BUZZWORD_1": "divine",
+    "BUZZWORD_2": "devotional",
+    "BUZZWORD_3": "intangible",
+    "BUZZWORD_4": "sacred",
+    "BUZZWORD_5": "pure"
+  },
+  {
+    "KEYWORD": "Straight",
+    "BUZZWORD_1": "consecutive",
+    "BUZZWORD_2": "Non-Stop",
+    "BUZZWORD_3": "up right",
+    "BUZZWORD_4": "vertical",
+    "BUZZWORD_5": "linear"
+  },
+  {
+    "KEYWORD": "Study",
+    "BUZZWORD_1": "examination",
+    "BUZZWORD_2": "class",
+    "BUZZWORD_3": "inspection",
+    "BUZZWORD_4": "research",
+    "BUZZWORD_5": "review"
+  },
+  {
+    "KEYWORD": "Sugar",
+    "BUZZWORD_1": "sweetener",
+    "BUZZWORD_2": "carbohydrates",
+    "BUZZWORD_3": "fructose",
+    "BUZZWORD_4": "Carmel",
+    "BUZZWORD_5": "candy"
+  },
+  {
+    "KEYWORD": "Supplements",
+    "BUZZWORD_1": "Vitamins",
+    "BUZZWORD_2": "Minerals",
+    "BUZZWORD_3": "Additional",
+    "BUZZWORD_4": "Complement",
+    "BUZZWORD_5": "Extra"
+  },
+  {
+    "KEYWORD": "Support",
+    "BUZZWORD_1": "backing",
+    "BUZZWORD_2": "Base",
+    "BUZZWORD_3": "Cornerstone",
+    "BUZZWORD_4": "encouragement",
+    "BUZZWORD_5": "assistance"
+  },
+  {
+    "KEYWORD": "Symptoms",
+    "BUZZWORD_1": "lump",
+    "BUZZWORD_2": "warning",
+    "BUZZWORD_3": "evidence",
+    "BUZZWORD_4": "indication",
+    "BUZZWORD_5": "rash"
+  },
+  {
+    "KEYWORD": "Target",
+    "BUZZWORD_1": "destination",
+    "BUZZWORD_2": "objective",
+    "BUZZWORD_3": "spot",
+    "BUZZWORD_4": "mark",
+    "BUZZWORD_5": "point"
+  },
+  {
+    "KEYWORD": "Team",
+    "BUZZWORD_1": "Club",
+    "BUZZWORD_2": "organization",
+    "BUZZWORD_3": "company",
+    "BUZZWORD_4": "Squad",
+    "BUZZWORD_5": "unit"
+  },
+  {
+    "KEYWORD": "Technology",
+    "BUZZWORD_1": "smartphone",
+    "BUZZWORD_2": "robotics",
+    "BUZZWORD_3": "computer",
+    "BUZZWORD_4": "animation",
+    "BUZZWORD_5": "automation"
+  },
+  {
+    "KEYWORD": "Test",
+    "BUZZWORD_1": "assessment",
+    "BUZZWORD_2": "quiz",
+    "BUZZWORD_3": "experiment",
+    "BUZZWORD_4": "attempt",
+    "BUZZWORD_5": "final"
+  },
+  {
+    "KEYWORD": "Thought",
+    "BUZZWORD_1": "assessment",
+    "BUZZWORD_2": "belief",
+    "BUZZWORD_3": "conclusion",
+    "BUZZWORD_4": "Theory",
+    "BUZZWORD_5": "Expectation"
+  },
+  {
+    "KEYWORD": "Thriving",
+    "BUZZWORD_1": "Booming",
+    "BUZZWORD_2": "Co",
+    "BUZZWORD_3": "Health",
+    "BUZZWORD_4": "Robust",
+    "BUZZWORD_5": "Growing"
+  },
+  {
+    "KEYWORD": "Time",
+    "BUZZWORD_1": "Age",
+    "BUZZWORD_2": "Date",
+    "BUZZWORD_3": "Day",
+    "BUZZWORD_4": "Week",
+    "BUZZWORD_5": "Moment"
+  },
+  {
+    "KEYWORD": "Togetherness",
+    "BUZZWORD_1": "affection",
+    "BUZZWORD_2": "attachment",
+    "BUZZWORD_3": "Connection",
+    "BUZZWORD_4": "Closeness",
+    "BUZZWORD_5": "inseparable"
+  },
+  {
+    "KEYWORD": "Transformation",
+    "BUZZWORD_1": "conversion",
+    "BUZZWORD_2": "renewal",
+    "BUZZWORD_3": "alteration",
+    "BUZZWORD_4": "flip flop",
+    "BUZZWORD_5": "switch"
+  },
+  {
+    "KEYWORD": "Treatment",
+    "BUZZWORD_1": "Options",
+    "BUZZWORD_2": "cure",
+    "BUZZWORD_3": "Operation",
+    "BUZZWORD_4": "Dose",
+    "BUZZWORD_5": "Healing"
+  },
+  {
+    "KEYWORD": "Triumphant",
+    "BUZZWORD_1": "elated",
+    "BUZZWORD_2": "Victorious",
+    "BUZZWORD_3": "Win",
+    "BUZZWORD_4": "proud",
+    "BUZZWORD_5": "glorious"
+  },
+  {
+    "KEYWORD": "Trust",
+    "BUZZWORD_1": "Confidence",
+    "BUZZWORD_2": "Faith",
+    "BUZZWORD_3": "Hope",
+    "BUZZWORD_4": "Assurance",
+    "BUZZWORD_5": "Certainty"
+  },
+  {
+    "KEYWORD": "Truthful",
+    "BUZZWORD_1": "believable",
+    "BUZZWORD_2": "candid",
+    "BUZZWORD_3": "factual",
+    "BUZZWORD_4": "precise",
+    "BUZZWORD_5": "reliable"
+  },
+  {
+    "KEYWORD": "Unassuming",
+    "BUZZWORD_1": "Humble",
+    "BUZZWORD_2": "Modest",
+    "BUZZWORD_3": "Meek",
+    "BUZZWORD_4": "Unpretentious",
+    "BUZZWORD_5": "Quiet"
+  },
+  {
+    "KEYWORD": "Unbiased",
+    "BUZZWORD_1": "Objective",
+    "BUZZWORD_2": "Equal",
+    "BUZZWORD_3": "Impartial",
+    "BUZZWORD_4": "Justify",
+    "BUZZWORD_5": "Even Handed"
+  },
+  {
+    "KEYWORD": "Unconventional",
+    "BUZZWORD_1": "Atypical",
+    "BUZZWORD_2": "Bizarre",
+    "BUZZWORD_3": "Eccentric",
+    "BUZZWORD_4": "Offbeat",
+    "BUZZWORD_5": "Crazy"
+  },
+  {
+    "KEYWORD": "Unity",
+    "BUZZWORD_1": "agreement",
+    "BUZZWORD_2": "Harmony",
+    "BUZZWORD_3": "Solidarity",
+    "BUZZWORD_4": "Peaceful",
+    "BUZZWORD_5": "Accord"
+  },
+  {
+    "KEYWORD": "Urgent",
+    "BUZZWORD_1": "Compelling",
+    "BUZZWORD_2": "Crucial",
+    "BUZZWORD_3": "Demanding",
+    "BUZZWORD_4": "Essential",
+    "BUZZWORD_5": "Necessary"
+  },
+  {
+    "KEYWORD": "Vegan",
+    "BUZZWORD_1": "Vegetarian",
+    "BUZZWORD_2": "Dairy",
+    "BUZZWORD_3": "Meat",
+    "BUZZWORD_4": "Pescatarian",
+    "BUZZWORD_5": "Diet"
+  },
+  {
+    "KEYWORD": "Vegetables",
+    "BUZZWORD_1": "Herb",
+    "BUZZWORD_2": "Natural",
+    "BUZZWORD_3": "Organic",
+    "BUZZWORD_4": "Produce",
+    "BUZZWORD_5": "Salad"
+  },
+  {
+    "KEYWORD": "Visionary",
+    "BUZZWORD_1": "Idealist",
+    "BUZZWORD_2": "Lofty",
+    "BUZZWORD_3": "Radical",
+    "BUZZWORD_4": "Dreamer",
+    "BUZZWORD_5": "Romantic"
+  },
+  {
+    "KEYWORD": "Vital",
+    "BUZZWORD_1": "Basic",
+    "BUZZWORD_2": "Fundamental",
+    "BUZZWORD_3": "Integral",
+    "BUZZWORD_4": "Key",
+    "BUZZWORD_5": "Significant"
+  },
+  {
+    "KEYWORD": "Vitamins",
+    "BUZZWORD_1": "Nutrients",
+    "BUZZWORD_2": "Minerals",
+    "BUZZWORD_3": "Pills",
+    "BUZZWORD_4": "Tablets",
+    "BUZZWORD_5": "C"
+  },
+  {
+    "KEYWORD": "Wardrobe",
+    "BUZZWORD_1": "Attire",
+    "BUZZWORD_2": "Closet",
+    "BUZZWORD_3": "Apparel",
+    "BUZZWORD_4": "Dresser",
+    "BUZZWORD_5": "Pants"
+  },
+  {
+    "KEYWORD": "Wheelchair",
+    "BUZZWORD_1": "Roll",
+    "BUZZWORD_2": "Handicap",
+    "BUZZWORD_3": "Walk",
+    "BUZZWORD_4": "Accessible",
+    "BUZZWORD_5": "Legs"
+  },
+  {
+    "KEYWORD": "Worth",
+    "BUZZWORD_1": "Rate",
+    "BUZZWORD_2": "Aid",
+    "BUZZWORD_3": "Cost",
+    "BUZZWORD_4": "Price",
+    "BUZZWORD_5": "Quality"
+  },
+  {
+    "KEYWORD": "X-ray",
+    "BUZZWORD_1": "Radiation",
+    "BUZZWORD_2": "Radioactive",
+    "BUZZWORD_3": "Ultraviolet",
+    "BUZZWORD_4": "Bones",
+    "BUZZWORD_5": "Translucent"
+  }
+]

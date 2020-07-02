@@ -1,0 +1,2690 @@
+[
+  {
+    "KEYWORD": "106 & Park",
+    "BUZZWORD_1": "Terrence",
+    "BUZZWORD_2": "Rocsi",
+    "BUZZWORD_3": "AJ",
+    "BUZZWORD_4": "Free",
+    "BUZZWORD_5": "Music Videos"
+  },
+  {
+    "KEYWORD": "12 Years a Slave",
+    "BUZZWORD_1": "Solomon Northup",
+    "BUZZWORD_2": "Brad Pitt",
+    "BUZZWORD_3": "Lupita Nyong'o",
+    "BUZZWORD_4": "New Orleans",
+    "BUZZWORD_5": "Freedom"
+  },
+  {
+    "KEYWORD": "5-0",
+    "BUZZWORD_1": "Police",
+    "BUZZWORD_2": "Po Po",
+    "BUZZWORD_3": "Gun",
+    "BUZZWORD_4": "Profiling",
+    "BUZZWORD_5": "Sirens"
+  },
+  {
+    "KEYWORD": "50 Cent",
+    "BUZZWORD_1": "G-Unit",
+    "BUZZWORD_2": "Eminem",
+    "BUZZWORD_3": "Banks",
+    "BUZZWORD_4": "Vitamin Water",
+    "BUZZWORD_5": "Young Buck"
+  },
+  {
+    "KEYWORD": "A Different World",
+    "BUZZWORD_1": "Dwayne Wayne",
+    "BUZZWORD_2": "Denise Huxtable",
+    "BUZZWORD_3": "Whitley Gilbert",
+    "BUZZWORD_4": "Hillman",
+    "BUZZWORD_5": "Freddie"
+  },
+  {
+    "KEYWORD": "A Tribe Called Quest",
+    "BUZZWORD_1": "Q-tip",
+    "BUZZWORD_2": "Phife Dawg",
+    "BUZZWORD_3": "Ali Shaheed Muhammad",
+    "BUZZWORD_4": "Midnight Marauder",
+    "BUZZWORD_5": "Award Tour"
+  },
+  {
+    "KEYWORD": "Aaliyah",
+    "BUZZWORD_1": "Rock the Boat",
+    "BUZZWORD_2": "4 Page Letter",
+    "BUZZWORD_3": "R. Kelly",
+    "BUZZWORD_4": "Missy Elliot",
+    "BUZZWORD_5": "Back and Forth"
+  },
+  {
+    "KEYWORD": "Above the Rim",
+    "BUZZWORD_1": "Ice T",
+    "BUZZWORD_2": "Nino Brown",
+    "BUZZWORD_3": "Mario Van Peebles",
+    "BUZZWORD_4": "Wesley Snipes",
+    "BUZZWORD_5": "Pookie"
+  },
+  {
+    "KEYWORD": "Africa",
+    "BUZZWORD_1": "Motherland",
+    "BUZZWORD_2": "Nelson Mandela",
+    "BUZZWORD_3": "Continent",
+    "BUZZWORD_4": "Slaves",
+    "BUZZWORD_5": "Egypt"
+  },
+  {
+    "KEYWORD": "African Pride",
+    "BUZZWORD_1": "Braid",
+    "BUZZWORD_2": "Twist",
+    "BUZZWORD_3": "Natural",
+    "BUZZWORD_4": "Spray",
+    "BUZZWORD_5": "Products"
+  },
+  {
+    "KEYWORD": "Afro",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Thick",
+    "BUZZWORD_3": "Natural",
+    "BUZZWORD_4": "Pick",
+    "BUZZWORD_5": "70's"
+  },
+  {
+    "KEYWORD": "Air Force Ones",
+    "BUZZWORD_1": "White",
+    "BUZZWORD_2": "Nelly",
+    "BUZZWORD_3": "President",
+    "BUZZWORD_4": "Shoes",
+    "BUZZWORD_5": "Two Pair"
+  },
+  {
+    "KEYWORD": "Al Sharpton",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Perm",
+    "BUZZWORD_3": "Jesse Jackson",
+    "BUZZWORD_4": "Loud",
+    "BUZZWORD_5": "Leader"
+  },
+  {
+    "KEYWORD": "Alabama",
+    "BUZZWORD_1": "Confederate",
+    "BUZZWORD_2": "Southern",
+    "BUZZWORD_3": "Montgomery",
+    "BUZZWORD_4": "Mobile",
+    "BUZZWORD_5": "Martin Luther King"
+  },
+  {
+    "KEYWORD": "Alpha Kappa Alpha",
+    "BUZZWORD_1": "Pink and Greek",
+    "BUZZWORD_2": "Greek",
+    "BUZZWORD_3": "Sorority",
+    "BUZZWORD_4": "Ivy",
+    "BUZZWORD_5": "Skee Wee"
+  },
+  {
+    "KEYWORD": "Alphas",
+    "BUZZWORD_1": "Fraternity",
+    "BUZZWORD_2": "Black and Gold",
+    "BUZZWORD_3": "Gorillas",
+    "BUZZWORD_4": "First",
+    "BUZZWORD_5": "Sphinx"
+  },
+  {
+    "KEYWORD": "Arthur Ashe",
+    "BUZZWORD_1": "Tennis",
+    "BUZZWORD_2": "AIDS",
+    "BUZZWORD_3": "Afro",
+    "BUZZWORD_4": "Kappa",
+    "BUZZWORD_5": "Heart Attack"
+  },
+  {
+    "KEYWORD": "ATL",
+    "BUZZWORD_1": "TI",
+    "BUZZWORD_2": "NuNu",
+    "BUZZWORD_3": "Big Boi",
+    "BUZZWORD_4": "Atlanta",
+    "BUZZWORD_5": "Skating"
+  },
+  {
+    "KEYWORD": "Atlanta",
+    "BUZZWORD_1": "Braves",
+    "BUZZWORD_2": "Marta",
+    "BUZZWORD_3": "Lil Jon",
+    "BUZZWORD_4": "Stone Mountain",
+    "BUZZWORD_5": "TI"
+  },
+  {
+    "KEYWORD": "Baby Mama",
+    "BUZZWORD_1": "Mother",
+    "BUZZWORD_2": "Daddy",
+    "BUZZWORD_3": "Support",
+    "BUZZWORD_4": "Gold",
+    "BUZZWORD_5": "Drama"
+  },
+  {
+    "KEYWORD": "Baby Phat",
+    "BUZZWORD_1": "Kimora Lee",
+    "BUZZWORD_2": "Russell Simmons",
+    "BUZZWORD_3": "Denim",
+    "BUZZWORD_4": "Shoes",
+    "BUZZWORD_5": "Fashion"
+  },
+  {
+    "KEYWORD": "Badonkadonk",
+    "BUZZWORD_1": "Booty",
+    "BUZZWORD_2": "Ass",
+    "BUZZWORD_3": "Butt",
+    "BUZZWORD_4": "Behind",
+    "BUZZWORD_5": "Rump"
+  },
+  {
+    "KEYWORD": "Baptist",
+    "BUZZWORD_1": "Jesus",
+    "BUZZWORD_2": "Church",
+    "BUZZWORD_3": "Holy Ghost",
+    "BUZZWORD_4": "Christian",
+    "BUZZWORD_5": "Trinity"
+  },
+  {
+    "KEYWORD": "Barack Obama",
+    "BUZZWORD_1": "Michelle ",
+    "BUZZWORD_2": "Malia",
+    "BUZZWORD_3": "Sasha",
+    "BUZZWORD_4": "President ",
+    "BUZZWORD_5": "Air Force One"
+  },
+  {
+    "KEYWORD": "Barber Shop",
+    "BUZZWORD_1": "Hair Cut",
+    "BUZZWORD_2": "Shave",
+    "BUZZWORD_3": "Line Up",
+    "BUZZWORD_4": "Wave",
+    "BUZZWORD_5": "Politics"
+  },
+  {
+    "KEYWORD": "BBQ",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Summer",
+    "BUZZWORD_3": "Grill",
+    "BUZZWORD_4": "Chicken",
+    "BUZZWORD_5": "Sauce"
+  },
+  {
+    "KEYWORD": "Beads",
+    "BUZZWORD_1": "Colors",
+    "BUZZWORD_2": "Hair",
+    "BUZZWORD_3": "Braids",
+    "BUZZWORD_4": "Cornrows",
+    "BUZZWORD_5": "Stevie Wonder"
+  },
+  {
+    "KEYWORD": "Beatbox",
+    "BUZZWORD_1": "Mouth",
+    "BUZZWORD_2": "Noise",
+    "BUZZWORD_3": "Doug E. Fresh",
+    "BUZZWORD_4": "Biz Markie",
+    "BUZZWORD_5": "Hip Hop"
+  },
+  {
+    "KEYWORD": "Beauty Shop",
+    "BUZZWORD_1": "Shampoo",
+    "BUZZWORD_2": "Condition",
+    "BUZZWORD_3": "Stylist",
+    "BUZZWORD_4": "Gossip",
+    "BUZZWORD_5": "Hot Iron"
+  },
+  {
+    "KEYWORD": "Beauty Supply",
+    "BUZZWORD_1": "Koreans",
+    "BUZZWORD_2": "Combs",
+    "BUZZWORD_3": "Relaxers",
+    "BUZZWORD_4": "Weave",
+    "BUZZWORD_5": "Gel"
+  },
+  {
+    "KEYWORD": "Bell Biv DeVoe",
+    "BUZZWORD_1": "Poison",
+    "BUZZWORD_2": "Ronnie",
+    "BUZZWORD_3": "New Edition",
+    "BUZZWORD_4": "BBD",
+    "BUZZWORD_5": "Ricky "
+  },
+  {
+    "KEYWORD": "Belly",
+    "BUZZWORD_1": "Nas",
+    "BUZZWORD_2": "Method Man",
+    "BUZZWORD_3": "Hype Williams",
+    "BUZZWORD_4": "DMX",
+    "BUZZWORD_5": "Drugs"
+  },
+  {
+    "KEYWORD": "BET",
+    "BUZZWORD_1": "Uncut",
+    "BUZZWORD_2": "106th & Park",
+    "BUZZWORD_3": "Video Soul",
+    "BUZZWORD_4": "Rap City ",
+    "BUZZWORD_5": "College Hill"
+  },
+  {
+    "KEYWORD": "Beyonce'",
+    "BUZZWORD_1": "Jay Z",
+    "BUZZWORD_2": "Destiny's Child",
+    "BUZZWORD_3": "Deréon",
+    "BUZZWORD_4": "Knowles",
+    "BUZZWORD_5": "Solange"
+  },
+  {
+    "KEYWORD": "Billie Holiday",
+    "BUZZWORD_1": "Flower",
+    "BUZZWORD_2": "Jazz",
+    "BUZZWORD_3": "Lady Sings the Blues",
+    "BUZZWORD_4": "God Bless",
+    "BUZZWORD_5": "Lady Day"
+  },
+  {
+    "KEYWORD": "Black & Mild",
+    "BUZZWORD_1": "Cigarette",
+    "BUZZWORD_2": "Brown",
+    "BUZZWORD_3": "Tobacco",
+    "BUZZWORD_4": "Lighter",
+    "BUZZWORD_5": "Squares"
+  },
+  {
+    "KEYWORD": "Black Hebrews",
+    "BUZZWORD_1": "Israelites",
+    "BUZZWORD_2": "Judaism",
+    "BUZZWORD_3": "Liberia",
+    "BUZZWORD_4": "Vegan",
+    "BUZZWORD_5": "Whitney Houston"
+  },
+  {
+    "KEYWORD": "Black History Month",
+    "BUZZWORD_1": "February",
+    "BUZZWORD_2": "28 Days",
+    "BUZZWORD_3": "Awareness",
+    "BUZZWORD_4": "Martin Luther King",
+    "BUZZWORD_5": "Programs"
+  },
+  {
+    "KEYWORD": "Black Panthers",
+    "BUZZWORD_1": "Civil Rights",
+    "BUZZWORD_2": "Huey P. Newton",
+    "BUZZWORD_3": "Bobby Seale",
+    "BUZZWORD_4": "Angela Davis",
+    "BUZZWORD_5": "Self-Defense"
+  },
+  {
+    "KEYWORD": "Black Planet",
+    "BUZZWORD_1": "Notes",
+    "BUZZWORD_2": "Webpage",
+    "BUZZWORD_3": "Pictures",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Connections"
+  },
+  {
+    "KEYWORD": "Blaxploitation",
+    "BUZZWORD_1": "Black",
+    "BUZZWORD_2": "Films",
+    "BUZZWORD_3": "70's",
+    "BUZZWORD_4": "Heros",
+    "BUZZWORD_5": "Revenge"
+  },
+  {
+    "KEYWORD": "Bloods",
+    "BUZZWORD_1": "Gang",
+    "BUZZWORD_2": "Los Angeles",
+    "BUZZWORD_3": "Symbols",
+    "BUZZWORD_4": "Red",
+    "BUZZWORD_5": "Sets"
+  },
+  {
+    "KEYWORD": "Bob Marley",
+    "BUZZWORD_1": "Reggae",
+    "BUZZWORD_2": "Damian",
+    "BUZZWORD_3": "Ziggy",
+    "BUZZWORD_4": "Jammin'",
+    "BUZZWORD_5": "Dreadlocks"
+  },
+  {
+    "KEYWORD": "Bobby Brown",
+    "BUZZWORD_1": "Prerogative",
+    "BUZZWORD_2": "Humpin'",
+    "BUZZWORD_3": "New Edition",
+    "BUZZWORD_4": "Bobby Kristina",
+    "BUZZWORD_5": "Whitney Houston"
+  },
+  {
+    "KEYWORD": "Boomerang",
+    "BUZZWORD_1": "Eddie Murphy",
+    "BUZZWORD_2": "Robin Givens",
+    "BUZZWORD_3": "Strange'",
+    "BUZZWORD_4": "Marcus ",
+    "BUZZWORD_5": "Halle Berry"
+  },
+  {
+    "KEYWORD": "Bootleg",
+    "BUZZWORD_1": "Movies",
+    "BUZZWORD_2": "DVD",
+    "BUZZWORD_3": "CDs",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Quality"
+  },
+  {
+    "KEYWORD": "Bougie",
+    "BUZZWORD_1": "Uppity ",
+    "BUZZWORD_2": "Middle Class ",
+    "BUZZWORD_3": "Bad ",
+    "BUZZWORD_4": "Stuck Up",
+    "BUZZWORD_5": "Money "
+  },
+  {
+    "KEYWORD": "Boyz in the Hood",
+    "BUZZWORD_1": "Ice Cube",
+    "BUZZWORD_2": "Morris Chestnut",
+    "BUZZWORD_3": "Cuba Gooding",
+    "BUZZWORD_4": "South Central",
+    "BUZZWORD_5": "John Singleton"
+  },
+  {
+    "KEYWORD": "Breakdance",
+    "BUZZWORD_1": "Spinning",
+    "BUZZWORD_2": "Battle",
+    "BUZZWORD_3": "Cardboard Box",
+    "BUZZWORD_4": "Crazy Legs",
+    "BUZZWORD_5": "Hip Hop"
+  },
+  {
+    "KEYWORD": "Bronx",
+    "BUZZWORD_1": "Borough",
+    "BUZZWORD_2": "Yankees",
+    "BUZZWORD_3": "Remy Ma ",
+    "BUZZWORD_4": "Fat Joe",
+    "BUZZWORD_5": "Prince Hakim"
+  },
+  {
+    "KEYWORD": "Brooklyn",
+    "BUZZWORD_1": "Bridge",
+    "BUZZWORD_2": "Jay Z",
+    "BUZZWORD_3": "Biggie",
+    "BUZZWORD_4": "Foxy Brown",
+    "BUZZWORD_5": "Spike Lee"
+  },
+  {
+    "KEYWORD": "Cabbage Patch",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Arms",
+    "BUZZWORD_3": "Turn",
+    "BUZZWORD_4": "Rotate",
+    "BUZZWORD_5": "Doll"
+  },
+  {
+    "KEYWORD": "Cadillac",
+    "BUZZWORD_1": "Escalade",
+    "BUZZWORD_2": "General Motors",
+    "BUZZWORD_3": "Caddy",
+    "BUZZWORD_4": "Deuce and a Quarter",
+    "BUZZWORD_5": "Seville"
+  },
+  {
+    "KEYWORD": "Candy Coated",
+    "BUZZWORD_1": "Paint",
+    "BUZZWORD_2": "Shine",
+    "BUZZWORD_3": "Cars",
+    "BUZZWORD_4": "Color",
+    "BUZZWORD_5": "High Gloss"
+  },
+  {
+    "KEYWORD": "Car Wash",
+    "BUZZWORD_1": "Richard Pryor",
+    "BUZZWORD_2": "Dr.Dre",
+    "BUZZWORD_3": "Re-make",
+    "BUZZWORD_4": "Rose Royce",
+    "BUZZWORD_5": "Song"
+  },
+  {
+    "KEYWORD": "Catfish",
+    "BUZZWORD_1": "Fried",
+    "BUZZWORD_2": "Hot Sauce",
+    "BUZZWORD_3": "Fries",
+    "BUZZWORD_4": "Tartar Sauce",
+    "BUZZWORD_5": "Bones"
+  },
+  {
+    "KEYWORD": "Cedric the Entertainer",
+    "BUZZWORD_1": "King of Comedy",
+    "BUZZWORD_2": "Movie",
+    "BUZZWORD_3": "Scary",
+    "BUZZWORD_4": "Hat",
+    "BUZZWORD_5": "Comedian"
+  },
+  {
+    "KEYWORD": "Cha Cha Slide",
+    "BUZZWORD_1": "Casper",
+    "BUZZWORD_2": "Right",
+    "BUZZWORD_3": "Left",
+    "BUZZWORD_4": "Reverse",
+    "BUZZWORD_5": "Line Dance"
+  },
+  {
+    "KEYWORD": "Chicago",
+    "BUZZWORD_1": "Chance the Rapper ",
+    "BUZZWORD_2": "Common",
+    "BUZZWORD_3": "Kanye West",
+    "BUZZWORD_4": "R. Kelly",
+    "BUZZWORD_5": "Barack Obama"
+  },
+  {
+    "KEYWORD": "Chicken & Waffles",
+    "BUZZWORD_1": "Roscoe's",
+    "BUZZWORD_2": "LA",
+    "BUZZWORD_3": "Syrup",
+    "BUZZWORD_4": "Butter",
+    "BUZZWORD_5": "Restaurant"
+  },
+  {
+    "KEYWORD": "Chicken-Head",
+    "BUZZWORD_1": "Hoochie",
+    "BUZZWORD_2": "Skank",
+    "BUZZWORD_3": "Chickenhead",
+    "BUZZWORD_4": "Whore",
+    "BUZZWORD_5": "Ho"
+  },
+  {
+    "KEYWORD": "Chitterlings",
+    "BUZZWORD_1": "Wash",
+    "BUZZWORD_2": "Smell",
+    "BUZZWORD_3": "Intestines",
+    "BUZZWORD_4": "Boil",
+    "BUZZWORD_5": "Bucket"
+  },
+  {
+    "KEYWORD": "Chris Rock",
+    "BUZZWORD_1": "Pookie",
+    "BUZZWORD_2": "Everybody Hates Chris",
+    "BUZZWORD_3": "Tony ",
+    "BUZZWORD_4": "Comedian ",
+    "BUZZWORD_5": "Head of State"
+  },
+  {
+    "KEYWORD": "Chrysler",
+    "BUZZWORD_1": 300,
+    "BUZZWORD_2": "GM",
+    "BUZZWORD_3": "Maybach",
+    "BUZZWORD_4": "Car",
+    "BUZZWORD_5": "Automobile"
+  },
+  {
+    "KEYWORD": "Colt 45 ",
+    "BUZZWORD_1": "Malt Liquor",
+    "BUZZWORD_2": "Beer",
+    "BUZZWORD_3": "40oz",
+    "BUZZWORD_4": "Gun",
+    "BUZZWORD_5": "Billy Dee Williams "
+  },
+  {
+    "KEYWORD": "Coming to America",
+    "BUZZWORD_1": "Queens",
+    "BUZZWORD_2": "Zamunda",
+    "BUZZWORD_3": "McDowell's",
+    "BUZZWORD_4": "Soul Glo",
+    "BUZZWORD_5": "Prince Hakim"
+  },
+  {
+    "KEYWORD": "Confederate",
+    "BUZZWORD_1": "Southern",
+    "BUZZWORD_2": "White",
+    "BUZZWORD_3": "Union",
+    "BUZZWORD_4": "Civil War",
+    "BUZZWORD_5": "Flag"
+  },
+  {
+    "KEYWORD": "Cooley High",
+    "BUZZWORD_1": "Good Times",
+    "BUZZWORD_2": "Chicago",
+    "BUZZWORD_3": "Cochise",
+    "BUZZWORD_4": "Glynn Turman",
+    "BUZZWORD_5": "Cabrini Green"
+  },
+  {
+    "KEYWORD": "Cornbread",
+    "BUZZWORD_1": "Thick",
+    "BUZZWORD_2": "Yellow",
+    "BUZZWORD_3": "Meal",
+    "BUZZWORD_4": "Chris Rock",
+    "BUZZWORD_5": "Greens"
+  },
+  {
+    "KEYWORD": "Corner Store",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Liquor",
+    "BUZZWORD_3": "Sundries",
+    "BUZZWORD_4": "Candy",
+    "BUZZWORD_5": "Arabs"
+  },
+  {
+    "KEYWORD": "Cornrows",
+    "BUZZWORD_1": "Braid",
+    "BUZZWORD_2": "Scalp",
+    "BUZZWORD_3": "Beads",
+    "BUZZWORD_4": "Tight",
+    "BUZZWORD_5": "Pattern"
+  },
+  {
+    "KEYWORD": "Cosby Show",
+    "BUZZWORD_1": "Huxtables",
+    "BUZZWORD_2": "Theo",
+    "BUZZWORD_3": "Rudy",
+    "BUZZWORD_4": "Cliff",
+    "BUZZWORD_5": "Claire"
+  },
+  {
+    "KEYWORD": "Cowrie Shells",
+    "BUZZWORD_1": "African",
+    "BUZZWORD_2": "Jewelry",
+    "BUZZWORD_3": "Choker",
+    "BUZZWORD_4": "Necklace",
+    "BUZZWORD_5": "Bracelet"
+  },
+  {
+    "KEYWORD": "Crack",
+    "BUZZWORD_1": "80's",
+    "BUZZWORD_2": "Rocks",
+    "BUZZWORD_3": "Head",
+    "BUZZWORD_4": "Ronald Reagan",
+    "BUZZWORD_5": "Pipe"
+  },
+  {
+    "KEYWORD": "Crips",
+    "BUZZWORD_1": "Blue",
+    "BUZZWORD_2": "Walk",
+    "BUZZWORD_3": "Los Angeles",
+    "BUZZWORD_4": "Gang",
+    "BUZZWORD_5": "Left"
+  },
+  {
+    "KEYWORD": "Cross Colours",
+    "BUZZWORD_1": "90s",
+    "BUZZWORD_2": "Malcolm X",
+    "BUZZWORD_3": "Fashion",
+    "BUZZWORD_4": "Clothes",
+    "BUZZWORD_5": "Bright"
+  },
+  {
+    "KEYWORD": "Crunk",
+    "BUZZWORD_1": "Hip Hop",
+    "BUZZWORD_2": "Dirty South",
+    "BUZZWORD_3": "Club",
+    "BUZZWORD_4": "Atlanta",
+    "BUZZWORD_5": "Lil Jon"
+  },
+  {
+    "KEYWORD": "Cupid Shuffle",
+    "BUZZWORD_1": "Right",
+    "BUZZWORD_2": "Left",
+    "BUZZWORD_3": "Walk",
+    "BUZZWORD_4": "Kick",
+    "BUZZWORD_5": "Line Dance"
+  },
+  {
+    "KEYWORD": "D'Jango",
+    "BUZZWORD_1": "Jamie Foxx",
+    "BUZZWORD_2": "Slave ",
+    "BUZZWORD_3": "Cowboy",
+    "BUZZWORD_4": "Quentin Tarantino",
+    "BUZZWORD_5": "Leonardo DiCaprio"
+  },
+  {
+    "KEYWORD": "Daisy Dukes",
+    "BUZZWORD_1": "Uncle Luke",
+    "BUZZWORD_2": "Pum Pum Shorts",
+    "BUZZWORD_3": "Miami Bass",
+    "BUZZWORD_4": "Shorts",
+    "BUZZWORD_5": "Cutoffs"
+  },
+  {
+    "KEYWORD": "Dark n Lovely",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Conditioner",
+    "BUZZWORD_3": "Shampoo",
+    "BUZZWORD_4": "Creme",
+    "BUZZWORD_5": "Products"
+  },
+  {
+    "KEYWORD": "Dashiki",
+    "BUZZWORD_1": "African",
+    "BUZZWORD_2": "70's",
+    "BUZZWORD_3": "Panthers",
+    "BUZZWORD_4": "Prints",
+    "BUZZWORD_5": "Kente Cloth"
+  },
+  {
+    "KEYWORD": "Dave Chappelle",
+    "BUZZWORD_1": "Rick James",
+    "BUZZWORD_2": "Prince",
+    "BUZZWORD_3": "Comedy Central",
+    "BUZZWORD_4": "Wayne Brady",
+    "BUZZWORD_5": "Tyrone Biggums"
+  },
+  {
+    "KEYWORD": "Def Jam",
+    "BUZZWORD_1": "Jay Z",
+    "BUZZWORD_2": "New York",
+    "BUZZWORD_3": "Russell Simmons",
+    "BUZZWORD_4": "LL Cool J",
+    "BUZZWORD_5": "Record Label"
+  },
+  {
+    "KEYWORD": "Deion Sanders",
+    "BUZZWORD_1": "Pilar",
+    "BUZZWORD_2": "Cowboys",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Cowboys",
+    "BUZZWORD_5": "Athlete"
+  },
+  {
+    "KEYWORD": "Delta Sigma Theta",
+    "BUZZWORD_1": "Sorority",
+    "BUZZWORD_2": "Pyramid",
+    "BUZZWORD_3": "Crimson & Cream",
+    "BUZZWORD_4": "Red and White",
+    "BUZZWORD_5": "Elephants"
+  },
+  {
+    "KEYWORD": "Detroit",
+    "BUZZWORD_1": "Motown",
+    "BUZZWORD_2": "Big Sean ",
+    "BUZZWORD_3": "Cabaret",
+    "BUZZWORD_4": "Michigan",
+    "BUZZWORD_5": "8 Mile"
+  },
+  {
+    "KEYWORD": "Diana Ross",
+    "BUZZWORD_1": "Motown ",
+    "BUZZWORD_2": "Traci Ellis",
+    "BUZZWORD_3": "The Supremes",
+    "BUZZWORD_4": "Stop in the Name",
+    "BUZZWORD_5": "Baby Love"
+  },
+  {
+    "KEYWORD": "Disc Jockey",
+    "BUZZWORD_1": "Records",
+    "BUZZWORD_2": "Party",
+    "BUZZWORD_3": "Turntables",
+    "BUZZWORD_4": "Microphone",
+    "BUZZWORD_5": "DJ"
+  },
+  {
+    "KEYWORD": "Disco",
+    "BUZZWORD_1": "Ball",
+    "BUZZWORD_2": "Dance ",
+    "BUZZWORD_3": "Genre",
+    "BUZZWORD_4": "Nightclub",
+    "BUZZWORD_5": "Donna Summer"
+  },
+  {
+    "KEYWORD": "District of Columbia",
+    "BUZZWORD_1": "Howard University",
+    "BUZZWORD_2": "White House",
+    "BUZZWORD_3": "DC",
+    "BUZZWORD_4": "Pennsylvania Ave",
+    "BUZZWORD_5": "Wizards"
+  },
+  {
+    "KEYWORD": "DL Hughley",
+    "BUZZWORD_1": "Comic View",
+    "BUZZWORD_2": "Def Comedy Jam",
+    "BUZZWORD_3": "Kings of Comedy",
+    "BUZZWORD_4": "Roast",
+    "BUZZWORD_5": "Radio Show "
+  },
+  {
+    "KEYWORD": "Don King",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Troll",
+    "BUZZWORD_3": "Promoter",
+    "BUZZWORD_4": "Boxing",
+    "BUZZWORD_5": "Mike Tyson"
+  },
+  {
+    "KEYWORD": "Doo-Rag",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Waves",
+    "BUZZWORD_3": "Beauty Supply",
+    "BUZZWORD_4": "Tie",
+    "BUZZWORD_5": "Cap"
+  },
+  {
+    "KEYWORD": "Doug Banks",
+    "BUZZWORD_1": "De De McGuire",
+    "BUZZWORD_2": "Dan Ryan Head",
+    "BUZZWORD_3": "Radio ",
+    "BUZZWORD_4": "DJ",
+    "BUZZWORD_5": "George Wilborn"
+  },
+  {
+    "KEYWORD": "Dr. Dre",
+    "BUZZWORD_1": "NWA ",
+    "BUZZWORD_2": "Beats ",
+    "BUZZWORD_3": "Rapper",
+    "BUZZWORD_4": "West Coast ",
+    "BUZZWORD_5": "Compton"
+  },
+  {
+    "KEYWORD": "Dreadlocks",
+    "BUZZWORD_1": "Coils",
+    "BUZZWORD_2": "Hair",
+    "BUZZWORD_3": "Natural",
+    "BUZZWORD_4": "Twist",
+    "BUZZWORD_5": "Braid"
+  },
+  {
+    "KEYWORD": "Eddie Murphy",
+    "BUZZWORD_1": "Raw",
+    "BUZZWORD_2": "Delirious",
+    "BUZZWORD_3": "Beverly Hills Cop",
+    "BUZZWORD_4": "Coming to America ",
+    "BUZZWORD_5": "Nutty Professor"
+  },
+  {
+    "KEYWORD": "Electric Slide",
+    "BUZZWORD_1": "Wedding",
+    "BUZZWORD_2": "Dance",
+    "BUZZWORD_3": "Feel",
+    "BUZZWORD_4": "Picnic",
+    "BUZZWORD_5": "Boogie Woogie"
+  },
+  {
+    "KEYWORD": "Essence",
+    "BUZZWORD_1": "Fashion",
+    "BUZZWORD_2": "Beauty",
+    "BUZZWORD_3": "Health",
+    "BUZZWORD_4": "Women",
+    "BUZZWORD_5": "Magazine"
+  },
+  {
+    "KEYWORD": "Fashion Fair",
+    "BUZZWORD_1": "Make up",
+    "BUZZWORD_2": "Ebony",
+    "BUZZWORD_3": "Louise Rice",
+    "BUZZWORD_4": "JET",
+    "BUZZWORD_5": "Show"
+  },
+  {
+    "KEYWORD": "Fish Fry ",
+    "BUZZWORD_1": "Card Games",
+    "BUZZWORD_2": "Friday ",
+    "BUZZWORD_3": "Family Reunions ",
+    "BUZZWORD_4": "Catfish",
+    "BUZZWORD_5": "Grits"
+  },
+  {
+    "KEYWORD": "Flavor Flav",
+    "BUZZWORD_1": "VH1",
+    "BUZZWORD_2": "New York",
+    "BUZZWORD_3": "Deelicious",
+    "BUZZWORD_4": "Public Enemy",
+    "BUZZWORD_5": "Clock"
+  },
+  {
+    "KEYWORD": "Fleek",
+    "BUZZWORD_1": "Eyebrows",
+    "BUZZWORD_2": "On Point",
+    "BUZZWORD_3": "Great ",
+    "BUZZWORD_4": "Awesome ",
+    "BUZZWORD_5": "Wonderful "
+  },
+  {
+    "KEYWORD": "Floyd Mayweather",
+    "BUZZWORD_1": "Boxer",
+    "BUZZWORD_2": "Money ",
+    "BUZZWORD_3": "Pretty Boy ",
+    "BUZZWORD_4": "Promoter",
+    "BUZZWORD_5": "Undefeated "
+  },
+  {
+    "KEYWORD": "Food Stamps",
+    "BUZZWORD_1": "Grocery Store",
+    "BUZZWORD_2": "Link",
+    "BUZZWORD_3": "EBT",
+    "BUZZWORD_4": "Government",
+    "BUZZWORD_5": "Welfare"
+  },
+  {
+    "KEYWORD": "Footwork",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "DJ",
+    "BUZZWORD_3": "Dance",
+    "BUZZWORD_4": "Beats",
+    "BUZZWORD_5": "Missy Elliot"
+  },
+  {
+    "KEYWORD": "Foxy Brown",
+    "BUZZWORD_1": "Pam Grier",
+    "BUZZWORD_2": "Hooker",
+    "BUZZWORD_3": "Undercover",
+    "BUZZWORD_4": "Deaf",
+    "BUZZWORD_5": "Rapper"
+  },
+  {
+    "KEYWORD": "Friday",
+    "BUZZWORD_1": "Smokey",
+    "BUZZWORD_2": "Craig",
+    "BUZZWORD_3": "Ice Cube",
+    "BUZZWORD_4": "Chris Tucker",
+    "BUZZWORD_5": "Debo"
+  },
+  {
+    "KEYWORD": "Fried Chicken",
+    "BUZZWORD_1": "Flour",
+    "BUZZWORD_2": "Grease",
+    "BUZZWORD_3": "Popeyes",
+    "BUZZWORD_4": "KFC",
+    "BUZZWORD_5": "Pan"
+  },
+  {
+    "KEYWORD": "FUBU",
+    "BUZZWORD_1": "LL Cool J",
+    "BUZZWORD_2": "Fatty Girl",
+    "BUZZWORD_3": "For Us, By Us",
+    "BUZZWORD_4": "Butter",
+    "BUZZWORD_5": "Soul Food"
+  },
+  {
+    "KEYWORD": "Funk ",
+    "BUZZWORD_1": "Music ",
+    "BUZZWORD_2": "Soul",
+    "BUZZWORD_3": "George Clinton",
+    "BUZZWORD_4": "Smell",
+    "BUZZWORD_5": "70s"
+  },
+  {
+    "KEYWORD": "Funky Chicken",
+    "BUZZWORD_1": "Arms",
+    "BUZZWORD_2": "Flap",
+    "BUZZWORD_3": "Move",
+    "BUZZWORD_4": "Dance",
+    "BUZZWORD_5": "Legs"
+  },
+  {
+    "KEYWORD": "Gel",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Hold",
+    "BUZZWORD_3": "Jam",
+    "BUZZWORD_4": "Beauty Supply",
+    "BUZZWORD_5": "Hard"
+  },
+  {
+    "KEYWORD": "Gin",
+    "BUZZWORD_1": "Juice",
+    "BUZZWORD_2": "Snoop Doggy Dog",
+    "BUZZWORD_3": "Cotton",
+    "BUZZWORD_4": "Tonic",
+    "BUZZWORD_5": "Tanqueray"
+  },
+  {
+    "KEYWORD": "Go Go",
+    "BUZZWORD_1": "DC",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Drum",
+    "BUZZWORD_4": "DMV",
+    "BUZZWORD_5": "Da Butt"
+  },
+  {
+    "KEYWORD": "Good Times",
+    "BUZZWORD_1": "Dynomite",
+    "BUZZWORD_2": "JJ",
+    "BUZZWORD_3": "Willona",
+    "BUZZWORD_4": "Projects",
+    "BUZZWORD_5": "Florida Evans"
+  },
+  {
+    "KEYWORD": "Graffiti",
+    "BUZZWORD_1": "Tagging",
+    "BUZZWORD_2": "Art",
+    "BUZZWORD_3": "Subways",
+    "BUZZWORD_4": "Spray Can",
+    "BUZZWORD_5": "Color"
+  },
+  {
+    "KEYWORD": "Greens",
+    "BUZZWORD_1": "Turnip",
+    "BUZZWORD_2": "Mustard",
+    "BUZZWORD_3": "Smoked Ham",
+    "BUZZWORD_4": "Smoked Turkey",
+    "BUZZWORD_5": "Collard"
+  },
+  {
+    "KEYWORD": "Grey Goose",
+    "BUZZWORD_1": "Clear",
+    "BUZZWORD_2": "Smooth",
+    "BUZZWORD_3": "Vodka",
+    "BUZZWORD_4": "Blue",
+    "BUZZWORD_5": "Bottle"
+  },
+  {
+    "KEYWORD": "Greyhound",
+    "BUZZWORD_1": "Bus",
+    "BUZZWORD_2": "Dog",
+    "BUZZWORD_3": "Travel",
+    "BUZZWORD_4": "Station",
+    "BUZZWORD_5": "Transit"
+  },
+  {
+    "KEYWORD": "Grits",
+    "BUZZWORD_1": "White",
+    "BUZZWORD_2": "Fish",
+    "BUZZWORD_3": "Shrimp",
+    "BUZZWORD_4": "Cheese",
+    "BUZZWORD_5": "Breakfast"
+  },
+  {
+    "KEYWORD": "Gumbo",
+    "BUZZWORD_1": "Rice",
+    "BUZZWORD_2": "Cajun",
+    "BUZZWORD_3": "New Orleans",
+    "BUZZWORD_4": "Sausage",
+    "BUZZWORD_5": "Seafood"
+  },
+  {
+    "KEYWORD": "Hair Grease",
+    "BUZZWORD_1": "Bergamot ",
+    "BUZZWORD_2": "Murray's ",
+    "BUZZWORD_3": "Oil",
+    "BUZZWORD_4": "Shine",
+    "BUZZWORD_5": "Hot Comb"
+  },
+  {
+    "KEYWORD": "Hair Weave",
+    "BUZZWORD_1": "Tracks",
+    "BUZZWORD_2": "Sew In",
+    "BUZZWORD_3": "Fake",
+    "BUZZWORD_4": "Glue",
+    "BUZZWORD_5": "Gel"
+  },
+  {
+    "KEYWORD": "Harlem",
+    "BUZZWORD_1": "Manhattan",
+    "BUZZWORD_2": "Cam'ron",
+    "BUZZWORD_3": "Apollo",
+    "BUZZWORD_4": "Renaissance",
+    "BUZZWORD_5": "Malcolm X"
+  },
+  {
+    "KEYWORD": "HBCU",
+    "BUZZWORD_1": "Historically",
+    "BUZZWORD_2": "Black",
+    "BUZZWORD_3": "College",
+    "BUZZWORD_4": "University",
+    "BUZZWORD_5": "UNCF"
+  },
+  {
+    "KEYWORD": "Hoochie",
+    "BUZZWORD_1": "Ho",
+    "BUZZWORD_2": "Whore",
+    "BUZZWORD_3": "Chickenhead",
+    "BUZZWORD_4": "Mama",
+    "BUZZWORD_5": "Skank"
+  },
+  {
+    "KEYWORD": "Hood",
+    "BUZZWORD_1": "Neighbor",
+    "BUZZWORD_2": "Ghetto",
+    "BUZZWORD_3": "Street",
+    "BUZZWORD_4": "Crib",
+    "BUZZWORD_5": "Area"
+  },
+  {
+    "KEYWORD": "Hookup",
+    "BUZZWORD_1": "Free",
+    "BUZZWORD_2": "No Cost",
+    "BUZZWORD_3": "Discount",
+    "BUZZWORD_4": "VIP",
+    "BUZZWORD_5": "Connect "
+  },
+  {
+    "KEYWORD": "Hot Sauce",
+    "BUZZWORD_1": "Pepper",
+    "BUZZWORD_2": "Food",
+    "BUZZWORD_3": "Chicken",
+    "BUZZWORD_4": "Louisiana",
+    "BUZZWORD_5": "Red Hot"
+  },
+  {
+    "KEYWORD": "House Music",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "DJ",
+    "BUZZWORD_3": "Dance",
+    "BUZZWORD_4": "Beats",
+    "BUZZWORD_5": "Chosen Few"
+  },
+  {
+    "KEYWORD": "House Party",
+    "BUZZWORD_1": "Dancing",
+    "BUZZWORD_2": "Drinking",
+    "BUZZWORD_3": "Kid & Play",
+    "BUZZWORD_4": "Martin",
+    "BUZZWORD_5": "Movie"
+  },
+  {
+    "KEYWORD": "Houston",
+    "BUZZWORD_1": "Texas",
+    "BUZZWORD_2": "Screwed & Chopped",
+    "BUZZWORD_3": "Rockets",
+    "BUZZWORD_4": "UGK",
+    "BUZZWORD_5": "Frenchies"
+  },
+  {
+    "KEYWORD": "Humpty",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Big Nose",
+    "BUZZWORD_3": "California",
+    "BUZZWORD_4": "Digital Underground",
+    "BUZZWORD_5": "Shock G"
+  },
+  {
+    "KEYWORD": "Hurricane Katrina",
+    "BUZZWORD_1": "New Orleans",
+    "BUZZWORD_2": "Houston",
+    "BUZZWORD_3": "President Bush",
+    "BUZZWORD_4": "FEMA",
+    "BUZZWORD_5": "Levy"
+  },
+  {
+    "KEYWORD": "Hydraulics",
+    "BUZZWORD_1": "Bounce",
+    "BUZZWORD_2": "Jump",
+    "BUZZWORD_3": "LA",
+    "BUZZWORD_4": "Drop",
+    "BUZZWORD_5": "Mexican"
+  },
+  {
+    "KEYWORD": "Hype",
+    "BUZZWORD_1": "Drugs",
+    "BUZZWORD_2": "Crackhead",
+    "BUZZWORD_3": "Fiend",
+    "BUZZWORD_4": "Clucker",
+    "BUZZWORD_5": "Druggie"
+  },
+  {
+    "KEYWORD": "Hype Man",
+    "BUZZWORD_1": "Right Hand",
+    "BUZZWORD_2": "Entourage",
+    "BUZZWORD_3": "Performer",
+    "BUZZWORD_4": "Background",
+    "BUZZWORD_5": "Rapper"
+  },
+  {
+    "KEYWORD": "Ice Creams",
+    "BUZZWORD_1": "Bathing Ape",
+    "BUZZWORD_2": "Shoes",
+    "BUZZWORD_3": "Pharrell",
+    "BUZZWORD_4": "Skateboard",
+    "BUZZWORD_5": "BAPE"
+  },
+  {
+    "KEYWORD": "Impala",
+    "BUZZWORD_1": "Chevrolet",
+    "BUZZWORD_2": "Animal",
+    "BUZZWORD_3": "Car",
+    "BUZZWORD_4": "Vehicle",
+    "BUZZWORD_5": "Ride"
+  },
+  {
+    "KEYWORD": "In Living Color ",
+    "BUZZWORD_1": "Wayans",
+    "BUZZWORD_2": "Fly Girls ",
+    "BUZZWORD_3": "Jim Carey ",
+    "BUZZWORD_4": "David Allen Grier ",
+    "BUZZWORD_5": "Homie the Clown "
+  },
+  {
+    "KEYWORD": "Iotas",
+    "BUZZWORD_1": "Brown and Gold",
+    "BUZZWORD_2": "Centaur",
+    "BUZZWORD_3": "Last",
+    "BUZZWORD_4": "Fraternity",
+    "BUZZWORD_5": "Phi Theta"
+  },
+  {
+    "KEYWORD": "James Brown",
+    "BUZZWORD_1": "Sex Machine",
+    "BUZZWORD_2": "Augusta",
+    "BUZZWORD_3": "Godfather",
+    "BUZZWORD_4": "Soul",
+    "BUZZWORD_5": "Man's World"
+  },
+  {
+    "KEYWORD": "Jamie Foxx",
+    "BUZZWORD_1": "Unpredictable",
+    "BUZZWORD_2": "Wanda",
+    "BUZZWORD_3": "In Living Color",
+    "BUZZWORD_4": "Dreamgirls",
+    "BUZZWORD_5": "Ray"
+  },
+  {
+    "KEYWORD": "Janet Jackson",
+    "BUZZWORD_1": "Penny",
+    "BUZZWORD_2": "Michael",
+    "BUZZWORD_3": "Rhythm Nation",
+    "BUZZWORD_4": "Nipplegate",
+    "BUZZWORD_5": "Jermaine Dupri"
+  },
+  {
+    "KEYWORD": "Jay Z",
+    "BUZZWORD_1": "Rocafella",
+    "BUZZWORD_2": "Beyonce'",
+    "BUZZWORD_3": "Dame Dash",
+    "BUZZWORD_4": "Def Jam",
+    "BUZZWORD_5": "Sean Carter"
+  },
+  {
+    "KEYWORD": "Jessie Jackson",
+    "BUZZWORD_1": "President",
+    "BUZZWORD_2": "Martin Luther King",
+    "BUZZWORD_3": "Chicago",
+    "BUZZWORD_4": "Operation PUSH",
+    "BUZZWORD_5": "Activist"
+  },
+  {
+    "KEYWORD": "JET",
+    "BUZZWORD_1": "Ebony",
+    "BUZZWORD_2": "Beauty",
+    "BUZZWORD_3": "Johnson",
+    "BUZZWORD_4": "Magazine",
+    "BUZZWORD_5": "Fashion Fair"
+  },
+  {
+    "KEYWORD": "Jheri Curl",
+    "BUZZWORD_1": "Chemical",
+    "BUZZWORD_2": "Soul Glo",
+    "BUZZWORD_3": "Wet",
+    "BUZZWORD_4": "Activator",
+    "BUZZWORD_5": "Shower Cap"
+  },
+  {
+    "KEYWORD": "Jodeci",
+    "BUZZWORD_1": "K-Ci",
+    "BUZZWORD_2": "Jo Jo",
+    "BUZZWORD_3": "4ever my Lady",
+    "BUZZWORD_4": "Leather",
+    "BUZZWORD_5": "Combat Boots"
+  },
+  {
+    "KEYWORD": "John Singleton",
+    "BUZZWORD_1": "Boyz in the Hood",
+    "BUZZWORD_2": "Poetic Justice",
+    "BUZZWORD_3": "Baby Boy",
+    "BUZZWORD_4": "Director",
+    "BUZZWORD_5": "Higher Learning"
+  },
+  {
+    "KEYWORD": "Jordans",
+    "BUZZWORD_1": "Shoes",
+    "BUZZWORD_2": "Gym",
+    "BUZZWORD_3": "Basketball",
+    "BUZZWORD_4": "Chicken",
+    "BUZZWORD_5": "Sauce"
+  },
+  {
+    "KEYWORD": "Juneteenth",
+    "BUZZWORD_1": "Freedom",
+    "BUZZWORD_2": "Slaves",
+    "BUZZWORD_3": "Galveston",
+    "BUZZWORD_4": "Holiday",
+    "BUZZWORD_5": "NIneteenth"
+  },
+  {
+    "KEYWORD": "Kappas",
+    "BUZZWORD_1": "Crimson and Cream",
+    "BUZZWORD_2": "Nupes",
+    "BUZZWORD_3": "Diamond",
+    "BUZZWORD_4": "Fraternity",
+    "BUZZWORD_5": "YoYo"
+  },
+  {
+    "KEYWORD": "Karrine Steffans",
+    "BUZZWORD_1": "Superhead",
+    "BUZZWORD_2": "Author",
+    "BUZZWORD_3": "Bill Maur",
+    "BUZZWORD_4": "Bobby Brown",
+    "BUZZWORD_5": "Videos"
+  },
+  {
+    "KEYWORD": "Krump",
+    "BUZZWORD_1": "Bay Area",
+    "BUZZWORD_2": "Jerking",
+    "BUZZWORD_3": "Dancing",
+    "BUZZWORD_4": "Rize",
+    "BUZZWORD_5": "Oakland"
+  },
+  {
+    "KEYWORD": "Ku Klux Klan",
+    "BUZZWORD_1": "White",
+    "BUZZWORD_2": "Racist",
+    "BUZZWORD_3": "Hoods",
+    "BUZZWORD_4": "Cross",
+    "BUZZWORD_5": "Burn"
+  },
+  {
+    "KEYWORD": "Kunta Kinte",
+    "BUZZWORD_1": "Roots",
+    "BUZZWORD_2": "Toby",
+    "BUZZWORD_3": "Reading Rainbow",
+    "BUZZWORD_4": "Slavery",
+    "BUZZWORD_5": "LeVar Burton"
+  },
+  {
+    "KEYWORD": "Kwanzaa",
+    "BUZZWORD_1": "January",
+    "BUZZWORD_2": "7 Days",
+    "BUZZWORD_3": "Holiday",
+    "BUZZWORD_4": "Principles",
+    "BUZZWORD_5": "Kinara"
+  },
+  {
+    "KEYWORD": "Lenny Kravitz",
+    "BUZZWORD_1": "Lisa Bonet",
+    "BUZZWORD_2": "Zoe",
+    "BUZZWORD_3": "Rock & Roll",
+    "BUZZWORD_4": "Muscian",
+    "BUZZWORD_5": "The Jeffersons"
+  },
+  {
+    "KEYWORD": "LeSabre",
+    "BUZZWORD_1": "Buick",
+    "BUZZWORD_2": "GM",
+    "BUZZWORD_3": "Full-size",
+    "BUZZWORD_4": "Classic",
+    "BUZZWORD_5": "Rims"
+  },
+  {
+    "KEYWORD": "Lil Kim",
+    "BUZZWORD_1": "Hard Core",
+    "BUZZWORD_2": "Notorious B.I.G",
+    "BUZZWORD_3": "Crush On You",
+    "BUZZWORD_4": "Bad Boy",
+    "BUZZWORD_5": "Queen Bee"
+  },
+  {
+    "KEYWORD": "Living Single",
+    "BUZZWORD_1": "Maxine",
+    "BUZZWORD_2": "Obie",
+    "BUZZWORD_3": "Ragine",
+    "BUZZWORD_4": "Khadeja James",
+    "BUZZWORD_5": "Sinclair"
+  },
+  {
+    "KEYWORD": "Loosey",
+    "BUZZWORD_1": "Single",
+    "BUZZWORD_2": "Cigarette",
+    "BUZZWORD_3": "Square",
+    "BUZZWORD_4": "Tobacco",
+    "BUZZWORD_5": "Corner Store"
+  },
+  {
+    "KEYWORD": "Los Angeles",
+    "BUZZWORD_1": "California",
+    "BUZZWORD_2": "LA",
+    "BUZZWORD_3": "Roscoes",
+    "BUZZWORD_4": "Hollywood",
+    "BUZZWORD_5": "Lakes"
+  },
+  {
+    "KEYWORD": "Love & Hip-Hop",
+    "BUZZWORD_1": "Reality",
+    "BUZZWORD_2": "TV",
+    "BUZZWORD_3": "Atlanta ",
+    "BUZZWORD_4": "New York ",
+    "BUZZWORD_5": "LA"
+  },
+  {
+    "KEYWORD": "Love Jones",
+    "BUZZWORD_1": "Nia Long",
+    "BUZZWORD_2": "Chicago",
+    "BUZZWORD_3": "Lorenz Tate",
+    "BUZZWORD_4": "Photographer",
+    "BUZZWORD_5": "Poet"
+  },
+  {
+    "KEYWORD": "Luster",
+    "BUZZWORD_1": "Emblem",
+    "BUZZWORD_2": "Logo",
+    "BUZZWORD_3": "Pink Oil",
+    "BUZZWORD_4": "Lotion",
+    "BUZZWORD_5": "Hair"
+  },
+  {
+    "KEYWORD": "Luther Campbell",
+    "BUZZWORD_1": "Miami Bass",
+    "BUZZWORD_2": "2 Live Crew",
+    "BUZZWORD_3": "Doo Doo Brown",
+    "BUZZWORD_4": "Dancers",
+    "BUZZWORD_5": "Porn"
+  },
+  {
+    "KEYWORD": "Luther Vandross",
+    "BUZZWORD_1": "Secret Love",
+    "BUZZWORD_2": "Legend",
+    "BUZZWORD_3": "Singer",
+    "BUZZWORD_4": "Never Too Much",
+    "BUZZWORD_5": "Velvet"
+  },
+  {
+    "KEYWORD": "Mac n Cheese",
+    "BUZZWORD_1": "Baked",
+    "BUZZWORD_2": "Milk",
+    "BUZZWORD_3": "Noodles",
+    "BUZZWORD_4": "Butter",
+    "BUZZWORD_5": "Soul Food"
+  },
+  {
+    "KEYWORD": "Magic Johnson",
+    "BUZZWORD_1": "Lakers",
+    "BUZZWORD_2": "HIV",
+    "BUZZWORD_3": "Los Angeles",
+    "BUZZWORD_4": "Cookie",
+    "BUZZWORD_5": "Theaters"
+  },
+  {
+    "KEYWORD": "Malcolm X",
+    "BUZZWORD_1": "Muslim",
+    "BUZZWORD_2": "Nation of Islam",
+    "BUZZWORD_3": "Elijah Muhammad",
+    "BUZZWORD_4": "Betty Shabazz",
+    "BUZZWORD_5": "Autobiography"
+  },
+  {
+    "KEYWORD": "Mandigo",
+    "BUZZWORD_1": "Warrior",
+    "BUZZWORD_2": "Tribe",
+    "BUZZWORD_3": "Man",
+    "BUZZWORD_4": "Manly",
+    "BUZZWORD_5": "African"
+  },
+  {
+    "KEYWORD": "Martin",
+    "BUZZWORD_1": "Lawrence",
+    "BUZZWORD_2": "Gina",
+    "BUZZWORD_3": "Cole",
+    "BUZZWORD_4": "Pam",
+    "BUZZWORD_5": "Tommy"
+  },
+  {
+    "KEYWORD": "Marvin Gaye",
+    "BUZZWORD_1": "Tammy Terrell",
+    "BUZZWORD_2": "What's Going On",
+    "BUZZWORD_3": "Sexual Healing",
+    "BUZZWORD_4": "Let's Get It On",
+    "BUZZWORD_5": "You're All I Need"
+  },
+  {
+    "KEYWORD": "Maxwell",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Singer",
+    "BUZZWORD_3": "Falsetto",
+    "BUZZWORD_4": "Woman's Worth",
+    "BUZZWORD_5": "Fortunate"
+  },
+  {
+    "KEYWORD": "MC",
+    "BUZZWORD_1": "Microphone",
+    "BUZZWORD_2": "Master",
+    "BUZZWORD_3": "Ceremony",
+    "BUZZWORD_4": "Hype",
+    "BUZZWORD_5": "Rapper"
+  },
+  {
+    "KEYWORD": "MC Hammer",
+    "BUZZWORD_1": "Too Legit",
+    "BUZZWORD_2": "Parachute Pants",
+    "BUZZWORD_3": "Can't Touch This",
+    "BUZZWORD_4": "Oakland",
+    "BUZZWORD_5": "Preacher"
+  },
+  {
+    "KEYWORD": "Menace II Society",
+    "BUZZWORD_1": "Cane",
+    "BUZZWORD_2": "O'Dog",
+    "BUZZWORD_3": "Jada Pinkett",
+    "BUZZWORD_4": "Larenz Tate ",
+    "BUZZWORD_5": "South Central"
+  },
+  {
+    "KEYWORD": "Menthol Cigarettes",
+    "BUZZWORD_1": "Squares",
+    "BUZZWORD_2": "Tobacco",
+    "BUZZWORD_3": "Newports",
+    "BUZZWORD_4": "Stick",
+    "BUZZWORD_5": "Cancer"
+  },
+  {
+    "KEYWORD": "Michael Baisden",
+    "BUZZWORD_1": "After Dark",
+    "BUZZWORD_2": "TV One",
+    "BUZZWORD_3": "Radio Show",
+    "BUZZWORD_4": "Maintenance Man",
+    "BUZZWORD_5": "Author"
+  },
+  {
+    "KEYWORD": "Michael Vick",
+    "BUZZWORD_1": "Dogs",
+    "BUZZWORD_2": "Atlanta",
+    "BUZZWORD_3": "Falcons",
+    "BUZZWORD_4": "Quarterback",
+    "BUZZWORD_5": "Football"
+  },
+  {
+    "KEYWORD": "Middle Passage",
+    "BUZZWORD_1": "Slavery",
+    "BUZZWORD_2": "Chained",
+    "BUZZWORD_3": "Rape",
+    "BUZZWORD_4": "Ship",
+    "BUZZWORD_5": "Africa"
+  },
+  {
+    "KEYWORD": "Mike Tyson",
+    "BUZZWORD_1": "Robin Givens",
+    "BUZZWORD_2": "Boxing",
+    "BUZZWORD_3": "Tattoo",
+    "BUZZWORD_4": "Don King",
+    "BUZZWORD_5": "Ear"
+  },
+  {
+    "KEYWORD": "Million Man March",
+    "BUZZWORD_1": "Louis Farrakhan",
+    "BUZZWORD_2": "White House",
+    "BUZZWORD_3": "DC",
+    "BUZZWORD_4": "Black",
+    "BUZZWORD_5": "Dedicate"
+  },
+  {
+    "KEYWORD": "Mississippi",
+    "BUZZWORD_1": "Dirty South",
+    "BUZZWORD_2": "Confederate",
+    "BUZZWORD_3": "Ku Klux Klan",
+    "BUZZWORD_4": "State",
+    "BUZZWORD_5": "Burning"
+  },
+  {
+    "KEYWORD": "Motions",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Shampoo",
+    "BUZZWORD_3": "Conditioner",
+    "BUZZWORD_4": "Relaxers",
+    "BUZZWORD_5": "Yellow & Purple"
+  },
+  {
+    "KEYWORD": "Motown",
+    "BUZZWORD_1": "Barry Gordy",
+    "BUZZWORD_2": "Detroit",
+    "BUZZWORD_3": "Temptations",
+    "BUZZWORD_4": "Record",
+    "BUZZWORD_5": "Diana Ross"
+  },
+  {
+    "KEYWORD": "Murray's",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Grease",
+    "BUZZWORD_3": "Oil",
+    "BUZZWORD_4": "Grease",
+    "BUZZWORD_5": "Conditioning"
+  },
+  {
+    "KEYWORD": "NAACP",
+    "BUZZWORD_1": "National ",
+    "BUZZWORD_2": "Advancement ",
+    "BUZZWORD_3": "Colored ",
+    "BUZZWORD_4": "Organization ",
+    "BUZZWORD_5": "Advocate "
+  },
+  {
+    "KEYWORD": "Nachos",
+    "BUZZWORD_1": "Jalapenos",
+    "BUZZWORD_2": "Tortilla Chips",
+    "BUZZWORD_3": "Cheese",
+    "BUZZWORD_4": "Movies",
+    "BUZZWORD_5": "Snack"
+  },
+  {
+    "KEYWORD": "Nail Shop",
+    "BUZZWORD_1": "Korean",
+    "BUZZWORD_2": "Asian",
+    "BUZZWORD_3": "Nail Polish",
+    "BUZZWORD_4": "Mani/Pedi",
+    "BUZZWORD_5": "Acrylic"
+  },
+  {
+    "KEYWORD": "Nappy",
+    "BUZZWORD_1": "Kinky",
+    "BUZZWORD_2": "Hair",
+    "BUZZWORD_3": "Curly",
+    "BUZZWORD_4": "Afro",
+    "BUZZWORD_5": "Comb"
+  },
+  {
+    "KEYWORD": "Nation of Islam",
+    "BUZZWORD_1": "Farrakhan",
+    "BUZZWORD_2": "Muslim",
+    "BUZZWORD_3": "Elijah Muhammad",
+    "BUZZWORD_4": "Malcolm X",
+    "BUZZWORD_5": "Mosque"
+  },
+  {
+    "KEYWORD": "New Jack City",
+    "BUZZWORD_1": "Wesley Snipes",
+    "BUZZWORD_2": "Ice T",
+    "BUZZWORD_3": "Pookie",
+    "BUZZWORD_4": "Mario Van Peebles",
+    "BUZZWORD_5": "Nino Brown"
+  },
+  {
+    "KEYWORD": "New Orleans",
+    "BUZZWORD_1": "Mardi Gras",
+    "BUZZWORD_2": "Essence Music Fest",
+    "BUZZWORD_3": "Hurricane Katrina",
+    "BUZZWORD_4": "Louisiana",
+    "BUZZWORD_5": "Jazz"
+  },
+  {
+    "KEYWORD": "Nick Cannon",
+    "BUZZWORD_1": "Mariah Carey",
+    "BUZZWORD_2": "Wild n Out",
+    "BUZZWORD_3": "Drumline",
+    "BUZZWORD_4": "Christina Milian",
+    "BUZZWORD_5": "MTV"
+  },
+  {
+    "KEYWORD": "Notorious B.I.G",
+    "BUZZWORD_1": "Juicy",
+    "BUZZWORD_2": "Lil Kim",
+    "BUZZWORD_3": "Faith",
+    "BUZZWORD_4": "Puff Daddy",
+    "BUZZWORD_5": "Bad Boy"
+  },
+  {
+    "KEYWORD": "NWA",
+    "BUZZWORD_1": "Dr. Dre",
+    "BUZZWORD_2": "Ice Cube",
+    "BUZZWORD_3": "DJ Ren",
+    "BUZZWORD_4": "Compton",
+    "BUZZWORD_5": "Eazy E"
+  },
+  {
+    "KEYWORD": "Okra",
+    "BUZZWORD_1": "Vegetable",
+    "BUZZWORD_2": "Green",
+    "BUZZWORD_3": "Slimy",
+    "BUZZWORD_4": "Fried",
+    "BUZZWORD_5": "Southern"
+  },
+  {
+    "KEYWORD": "Omega Psi Phi",
+    "BUZZWORD_1": "Boots",
+    "BUZZWORD_2": "Fraternity",
+    "BUZZWORD_3": "Purple and Gold",
+    "BUZZWORD_4": "Atomic Dog",
+    "BUZZWORD_5": "Hopping"
+  },
+  {
+    "KEYWORD": "Oprah Winfrey ",
+    "BUZZWORD_1": "Talk Show ",
+    "BUZZWORD_2": "Host ",
+    "BUZZWORD_3": "OWN",
+    "BUZZWORD_4": "Harpo",
+    "BUZZWORD_5": "Steadman"
+  },
+  {
+    "KEYWORD": "Oz",
+    "BUZZWORD_1": "Adebisi",
+    "BUZZWORD_2": "Jail",
+    "BUZZWORD_3": "Shank",
+    "BUZZWORD_4": "HBO",
+    "BUZZWORD_5": "Prison"
+  },
+  {
+    "KEYWORD": "Paid In Full",
+    "BUZZWORD_1": "Eric B ",
+    "BUZZWORD_2": "Rakim",
+    "BUZZWORD_3": "Rico",
+    "BUZZWORD_4": "Mitch",
+    "BUZZWORD_5": "Ace "
+  },
+  {
+    "KEYWORD": "Parole Officer",
+    "BUZZWORD_1": "Jail",
+    "BUZZWORD_2": "Prison",
+    "BUZZWORD_3": "P.O.",
+    "BUZZWORD_4": "Judge",
+    "BUZZWORD_5": "Probation"
+  },
+  {
+    "KEYWORD": "Pastries",
+    "BUZZWORD_1": "Angela",
+    "BUZZWORD_2": "Vanessa",
+    "BUZZWORD_3": "Simmons",
+    "BUZZWORD_4": "Shoes",
+    "BUZZWORD_5": "Rev Run"
+  },
+  {
+    "KEYWORD": "Patron",
+    "BUZZWORD_1": "Tequila",
+    "BUZZWORD_2": "Club",
+    "BUZZWORD_3": "Shots",
+    "BUZZWORD_4": "Lime",
+    "BUZZWORD_5": "Salt"
+  },
+  {
+    "KEYWORD": "Paul Mooney",
+    "BUZZWORD_1": "Chappelle's Show",
+    "BUZZWORD_2": "Richard Pryor",
+    "BUZZWORD_3": "Nigga",
+    "BUZZWORD_4": "Negrodamus",
+    "BUZZWORD_5": "Comedian"
+  },
+  {
+    "KEYWORD": "Peach Cobbler",
+    "BUZZWORD_1": "Crust",
+    "BUZZWORD_2": "Crumbs",
+    "BUZZWORD_3": "Dessert",
+    "BUZZWORD_4": "Bake",
+    "BUZZWORD_5": "Apple"
+  },
+  {
+    "KEYWORD": "Percolator",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "It's Time",
+    "BUZZWORD_3": "Coffee",
+    "BUZZWORD_4": "House Music",
+    "BUZZWORD_5": "Chicago"
+  },
+  {
+    "KEYWORD": "Sigmas",
+    "BUZZWORD_1": "Blue and White",
+    "BUZZWORD_2": "Fraternity",
+    "BUZZWORD_3": "Phi Beta",
+    "BUZZWORD_4": "Men",
+    "BUZZWORD_5": "Broadway"
+  },
+  {
+    "KEYWORD": "Philadelphia",
+    "BUZZWORD_1": "Cheesecake",
+    "BUZZWORD_2": "76ers",
+    "BUZZWORD_3": "Steak",
+    "BUZZWORD_4": "Liberty Bell",
+    "BUZZWORD_5": "Pennsylvania"
+  },
+  {
+    "KEYWORD": "Pickles",
+    "BUZZWORD_1": "Jar",
+    "BUZZWORD_2": "Dill",
+    "BUZZWORD_3": "Cucumber",
+    "BUZZWORD_4": "Sandwich",
+    "BUZZWORD_5": "Peppermint"
+  },
+  {
+    "KEYWORD": "Pimp",
+    "BUZZWORD_1": "Slap",
+    "BUZZWORD_2": "Juice",
+    "BUZZWORD_3": "Trick",
+    "BUZZWORD_4": "Prostitute",
+    "BUZZWORD_5": "Ho"
+  },
+  {
+    "KEYWORD": "Pimp My Ride ",
+    "BUZZWORD_1": "Xzibit",
+    "BUZZWORD_2": "MTV",
+    "BUZZWORD_3": "Rapper",
+    "BUZZWORD_4": "Los Angeles",
+    "BUZZWORD_5": "Cornrows"
+  },
+  {
+    "KEYWORD": "Poetic Justice",
+    "BUZZWORD_1": "Lucky",
+    "BUZZWORD_2": "Janet Jackson",
+    "BUZZWORD_3": "Elijah Muhammad",
+    "BUZZWORD_4": "Malcolm X",
+    "BUZZWORD_5": "Mosque"
+  },
+  {
+    "KEYWORD": "Pork",
+    "BUZZWORD_1": "Hotdogs",
+    "BUZZWORD_2": "Chops",
+    "BUZZWORD_3": "Bacon",
+    "BUZZWORD_4": "Ribs",
+    "BUZZWORD_5": "Pig"
+  },
+  {
+    "KEYWORD": "Potato Salad",
+    "BUZZWORD_1": "Mayo",
+    "BUZZWORD_2": "Mustard",
+    "BUZZWORD_3": "Paprika",
+    "BUZZWORD_4": "Celery",
+    "BUZZWORD_5": "Side"
+  },
+  {
+    "KEYWORD": "Prince",
+    "BUZZWORD_1": "The Artist",
+    "BUZZWORD_2": "Purple Rain",
+    "BUZZWORD_3": "Cream",
+    "BUZZWORD_4": "Diamonds and Pearls",
+    "BUZZWORD_5": 1999
+  },
+  {
+    "KEYWORD": "Producer",
+    "BUZZWORD_1": "Timbaland",
+    "BUZZWORD_2": "Pharrell",
+    "BUZZWORD_3": "Kanye West",
+    "BUZZWORD_4": "Just Blaze",
+    "BUZZWORD_5": "DJ Khaled"
+  },
+  {
+    "KEYWORD": "Projects",
+    "BUZZWORD_1": "Concrete",
+    "BUZZWORD_2": "Public",
+    "BUZZWORD_3": "Low Income Housing",
+    "BUZZWORD_4": "Good Times",
+    "BUZZWORD_5": "Jungle"
+  },
+  {
+    "KEYWORD": "Public Transportation",
+    "BUZZWORD_1": "Bus",
+    "BUZZWORD_2": "Train",
+    "BUZZWORD_3": "Fare",
+    "BUZZWORD_4": "Cab",
+    "BUZZWORD_5": "Uber"
+  },
+  {
+    "KEYWORD": "Purple Rain",
+    "BUZZWORD_1": "Apollonia",
+    "BUZZWORD_2": "Let's Go Crazy",
+    "BUZZWORD_3": "Prince",
+    "BUZZWORD_4": "Morris Day",
+    "BUZZWORD_5": "When Doves Cry"
+  },
+  {
+    "KEYWORD": "Queen Latifah",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Actor",
+    "BUZZWORD_3": "Chicago",
+    "BUZZWORD_4": "Living Single",
+    "BUZZWORD_5": "UNITY"
+  },
+  {
+    "KEYWORD": "Queens",
+    "BUZZWORD_1": "Nas",
+    "BUZZWORD_2": "LaGuardia",
+    "BUZZWORD_3": "Coming to America",
+    "BUZZWORD_4": "Borough",
+    "BUZZWORD_5": "New York"
+  },
+  {
+    "KEYWORD": "R. Kelly",
+    "BUZZWORD_1": "Chicago",
+    "BUZZWORD_2": "Trapped",
+    "BUZZWORD_3": "Pee",
+    "BUZZWORD_4": "Statutory",
+    "BUZZWORD_5": "Sex Tape"
+  },
+  {
+    "KEYWORD": "Rap City ",
+    "BUZZWORD_1": "Joe Claire ",
+    "BUZZWORD_2": "Big Tigger ",
+    "BUZZWORD_3": "BET ",
+    "BUZZWORD_4": "Freestyle ",
+    "BUZZWORD_5": "Chris Thomas "
+  },
+  {
+    "KEYWORD": "Rastafarian",
+    "BUZZWORD_1": "Jamaican",
+    "BUZZWORD_2": "Bob Marley",
+    "BUZZWORD_3": "Dreadlocks",
+    "BUZZWORD_4": "Halie Selassie",
+    "BUZZWORD_5": "Lion of Judah"
+  },
+  {
+    "KEYWORD": "Rattail Comb",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Bangs",
+    "BUZZWORD_3": "Two-sides",
+    "BUZZWORD_4": "Pick",
+    "BUZZWORD_5": "Tool"
+  },
+  {
+    "KEYWORD": "Ray Charles",
+    "BUZZWORD_1": "Blind",
+    "BUZZWORD_2": "Movie",
+    "BUZZWORD_3": "Jamie Foxx",
+    "BUZZWORD_4": "Hit the Road, Jack",
+    "BUZZWORD_5": "Georgia"
+  },
+  {
+    "KEYWORD": "Record Label",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Producer",
+    "BUZZWORD_4": "Famous",
+    "BUZZWORD_5": "Industry"
+  },
+  {
+    "KEYWORD": "Reggae",
+    "BUZZWORD_1": "Sean Paul",
+    "BUZZWORD_2": "Dancehall",
+    "BUZZWORD_3": "Marley",
+    "BUZZWORD_4": "Riddim",
+    "BUZZWORD_5": "Jamaica"
+  },
+  {
+    "KEYWORD": "Relaxer",
+    "BUZZWORD_1": "Straight",
+    "BUZZWORD_2": "Kinky",
+    "BUZZWORD_3": "Cream",
+    "BUZZWORD_4": "Beauty Shop",
+    "BUZZWORD_5": "No-Lye"
+  },
+  {
+    "KEYWORD": "Ribs",
+    "BUZZWORD_1": "BBQ",
+    "BUZZWORD_2": "Grill",
+    "BUZZWORD_3": "Pork",
+    "BUZZWORD_4": "Beef",
+    "BUZZWORD_5": "Slab"
+  },
+  {
+    "KEYWORD": "Rick James",
+    "BUZZWORD_1": "Braids",
+    "BUZZWORD_2": "Marijuana",
+    "BUZZWORD_3": "Murphy",
+    "BUZZWORD_4": "Teena Marie",
+    "BUZZWORD_5": "Mary Jane"
+  },
+  {
+    "KEYWORD": "Rims",
+    "BUZZWORD_1": "Car",
+    "BUZZWORD_2": "Tire",
+    "BUZZWORD_3": "Ride",
+    "BUZZWORD_4": "24s",
+    "BUZZWORD_5": "Dubs"
+  },
+  {
+    "KEYWORD": "Rocawear",
+    "BUZZWORD_1": "Jay Z",
+    "BUZZWORD_2": "Fella",
+    "BUZZWORD_3": "Dame Dash",
+    "BUZZWORD_4": "Clothing Line",
+    "BUZZWORD_5": "Jeans"
+  },
+  {
+    "KEYWORD": "Roller Skate",
+    "BUZZWORD_1": "Rink",
+    "BUZZWORD_2": "Roll Bounce",
+    "BUZZWORD_3": "Couples",
+    "BUZZWORD_4": "Disco",
+    "BUZZWORD_5": "Wheels"
+  },
+  {
+    "KEYWORD": "Ronald Reagan",
+    "BUZZWORD_1": "Crack",
+    "BUZZWORD_2": "War on Drugs ",
+    "BUZZWORD_3": "Nancy",
+    "BUZZWORD_4": "Republican",
+    "BUZZWORD_5": "President "
+  },
+  {
+    "KEYWORD": "Run's House",
+    "BUZZWORD_1": "Diggy",
+    "BUZZWORD_2": "Angela",
+    "BUZZWORD_3": "Russy",
+    "BUZZWORD_4": "Vanessa",
+    "BUZZWORD_5": "Simmons"
+  },
+  {
+    "KEYWORD": "Running Man",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Movement",
+    "BUZZWORD_3": "Slide",
+    "BUZZWORD_4": "90's",
+    "BUZZWORD_5": "MC Hammer"
+  },
+  {
+    "KEYWORD": "Sanford & Son",
+    "BUZZWORD_1": "Lemont",
+    "BUZZWORD_2": "Redd Foxx",
+    "BUZZWORD_3": "Truck",
+    "BUZZWORD_4": "Junk Yard",
+    "BUZZWORD_5": "Cut"
+  },
+  {
+    "KEYWORD": "Chopped & Screwed",
+    "BUZZWORD_1": "Texas",
+    "BUZZWORD_2": "Houston",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Slow",
+    "BUZZWORD_5": "Cut"
+  },
+  {
+    "KEYWORD": "Scrunchie",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Ponytail",
+    "BUZZWORD_3": "Bun",
+    "BUZZWORD_4": "Gel",
+    "BUZZWORD_5": "Colorful"
+  },
+  {
+    "KEYWORD": "Sean John",
+    "BUZZWORD_1": "Diddy",
+    "BUZZWORD_2": "Combs",
+    "BUZZWORD_3": "Fashion",
+    "BUZZWORD_4": "Clothes",
+    "BUZZWORD_5": "Two Pair"
+  },
+  {
+    "KEYWORD": "Season Salt",
+    "BUZZWORD_1": "Red",
+    "BUZZWORD_2": "White",
+    "BUZZWORD_3": "Alternative",
+    "BUZZWORD_4": "Lawry's",
+    "BUZZWORD_5": "Greens"
+  },
+  {
+    "KEYWORD": "Serena Williams",
+    "BUZZWORD_1": "Tennis",
+    "BUZZWORD_2": "Beads",
+    "BUZZWORD_3": "Wimbledon",
+    "BUZZWORD_4": "Serena",
+    "BUZZWORD_5": "Racket"
+  },
+  {
+    "KEYWORD": "Shaft",
+    "BUZZWORD_1": "Remake",
+    "BUZZWORD_2": "Isaac Hayes",
+    "BUZZWORD_3": "Bad Mutha",
+    "BUZZWORD_4": "Samuel L Jackson",
+    "BUZZWORD_5": "Richard Roundtree"
+  },
+  {
+    "KEYWORD": "Shrimp",
+    "BUZZWORD_1": "Bubba",
+    "BUZZWORD_2": "Seafood",
+    "BUZZWORD_3": "Tails",
+    "BUZZWORD_4": "Fried",
+    "BUZZWORD_5": "Shells"
+  },
+  {
+    "KEYWORD": "Sigma Gamma Rho",
+    "BUZZWORD_1": "Poodle",
+    "BUZZWORD_2": "Blue and White",
+    "BUZZWORD_3": "Sorority",
+    "BUZZWORD_4": "Greek",
+    "BUZZWORD_5": "Sigma Gamma"
+  },
+  {
+    "KEYWORD": "Slick Rick",
+    "BUZZWORD_1": "The Ruler",
+    "BUZZWORD_2": "La Di Da Di",
+    "BUZZWORD_3": "Kangol",
+    "BUZZWORD_4": "British",
+    "BUZZWORD_5": "Storytelling "
+  },
+  {
+    "KEYWORD": "Social Worker",
+    "BUZZWORD_1": "Assistance",
+    "BUZZWORD_2": "Foster Kids",
+    "BUZZWORD_3": "Child Services",
+    "BUZZWORD_4": "Domestic",
+    "BUZZWORD_5": "Family"
+  },
+  {
+    "KEYWORD": "Soft Sheen",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Oil",
+    "BUZZWORD_3": "Cream",
+    "BUZZWORD_4": "Products",
+    "BUZZWORD_5": "Conditioning"
+  },
+  {
+    "KEYWORD": "Soul Food",
+    "BUZZWORD_1": "Big Mama",
+    "BUZZWORD_2": "Bird",
+    "BUZZWORD_3": "Showtime",
+    "BUZZWORD_4": "Sunday Dinner",
+    "BUZZWORD_5": "Diabetes"
+  },
+  {
+    "KEYWORD": "Soul Train",
+    "BUZZWORD_1": "Don Cornelius",
+    "BUZZWORD_2": "Shemar Moore",
+    "BUZZWORD_3": "Peace",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Dance"
+  },
+  {
+    "KEYWORD": "Sounds",
+    "BUZZWORD_1": "Speakers",
+    "BUZZWORD_2": "Noise",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Box",
+    "BUZZWORD_5": "Trunk"
+  },
+  {
+    "KEYWORD": "Source Magazine",
+    "BUZZWORD_1": "Benzino",
+    "BUZZWORD_2": "Hip Hop",
+    "BUZZWORD_3": "Rap",
+    "BUZZWORD_4": "New York",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Spike Lee",
+    "BUZZWORD_1": "School Daze",
+    "BUZZWORD_2": "Director",
+    "BUZZWORD_3": "New York ",
+    "BUZZWORD_4": "Girl 6 ",
+    "BUZZWORD_5": "Chi-raq"
+  },
+  {
+    "KEYWORD": "Steve Harvey",
+    "BUZZWORD_1": "Radio",
+    "BUZZWORD_2": "Talk Show",
+    "BUZZWORD_3": "Mr. Hightower",
+    "BUZZWORD_4": "Family Feud",
+    "BUZZWORD_5": "Mustache"
+  },
+  {
+    "KEYWORD": "Stevie Wonder",
+    "BUZZWORD_1": "Blind",
+    "BUZZWORD_2": "Glasses",
+    "BUZZWORD_3": "Braids",
+    "BUZZWORD_4": "Ribbon in the Sky",
+    "BUZZWORD_5": "Singer"
+  },
+  {
+    "KEYWORD": "Super Fly",
+    "BUZZWORD_1": "Gordon Parks Jr.",
+    "BUZZWORD_2": "Ron O'Neal",
+    "BUZZWORD_3": "Curtis Mayfield",
+    "BUZZWORD_4": "New York",
+    "BUZZWORD_5": "Drug Dealer"
+  },
+  {
+    "KEYWORD": "Superman",
+    "BUZZWORD_1": "Soldier Boy",
+    "BUZZWORD_2": "Superhero",
+    "BUZZWORD_3": "Dance",
+    "BUZZWORD_4": "You",
+    "BUZZWORD_5": "Clark Kent"
+  },
+  {
+    "KEYWORD": "Swangin'",
+    "BUZZWORD_1": "Houston",
+    "BUZZWORD_2": "Paul Wall",
+    "BUZZWORD_3": "Texas ",
+    "BUZZWORD_4": "Car",
+    "BUZZWORD_5": "Lane "
+  },
+  {
+    "KEYWORD": "Sweet Potato Pie",
+    "BUZZWORD_1": "Crust",
+    "BUZZWORD_2": "Holidays",
+    "BUZZWORD_3": "Sweet",
+    "BUZZWORD_4": "Pan",
+    "BUZZWORD_5": "Orange"
+  },
+  {
+    "KEYWORD": "Syrup",
+    "BUZZWORD_1": "Codeine",
+    "BUZZWORD_2": "Purple",
+    "BUZZWORD_3": "Promethazine",
+    "BUZZWORD_4": "Styrofoam Cup",
+    "BUZZWORD_5": "Cough Medicine"
+  },
+  {
+    "KEYWORD": "Tavis Smiley",
+    "BUZZWORD_1": "BET",
+    "BUZZWORD_2": "Radio",
+    "BUZZWORD_3": "TV",
+    "BUZZWORD_4": "News Correspondant",
+    "BUZZWORD_5": "Diana Ross"
+  },
+  {
+    "KEYWORD": "The Boondocks",
+    "BUZZWORD_1": "Huey",
+    "BUZZWORD_2": "Riley",
+    "BUZZWORD_3": "Granddad",
+    "BUZZWORD_4": "Aaron McGruder",
+    "BUZZWORD_5": "Uncle Ruckus"
+  },
+  {
+    "KEYWORD": "The Color Purple",
+    "BUZZWORD_1": "Harpo",
+    "BUZZWORD_2": "Oprah",
+    "BUZZWORD_3": "Cellie",
+    "BUZZWORD_4": "Whoopi Goldberg",
+    "BUZZWORD_5": "Mister"
+  },
+  {
+    "KEYWORD": "The Jackson 5 ",
+    "BUZZWORD_1": "Michael",
+    "BUZZWORD_2": "Tito",
+    "BUZZWORD_3": "Jermaine",
+    "BUZZWORD_4": "Randy",
+    "BUZZWORD_5": "Marlon"
+  },
+  {
+    "KEYWORD": "The Jackson's",
+    "BUZZWORD_1": "Michael ",
+    "BUZZWORD_2": "Tito",
+    "BUZZWORD_3": "Janet ",
+    "BUZZWORD_4": "Jermaine",
+    "BUZZWORD_5": "LaToya"
+  },
+  {
+    "KEYWORD": "The Jefferson",
+    "BUZZWORD_1": "Weezy",
+    "BUZZWORD_2": "Bi-racial",
+    "BUZZWORD_3": "George",
+    "BUZZWORD_4": "Deluxe Apartment",
+    "BUZZWORD_5": "Cleaners"
+  },
+  {
+    "KEYWORD": "The Last Dragon",
+    "BUZZWORD_1": "Dragon",
+    "BUZZWORD_2": "Bruce Leroy",
+    "BUZZWORD_3": "Sho'Nuff",
+    "BUZZWORD_4": "Kung Fu",
+    "BUZZWORD_5": "Vanity"
+  },
+  {
+    "KEYWORD": "The Mack",
+    "BUZZWORD_1": "Pimp",
+    "BUZZWORD_2": "Max Julien",
+    "BUZZWORD_3": "How To Be Player",
+    "BUZZWORD_4": "Tricks",
+    "BUZZWORD_5": "Richard Pryor"
+  },
+  {
+    "KEYWORD": "The Twist",
+    "BUZZWORD_1": "Chubby Checker",
+    "BUZZWORD_2": "Turn",
+    "BUZZWORD_3": "Hips",
+    "BUZZWORD_4": "Rotate",
+    "BUZZWORD_5": "50's"
+  },
+  {
+    "KEYWORD": "The Wire",
+    "BUZZWORD_1": "Baltimore",
+    "BUZZWORD_2": "Drugs",
+    "BUZZWORD_3": "Police",
+    "BUZZWORD_4": "Barksdale",
+    "BUZZWORD_5": "HBO"
+  },
+  {
+    "KEYWORD": "Three 6 Mafia",
+    "BUZZWORD_1": "Memphis",
+    "BUZZWORD_2": "Hollyhood",
+    "BUZZWORD_3": "Stay Fly",
+    "BUZZWORD_4": "Oscar",
+    "BUZZWORD_5": "Hustle & Flow"
+  },
+  {
+    "KEYWORD": "Thriller",
+    "BUZZWORD_1": "Michael Jackson",
+    "BUZZWORD_2": "Movie",
+    "BUZZWORD_3": "Scary",
+    "BUZZWORD_4": "Red Jacket",
+    "BUZZWORD_5": "Horror"
+  },
+  {
+    "KEYWORD": "Tiger Woods",
+    "BUZZWORD_1": "Golf",
+    "BUZZWORD_2": "Cablasian",
+    "BUZZWORD_3": "Masters",
+    "BUZZWORD_4": "Cadillac",
+    "BUZZWORD_5": "Adultery "
+  },
+  {
+    "KEYWORD": "Tina Turner",
+    "BUZZWORD_1": "Ike Turner",
+    "BUZZWORD_2": "Nutbush",
+    "BUZZWORD_3": "Angela Basset",
+    "BUZZWORD_4": "Proud Mary",
+    "BUZZWORD_5": "Anna May"
+  },
+  {
+    "KEYWORD": "TLC",
+    "BUZZWORD_1": "Chili",
+    "BUZZWORD_2": "T-Boz",
+    "BUZZWORD_3": "Left Eye",
+    "BUZZWORD_4": "Crazy, Sexy, Cool",
+    "BUZZWORD_5": "Waterfalls"
+  },
+  {
+    "KEYWORD": "Tom Joyner",
+    "BUZZWORD_1": "Donna Richardson ",
+    "BUZZWORD_2": "Radio",
+    "BUZZWORD_3": "Fly Jock ",
+    "BUZZWORD_4": "HBCUs",
+    "BUZZWORD_5": "BlackAmerica.net"
+  },
+  {
+    "KEYWORD": "Trick",
+    "BUZZWORD_1": "Pimp",
+    "BUZZWORD_2": "Sex",
+    "BUZZWORD_3": "Ho",
+    "BUZZWORD_4": "Prostitute",
+    "BUZZWORD_5": "Turn"
+  },
+  {
+    "KEYWORD": "Tupac",
+    "BUZZWORD_1": "Makaveli",
+    "BUZZWORD_2": "Death Row",
+    "BUZZWORD_3": "All Eyez on Me ",
+    "BUZZWORD_4": "Shakur",
+    "BUZZWORD_5": "California"
+  },
+  {
+    "KEYWORD": "Tussin",
+    "BUZZWORD_1": "Sick",
+    "BUZZWORD_2": "Syrup",
+    "BUZZWORD_3": "Robitussin",
+    "BUZZWORD_4": "Cough",
+    "BUZZWORD_5": "Medicine"
+  },
+  {
+    "KEYWORD": "TV One",
+    "BUZZWORD_1": "Unsung",
+    "BUZZWORD_2": "Comcast",
+    "BUZZWORD_3": "Michael Baisden",
+    "BUZZWORD_4": "Radio",
+    "BUZZWORD_5": "BET"
+  },
+  {
+    "KEYWORD": "Tyler Perry",
+    "BUZZWORD_1": "Atlanta",
+    "BUZZWORD_2": "Madea",
+    "BUZZWORD_3": "Diary",
+    "BUZZWORD_4": "Married",
+    "BUZZWORD_5": "House of Payne"
+  },
+  {
+    "KEYWORD": "VIBE Magazine",
+    "BUZZWORD_1": "Quincy Jones",
+    "BUZZWORD_2": "Spin",
+    "BUZZWORD_3": "Hiphop",
+    "BUZZWORD_4": "Music",
+    "BUZZWORD_5": "Fashion"
+  },
+  {
+    "KEYWORD": "Watermelon",
+    "BUZZWORD_1": "Juicy",
+    "BUZZWORD_2": "Rind",
+    "BUZZWORD_3": "Seeds",
+    "BUZZWORD_4": "Fruit",
+    "BUZZWORD_5": "Round"
+  },
+  {
+    "KEYWORD": "Weed",
+    "BUZZWORD_1": "Medical",
+    "BUZZWORD_2": "Marijuana",
+    "BUZZWORD_3": "Blunt",
+    "BUZZWORD_4": "Green",
+    "BUZZWORD_5": "Drug"
+  },
+  {
+    "KEYWORD": "Wesley Snipes",
+    "BUZZWORD_1": "Taxes",
+    "BUZZWORD_2": "Sugar Hill",
+    "BUZZWORD_3": "White Men Can't Jump",
+    "BUZZWORD_4": "Blade",
+    "BUZZWORD_5": "Jungle Fever"
+  },
+  {
+    "KEYWORD": "What's Happening?",
+    "BUZZWORD_1": "Re-run",
+    "BUZZWORD_2": "Shirley",
+    "BUZZWORD_3": "Cooley High",
+    "BUZZWORD_4": "Raj",
+    "BUZZWORD_5": "Dee"
+  },
+  {
+    "KEYWORD": "Whiskey",
+    "BUZZWORD_1": "Jim Beam",
+    "BUZZWORD_2": "Brown",
+    "BUZZWORD_3": "Sour",
+    "BUZZWORD_4": "Scotch",
+    "BUZZWORD_5": "Jack Daniels"
+  },
+  {
+    "KEYWORD": "Whoopi Goldberg",
+    "BUZZWORD_1": "Dreadlocks",
+    "BUZZWORD_2": "The Color Purple",
+    "BUZZWORD_3": "Ted Danson",
+    "BUZZWORD_4": "Comedianne",
+    "BUZZWORD_5": "The View"
+  },
+  {
+    "KEYWORD": "World Star ",
+    "BUZZWORD_1": "Internet ",
+    "BUZZWORD_2": "Website ",
+    "BUZZWORD_3": "Hip-Hop",
+    "BUZZWORD_4": "Videos ",
+    "BUZZWORD_5": "YouTube"
+  },
+  {
+    "KEYWORD": "Wu Tang",
+    "BUZZWORD_1": "Shaolin",
+    "BUZZWORD_2": "Staten Island",
+    "BUZZWORD_3": "C.R.E.A.M",
+    "BUZZWORD_4": "RZA",
+    "BUZZWORD_5": "Method Man"
+  },
+  {
+    "KEYWORD": "Yams",
+    "BUZZWORD_1": "Sweet Potato",
+    "BUZZWORD_2": "Syrup",
+    "BUZZWORD_3": "Side",
+    "BUZZWORD_4": "Roots",
+    "BUZZWORD_5": "Cut"
+  },
+  {
+    "KEYWORD": "Yo! MTV Raps",
+    "BUZZWORD_1": "Ed Lova",
+    "BUZZWORD_2": "Dr. Dre ",
+    "BUZZWORD_3": "Fab 5 Freddy",
+    "BUZZWORD_4": "Hip Hop",
+    "BUZZWORD_5": "Music Videos"
+  },
+  {
+    "KEYWORD": "Zetas",
+    "BUZZWORD_1": "Blue and White",
+    "BUZZWORD_2": "Sorority",
+    "BUZZWORD_3": "Women",
+    "BUZZWORD_4": "Zeta Phi",
+    "BUZZWORD_5": "Greek"
+  },
+  {
+    "KEYWORD": "Ashy ",
+    "BUZZWORD_1": "Lotion",
+    "BUZZWORD_2": "White",
+    "BUZZWORD_3": "Powder",
+    "BUZZWORD_4": "Vaseline",
+    "BUZZWORD_5": "Dusty"
+  },
+  {
+    "KEYWORD": "Dab",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "Migos",
+    "BUZZWORD_3": "Cam Newton",
+    "BUZZWORD_4": "Song",
+    "BUZZWORD_5": "Atlanta"
+  },
+  {
+    "KEYWORD": "Dusty",
+    "BUZZWORD_1": "Ashy",
+    "BUZZWORD_2": "Tired",
+    "BUZZWORD_3": "Dirty",
+    "BUZZWORD_4": "Faded",
+    "BUZZWORD_5": "Dingy"
+  },
+  {
+    "KEYWORD": "Dingy",
+    "BUZZWORD_1": "Janky",
+    "BUZZWORD_2": "Dusty",
+    "BUZZWORD_3": "Raggity",
+    "BUZZWORD_4": "Faded",
+    "BUZZWORD_5": "Busted"
+  },
+  {
+    "KEYWORD": "Trippin",
+    "BUZZWORD_1": "Fall",
+    "BUZZWORD_2": "Extra",
+    "BUZZWORD_3": "Over the top",
+    "BUZZWORD_4": "Doing the most",
+    "BUZZWORD_5": "Dramatic"
+  },
+  {
+    "KEYWORD": "Double Dutch",
+    "BUZZWORD_1": "Jump Rope",
+    "BUZZWORD_2": "Girls",
+    "BUZZWORD_3": "Exercise",
+    "BUZZWORD_4": "Over-under",
+    "BUZZWORD_5": "Clothesline "
+  },
+  {
+    "KEYWORD": "Chickenhead",
+    "BUZZWORD_1": "Nelly ",
+    "BUZZWORD_2": "Basic",
+    "BUZZWORD_3": "Thot",
+    "BUZZWORD_4": "Ghetto",
+    "BUZZWORD_5": "Dance"
+  },
+  {
+    "KEYWORD": "Wop",
+    "BUZZWORD_1": "Dance",
+    "BUZZWORD_2": "J-Dash",
+    "BUZZWORD_3": "Miley Cyrus",
+    "BUZZWORD_4": "Twerk",
+    "BUZZWORD_5": "Arms"
+  },
+  {
+    "KEYWORD": "Thot",
+    "BUZZWORD_1": "Ho",
+    "BUZZWORD_2": "Over There",
+    "BUZZWORD_3": "That",
+    "BUZZWORD_4": "Sex",
+    "BUZZWORD_5": "Thirsty"
+  },
+  {
+    "KEYWORD": "Bop",
+    "BUZZWORD_1": "Kids",
+    "BUZZWORD_2": "Dance",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Hit",
+    "BUZZWORD_5": "Nae Nae"
+  },
+  {
+    "KEYWORD": "Burnt",
+    "BUZZWORD_1": "Cripsy",
+    "BUZZWORD_2": "Fire",
+    "BUZZWORD_3": "Dark",
+    "BUZZWORD_4": "Over Cooked",
+    "BUZZWORD_5": "Sun"
+  },
+  {
+    "KEYWORD": "Charlie Murphy ",
+    "BUZZWORD_1": "Rick James",
+    "BUZZWORD_2": "Dave Chappelle",
+    "BUZZWORD_3": "Darkness ",
+    "BUZZWORD_4": "Beads",
+    "BUZZWORD_5": "Hair"
+  },
+  {
+    "KEYWORD": "Remix",
+    "BUZZWORD_1": "Song",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Twist",
+    "BUZZWORD_4": "Version",
+    "BUZZWORD_5": "Write"
+  },
+  {
+    "KEYWORD": "Mixtape",
+    "BUZZWORD_1": "Cassette ",
+    "BUZZWORD_2": "Song",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Trunk",
+    "BUZZWORD_5": "Playlist"
+  },
+  {
+    "KEYWORD": "Grill",
+    "BUZZWORD_1": "Teeth",
+    "BUZZWORD_2": "Gold",
+    "BUZZWORD_3": "Diamonds",
+    "BUZZWORD_4": "Mouth",
+    "BUZZWORD_5": "Fronts"
+  },
+  {
+    "KEYWORD": "Kicks",
+    "BUZZWORD_1": "Shoes",
+    "BUZZWORD_2": "Sneakers",
+    "BUZZWORD_3": "Nikes",
+    "BUZZWORD_4": "Dunks",
+    "BUZZWORD_5": "Jordans"
+  },
+  {
+    "KEYWORD": "The Sugar ",
+    "BUZZWORD_1": "Diabetes",
+    "BUZZWORD_2": "White",
+    "BUZZWORD_3": "Brown",
+    "BUZZWORD_4": "Sweet",
+    "BUZZWORD_5": "Itis"
+  },
+  {
+    "KEYWORD": "Diabetes",
+    "BUZZWORD_1": "Sugar",
+    "BUZZWORD_2": "Insulin",
+    "BUZZWORD_3": "Bread",
+    "BUZZWORD_4": "Carbs",
+    "BUZZWORD_5": "Blood Pressure"
+  },
+  {
+    "KEYWORD": "Sharp",
+    "BUZZWORD_1": "Clean",
+    "BUZZWORD_2": "Crisp",
+    "BUZZWORD_3": "Handsome",
+    "BUZZWORD_4": "Fly",
+    "BUZZWORD_5": "Pointy"
+  },
+  {
+    "KEYWORD": "Cookout",
+    "BUZZWORD_1": "BBQ",
+    "BUZZWORD_2": "Backyard",
+    "BUZZWORD_3": "Potato Salad",
+    "BUZZWORD_4": "Beans",
+    "BUZZWORD_5": "Ribs"
+  },
+  {
+    "KEYWORD": "The Good Book",
+    "BUZZWORD_1": "Bible",
+    "BUZZWORD_2": "Church",
+    "BUZZWORD_3": "Jesus",
+    "BUZZWORD_4": "Pray",
+    "BUZZWORD_5": "Read"
+  },
+  {
+    "KEYWORD": "Doobie",
+    "BUZZWORD_1": "Wrap",
+    "BUZZWORD_2": "Hair",
+    "BUZZWORD_3": "Pins",
+    "BUZZWORD_4": "Scarf",
+    "BUZZWORD_5": "Perm"
+  },
+  {
+    "KEYWORD": "Sleeping Clothes",
+    "BUZZWORD_1": "Pajamas",
+    "BUZZWORD_2": "Night",
+    "BUZZWORD_3": "Onesie",
+    "BUZZWORD_4": "Lingerie",
+    "BUZZWORD_5": "Long Johns"
+  },
+  {
+    "KEYWORD": "Pallet on the Floor",
+    "BUZZWORD_1": "Blankets",
+    "BUZZWORD_2": "Sleeping Bag",
+    "BUZZWORD_3": "Carpet",
+    "BUZZWORD_4": "Lay",
+    "BUZZWORD_5": "Night"
+  },
+  {
+    "KEYWORD": "Sheers",
+    "BUZZWORD_1": "Stockings",
+    "BUZZWORD_2": "Legs",
+    "BUZZWORD_3": "Feet",
+    "BUZZWORD_4": "Dress",
+    "BUZZWORD_5": "See Through "
+  },
+  {
+    "KEYWORD": "Bay Leaf",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Soup",
+    "BUZZWORD_3": "Seasoning",
+    "BUZZWORD_4": "Bugs",
+    "BUZZWORD_5": "Spice"
+  },
+  {
+    "KEYWORD": "Headwrap",
+    "BUZZWORD_1": "Scarf ",
+    "BUZZWORD_2": "Hair",
+    "BUZZWORD_3": "Night",
+    "BUZZWORD_4": "Waves",
+    "BUZZWORD_5": "Doo-rag"
+  },
+  {
+    "KEYWORD": "Pocket Book",
+    "BUZZWORD_1": "Purse",
+    "BUZZWORD_2": "Handbag",
+    "BUZZWORD_3": "Wallet",
+    "BUZZWORD_4": "Clutch",
+    "BUZZWORD_5": "Money"
+  },
+  {
+    "KEYWORD": "Stories",
+    "BUZZWORD_1": "Soap Opera",
+    "BUZZWORD_2": "Young and Restless",
+    "BUZZWORD_3": "All My Children",
+    "BUZZWORD_4": "TV",
+    "BUZZWORD_5": "Day"
+  },
+  {
+    "KEYWORD": "Rollers",
+    "BUZZWORD_1": "Hair ",
+    "BUZZWORD_2": "Curls",
+    "BUZZWORD_3": "Iron",
+    "BUZZWORD_4": "Bonnet",
+    "BUZZWORD_5": "Showercap"
+  },
+  {
+    "KEYWORD": "Bougie ",
+    "BUZZWORD_1": "Fancy",
+    "BUZZWORD_2": "Privileged",
+    "BUZZWORD_3": "Bad",
+    "BUZZWORD_4": "Migos",
+    "BUZZWORD_5": "Gourmet"
+  },
+  {
+    "KEYWORD": "Alter Call",
+    "BUZZWORD_1": "Church",
+    "BUZZWORD_2": "Aisle",
+    "BUZZWORD_3": "Pastor",
+    "BUZZWORD_4": "Usher",
+    "BUZZWORD_5": "Lay Hands"
+  },
+  {
+    "KEYWORD": "Diamond",
+    "BUZZWORD_1": "Jewel",
+    "BUZZWORD_2": "Ring",
+    "BUZZWORD_3": "Player's Club",
+    "BUZZWORD_4": "Princess",
+    "BUZZWORD_5": "Crime Mob"
+  },
+  {
+    "KEYWORD": "Roast",
+    "BUZZWORD_1": "Ride",
+    "BUZZWORD_2": "Laugh",
+    "BUZZWORD_3": "Jokes",
+    "BUZZWORD_4": "Burned",
+    "BUZZWORD_5": "Fun"
+  },
+  {
+    "KEYWORD": "Shether ",
+    "BUZZWORD_1": "Remy Ma",
+    "BUZZWORD_2": "Nicki Minaj",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Beef",
+    "BUZZWORD_5": "Diss"
+  },
+  {
+    "KEYWORD": "Beef",
+    "BUZZWORD_1": "Battle",
+    "BUZZWORD_2": "Grudge",
+    "BUZZWORD_3": "Rap",
+    "BUZZWORD_4": "Meat",
+    "BUZZWORD_5": "Cow"
+  }
+]

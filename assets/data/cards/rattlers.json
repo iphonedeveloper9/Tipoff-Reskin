@@ -1,0 +1,2418 @@
+[
+  {
+    "KEYWORD": "Undergraduate",
+    "BUZZWORD_1": "4 years",
+    "BUZZWORD_2": "Masters",
+    "BUZZWORD_3": "Bachelors",
+    "BUZZWORD_4": "First",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": 1887,
+    "BUZZWORD_1": "Founded",
+    "BUZZWORD_2": "Year",
+    "BUZZWORD_3": "Establish",
+    "BUZZWORD_4": "Number",
+    "BUZZWORD_5": "Date"
+  },
+  {
+    "KEYWORD": "7 Hills",
+    "BUZZWORD_1": "highest",
+    "BUZZWORD_2": "land grant",
+    "BUZZWORD_3": "walking",
+    "BUZZWORD_4": "campus",
+    "BUZZWORD_5": "Tallahassee"
+  },
+  {
+    "KEYWORD": "Academic ",
+    "BUZZWORD_1": "Books",
+    "BUZZWORD_2": "Smart",
+    "BUZZWORD_3": "School",
+    "BUZZWORD_4": "College",
+    "BUZZWORD_5": "University"
+  },
+  {
+    "KEYWORD": "ACT",
+    "BUZZWORD_1": "SAT",
+    "BUZZWORD_2": "GMAT",
+    "BUZZWORD_3": "Test",
+    "BUZZWORD_4": "Score",
+    "BUZZWORD_5": "Admission"
+  },
+  {
+    "KEYWORD": "Advisor",
+    "BUZZWORD_1": "Unavailable",
+    "BUZZWORD_2": "Help",
+    "BUZZWORD_3": "Classes",
+    "BUZZWORD_4": "Planning",
+    "BUZZWORD_5": "Career"
+  },
+  {
+    "KEYWORD": "After-party",
+    "BUZZWORD_1": "Club",
+    "BUZZWORD_2": "Hotel Lobby",
+    "BUZZWORD_3": "Next",
+    "BUZZWORD_4": "Go",
+    "BUZZWORD_5": "Event"
+  },
+  {
+    "KEYWORD": "Alfred Lawson",
+    "BUZZWORD_1": "Multipurpose",
+    "BUZZWORD_2": "Gymnasium",
+    "BUZZWORD_3": "Wahnish",
+    "BUZZWORD_4": "Basketball",
+    "BUZZWORD_5": "Politician"
+  },
+  {
+    "KEYWORD": "All-Nighter",
+    "BUZZWORD_1": "Study",
+    "BUZZWORD_2": "Cram",
+    "BUZZWORD_3": "Test",
+    "BUZZWORD_4": "Next Day",
+    "BUZZWORD_5": "Due"
+  },
+  {
+    "KEYWORD": "Althea Gibson",
+    "BUZZWORD_1": "Tennis",
+    "BUZZWORD_2": "Golf",
+    "BUZZWORD_3": "Tiger",
+    "BUZZWORD_4": "Serena",
+    "BUZZWORD_5": "Grand Slam"
+  },
+  {
+    "KEYWORD": "Alumni",
+    "BUZZWORD_1": "Graduate",
+    "BUZZWORD_2": "Passed",
+    "BUZZWORD_3": "Degree",
+    "BUZZWORD_4": "Bachelors",
+    "BUZZWORD_5": "Masters"
+  },
+  {
+    "KEYWORD": "Andrew Gillum",
+    "BUZZWORD_1": "Mayor",
+    "BUZZWORD_2": "Tallahassee",
+    "BUZZWORD_3": "Alumni",
+    "BUZZWORD_4": "City",
+    "BUZZWORD_5": "Election"
+  },
+  {
+    "KEYWORD": "Anika Noni Rose",
+    "BUZZWORD_1": "Power",
+    "BUZZWORD_2": "Actress",
+    "BUZZWORD_3": "Singer",
+    "BUZZWORD_4": "Dream Girls",
+    "BUZZWORD_5": "Tony Award"
+  },
+  {
+    "KEYWORD": "Apalachee",
+    "BUZZWORD_1": "Native American",
+    "BUZZWORD_2": "Park",
+    "BUZZWORD_3": "Road",
+    "BUZZWORD_4": "Long",
+    "BUZZWORD_5": "City"
+  },
+  {
+    "KEYWORD": "Application",
+    "BUZZWORD_1": "Submit",
+    "BUZZWORD_2": "Fill Out",
+    "BUZZWORD_3": "Complete",
+    "BUZZWORD_4": "Get In",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Architecture",
+    "BUZZWORD_1": "atrium",
+    "BUZZWORD_2": "4-year",
+    "BUZZWORD_3": "5-year",
+    "BUZZWORD_4": "a rho chi",
+    "BUZZWORD_5": "engineering"
+  },
+  {
+    "KEYWORD": "Associate's",
+    "BUZZWORD_1": "Degree",
+    "BUZZWORD_2": "2 years",
+    "BUZZWORD_3": "Bachelor",
+    "BUZZWORD_4": "Masters",
+    "BUZZWORD_5": "Community"
+  },
+  {
+    "KEYWORD": "Athletic Director",
+    "BUZZWORD_1": "Sports",
+    "BUZZWORD_2": "Leader",
+    "BUZZWORD_3": "Organized",
+    "BUZZWORD_4": "Football",
+    "BUZZWORD_5": "Position"
+  },
+  {
+    "KEYWORD": "Attendant",
+    "BUZZWORD_1": "freshman",
+    "BUZZWORD_2": "sophomore",
+    "BUZZWORD_3": "junior ",
+    "BUZZWORD_4": "senior",
+    "BUZZWORD_5": "graduate"
+  },
+  {
+    "KEYWORD": "Attendant ",
+    "BUZZWORD_1": "Court",
+    "BUZZWORD_2": "Year",
+    "BUZZWORD_3": "Royal",
+    "BUZZWORD_4": "Queen",
+    "BUZZWORD_5": "Representative"
+  },
+  {
+    "KEYWORD": "Bachelor's",
+    "BUZZWORD_1": "Associates",
+    "BUZZWORD_2": "Degree",
+    "BUZZWORD_3": "Diploma",
+    "BUZZWORD_4": "4 years",
+    "BUZZWORD_5": "BS/BA"
+  },
+  {
+    "KEYWORD": "Backback",
+    "BUZZWORD_1": "Books",
+    "BUZZWORD_2": "Carry",
+    "BUZZWORD_3": "Straps",
+    "BUZZWORD_4": "Jansport",
+    "BUZZWORD_5": "Heavy"
+  },
+  {
+    "KEYWORD": "Battle",
+    "BUZZWORD_1": "Bands",
+    "BUZZWORD_2": "Rap",
+    "BUZZWORD_3": "Dance",
+    "BUZZWORD_4": "Compete",
+    "BUZZWORD_5": "Against"
+  },
+  {
+    "KEYWORD": "Be Out Day",
+    "BUZZWORD_1": "Fun",
+    "BUZZWORD_2": "Outside",
+    "BUZZWORD_3": "Event",
+    "BUZZWORD_4": "Famuly",
+    "BUZZWORD_5": "Reunion"
+  },
+  {
+    "KEYWORD": "Benjamin Perry",
+    "BUZZWORD_1": "Building",
+    "BUZZWORD_2": "President",
+    "BUZZWORD_3": "Merger",
+    "BUZZWORD_4": "70's ",
+    "BUZZWORD_5": "Administration"
+  },
+  {
+    "KEYWORD": "Beta Alpha",
+    "BUZZWORD_1": "Sorority",
+    "BUZZWORD_2": "Badst",
+    "BUZZWORD_3": "Deltas",
+    "BUZZWORD_4": "Chapter",
+    "BUZZWORD_5": "AKA"
+  },
+  {
+    "KEYWORD": "Black Archives",
+    "BUZZWORD_1": "Library",
+    "BUZZWORD_2": "Information",
+    "BUZZWORD_3": "History",
+    "BUZZWORD_4": "Campus",
+    "BUZZWORD_5": "Roman columns"
+  },
+  {
+    "KEYWORD": "Transfer",
+    "BUZZWORD_1": "Student",
+    "BUZZWORD_2": "Place",
+    "BUZZWORD_3": "Come",
+    "BUZZWORD_4": "Move",
+    "BUZZWORD_5": "Admission"
+  },
+  {
+    "KEYWORD": "Black Excellence",
+    "BUZZWORD_1": "Melanin",
+    "BUZZWORD_2": "African American",
+    "BUZZWORD_3": "Best",
+    "BUZZWORD_4": "Prosper",
+    "BUZZWORD_5": "Best"
+  },
+  {
+    "KEYWORD": "Black Love",
+    "BUZZWORD_1": "Relationship",
+    "BUZZWORD_2": "Fall",
+    "BUZZWORD_3": "Marriage",
+    "BUZZWORD_4": "Dating",
+    "BUZZWORD_5": "Kiss"
+  },
+  {
+    "KEYWORD": "Bob Hayes",
+    "BUZZWORD_1": "Champion",
+    "BUZZWORD_2": "Track",
+    "BUZZWORD_3": "Cowboy",
+    "BUZZWORD_4": "Sprinter",
+    "BUZZWORD_5": "Running"
+  },
+  {
+    "KEYWORD": "Breaking the Seal",
+    "BUZZWORD_1": "Bathroom",
+    "BUZZWORD_2": "Pee",
+    "BUZZWORD_3": "Multiple",
+    "BUZZWORD_4": "Drink",
+    "BUZZWORD_5": "Open"
+  },
+  {
+    "KEYWORD": "BYOB",
+    "BUZZWORD_1": "Drinking",
+    "BUZZWORD_2": "Beer",
+    "BUZZWORD_3": "Bottles",
+    "BUZZWORD_4": "Liquor",
+    "BUZZWORD_5": "Party"
+  },
+  {
+    "KEYWORD": "Cali Club",
+    "BUZZWORD_1": "west coast",
+    "BUZZWORD_2": "California",
+    "BUZZWORD_3": "The Bay",
+    "BUZZWORD_4": "Los Angeles",
+    "BUZZWORD_5": "San Francisco"
+  },
+  {
+    "KEYWORD": "Campus",
+    "BUZZWORD_1": "FAMU",
+    "BUZZWORD_2": "School",
+    "BUZZWORD_3": "Land",
+    "BUZZWORD_4": "Doms",
+    "BUZZWORD_5": "Buildings"
+  },
+  {
+    "KEYWORD": "Campus Queen",
+    "BUZZWORD_1": "Jet",
+    "BUZZWORD_2": "HBCU",
+    "BUZZWORD_3": "Miss",
+    "BUZZWORD_4": "FAMU",
+    "BUZZWORD_5": "Royal"
+  },
+  {
+    "KEYWORD": "Career Fair",
+    "BUZZWORD_1": "Job",
+    "BUZZWORD_2": "Professional",
+    "BUZZWORD_3": "Resume",
+    "BUZZWORD_4": "Anxiety",
+    "BUZZWORD_5": "Internship"
+  },
+  {
+    "KEYWORD": "Carnegie",
+    "BUZZWORD_1": "Historic",
+    "BUZZWORD_2": "Library",
+    "BUZZWORD_3": "donated",
+    "BUZZWORD_4": "Andrew",
+    "BUZZWORD_5": "Oldest"
+  },
+  {
+    "KEYWORD": "Carrie P. Meek",
+    "BUZZWORD_1": "House",
+    "BUZZWORD_2": "Representatives",
+    "BUZZWORD_3": "Democrat",
+    "BUZZWORD_4": "17th",
+    "BUZZWORD_5": "Politician"
+  },
+  {
+    "KEYWORD": "Centaur",
+    "BUZZWORD_1": "Iota",
+    "BUZZWORD_2": "Shield",
+    "BUZZWORD_3": "Brown",
+    "BUZZWORD_4": "Gold",
+    "BUZZWORD_5": "Greek"
+  },
+  {
+    "KEYWORD": "Chaser",
+    "BUZZWORD_1": "Liquor",
+    "BUZZWORD_2": "No",
+    "BUZZWORD_3": "Mix",
+    "BUZZWORD_4": "Drink",
+    "BUZZWORD_5": "Juice"
+  },
+  {
+    "KEYWORD": "Chubby's",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Tenders",
+    "BUZZWORD_3": "Sauce",
+    "BUZZWORD_4": "Wings",
+    "BUZZWORD_5": "Chop"
+  },
+  {
+    "KEYWORD": "Civic Center",
+    "BUZZWORD_1": "arena",
+    "BUZZWORD_2": "games",
+    "BUZZWORD_3": "graduation",
+    "BUZZWORD_4": "basketball",
+    "BUZZWORD_5": "events"
+  },
+  {
+    "KEYWORD": "Classic",
+    "BUZZWORD_1": "Football",
+    "BUZZWORD_2": "Game",
+    "BUZZWORD_3": "Rivalry",
+    "BUZZWORD_4": "Orlando",
+    "BUZZWORD_5": "Atlanta"
+  },
+  {
+    "KEYWORD": "Reunion",
+    "BUZZWORD_1": "Homecoming",
+    "BUZZWORD_2": "Family",
+    "BUZZWORD_3": "Get Together",
+    "BUZZWORD_4": "Celebration",
+    "BUZZWORD_5": "Family"
+  },
+  {
+    "KEYWORD": "Club",
+    "BUZZWORD_1": "Moon",
+    "BUZZWORD_2": "Chubbies",
+    "BUZZWORD_3": "Night",
+    "BUZZWORD_4": "Party",
+    "BUZZWORD_5": "Dance"
+  },
+  {
+    "KEYWORD": "Coleman Library",
+    "BUZZWORD_1": "Love",
+    "BUZZWORD_2": "Books",
+    "BUZZWORD_3": "Deltas",
+    "BUZZWORD_4": "Ques",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Coleman Love",
+    "BUZZWORD_1": "Que",
+    "BUZZWORD_2": "Delta",
+    "BUZZWORD_3": "Dating",
+    "BUZZWORD_4": "Marriage",
+    "BUZZWORD_5": "Greek"
+  },
+  {
+    "KEYWORD": "College Fair",
+    "BUZZWORD_1": "Schools",
+    "BUZZWORD_2": "Universities",
+    "BUZZWORD_3": "Recruit",
+    "BUZZWORD_4": "Scholarships",
+    "BUZZWORD_5": "Learn"
+  },
+  {
+    "KEYWORD": "Commencement",
+    "BUZZWORD_1": "Graduation",
+    "BUZZWORD_2": "Stage",
+    "BUZZWORD_3": "Speaker",
+    "BUZZWORD_4": "Announcement",
+    "BUZZWORD_5": "Cap & Gown"
+  },
+  {
+    "KEYWORD": "Donation",
+    "BUZZWORD_1": "Give back",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Funds",
+    "BUZZWORD_4": "Scholarships",
+    "BUZZWORD_5": "Endowment"
+  },
+  {
+    "KEYWORD": "Common",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Chicago",
+    "BUZZWORD_3": "Conscious",
+    "BUZZWORD_4": "Light Skinned",
+    "BUZZWORD_5": "Bald"
+  },
+  {
+    "KEYWORD": "Community",
+    "BUZZWORD_1": "Service",
+    "BUZZWORD_2": "a phi que",
+    "BUZZWORD_3": "gamma sig sig",
+    "BUZZWORD_4": "center",
+    "BUZZWORD_5": "events"
+  },
+  {
+    "KEYWORD": "Competition",
+    "BUZZWORD_1": "Enemy",
+    "BUZZWORD_2": "Against",
+    "BUZZWORD_3": "Battle",
+    "BUZZWORD_4": "One",
+    "BUZZWORD_5": "Game"
+  },
+  {
+    "KEYWORD": "Connection",
+    "BUZZWORD_1": "FAMU",
+    "BUZZWORD_2": "Wi-fi",
+    "BUZZWORD_3": "Communicate",
+    "BUZZWORD_4": "Signal",
+    "BUZZWORD_5": "Vibe"
+  },
+  {
+    "KEYWORD": "Conscious",
+    "BUZZWORD_1": "Awake",
+    "BUZZWORD_2": "Woke",
+    "BUZZWORD_3": "Mind",
+    "BUZZWORD_4": "Knowledge",
+    "BUZZWORD_5": "Power"
+  },
+  {
+    "KEYWORD": "Convocation",
+    "BUZZWORD_1": "speakers",
+    "BUZZWORD_2": "protests",
+    "BUZZWORD_3": "rattler charge",
+    "BUZZWORD_4": "MLK",
+    "BUZZWORD_5": "Fall"
+  },
+  {
+    "KEYWORD": "Cookout",
+    "BUZZWORD_1": "BBQ",
+    "BUZZWORD_2": "Food",
+    "BUZZWORD_3": "Chicken",
+    "BUZZWORD_4": "Ribs",
+    "BUZZWORD_5": "Hamburgers"
+  },
+  {
+    "KEYWORD": "Corrine Brown",
+    "BUZZWORD_1": "s g rho",
+    "BUZZWORD_2": "representative",
+    "BUZZWORD_3": "famuan",
+    "BUZZWORD_4": "jacksonville",
+    "BUZZWORD_5": "politician"
+  },
+  {
+    "KEYWORD": "Course",
+    "BUZZWORD_1": "Class",
+    "BUZZWORD_2": "Program",
+    "BUZZWORD_3": "Learn",
+    "BUZZWORD_4": "Enroll",
+    "BUZZWORD_5": "Take"
+  },
+  {
+    "KEYWORD": "Court",
+    "BUZZWORD_1": "Royal",
+    "BUZZWORD_2": "Basketball",
+    "BUZZWORD_3": "Gym",
+    "BUZZWORD_4": "Pep Rally",
+    "BUZZWORD_5": "Events"
+  },
+  {
+    "KEYWORD": "Credit Hour",
+    "BUZZWORD_1": "Three",
+    "BUZZWORD_2": "How Many",
+    "BUZZWORD_3": "Course",
+    "BUZZWORD_4": "Class",
+    "BUZZWORD_5": "Required"
+  },
+  {
+    "KEYWORD": "Credit Union",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Bank",
+    "BUZZWORD_3": "Deposit",
+    "BUZZWORD_4": "Withdrawal ",
+    "BUZZWORD_5": "Account"
+  },
+  {
+    "KEYWORD": "Croppe",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Residential Asssitant",
+    "BUZZWORD_4": "spaces",
+    "BUZZWORD_5": "privacy"
+  },
+  {
+    "KEYWORD": "Deferred",
+    "BUZZWORD_1": "Denied",
+    "BUZZWORD_2": "Delay",
+    "BUZZWORD_3": "Wait",
+    "BUZZWORD_4": "Time",
+    "BUZZWORD_5": "Period"
+  },
+  {
+    "KEYWORD": "Demp Week",
+    "BUZZWORD_1": "Celebrities",
+    "BUZZWORD_2": "January",
+    "BUZZWORD_3": "DJ",
+    "BUZZWORD_4": "Birthday",
+    "BUZZWORD_5": "Parties"
+  },
+  {
+    "KEYWORD": "Department",
+    "BUZZWORD_1": "Organization",
+    "BUZZWORD_2": "Division",
+    "BUZZWORD_3": "Education",
+    "BUZZWORD_4": "Major",
+    "BUZZWORD_5": "Field"
+  },
+  {
+    "KEYWORD": "Divine Nine",
+    "BUZZWORD_1": "Greek",
+    "BUZZWORD_2": "NPHC",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Step",
+    "BUZZWORD_5": "Alphas"
+  },
+  {
+    "KEYWORD": "Doctorate",
+    "BUZZWORD_1": "Degree",
+    "BUZZWORD_2": "Masters",
+    "BUZZWORD_3": "Graduate",
+    "BUZZWORD_4": "MD/PHD",
+    "BUZZWORD_5": "Years"
+  },
+  {
+    "KEYWORD": "Drop/Add",
+    "BUZZWORD_1": "Registration",
+    "BUZZWORD_2": "Class ",
+    "BUZZWORD_3": "Sign Up",
+    "BUZZWORD_4": "Schedule",
+    "BUZZWORD_5": "Courses"
+  },
+  {
+    "KEYWORD": "Drum Major",
+    "BUZZWORD_1": "Lead",
+    "BUZZWORD_2": "Band",
+    "BUZZWORD_3": "Baton",
+    "BUZZWORD_4": "Twirl",
+    "BUZZWORD_5": "Cape"
+  },
+  {
+    "KEYWORD": "Drumline",
+    "BUZZWORD_1": "Drums",
+    "BUZZWORD_2": "Sticks",
+    "BUZZWORD_3": "Nick Cannon",
+    "BUZZWORD_4": "Beat",
+    "BUZZWORD_5": "Band"
+  },
+  {
+    "KEYWORD": "Duval",
+    "BUZZWORD_1": 904,
+    "BUZZWORD_2": "bang em",
+    "BUZZWORD_3": "Comedian",
+    "BUZZWORD_4": "Jacksonville",
+    "BUZZWORD_5": "jaguars"
+  },
+  {
+    "KEYWORD": "Election Week",
+    "BUZZWORD_1": "Advertisement ",
+    "BUZZWORD_2": "Campaign",
+    "BUZZWORD_3": "Position",
+    "BUZZWORD_4": "President",
+    "BUZZWORD_5": "Posters"
+  },
+  {
+    "KEYWORD": "Elective",
+    "BUZZWORD_1": "Fun",
+    "BUZZWORD_2": "Secondary",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Mandatory",
+    "BUZZWORD_5": "Course"
+  },
+  {
+    "KEYWORD": "Elmira Mangum",
+    "BUZZWORD_1": "president",
+    "BUZZWORD_2": "PhD",
+    "BUZZWORD_3": "leader ",
+    "BUZZWORD_4": "she",
+    "BUZZWORD_5": "woman"
+  },
+  {
+    "KEYWORD": "Engineering",
+    "BUZZWORD_1": "Civil",
+    "BUZZWORD_2": "Electrical",
+    "BUZZWORD_3": "FSU",
+    "BUZZWORD_4": "School",
+    "BUZZWORD_5": "Shared"
+  },
+  {
+    "KEYWORD": "Enroll",
+    "BUZZWORD_1": "Apply",
+    "BUZZWORD_2": "Course",
+    "BUZZWORD_3": "Process",
+    "BUZZWORD_4": "Student",
+    "BUZZWORD_5": "Start"
+  },
+  {
+    "KEYWORD": "Epicurean",
+    "BUZZWORD_1": "Show",
+    "BUZZWORD_2": "Runway",
+    "BUZZWORD_3": "Fashion",
+    "BUZZWORD_4": "Modeling",
+    "BUZZWORD_5": "Fashion"
+  },
+  {
+    "KEYWORD": "Eternal Flame",
+    "BUZZWORD_1": "Fire",
+    "BUZZWORD_2": "Burning",
+    "BUZZWORD_3": "The set",
+    "BUZZWORD_4": "Everlasting",
+    "BUZZWORD_5": "Campus"
+  },
+  {
+    "KEYWORD": "Extracurricular",
+    "BUZZWORD_1": "Outside",
+    "BUZZWORD_2": "Activity",
+    "BUZZWORD_3": "Hobby",
+    "BUZZWORD_4": "School",
+    "BUZZWORD_5": "Fun"
+  },
+  {
+    "KEYWORD": "Faces",
+    "BUZZWORD_1": "Head",
+    "BUZZWORD_2": "Makeup",
+    "BUZZWORD_3": "Hair",
+    "BUZZWORD_4": "Outfit",
+    "BUZZWORD_5": "Fashion"
+  },
+  {
+    "KEYWORD": "Faculty",
+    "BUZZWORD_1": "Teacher",
+    "BUZZWORD_2": "Professor",
+    "BUZZWORD_3": "Student",
+    "BUZZWORD_4": "Learn",
+    "BUZZWORD_5": "Lesson"
+  },
+  {
+    "KEYWORD": "Fake da Funk",
+    "BUZZWORD_1": "Talent Show",
+    "BUZZWORD_2": "Lip Sync",
+    "BUZZWORD_3": "Sing",
+    "BUZZWORD_4": "Celebrity",
+    "BUZZWORD_5": "Perform"
+  },
+  {
+    "KEYWORD": "FAMUAN",
+    "BUZZWORD_1": "newspaper",
+    "BUZZWORD_2": "circulate",
+    "BUZZWORD_3": "classifieds",
+    "BUZZWORD_4": "paper",
+    "BUZZWORD_5": "journalists"
+  },
+  {
+    "KEYWORD": "FASFA",
+    "BUZZWORD_1": "Financial Aid",
+    "BUZZWORD_2": "Apply",
+    "BUZZWORD_3": "Loan",
+    "BUZZWORD_4": "Application",
+    "BUZZWORD_5": "January"
+  },
+  {
+    "KEYWORD": "Fashion",
+    "BUZZWORD_1": "Shirt",
+    "BUZZWORD_2": "Clothes",
+    "BUZZWORD_3": "Industry",
+    "BUZZWORD_4": "Pants",
+    "BUZZWORD_5": "Dress"
+  },
+  {
+    "KEYWORD": "Federal",
+    "BUZZWORD_1": "Credit Union",
+    "BUZZWORD_2": "Bank",
+    "BUZZWORD_3": "Goverment",
+    "BUZZWORD_4": "Money",
+    "BUZZWORD_5": "U.S.A"
+  },
+  {
+    "KEYWORD": "Fellowship",
+    "BUZZWORD_1": "Church",
+    "BUZZWORD_2": "Neighbor",
+    "BUZZWORD_3": "Talking",
+    "BUZZWORD_4": "Meeting",
+    "BUZZWORD_5": "One Another"
+  },
+  {
+    "KEYWORD": "Finals",
+    "BUZZWORD_1": "Test",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Last",
+    "BUZZWORD_4": "Semester",
+    "BUZZWORD_5": "End"
+  },
+  {
+    "KEYWORD": "Financial Aid",
+    "BUZZWORD_1": "scholarships",
+    "BUZZWORD_2": "money",
+    "BUZZWORD_3": "net check",
+    "BUZZWORD_4": "payments",
+    "BUZZWORD_5": "on-time"
+  },
+  {
+    "KEYWORD": "Blackboard",
+    "BUZZWORD_1": "Chalk",
+    "BUZZWORD_2": "Registration",
+    "BUZZWORD_3": "Online",
+    "BUZZWORD_4": "Write",
+    "BUZZWORD_5": "Classroom"
+  },
+  {
+    "KEYWORD": "Florida Classic",
+    "BUZZWORD_1": "BCC",
+    "BUZZWORD_2": "bands",
+    "BUZZWORD_3": "football",
+    "BUZZWORD_4": "orlando",
+    "BUZZWORD_5": "parties"
+  },
+  {
+    "KEYWORD": "Foote-Hilyer",
+    "BUZZWORD_1": "hospital",
+    "BUZZWORD_2": "administration",
+    "BUZZWORD_3": "fininacial aid",
+    "BUZZWORD_4": "nest",
+    "BUZZWORD_5": "admissions"
+  },
+  {
+    "KEYWORD": "Frenchtown",
+    "BUZZWORD_1": "historic",
+    "BUZZWORD_2": "black",
+    "BUZZWORD_3": "neighborhood",
+    "BUZZWORD_4": "renovation",
+    "BUZZWORD_5": "Tallahassee"
+  },
+  {
+    "KEYWORD": "Freshman",
+    "BUZZWORD_1": "First",
+    "BUZZWORD_2": "Year",
+    "BUZZWORD_3": "Start",
+    "BUZZWORD_4": "College",
+    "BUZZWORD_5": 15
+  },
+  {
+    "KEYWORD": "Friday",
+    "BUZZWORD_1": "Set",
+    "BUZZWORD_2": "Stroll",
+    "BUZZWORD_3": "Party",
+    "BUZZWORD_4": "Weekend",
+    "BUZZWORD_5": "DJ"
+  },
+  {
+    "KEYWORD": "Funk Fest",
+    "BUZZWORD_1": "R&B",
+    "BUZZWORD_2": "Festival",
+    "BUZZWORD_3": "Outside",
+    "BUZZWORD_4": "Hip-Hop",
+    "BUZZWORD_5": "Old School"
+  },
+  {
+    "KEYWORD": "Gaines",
+    "BUZZWORD_1": "Pies",
+    "BUZZWORD_2": "Traffic",
+    "BUZZWORD_3": "Lights",
+    "BUZZWORD_4": "Railroad",
+    "BUZZWORD_5": "Road"
+  },
+  {
+    "KEYWORD": "Gaither",
+    "BUZZWORD_1": "Gymnasium",
+    "BUZZWORD_2": "convocations",
+    "BUZZWORD_3": "jake",
+    "BUZZWORD_4": "football",
+    "BUZZWORD_5": "coach"
+  },
+  {
+    "KEYWORD": "Gaithersburg",
+    "BUZZWORD_1": "Gym",
+    "BUZZWORD_2": "Alfred Lawson",
+    "BUZZWORD_3": "Teaching",
+    "BUZZWORD_4": "Multipurpose",
+    "BUZZWORD_5": "Center"
+  },
+  {
+    "KEYWORD": "Gamble Street",
+    "BUZZWORD_1": "Village",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Tallahassee",
+    "BUZZWORD_4": "Road",
+    "BUZZWORD_5": "Walk"
+  },
+  {
+    "KEYWORD": "Game Night",
+    "BUZZWORD_1": "Playing",
+    "BUZZWORD_2": "TipOff",
+    "BUZZWORD_3": "Jenga",
+    "BUZZWORD_4": "Spades",
+    "BUZZWORD_5": "Friends"
+  },
+  {
+    "KEYWORD": "Gibbs",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Dormmate",
+    "BUZZWORD_4": "Residential assistant",
+    "BUZZWORD_5": "Twin beds"
+  },
+  {
+    "KEYWORD": "Gorilla Thrilla",
+    "BUZZWORD_1": "Alphas",
+    "BUZZWORD_2": "Juice",
+    "BUZZWORD_3": "Dancing",
+    "BUZZWORD_4": "Fair Grounds",
+    "BUZZWORD_5": "Party"
+  },
+  {
+    "KEYWORD": "Gospel Choir",
+    "BUZZWORD_1": "Sing",
+    "BUZZWORD_2": "Alto",
+    "BUZZWORD_3": "Soprano",
+    "BUZZWORD_4": "Gospel",
+    "BUZZWORD_5": "Tenors"
+  },
+  {
+    "KEYWORD": "Govenor's Square",
+    "BUZZWORD_1": "Mall",
+    "BUZZWORD_2": "Macy's",
+    "BUZZWORD_3": "Work",
+    "BUZZWORD_4": "Shop",
+    "BUZZWORD_5": "Clothes"
+  },
+  {
+    "KEYWORD": "Gown",
+    "BUZZWORD_1": "Cap",
+    "BUZZWORD_2": "Robe",
+    "BUZZWORD_3": "Rental",
+    "BUZZWORD_4": "Graduation",
+    "BUZZWORD_5": "Ballroom"
+  },
+  {
+    "KEYWORD": "GPA",
+    "BUZZWORD_1": "Sum",
+    "BUZZWORD_2": "Total",
+    "BUZZWORD_3": "Grades",
+    "BUZZWORD_4": "Above",
+    "BUZZWORD_5": "Below"
+  },
+  {
+    "KEYWORD": "Grand Ballroom",
+    "BUZZWORD_1": "Meetings",
+    "BUZZWORD_2": "Dances",
+    "BUZZWORD_3": "orientation",
+    "BUZZWORD_4": "parties",
+    "BUZZWORD_5": "event"
+  },
+  {
+    "KEYWORD": "Grant",
+    "BUZZWORD_1": "Award",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Pay",
+    "BUZZWORD_4": "Finacial Aid",
+    "BUZZWORD_5": "Give"
+  },
+  {
+    "KEYWORD": "Comedy",
+    "BUZZWORD_1": "Show",
+    "BUZZWORD_2": "Funny",
+    "BUZZWORD_3": "Laugh",
+    "BUZZWORD_4": "Homecoming",
+    "BUZZWORD_5": "Hilarious"
+  },
+  {
+    "KEYWORD": "Parade",
+    "BUZZWORD_1": "Float",
+    "BUZZWORD_2": "Band",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Family",
+    "BUZZWORD_5": "Homecoming"
+  },
+  {
+    "KEYWORD": "Greek",
+    "BUZZWORD_1": "Divine Nine",
+    "BUZZWORD_2": "NPHC",
+    "BUZZWORD_3": "Alpha",
+    "BUZZWORD_4": "Delta",
+    "BUZZWORD_5": "Wall"
+  },
+  {
+    "KEYWORD": "Greek Wall",
+    "BUZZWORD_1": "Mural",
+    "BUZZWORD_2": "Photo",
+    "BUZZWORD_3": "Paint",
+    "BUZZWORD_4": "Divine 9",
+    "BUZZWORD_5": "Photos"
+  },
+  {
+    "KEYWORD": "Green",
+    "BUZZWORD_1": "bracelets",
+    "BUZZWORD_2": "shoes",
+    "BUZZWORD_3": "tags",
+    "BUZZWORD_4": "bookstore",
+    "BUZZWORD_5": "pants"
+  },
+  {
+    "KEYWORD": "Greeting",
+    "BUZZWORD_1": "Introduce",
+    "BUZZWORD_2": "Yourself",
+    "BUZZWORD_3": "Welcome",
+    "BUZZWORD_4": "People",
+    "BUZZWORD_5": "Hello"
+  },
+  {
+    "KEYWORD": "Greg Coleman",
+    "BUZZWORD_1": "NFL",
+    "BUZZWORD_2": "Punter",
+    "BUZZWORD_3": "Vikings",
+    "BUZZWORD_4": "Browns",
+    "BUZZWORD_5": "Redskins"
+  },
+  {
+    "KEYWORD": "Halftime ",
+    "BUZZWORD_1": "Band",
+    "BUZZWORD_2": "Marching ",
+    "BUZZWORD_3": "Music",
+    "BUZZWORD_4": "Leaving",
+    "BUZZWORD_5": "Game"
+  },
+  {
+    "KEYWORD": "Hangover",
+    "BUZZWORD_1": "Drinking",
+    "BUZZWORD_2": "Headache",
+    "BUZZWORD_3": "Next Day",
+    "BUZZWORD_4": "Party",
+    "BUZZWORD_5": "Hurt"
+  },
+  {
+    "KEYWORD": "HBCU",
+    "BUZZWORD_1": "black pride",
+    "BUZZWORD_2": "pwi",
+    "BUZZWORD_3": "school",
+    "BUZZWORD_4": "tradition",
+    "BUZZWORD_5": "legacy"
+  },
+  {
+    "KEYWORD": "Heart",
+    "BUZZWORD_1": "Chest",
+    "BUZZWORD_2": "Head",
+    "BUZZWORD_3": "Hand",
+    "BUZZWORD_4": "Field",
+    "BUZZWORD_5": "Beats"
+  },
+  {
+    "KEYWORD": "Heels",
+    "BUZZWORD_1": "High",
+    "BUZZWORD_2": "Feet",
+    "BUZZWORD_3": "Hills",
+    "BUZZWORD_4": "Sneakers",
+    "BUZZWORD_5": "inch"
+  },
+  {
+    "KEYWORD": "Heritage",
+    "BUZZWORD_1": "Tradition",
+    "BUZZWORD_2": "History",
+    "BUZZWORD_3": "Legacy",
+    "BUZZWORD_4": "Ancestors",
+    "BUZZWORD_5": "Before"
+  },
+  {
+    "KEYWORD": "Homecoming",
+    "BUZZWORD_1": "tradition",
+    "BUZZWORD_2": "fun",
+    "BUZZWORD_3": "vendors",
+    "BUZZWORD_4": "game",
+    "BUZZWORD_5": "band"
+  },
+  {
+    "KEYWORD": "i10",
+    "BUZZWORD_1": "Highway",
+    "BUZZWORD_2": "Expressway",
+    "BUZZWORD_3": "Drive",
+    "BUZZWORD_4": "Jacksonville",
+    "BUZZWORD_5": "i75"
+  },
+  {
+    "KEYWORD": "illustrious",
+    "BUZZWORD_1": "Fancy",
+    "BUZZWORD_2": "Distinguished",
+    "BUZZWORD_3": "Excellence",
+    "BUZZWORD_4": "Top",
+    "BUZZWORD_5": "Best"
+  },
+  {
+    "KEYWORD": "Images",
+    "BUZZWORD_1": "Modeling",
+    "BUZZWORD_2": "Makeup",
+    "BUZZWORD_3": "Troupe",
+    "BUZZWORD_4": "Catwalk",
+    "BUZZWORD_5": "Fashion"
+  },
+  {
+    "KEYWORD": "Informational",
+    "BUZZWORD_1": "Material",
+    "BUZZWORD_2": "Learn",
+    "BUZZWORD_3": "Organization",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Meeting"
+  },
+  {
+    "KEYWORD": "Internship",
+    "BUZZWORD_1": "Unpaid",
+    "BUZZWORD_2": "Work",
+    "BUZZWORD_3": "Summer",
+    "BUZZWORD_4": "Experience",
+    "BUZZWORD_5": "Professional"
+  },
+  {
+    "KEYWORD": "Intramurals",
+    "BUZZWORD_1": "Sports",
+    "BUZZWORD_2": "Flag Football",
+    "BUZZWORD_3": "Field",
+    "BUZZWORD_4": "Game",
+    "BUZZWORD_5": "Teams"
+  },
+  {
+    "KEYWORD": "Jackson-Davis",
+    "BUZZWORD_1": "Mathematics ",
+    "BUZZWORD_2": "Office",
+    "BUZZWORD_3": "Classes",
+    "BUZZWORD_4": "Study",
+    "BUZZWORD_5": "Learn"
+  },
+  {
+    "KEYWORD": "James H. Ammons",
+    "BUZZWORD_1": "Former",
+    "BUZZWORD_2": "President",
+    "BUZZWORD_3": "Leader",
+    "BUZZWORD_4": "School",
+    "BUZZWORD_5": "Appointed"
+  },
+  {
+    "KEYWORD": "Jamie Nails",
+    "BUZZWORD_1": "NFL",
+    "BUZZWORD_2": "Bills",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Dolphins",
+    "BUZZWORD_5": "Guard"
+  },
+  {
+    "KEYWORD": "Jerome James",
+    "BUZZWORD_1": "NBA",
+    "BUZZWORD_2": "Basketball",
+    "BUZZWORD_3": "Knicks",
+    "BUZZWORD_4": "Kings",
+    "BUZZWORD_5": "Overseas"
+  },
+  {
+    "KEYWORD": "Job Expo",
+    "BUZZWORD_1": "Career",
+    "BUZZWORD_2": "Professional",
+    "BUZZWORD_3": "Companies",
+    "BUZZWORD_4": "Businesses",
+    "BUZZWORD_5": "Meet"
+  },
+  {
+    "KEYWORD": "Job Fair",
+    "BUZZWORD_1": "Resumes",
+    "BUZZWORD_2": "Companies",
+    "BUZZWORD_3": "Tables",
+    "BUZZWORD_4": "Professional",
+    "BUZZWORD_5": "Career"
+  },
+  {
+    "KEYWORD": "Journalism",
+    "BUZZWORD_1": "writing",
+    "BUZZWORD_2": "pr",
+    "BUZZWORD_3": "publication",
+    "BUZZWORD_4": "the famuan",
+    "BUZZWORD_5": "communication"
+  },
+  {
+    "KEYWORD": "Journey",
+    "BUZZWORD_1": "magazine",
+    "BUZZWORD_2": "paper",
+    "BUZZWORD_3": "read",
+    "BUZZWORD_4": "journalism",
+    "BUZZWORD_5": "writing"
+  },
+  {
+    "KEYWORD": "Juice Jam",
+    "BUZZWORD_1": "Sigma",
+    "BUZZWORD_2": "Juice",
+    "BUZZWORD_3": "Fair Groups",
+    "BUZZWORD_4": "Club",
+    "BUZZWORD_5": "Pajama"
+  },
+  {
+    "KEYWORD": "Tampa",
+    "BUZZWORD_1": "Classic",
+    "BUZZWORD_2": "Game",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Tony",
+    "BUZZWORD_5": 813
+  },
+  {
+    "KEYWORD": "Jukin",
+    "BUZZWORD_1": "Dancing",
+    "BUZZWORD_2": "Miami",
+    "BUZZWORD_3": "They Lookin",
+    "BUZZWORD_4": "Tampa",
+    "BUZZWORD_5": "Slide"
+  },
+  {
+    "KEYWORD": "Junior",
+    "BUZZWORD_1": "Third",
+    "BUZZWORD_2": "Year",
+    "BUZZWORD_3": "Senior",
+    "BUZZWORD_4": "Major",
+    "BUZZWORD_5": "Almost"
+  },
+  {
+    "KEYWORD": "K Michelle",
+    "BUZZWORD_1": "Singer",
+    "BUZZWORD_2": "Delta",
+    "BUZZWORD_3": "Badst",
+    "BUZZWORD_4": "Reality TV",
+    "BUZZWORD_5": "Famuan"
+  },
+  {
+    "KEYWORD": "Kappa Kool-aid",
+    "BUZZWORD_1": "Juice Jam",
+    "BUZZWORD_2": "Nupes",
+    "BUZZWORD_3": "Red",
+    "BUZZWORD_4": "Cup",
+    "BUZZWORD_5": "Party"
+  },
+  {
+    "KEYWORD": "Kendrick Meek",
+    "BUZZWORD_1": "Politician",
+    "BUZZWORD_2": "Democrat",
+    "BUZZWORD_3": "Representative",
+    "BUZZWORD_4": "District",
+    "BUZZWORD_5": "Congress"
+  },
+  {
+    "KEYWORD": "Kwame Kilpatrick",
+    "BUZZWORD_1": "Mayor",
+    "BUZZWORD_2": "Detroit",
+    "BUZZWORD_3": "Alpha",
+    "BUZZWORD_4": "Office",
+    "BUZZWORD_5": "Leader"
+  },
+  {
+    "KEYWORD": "Lab",
+    "BUZZWORD_1": "Science",
+    "BUZZWORD_2": "Math",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Googles",
+    "BUZZWORD_5": "Chemistry"
+  },
+  {
+    "KEYWORD": "Dunk",
+    "BUZZWORD_1": "Ryder",
+    "BUZZWORD_2": "Car",
+    "BUZZWORD_3": "Rims",
+    "BUZZWORD_4": "Candy Paint",
+    "BUZZWORD_5": "Whip"
+  },
+  {
+    "KEYWORD": "Lauderdale",
+    "BUZZWORD_1": 954,
+    "BUZZWORD_2": "brevard",
+    "BUZZWORD_3": "drop",
+    "BUZZWORD_4": "Miami",
+    "BUZZWORD_5": "South"
+  },
+  {
+    "KEYWORD": "Law",
+    "BUZZWORD_1": "Orlando",
+    "BUZZWORD_2": "JD",
+    "BUZZWORD_3": "Juris",
+    "BUZZWORD_4": "Attorney",
+    "BUZZWORD_5": "Bar"
+  },
+  {
+    "KEYWORD": "Lawson Center",
+    "BUZZWORD_1": "Al",
+    "BUZZWORD_2": "senator",
+    "BUZZWORD_3": "graduation",
+    "BUZZWORD_4": "the pit",
+    "BUZZWORD_5": "basketball"
+  },
+  {
+    "KEYWORD": "Lawson Lawn",
+    "BUZZWORD_1": "Social",
+    "BUZZWORD_2": "Gymnasium",
+    "BUZZWORD_3": "Front",
+    "BUZZWORD_4": "Center",
+    "BUZZWORD_5": "Tailgate"
+  },
+  {
+    "KEYWORD": "Lecture",
+    "BUZZWORD_1": "Discussion",
+    "BUZZWORD_2": "Professor",
+    "BUZZWORD_3": "Speaker",
+    "BUZZWORD_4": "Listen",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "Lee Hall",
+    "BUZZWORD_1": "Auditorium",
+    "BUZZWORD_2": "plays",
+    "BUZZWORD_3": "ceremonies",
+    "BUZZWORD_4": "administration",
+    "BUZZWORD_5": "orientations"
+  },
+  {
+    "KEYWORD": "Leon County",
+    "BUZZWORD_1": "big bend",
+    "BUZZWORD_2": "capital city",
+    "BUZZWORD_3": "wakulla",
+    "BUZZWORD_4": "madison",
+    "BUZZWORD_5": "where"
+  },
+  {
+    "KEYWORD": "Letout",
+    "BUZZWORD_1": "After",
+    "BUZZWORD_2": "Post Up",
+    "BUZZWORD_3": "Stand",
+    "BUZZWORD_4": "Holla",
+    "BUZZWORD_5": "Parking Lot"
+  },
+  {
+    "KEYWORD": "Library",
+    "BUZZWORD_1": "Books",
+    "BUZZWORD_2": "Study",
+    "BUZZWORD_3": "Check Out",
+    "BUZZWORD_4": "Meet",
+    "BUZZWORD_5": "Quiet"
+  },
+  {
+    "KEYWORD": "Line Dance",
+    "BUZZWORD_1": "Step",
+    "BUZZWORD_2": "Instructions",
+    "BUZZWORD_3": "Groups",
+    "BUZZWORD_4": "Turn",
+    "BUZZWORD_5": "Together"
+  },
+  {
+    "KEYWORD": "Mahogany",
+    "BUZZWORD_1": "Dancers",
+    "BUZZWORD_2": "Classic",
+    "BUZZWORD_3": "Trained",
+    "BUZZWORD_4": "Ladies",
+    "BUZZWORD_5": "Show"
+  },
+  {
+    "KEYWORD": "Major",
+    "BUZZWORD_1": "Specialty",
+    "BUZZWORD_2": "Pick",
+    "BUZZWORD_3": "Career",
+    "BUZZWORD_4": "Choice",
+    "BUZZWORD_5": "Classes"
+  },
+  {
+    "KEYWORD": "Marching 100",
+    "BUZZWORD_1": "baddest band",
+    "BUZZWORD_2": "dr. julian white",
+    "BUZZWORD_3": "members",
+    "BUZZWORD_4": "music",
+    "BUZZWORD_5": "half time"
+  },
+  {
+    "KEYWORD": "Master's",
+    "BUZZWORD_1": "Minor",
+    "BUZZWORD_2": "Specialty",
+    "BUZZWORD_3": "Focus",
+    "BUZZWORD_4": "Degree",
+    "BUZZWORD_5": "Graduate"
+  },
+  {
+    "KEYWORD": "Matriculate",
+    "BUZZWORD_1": "Adhere",
+    "BUZZWORD_2": "Standard",
+    "BUZZWORD_3": "Complete",
+    "BUZZWORD_4": "Academic",
+    "BUZZWORD_5": "Experience"
+  },
+  {
+    "KEYWORD": "Matriculation",
+    "BUZZWORD_1": "Academic",
+    "BUZZWORD_2": "Enroll",
+    "BUZZWORD_3": "College ",
+    "BUZZWORD_4": "University",
+    "BUZZWORD_5": "Standard"
+  },
+  {
+    "KEYWORD": "McGuinn",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Cramped",
+    "BUZZWORD_4": "privacy ",
+    "BUZZWORD_5": "beds"
+  },
+  {
+    "KEYWORD": "MEAC",
+    "BUZZWORD_1": "Division",
+    "BUZZWORD_2": "Sports",
+    "BUZZWORD_3": "HBCU",
+    "BUZZWORD_4": "Win",
+    "BUZZWORD_5": "Play"
+  },
+  {
+    "KEYWORD": "Mechanical",
+    "BUZZWORD_1": "Agricultural",
+    "BUZZWORD_2": "Car",
+    "BUZZWORD_3": "Engineer",
+    "BUZZWORD_4": "Vehicle",
+    "BUZZWORD_5": "Emblem"
+  },
+  {
+    "KEYWORD": "Media Center",
+    "BUZZWORD_1": "Library",
+    "BUZZWORD_2": "Production",
+    "BUZZWORD_3": "Video",
+    "BUZZWORD_4": "Books",
+    "BUZZWORD_5": "Multi"
+  },
+  {
+    "KEYWORD": "Melanin",
+    "BUZZWORD_1": "Glowing",
+    "BUZZWORD_2": "Skin",
+    "BUZZWORD_3": "Brown",
+    "BUZZWORD_4": "Black",
+    "BUZZWORD_5": "Sun"
+  },
+  {
+    "KEYWORD": "Mentor",
+    "BUZZWORD_1": "advisor",
+    "BUZZWORD_2": "guidance",
+    "BUZZWORD_3": "admire",
+    "BUZZWORD_4": "professional",
+    "BUZZWORD_5": "advice"
+  },
+  {
+    "KEYWORD": "Meshach Taylor",
+    "BUZZWORD_1": "Designing Women",
+    "BUZZWORD_2": "Mannequin",
+    "BUZZWORD_3": "Nickelodeon",
+    "BUZZWORD_4": "Actor",
+    "BUZZWORD_5": "Emmy"
+  },
+  {
+    "KEYWORD": "Mia Jones",
+    "BUZZWORD_1": "Duval",
+    "BUZZWORD_2": "House",
+    "BUZZWORD_3": "Representatives",
+    "BUZZWORD_4": "Democrat",
+    "BUZZWORD_5": "Jacksonville"
+  },
+  {
+    "KEYWORD": "Miami",
+    "BUZZWORD_1": 305,
+    "BUZZWORD_2": "dade",
+    "BUZZWORD_3": "South Beach",
+    "BUZZWORD_4": "Bottom",
+    "BUZZWORD_5": "hurricane"
+  },
+  {
+    "KEYWORD": "Mid-Terms",
+    "BUZZWORD_1": "Test",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "Middle",
+    "BUZZWORD_4": "Semester",
+    "BUZZWORD_5": "Percentage"
+  },
+  {
+    "KEYWORD": "Minor",
+    "BUZZWORD_1": "Major",
+    "BUZZWORD_2": "Specialty",
+    "BUZZWORD_3": "Niche",
+    "BUZZWORD_4": "Interest",
+    "BUZZWORD_5": "Degree"
+  },
+  {
+    "KEYWORD": "Mixer",
+    "BUZZWORD_1": "Meet",
+    "BUZZWORD_2": "Networking",
+    "BUZZWORD_3": "Drink",
+    "BUZZWORD_4": "Alcohol ",
+    "BUZZWORD_5": "Cup"
+  },
+  {
+    "KEYWORD": "MLK Jr. Blvd",
+    "BUZZWORD_1": "Leader",
+    "BUZZWORD_2": "Civil Rights",
+    "BUZZWORD_3": "Street",
+    "BUZZWORD_4": "Drive ",
+    "BUZZWORD_5": "Road"
+  },
+  {
+    "KEYWORD": "Model Troupe",
+    "BUZZWORD_1": "epicurean",
+    "BUZZWORD_2": "faces",
+    "BUZZWORD_3": "images",
+    "BUZZWORD_4": "show",
+    "BUZZWORD_5": "fashion"
+  },
+  {
+    "KEYWORD": "Mr. FAMU",
+    "BUZZWORD_1": "Crown",
+    "BUZZWORD_2": "Ms.",
+    "BUZZWORD_3": "Court",
+    "BUZZWORD_4": "Suit",
+    "BUZZWORD_5": "Represents"
+  },
+  {
+    "KEYWORD": "Munchies",
+    "BUZZWORD_1": "Hungry",
+    "BUZZWORD_2": "Smoke",
+    "BUZZWORD_3": "Weed",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Snacks"
+  },
+  {
+    "KEYWORD": "Natural",
+    "BUZZWORD_1": "Chemicals",
+    "BUZZWORD_2": "Curls",
+    "BUZZWORD_3": "Fro",
+    "BUZZWORD_4": "Twist Out",
+    "BUZZWORD_5": "Products"
+  },
+  {
+    "KEYWORD": "Net Check",
+    "BUZZWORD_1": "Financial Aid",
+    "BUZZWORD_2": "Money",
+    "BUZZWORD_3": "Spending",
+    "BUZZWORD_4": "Shopping",
+    "BUZZWORD_5": "Books"
+  },
+  {
+    "KEYWORD": "News Network",
+    "BUZZWORD_1": "First",
+    "BUZZWORD_2": "Announcements",
+    "BUZZWORD_3": "Journalism",
+    "BUZZWORD_4": "TV",
+    "BUZZWORD_5": "Updates"
+  },
+  {
+    "KEYWORD": "Night Kap",
+    "BUZZWORD_1": "Dressed",
+    "BUZZWORD_2": "Night",
+    "BUZZWORD_3": "Kappas",
+    "BUZZWORD_4": "Party",
+    "BUZZWORD_5": "Dancing"
+  },
+  {
+    "KEYWORD": "Notes",
+    "BUZZWORD_1": "Take",
+    "BUZZWORD_2": "Class",
+    "BUZZWORD_3": "Copy",
+    "BUZZWORD_4": "Musical",
+    "BUZZWORD_5": "Study"
+  },
+  {
+    "KEYWORD": "Office Hours",
+    "BUZZWORD_1": "Professor",
+    "BUZZWORD_2": "Meeting",
+    "BUZZWORD_3": "Tutoring",
+    "BUZZWORD_4": "Help",
+    "BUZZWORD_5": "Advice"
+  },
+  {
+    "KEYWORD": "Oil",
+    "BUZZWORD_1": "Coconut ",
+    "BUZZWORD_2": "Olive",
+    "BUZZWORD_3": "Hair",
+    "BUZZWORD_4": "Ques",
+    "BUZZWORD_5": "Purple"
+  },
+  {
+    "KEYWORD": "Oleans",
+    "BUZZWORD_1": "food",
+    "BUZZWORD_2": "breakfast",
+    "BUZZWORD_3": "pancakes",
+    "BUZZWORD_4": "grits",
+    "BUZZWORD_5": "soulfood"
+  },
+  {
+    "KEYWORD": "Online",
+    "BUZZWORD_1": "Wifi",
+    "BUZZWORD_2": "Get",
+    "BUZZWORD_3": "Connect",
+    "BUZZWORD_4": "Pledging",
+    "BUZZWORD_5": "Google"
+  },
+  {
+    "KEYWORD": "Orange",
+    "BUZZWORD_1": "color",
+    "BUZZWORD_2": "gear",
+    "BUZZWORD_3": "hats",
+    "BUZZWORD_4": "shirts",
+    "BUZZWORD_5": "room "
+  },
+  {
+    "KEYWORD": "Orange Room",
+    "BUZZWORD_1": "Events",
+    "BUZZWORD_2": "Fine dining",
+    "BUZZWORD_3": "Presentations",
+    "BUZZWORD_4": "Food",
+    "BUZZWORD_5": "Eat"
+  },
+  {
+    "KEYWORD": "Orientation",
+    "BUZZWORD_1": "freshman",
+    "BUZZWORD_2": "fang",
+    "BUZZWORD_3": "tours",
+    "BUZZWORD_4": "summer",
+    "BUZZWORD_5": "beginning"
+  },
+  {
+    "KEYWORD": "Out of State",
+    "BUZZWORD_1": "Florida",
+    "BUZZWORD_2": "Not From",
+    "BUZZWORD_3": "Live",
+    "BUZZWORD_4": "Far",
+    "BUZZWORD_5": "Tuition"
+  },
+  {
+    "KEYWORD": "Paddyfote",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "p-fote soldier",
+    "BUZZWORD_3": "Pavillion",
+    "BUZZWORD_4": "lockout",
+    "BUZZWORD_5": "RA"
+  },
+  {
+    "KEYWORD": "Pam Oliver",
+    "BUZZWORD_1": "Reporter",
+    "BUZZWORD_2": "Football",
+    "BUZZWORD_3": "Hair",
+    "BUZZWORD_4": "Wig",
+    "BUZZWORD_5": "Sideline"
+  },
+  {
+    "KEYWORD": "Paper",
+    "BUZZWORD_1": "Greek",
+    "BUZZWORD_2": "Notepad",
+    "BUZZWORD_3": "Writing",
+    "BUZZWORD_4": "Pen",
+    "BUZZWORD_5": "Pad"
+  },
+  {
+    "KEYWORD": "Part-time",
+    "BUZZWORD_1": "Full",
+    "BUZZWORD_2": "Half",
+    "BUZZWORD_3": "Only",
+    "BUZZWORD_4": "Hours",
+    "BUZZWORD_5": "Few"
+  },
+  {
+    "KEYWORD": "Pass/Fail",
+    "BUZZWORD_1": "Earn",
+    "BUZZWORD_2": "Grade",
+    "BUZZWORD_3": "Satisfactory",
+    "BUZZWORD_4": "F",
+    "BUZZWORD_5": "Transcript"
+  },
+  {
+    "KEYWORD": "Pearl",
+    "BUZZWORD_1": "Pretty Girls",
+    "BUZZWORD_2": "Line",
+    "BUZZWORD_3": "Sorority",
+    "BUZZWORD_4": "Necklace",
+    "BUZZWORD_5": "White"
+  },
+  {
+    "KEYWORD": "pep rally",
+    "BUZZWORD_1": "Game",
+    "BUZZWORD_2": "Celebrate",
+    "BUZZWORD_3": "School",
+    "BUZZWORD_4": "Cheer",
+    "BUZZWORD_5": "Hype"
+  },
+  {
+    "KEYWORD": "Perry Street",
+    "BUZZWORD_1": "Tallahassee",
+    "BUZZWORD_2": "Houses",
+    "BUZZWORD_3": "Drive",
+    "BUZZWORD_4": "Ride",
+    "BUZZWORD_5": "Here"
+  },
+  {
+    "KEYWORD": "Personal Statement",
+    "BUZZWORD_1": "Essay",
+    "BUZZWORD_2": "Write",
+    "BUZZWORD_3": "You",
+    "BUZZWORD_4": "Life",
+    "BUZZWORD_5": "About"
+  },
+  {
+    "KEYWORD": "Pharmacy",
+    "BUZZWORD_1": "Graduate",
+    "BUZZWORD_2": "PHARMD",
+    "BUZZWORD_3": "rotation",
+    "BUZZWORD_4": "money",
+    "BUZZWORD_5": "6 years"
+  },
+  {
+    "KEYWORD": "Photographer",
+    "BUZZWORD_1": "Club",
+    "BUZZWORD_2": "Event",
+    "BUZZWORD_3": "Party",
+    "BUZZWORD_4": "Hustle",
+    "BUZZWORD_5": "Graduation"
+  },
+  {
+    "KEYWORD": "Pinning",
+    "BUZZWORD_1": "accomplishment",
+    "BUZZWORD_2": "ceremony",
+    "BUZZWORD_3": "schools",
+    "BUZZWORD_4": "awards",
+    "BUZZWORD_5": "celebrate"
+  },
+  {
+    "KEYWORD": "Pizza",
+    "BUZZWORD_1": "Food",
+    "BUZZWORD_2": "Italian",
+    "BUZZWORD_3": "Pepperoni",
+    "BUZZWORD_4": "Sausage",
+    "BUZZWORD_5": "Cheese"
+  },
+  {
+    "KEYWORD": "Chicago Club",
+    "BUZZWORD_1": 773,
+    "BUZZWORD_2": "Snow",
+    "BUZZWORD_3": "Cold",
+    "BUZZWORD_4": "Illinois",
+    "BUZZWORD_5": "Obama"
+  },
+  {
+    "KEYWORD": "Pledging",
+    "BUZZWORD_1": "hazing",
+    "BUZZWORD_2": "cut",
+    "BUZZWORD_3": "sandz",
+    "BUZZWORD_4": "process",
+    "BUZZWORD_5": "probates"
+  },
+  {
+    "KEYWORD": "Pool Party",
+    "BUZZWORD_1": "No swimming",
+    "BUZZWORD_2": "Water",
+    "BUZZWORD_3": "Swim Suit",
+    "BUZZWORD_4": "Shorts",
+    "BUZZWORD_5": "DJ"
+  },
+  {
+    "KEYWORD": "Pregame",
+    "BUZZWORD_1": "Meet",
+    "BUZZWORD_2": "Before",
+    "BUZZWORD_3": "Drink",
+    "BUZZWORD_4": "Football",
+    "BUZZWORD_5": "Party"
+  },
+  {
+    "KEYWORD": "Prerequisite",
+    "BUZZWORD_1": "Before",
+    "BUZZWORD_2": "Credentials",
+    "BUZZWORD_3": "Earn",
+    "BUZZWORD_4": "Work",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "Pride",
+    "BUZZWORD_1": "Lion",
+    "BUZZWORD_2": "Feeling",
+    "BUZZWORD_3": "Yourself",
+    "BUZZWORD_4": "Self Esteem",
+    "BUZZWORD_5": "Good"
+  },
+  {
+    "KEYWORD": "Probate",
+    "BUZZWORD_1": "Greeks",
+    "BUZZWORD_2": "Show",
+    "BUZZWORD_3": "Presentation",
+    "BUZZWORD_4": "Unveil",
+    "BUZZWORD_5": "Line"
+  },
+  {
+    "KEYWORD": "Probation",
+    "BUZZWORD_1": "Academic",
+    "BUZZWORD_2": "GPA",
+    "BUZZWORD_3": "Minimum",
+    "BUZZWORD_4": "Jail",
+    "BUZZWORD_5": "Required"
+  },
+  {
+    "KEYWORD": "Professor",
+    "BUZZWORD_1": "Grades",
+    "BUZZWORD_2": "Teacher",
+    "BUZZWORD_3": "Lesson",
+    "BUZZWORD_4": "Class",
+    "BUZZWORD_5": "Course"
+  },
+  {
+    "KEYWORD": "Promoter",
+    "BUZZWORD_1": "Club",
+    "BUZZWORD_2": "Party",
+    "BUZZWORD_3": "Flyer",
+    "BUZZWORD_4": "Event",
+    "BUZZWORD_5": "Money"
+  },
+  {
+    "KEYWORD": "Prophyte",
+    "BUZZWORD_1": "Neo",
+    "BUZZWORD_2": "Greek",
+    "BUZZWORD_3": "Line",
+    "BUZZWORD_4": "Before",
+    "BUZZWORD_5": "Cross"
+  },
+  {
+    "KEYWORD": "Protest",
+    "BUZZWORD_1": "Capital",
+    "BUZZWORD_2": "March",
+    "BUZZWORD_3": "Woke",
+    "BUZZWORD_4": "Signs",
+    "BUZZWORD_5": "Petition"
+  },
+  {
+    "KEYWORD": "Publix",
+    "BUZZWORD_1": "Sub",
+    "BUZZWORD_2": "Wings",
+    "BUZZWORD_3": "Food",
+    "BUZZWORD_4": "Groceries",
+    "BUZZWORD_5": "Chicken"
+  },
+  {
+    "KEYWORD": "Queen",
+    "BUZZWORD_1": "King",
+    "BUZZWORD_2": "Crown",
+    "BUZZWORD_3": "Court",
+    "BUZZWORD_4": "Royal",
+    "BUZZWORD_5": "Representative"
+  },
+  {
+    "KEYWORD": "Rattler",
+    "BUZZWORD_1": "Famu",
+    "BUZZWORD_2": "den",
+    "BUZZWORD_3": "edge",
+    "BUZZWORD_4": "country",
+    "BUZZWORD_5": "pride"
+  },
+  {
+    "KEYWORD": "Rattler Card",
+    "BUZZWORD_1": "Picture",
+    "BUZZWORD_2": "Id",
+    "BUZZWORD_3": "The Caf'",
+    "BUZZWORD_4": "Identification",
+    "BUZZWORD_5": "Photo"
+  },
+  {
+    "KEYWORD": "Reading",
+    "BUZZWORD_1": "Book",
+    "BUZZWORD_2": "Writing",
+    "BUZZWORD_3": "Rainbow",
+    "BUZZWORD_4": "Pages",
+    "BUZZWORD_5": "Words"
+  },
+  {
+    "KEYWORD": "Rec Center",
+    "BUZZWORD_1": "Gym",
+    "BUZZWORD_2": "Workout",
+    "BUZZWORD_3": "posting-up",
+    "BUZZWORD_4": "cycle class",
+    "BUZZWORD_5": "fitness"
+  },
+  {
+    "KEYWORD": "Recommendation",
+    "BUZZWORD_1": "Referral",
+    "BUZZWORD_2": "Mentor",
+    "BUZZWORD_3": "Need",
+    "BUZZWORD_4": "Apply",
+    "BUZZWORD_5": "Job"
+  },
+  {
+    "KEYWORD": "Recreation Field",
+    "BUZZWORD_1": "Sports",
+    "BUZZWORD_2": "Outside ",
+    "BUZZWORD_3": "Grass",
+    "BUZZWORD_4": "Play",
+    "BUZZWORD_5": "Game"
+  },
+  {
+    "KEYWORD": "Refund",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Give Back",
+    "BUZZWORD_3": "Ask",
+    "BUZZWORD_4": "Send",
+    "BUZZWORD_5": "Account"
+  },
+  {
+    "KEYWORD": "Register",
+    "BUZZWORD_1": "Class",
+    "BUZZWORD_2": "Sign Up",
+    "BUZZWORD_3": "Apply",
+    "BUZZWORD_4": "Get In",
+    "BUZZWORD_5": "Submit"
+  },
+  {
+    "KEYWORD": "Research",
+    "BUZZWORD_1": "Study",
+    "BUZZWORD_2": "Inform",
+    "BUZZWORD_3": "Know",
+    "BUZZWORD_4": "Learn",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Car Show",
+    "BUZZWORD_1": "Fair Grounds",
+    "BUZZWORD_2": "Dunk",
+    "BUZZWORD_3": "Box Chevy",
+    "BUZZWORD_4": "Candy Paint",
+    "BUZZWORD_5": "Rims"
+  },
+  {
+    "KEYWORD": "Resident Assistant",
+    "BUZZWORD_1": "Housing",
+    "BUZZWORD_2": "Dorm",
+    "BUZZWORD_3": "Upperclassman",
+    "BUZZWORD_4": "Student",
+    "BUZZWORD_5": "Live"
+  },
+  {
+    "KEYWORD": "Rico Love",
+    "BUZZWORD_1": "Rapper",
+    "BUZZWORD_2": "Music",
+    "BUZZWORD_3": "Writer",
+    "BUZZWORD_4": "Songs",
+    "BUZZWORD_5": "Radio"
+  },
+  {
+    "KEYWORD": "Ridge Rd.",
+    "BUZZWORD_1": "Tallahassee",
+    "BUZZWORD_2": "T-pain",
+    "BUZZWORD_3": "Ride",
+    "BUZZWORD_4": "Drive",
+    "BUZZWORD_5": "Campus"
+  },
+  {
+    "KEYWORD": "Rival",
+    "BUZZWORD_1": "BCC",
+    "BUZZWORD_2": "Bethune",
+    "BUZZWORD_3": "Wildcats",
+    "BUZZWORD_4": "Competition",
+    "BUZZWORD_5": "Against"
+  },
+  {
+    "KEYWORD": "Rob Hardy",
+    "BUZZWORD_1": "Director",
+    "BUZZWORD_2": "Films",
+    "BUZZWORD_3": "Rainforest",
+    "BUZZWORD_4": "Alpha",
+    "BUZZWORD_5": "Movies"
+  },
+  {
+    "KEYWORD": "ROTC",
+    "BUZZWORD_1": "training",
+    "BUZZWORD_2": "cadet",
+    "BUZZWORD_3": "battallion",
+    "BUZZWORD_4": "honor",
+    "BUZZWORD_5": "military"
+  },
+  {
+    "KEYWORD": "Prayer",
+    "BUZZWORD_1": "Circle",
+    "BUZZWORD_2": "God",
+    "BUZZWORD_3": "Jesus",
+    "BUZZWORD_4": "Talk",
+    "BUZZWORD_5": "Knees"
+  },
+  {
+    "KEYWORD": "Roy Wood Jr. ",
+    "BUZZWORD_1": "Comedian",
+    "BUZZWORD_2": "Radio",
+    "BUZZWORD_3": "Funny",
+    "BUZZWORD_4": "Jokes",
+    "BUZZWORD_5": "Laughs"
+  },
+  {
+    "KEYWORD": "Royal Court",
+    "BUZZWORD_1": "Miss FAMU",
+    "BUZZWORD_2": "Mr. FAMU",
+    "BUZZWORD_3": "king of",
+    "BUZZWORD_4": "queen of",
+    "BUZZWORD_5": "orange and green"
+  },
+  {
+    "KEYWORD": "Sampson",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Dormmate",
+    "BUZZWORD_4": "RA",
+    "BUZZWORD_5": "Twin beds"
+  },
+  {
+    "KEYWORD": "SBI",
+    "BUZZWORD_1": "mobley",
+    "BUZZWORD_2": "business",
+    "BUZZWORD_3": "suits ",
+    "BUZZWORD_4": "professional",
+    "BUZZWORD_5": "internships"
+  },
+  {
+    "KEYWORD": "Scholar",
+    "BUZZWORD_1": "Excellence",
+    "BUZZWORD_2": "Studies",
+    "BUZZWORD_3": "Exceptional",
+    "BUZZWORD_4": "List",
+    "BUZZWORD_5": "Academic"
+  },
+  {
+    "KEYWORD": "Scholarship",
+    "BUZZWORD_1": "Grant",
+    "BUZZWORD_2": "Award",
+    "BUZZWORD_3": "Free",
+    "BUZZWORD_4": "Money",
+    "BUZZWORD_5": "Assistance"
+  },
+  {
+    "KEYWORD": "Diamonds",
+    "BUZZWORD_1": "Dancer",
+    "BUZZWORD_2": "Band",
+    "BUZZWORD_3": "Football",
+    "BUZZWORD_4": "Game",
+    "BUZZWORD_5": "Sequin"
+  },
+  {
+    "KEYWORD": "Mission",
+    "BUZZWORD_1": "Purpose",
+    "BUZZWORD_2": "Focus",
+    "BUZZWORD_3": "Initiative",
+    "BUZZWORD_4": "Reason",
+    "BUZZWORD_5": "Goal"
+  },
+  {
+    "KEYWORD": "Dance Troupe",
+    "BUZZWORD_1": "Torque",
+    "BUZZWORD_2": "Elite",
+    "BUZZWORD_3": "Divas",
+    "BUZZWORD_4": "H20",
+    "BUZZWORD_5": "Mahogany"
+  },
+  {
+    "KEYWORD": "Score",
+    "BUZZWORD_1": "Game",
+    "BUZZWORD_2": "Football",
+    "BUZZWORD_3": "Basketball",
+    "BUZZWORD_4": "Points",
+    "BUZZWORD_5": "Earn"
+  },
+  {
+    "KEYWORD": "Semester",
+    "BUZZWORD_1": "Fall",
+    "BUZZWORD_2": "Spring",
+    "BUZZWORD_3": "Summer",
+    "BUZZWORD_4": "Time",
+    "BUZZWORD_5": "Sessions"
+  },
+  {
+    "KEYWORD": "Senior",
+    "BUZZWORD_1": "Last Year",
+    "BUZZWORD_2": "Tired ",
+    "BUZZWORD_3": "Itis ",
+    "BUZZWORD_4": "Cap&Gown ",
+    "BUZZWORD_5": "Junior"
+  },
+  {
+    "KEYWORD": "Senioritis",
+    "BUZZWORD_1": "Last Year",
+    "BUZZWORD_2": "Skip",
+    "BUZZWORD_3": "Eat",
+    "BUZZWORD_4": "Sleepy",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "SGA",
+    "BUZZWORD_1": "senator",
+    "BUZZWORD_2": "president",
+    "BUZZWORD_3": "vice president",
+    "BUZZWORD_4": "elections",
+    "BUZZWORD_5": "commissioner"
+  },
+  {
+    "KEYWORD": "Shades",
+    "BUZZWORD_1": "Stunna",
+    "BUZZWORD_2": "Glasses",
+    "BUZZWORD_3": "Eyes",
+    "BUZZWORD_4": "Inside",
+    "BUZZWORD_5": "Sun"
+  },
+  {
+    "KEYWORD": "Shots",
+    "BUZZWORD_1": "Drinks",
+    "BUZZWORD_2": "Liquor",
+    "BUZZWORD_3": "Cheers",
+    "BUZZWORD_4": "Celebrate",
+    "BUZZWORD_5": "Drunk"
+  },
+  {
+    "KEYWORD": "Side Hustle",
+    "BUZZWORD_1": "Hair",
+    "BUZZWORD_2": "Braids",
+    "BUZZWORD_3": "Sell",
+    "BUZZWORD_4": "Make",
+    "BUZZWORD_5": "Money"
+  },
+  {
+    "KEYWORD": "Sophmore",
+    "BUZZWORD_1": "Year",
+    "BUZZWORD_2": "Second",
+    "BUZZWORD_3": "Freshman",
+    "BUZZWORD_4": "Electives",
+    "BUZZWORD_5": "Pre-reqs"
+  },
+  {
+    "KEYWORD": "Soultrain",
+    "BUZZWORD_1": "snacks",
+    "BUZZWORD_2": "line",
+    "BUZZWORD_3": "dance",
+    "BUZZWORD_4": "vendor",
+    "BUZZWORD_5": "old"
+  },
+  {
+    "KEYWORD": "Stadium",
+    "BUZZWORD_1": "Football",
+    "BUZZWORD_2": "Game",
+    "BUZZWORD_3": "Fans",
+    "BUZZWORD_4": "Cheer",
+    "BUZZWORD_5": "Band"
+  },
+  {
+    "KEYWORD": "Step Show",
+    "BUZZWORD_1": "Greeks",
+    "BUZZWORD_2": "Competition",
+    "BUZZWORD_3": "Homecoming",
+    "BUZZWORD_4": "Freshman",
+    "BUZZWORD_5": "Stomp"
+  },
+  {
+    "KEYWORD": "Strike",
+    "BUZZWORD_1": "charge",
+    "BUZZWORD_2": "rattler",
+    "BUZZWORD_3": "venom",
+    "BUZZWORD_4": "Ssssss",
+    "BUZZWORD_5": "Snake"
+  },
+  {
+    "KEYWORD": "Strikers",
+    "BUZZWORD_1": "Dancing",
+    "BUZZWORD_2": "Boys of Poison",
+    "BUZZWORD_3": "Stick",
+    "BUZZWORD_4": "All Stars",
+    "BUZZWORD_5": "Girls"
+  },
+  {
+    "KEYWORD": "Stroll",
+    "BUZZWORD_1": "line",
+    "BUZZWORD_2": "dance",
+    "BUZZWORD_3": "frat ",
+    "BUZZWORD_4": "soror",
+    "BUZZWORD_5": "greek"
+  },
+  {
+    "KEYWORD": "Student",
+    "BUZZWORD_1": "School",
+    "BUZZWORD_2": "Enroll",
+    "BUZZWORD_3": "Learn",
+    "BUZZWORD_4": "Test",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "Study Group",
+    "BUZZWORD_1": "Test",
+    "BUZZWORD_2": "Project",
+    "BUZZWORD_3": "Prepare",
+    "BUZZWORD_4": "Learn",
+    "BUZZWORD_5": "Help"
+  },
+  {
+    "KEYWORD": "Success",
+    "BUZZWORD_1": "Excellence",
+    "BUZZWORD_2": "Succeed",
+    "BUZZWORD_3": "Higher",
+    "BUZZWORD_4": "Strive",
+    "BUZZWORD_5": "Better"
+  },
+  {
+    "KEYWORD": "Swag Surf",
+    "BUZZWORD_1": "Side ",
+    "BUZZWORD_2": "Celebrate",
+    "BUZZWORD_3": "Dance",
+    "BUZZWORD_4": "Clean Like",
+    "BUZZWORD_5": "Polo"
+  },
+  {
+    "KEYWORD": "Syllabus",
+    "BUZZWORD_1": "Schedule",
+    "BUZZWORD_2": "Curriculum",
+    "BUZZWORD_3": "Outline",
+    "BUZZWORD_4": "Info",
+    "BUZZWORD_5": "Class"
+  },
+  {
+    "KEYWORD": "T-Pain",
+    "BUZZWORD_1": "ridge road",
+    "BUZZWORD_2": "rapper",
+    "BUZZWORD_3": "rappa ternt",
+    "BUZZWORD_4": "singer",
+    "BUZZWORD_5": "auto-tune"
+  },
+  {
+    "KEYWORD": "T'Keyah Crystal Keymah",
+    "BUZZWORD_1": "Actress",
+    "BUZZWORD_2": "In Living Color",
+    "BUZZWORD_3": "Comedian",
+    "BUZZWORD_4": "So Raven",
+    "BUZZWORD_5": "Cosby"
+  },
+  {
+    "KEYWORD": "Tailgate",
+    "BUZZWORD_1": "BBQ",
+    "BUZZWORD_2": "Game",
+    "BUZZWORD_3": "Stadium",
+    "BUZZWORD_4": "Cookout",
+    "BUZZWORD_5": "Vendors"
+  },
+  {
+    "KEYWORD": "Tall Tee",
+    "BUZZWORD_1": "White",
+    "BUZZWORD_2": "Long",
+    "BUZZWORD_3": "Outfit",
+    "BUZZWORD_4": "Jeans",
+    "BUZZWORD_5": "Yup"
+  },
+  {
+    "KEYWORD": "Tallahassee",
+    "BUZZWORD_1": 850,
+    "BUZZWORD_2": "leon county",
+    "BUZZWORD_3": "pan-handle",
+    "BUZZWORD_4": "college town",
+    "BUZZWORD_5": "capitol"
+  },
+  {
+    "KEYWORD": "Teacher Assistant",
+    "BUZZWORD_1": "Help",
+    "BUZZWORD_2": "Professor",
+    "BUZZWORD_3": "Class",
+    "BUZZWORD_4": "Support",
+    "BUZZWORD_5": "Student"
+  },
+  {
+    "KEYWORD": "Tennessee",
+    "BUZZWORD_1": "bullwinkles",
+    "BUZZWORD_2": "floyds",
+    "BUZZWORD_3": "main road",
+    "BUZZWORD_4": "strip",
+    "BUZZWORD_5": "drive"
+  },
+  {
+    "KEYWORD": "Term",
+    "BUZZWORD_1": "Semester",
+    "BUZZWORD_2": "Time",
+    "BUZZWORD_3": "Session",
+    "BUZZWORD_4": "Period",
+    "BUZZWORD_5": "Paper"
+  },
+  {
+    "KEYWORD": "Textbook",
+    "BUZZWORD_1": "Read",
+    "BUZZWORD_2": "Class",
+    "BUZZWORD_3": "Expensive",
+    "BUZZWORD_4": "Heavy",
+    "BUZZWORD_5": "Borrow"
+  },
+  {
+    "KEYWORD": "The Blacktop",
+    "BUZZWORD_1": "Gore",
+    "BUZZWORD_2": "Complex",
+    "BUZZWORD_3": "Building",
+    "BUZZWORD_4": "Education",
+    "BUZZWORD_5": "College"
+  },
+  {
+    "KEYWORD": "The Hill",
+    "BUZZWORD_1": "famu",
+    "BUZZWORD_2": "highest of ",
+    "BUZZWORD_3": "school",
+    "BUZZWORD_4": "seven",
+    "BUZZWORD_5": "tv show"
+  },
+  {
+    "KEYWORD": "The Moon",
+    "BUZZWORD_1": "party",
+    "BUZZWORD_2": "Saturday",
+    "BUZZWORD_3": "club",
+    "BUZZWORD_4": "country",
+    "BUZZWORD_5": "big"
+  },
+  {
+    "KEYWORD": "The Set",
+    "BUZZWORD_1": "Friday",
+    "BUZZWORD_2": "Outside ",
+    "BUZZWORD_3": "vendors",
+    "BUZZWORD_4": "strolling",
+    "BUZZWORD_5": "DJ"
+  },
+  {
+    "KEYWORD": "Thomas DeSaille Tucker",
+    "BUZZWORD_1": "Hall",
+    "BUZZWORD_2": "President",
+    "BUZZWORD_3": "law",
+    "BUZZWORD_4": "criminal justice",
+    "BUZZWORD_5": "First"
+  },
+  {
+    "KEYWORD": "Top Flight",
+    "BUZZWORD_1": "Old Timers",
+    "BUZZWORD_2": "Drinks",
+    "BUZZWORD_3": "Karaoke",
+    "BUZZWORD_4": "Club",
+    "BUZZWORD_5": "Bar"
+  },
+  {
+    "KEYWORD": "Transcript",
+    "BUZZWORD_1": "Record",
+    "BUZZWORD_2": "Grades",
+    "BUZZWORD_3": "GPA",
+    "BUZZWORD_4": "Request",
+    "BUZZWORD_5": "Send"
+  },
+  {
+    "KEYWORD": "TRiO",
+    "BUZZWORD_1": "Programs",
+    "BUZZWORD_2": "First Generation",
+    "BUZZWORD_3": "Tutors",
+    "BUZZWORD_4": "Help",
+    "BUZZWORD_5": "College"
+  },
+  {
+    "KEYWORD": "Truth",
+    "BUZZWORD_1": "Cramped",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Dorm ",
+    "BUZZWORD_4": "Twin beds",
+    "BUZZWORD_5": "Dorm"
+  },
+  {
+    "KEYWORD": "Tucker Hall",
+    "BUZZWORD_1": "College",
+    "BUZZWORD_2": "Arts",
+    "BUZZWORD_3": "Humanities",
+    "BUZZWORD_4": "Social",
+    "BUZZWORD_5": "Theatre"
+  },
+  {
+    "KEYWORD": "Tuition",
+    "BUZZWORD_1": "Money",
+    "BUZZWORD_2": "Paid",
+    "BUZZWORD_3": "Credit Hour",
+    "BUZZWORD_4": "Enrollment",
+    "BUZZWORD_5": "Cost"
+  },
+  {
+    "KEYWORD": "Tutor",
+    "BUZZWORD_1": "Study",
+    "BUZZWORD_2": "Educator",
+    "BUZZWORD_3": "Help",
+    "BUZZWORD_4": "Instruct",
+    "BUZZWORD_5": "Grades"
+  },
+  {
+    "KEYWORD": "Tyrese",
+    "BUZZWORD_1": "Shayla",
+    "BUZZWORD_2": "Cry",
+    "BUZZWORD_3": "Fast & Furious",
+    "BUZZWORD_4": "Singer",
+    "BUZZWORD_5": "Capricorn"
+  },
+  {
+    "KEYWORD": "Unity",
+    "BUZZWORD_1": "Come Together",
+    "BUZZWORD_2": "People",
+    "BUZZWORD_3": "One",
+    "BUZZWORD_4": "Uplift",
+    "BUZZWORD_5": "Aligned"
+  },
+  {
+    "KEYWORD": "Venom",
+    "BUZZWORD_1": "Mascot",
+    "BUZZWORD_2": "Snake",
+    "BUZZWORD_3": "Rattler",
+    "BUZZWORD_4": "Strike",
+    "BUZZWORD_5": "Hiss"
+  },
+  {
+    "KEYWORD": "Village",
+    "BUZZWORD_1": "Residence",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Gamble",
+    "BUZZWORD_4": "Stadium",
+    "BUZZWORD_5": "Live"
+  },
+  {
+    "KEYWORD": "Wahnish Way",
+    "BUZZWORD_1": "Street",
+    "BUZZWORD_2": "FAMU",
+    "BUZZWORD_3": "Campus",
+    "BUZZWORD_4": "Capital",
+    "BUZZWORD_5": "Tallahassee"
+  },
+  {
+    "KEYWORD": "Walk of Shame",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Morning",
+    "BUZZWORD_3": "Party",
+    "BUZZWORD_4": "Clothes",
+    "BUZZWORD_5": "Night"
+  },
+  {
+    "KEYWORD": "WAMN 90.5",
+    "BUZZWORD_1": "Radio",
+    "BUZZWORD_2": "DJ",
+    "BUZZWORD_3": "Host",
+    "BUZZWORD_4": "Car",
+    "BUZZWORD_5": "Annoucer"
+  },
+  {
+    "KEYWORD": "Welcome Week",
+    "BUZZWORD_1": "Orientation leaders",
+    "BUZZWORD_2": "Village",
+    "BUZZWORD_3": "Parents",
+    "BUZZWORD_4": "Freshman",
+    "BUZZWORD_5": "Campus"
+  },
+  {
+    "KEYWORD": "Brunch",
+    "BUZZWORD_1": "Mimosas",
+    "BUZZWORD_2": "Turn up",
+    "BUZZWORD_3": "Breakfast",
+    "BUZZWORD_4": "Lunch",
+    "BUZZWORD_5": "Day Party"
+  },
+  {
+    "KEYWORD": "Will Packer",
+    "BUZZWORD_1": "Rainforest",
+    "BUZZWORD_2": "Producer",
+    "BUZZWORD_3": "Stomp the Yard",
+    "BUZZWORD_4": "Films",
+    "BUZZWORD_5": "Movies"
+  },
+  {
+    "KEYWORD": "Woke",
+    "BUZZWORD_1": "Hotep",
+    "BUZZWORD_2": "Twitter fingers",
+    "BUZZWORD_3": "Knowledge ",
+    "BUZZWORD_4": "Aware",
+    "BUZZWORD_5": "Conscious"
+  },
+  {
+    "KEYWORD": "Work-Study",
+    "BUZZWORD_1": "Program",
+    "BUZZWORD_2": "Job",
+    "BUZZWORD_3": "Paid",
+    "BUZZWORD_4": "School",
+    "BUZZWORD_5": "Part-Time"
+  },
+  {
+    "KEYWORD": "Yard",
+    "BUZZWORD_1": "Stomp",
+    "BUZZWORD_2": "Campus",
+    "BUZZWORD_3": "Fraternity",
+    "BUZZWORD_4": "Set",
+    "BUZZWORD_5": "Run"
+  },
+  {
+    "KEYWORD": "Young",
+    "BUZZWORD_1": "Dorm",
+    "BUZZWORD_2": "Housing",
+    "BUZZWORD_3": "Cramped",
+    "BUZZWORD_4": "Loud",
+    "BUZZWORD_5": "privacy"
+  }
+]
